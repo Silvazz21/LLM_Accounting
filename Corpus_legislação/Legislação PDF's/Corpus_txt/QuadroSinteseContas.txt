@@ -1,0 +1,141 @@
+4958 Diário da República, 1.ª série — N.º 142 — 23 de julho de 2015
+MINISTÉRIO DAS FINANÇAS
+Portaria n.º 218/2015
+de 23 de julho
+Na sequência da publicação do Decreto -Lei n.º 98/2015, 
+de 2 de junho, que transpôs a Diretiva 2013/34/UE do Par-
+lamento Europeu e do Conselho, de 26 de junho de 2013, os 
+Decretos -Leis n.os 158/2009, de 13 de julho, e 36 -A/2011,
+de 9 de março, foram objeto de alterações substanciais, 
+tendo ainda sido integrados no Decreto -Lei n.º 158/2009, 
+de 13 de julho, os normativos aplicáveis às entidades do setor não lucrativo e às microentidades.
+Tais alterações implicam a republicação do Código de 
+Contas. Este instrumento contabilístico, embora inserido 
+no contexto do SNC e de aplicação obrigatória para as 
+entidades a ele sujeitas, poderá, também, ser utilizado 
+pelas entidades que, nos termos do artigo 4.º do Decreto-
+-Lei n.º 158/2009, de 13 de julho, apliquem as Normas 
+Internacionais de Contabilidade.
+Assim:Manda o Governo, pelo Secretário de Estado dos As-
+suntos Fiscais, ao abrigo do disposto no n.º 4.1 do Anexoao Decreto -Lei n.º 158/2009, de 13 de julho, com a reda-ção dada pelo Decreto -Lei n.º 98/2015, de 2 de junho, o 
+seguinte:
+Artigo 1.º
+É aprovado o Código de Contas, que se publica em 
+anexo à presente portaria, dela fazendo parte integrante, 
+constituído pelas seguintes componentes:
+1) Quadro Síntese de Contas;
+2) Código de Contas; e3) Notas de Enquadramento.
+Artigo 2.º
+O Código de Contas referido no artigo anterior iden-
+tifica as contas e respetivas notas de enquadramento de 
+aplicação específica para todas as entidades sujeitas ao 
+SNC, incluindo as entidades do setor não lucrativo e as 
+microentidades.
+Artigo 3.º
+São revogadas as Portarias n.os 1011/2009, de 9 de se-
+tembro, 106/2011, de 14 de março, e 107/2011, de 14 de março.
+Artigo 4.º
+O disposto na presente portaria é aplicável aos períodos 
+que se iniciem em ou após 1 de janeiro de 2016.
+O Secretário de Estado dos Assuntos Fiscais, Paulo de 
+Faria Lince Núncio, em 16 de julho de 2015. 
+1—Quadro Síntese de Contas 
+1 MEIOS FINANCEIROS LÍQUIDOS 2 CONTAS A RECEBER E A PAGAR
+11 Caixa 21 Clientes
+12 Depósitos à ordem13 Outros depósitos bancários 21 Clientes e utentes (para as
+ESNL)
+14 Outros instrumentos financeiros 22 Fornecedores
+14 Outros (para as ME) 23 PessoalDiário da República, 1.ª série — N.º 142 — 23 de julho de 2015  4959
+1 MEIOS FINANCEIROS LÍQUIDOS 2 CONTAS A RECEBER E A PAGAR
+24 Estado e outros entes públicos
+25 Financiamentos obtidos26 Acionistas/sócios
+26 Fundadores/patrocinadores/
+doadores/associados/membros(para as ESNL)
+27 Outras contas a receber e a 
+pagar
+28 Diferimentos29 Provisões
+3 INVENTÁRIOS E ATIVOS 
+BIOLÓGICOS * 
+ou INVENTÁRIOS (para as ME)4 INVESTIMENTOS
+31 Compras 41 Investimentos financeiros
+32 Mercadorias 42 Propriedades de investimento
+33 Matérias -primas, subsidiárias e 
+de consumo42 … (para as ME)
+43 Ativos fixos tangíveis44 Ativos intangíveis45 Investimentos em curso34 Produtos acabados e intermé-
+dios
+35 Subprodutos, desperdícios, re-
+síduos e refugos
+36 Produtos e trabalhos em curso46 Ativos não correntes detidos 
+para venda (conta inexistente 
+para as ME)
+37 Ativos biológicos (conta ine-
+xistente para as ME)
+38 Reclassificação e regularização 
+de inventários e ativos biológi-
+cos
+38 Reclassificação e regularização 
+de inventários (para as ME)
+39 Adiantamentos por conta de 
+compras
+5 CAPITAL, RESERV AS E RESULTADOS 
+TRANSITADOS ou FUNDOS
+PATRIMONIAIS (para as ESNL)6 GASTOS
+51 Capital subscrito
+51 Fundos (para as ESNL)61 Custo das mercadorias vendidas 
+e das matérias consumidas7 RENDIMENTOS 8 RESULTADOS
+71 Vendas 81 Resultado líquido do período
+72 Prestações de serviços … …
+73 Variações nos inventários da 
+produção89 Dividendos antecipados
+74 Trabalhos para a própria enti-
+dade
+75 Subsídios à exploração75 Subsídios, doações e legados à 
+exploração (para as ESNL)76 Reversões
+77 Ganhos por aumentos de justo 
+valor (conta inexistente para 
+as ME)78 Outros rendimentos e ganhos
+79 Juros e outros rendimentos si-
+milares
+2 — Código de Contas 5 CAPITAL, RESERV AS E RESULTADOS 
+TRANSITADOS ou FUNDOS
+PATRIMONIAIS (para as ESNL)6 GASTOS
+52 Ações (quotas) próprias
+52 Excedentes técnicos (para as 
+ESNL)62 Fornecimentos e serviços ex-
+ternos
+63 Gastos com o pessoal
+53 Outros instrumentos de capital 
+próprio64 Gastos de depreciação e de 
+amortização
+54 Prémios de emissão 65 Perdas por imparidade55 Reservas56 Resultados transitados57 Ajustamentos em ativos finan-
+ceiros
+(conta inexistente para as ME)66 Perdas por reduções de justo 
+valor (conta inexistente para 
+as ME)
+67 Provisões do período68 Outros gastos e perdas
+58 Excedentes de revalorização 
+de ativos fixos tangíveis e in-
+tangíveis69 Gastos e perdas de financia-
+mento
+59 Outras variações no capital 
+próprio
+59 Outras variações nos fundos 
+patrimoniais (para as ESNL)
+BaseAjustamentos ao Código de Contas
+para as ESNLAjustamentos ao Código
+de Contas para as ME
+1 MEIOS FINANCEIROS LÍQUIDOS *
+11 Caixa 12 Depósitos à ordem
+13 Outros depósitos bancários
+14 Outros instrumentos financeiros * 14 Outros
+141 Derivados  - - - - - - -
+1411 Potencialmente favoráveis  - - - - - - -
+1412 Potencialmente desfavoráveis  - - - - - - -
+142 Instrumentos financeiros detidos para nego-
+ciação - - - - - - -
+1421 Ativos financeiros  - - - - - - -
+1422 Passivos financeiros  - - - - - - -
+143 Outros ativos e passivos financeiros  - - - - - - -
+1431 Outros ativos financeiros  - - - - - - -
+1432 Outros passivos financeiros  - - - - - - -
+2 CONTAS A RECEBER E A PAGAR *

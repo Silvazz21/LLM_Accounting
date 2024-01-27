@@ -1,0 +1,210 @@
+Norma Interpretativa 2
+Uso de Técnicas de Valor Presente para mensurar
+o Valor de Uso
+Componentes de uma mensuração pelo valor presente
+1 — Os seguintes elementos em conjunto captam as diferenças eco-
+nómicas entre ativos:
+a) Uma estimativa do fluxo de caixa futuro, ou, em casos mais com-
+plexos, da série de fluxos de caixa futuros que a entidade espera obter de um ativo;
+b) Expectativas acerca das variações possíveis na quantia ou tempes-
+tividade desses fluxos de caixa;
+c) O valor total do dinheiro, representado pela taxa corrente de juro 
+sem risco do mercado;
+d) O preço de suportar a incerteza inerente ao ativo; e
+e) Outros fatores (tais como a falta de liquidez), por vezes não identi-
+ficáveis, que os participantes do mercado refletiriam ao apreçar os fluxos 
+de caixa futuros que a entidade espera obter do ativo.
+2 — Esta Norma Interpretativa apresenta duas abordagens para cal-
+cular o valor presente, qualquer delas podendo ser usada para estimar o valor de uso de um ativo, dependendo das circunstâncias. Segundo a 
+abordagem “tradicional”, os ajustamentos nos fatores b) a e) descritos no 
+parágrafo 1 estão embutidos na taxa de desconto. Segundo a abordagem 
+do “fluxo de caixa esperado”, os fatores b), d), e e) causam ajustamentos 
+ao atingir fluxos de caixa esperados com risco ajustado. Qualquer que 
+seja a abordagem que uma entidade adote para refletir as expectativas 
+acerca das possíveis variações na quantia ou na tempestividade de fluxos 
+de caixa futuros, o resultado deve refletir o valor presente esperado dos 
+fluxos de caixa futuros, isto é, a média ponderada de todos os desfechos 
+possíveis.
+Princípios gerais
+3 — As técnicas usadas para estimar os fluxos de caixa futuros e 
+as taxas de juro variarão de uma situação para outra dependendo das 
+circunstâncias que rodeiam o ativo em questão. Contudo, os princípios 
+gerais seguintes regulam qualquer aplicação de técnicas de valor presente 
+na mensuração de ativos:
+a) As taxas de juro usadas para descontar fluxos de caixa devem refletir 
+pressupostos que sejam consistentes com os inerentes aos fluxos de 
+caixa estimados. Por exemplo, uma taxa de desconto de 12 % pode ser 
+aplicada a fluxos de caixa de um empréstimo a receber. Essa taxa reflete 
+as expectativas acerca de futuros incumprimentos de empréstimos com 
+caraterísticas particulares. Os mesmos 12 % não deveriam ser usados Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20861
+para descontar fluxos de caixa esperados porque esses fluxos de caixa 
+já refletem pressupostos acerca de futuros incumprimentos.
+b) Os fluxos de caixa e as taxas de desconto estimados devem estar 
+isentos tanto de preconceitos como de fatores não relacionados com o 
+ativo em questão. Por exemplo, uma subexpressão deliberada dos fluxos 
+de caixa líquidos estimados para melhorar a futura rendibilidade aparente 
+de um ativo introduz um preconceito na mensuração;
+c) Os fluxos de caixa ou a taxa de desconto estimados devem refletir a 
+variedade de possíveis desfechos de uma única quantia possível mínima 
+ou máxima mais provável.
+Abordagem tradicional e pelo fluxo de caixa esperado
+ao valor presente
+Abordagem tradicional
+4 — As indicações contabilísticas do valor presente têm tradicional-
+mente usado um único conjunto de fluxos de caixa estimados e uma única 
+taxa de desconto, muitas vezes descrita como a “taxa proporcional ao 
+risco”. Com efeito, a abordagem tradicional assume que uma convenção 
+única de taxa de desconto pode incorporar todas as expectativas acerca 
+de fluxos de caixa futuros e o prémio de risco apropriado. Assim sendo, 
+a abordagem tradicional coloca a maior parte da ênfase na escolha da 
+taxa de desconto.
+5 — Em algumas circunstâncias, tais como as que em ativos compa-
+ráveis possam ser observados no mercado, uma abordagem tradicional 
+é fácil de aplicar. Para ativos com fluxos de caixa contratuais, ela é 
+consistente com a forma como os participantes do mercado descrevem 
+os ativos, como em “uma obrigação a 12 %”.
+6 — Contudo, a abordagem tradicional pode não tratar apropria-
+damente de alguns problemas de mensuração complexos, tais como 
+a mensuração de ativos não financeiros para os quais não existe mer-cado para o item ou um item comparável. Uma busca correta da “taxa 
+proporcional ao risco” exige a análise de pelo menos dois itens: (i) um 
+ativo que exista no mercado e que tenha uma taxa de juro observada 
+e (ii) o ativo a mensurar. A taxa de desconto apropriada para os fluxos de caixa a mensurar deve ser inferida da taxa de juro observável nesse outro ativo. Para efetuar essa inferência, as características dos fluxos 
+de caixa do outro ativo devem ser semelhantes às do ativo a mensurar. Portanto, a entidade que mensura deve fazer o seguinte:
+a) Identificar o conjunto de fluxos de caixa que serão desconti-
+nuados;
+b) Identificar outro ativo no mercado que pareça ter fluxos de caixa 
+semelhantes;
+c) Comparar os conjuntos de fluxos de caixa dos dois itens para 
+assegurar que sejam semelhantes (por exemplo, são ambos conjuntos 
+de fluxos de caixa contratuais, ou um é contratual e o outro um fluxo de caixa estimado?);
+d) Avaliar se há um elemento num item que não esteja presente no 
+outro (por exemplo, um é menos líquido que o outro?); e
+e) Avaliar se é provável que os fluxos de caixa se comportam (isto é va-
+riem) de forma semelhante face a condições económicas em mutação.
+Abordagem pelo fluxo de caixa esperado
+7 — A abordagem pelo fluxo de caixa esperado é, em algumas 
+situações, uma ferramenta de mensuração mais eficaz do que a abor-
+dagem tradicional. Ao desenvolver uma mensuração, a abordagem 
+pelo fluxo de caixa esperado usa todas as expectativas possíveis acerca dos fluxos de caixa em vez do fluxo de caixa singular mais 
+provável. Por exemplo, um fluxo de caixa pode corresponder a 
+100 UM, 200 UM ou 300 UM com probabilidades de 10 %, 60 % e 30 %, respetivamente. O fluxo de caixa esperado é de 220 UM. A abordagem pelo fluxo de caixa esperado difere assim da abor-
+dagem tradicional ao focar a análise direta dos fluxos de caixa 
+em questão e em demonstrações mais explícitas dos pressupostos usados na mensuração.
+8 — A abordagem pelo fluxo de caixa esperado também permite o 
+uso de técnicas de valor presente quando a tempestividade dos fluxos de 
+caixa for incerta. Por exemplo, um fluxo de caixa de 1.000 UM pode ser 
+recebido num ano, dois anos ou três anos com probabilidade de 10 %, 60 % e 30 %, respetivamente. O exemplo abaixo mostra a computação do valor presente esperado para essa situação. 
+Valor presente de 1.000 UM em 1 ano a 5 %. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 952,38 UM
+Probabilidade . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 % 95,24 UM
+Valor presente de 1.000 UM em 2 anos a 5,25 %  . . . . . . . . . . . . . . . . . . . . . . . . . 902,73 UM
+Probabilidade . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60 % 541,64 UM
+Valor presente de 1.000 UM em 3 anos a 5,5 %  . . . . . . . . . . . . . . . . . . . . . . . . . . 851,61 UM
+Probabilidade . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30 % 255,48 UM
+Valor presente esperado . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 892,36 UM
+quantia são desconhecidas. Com base nessa informação limitada, o fluxo 
+de caixa estimado é de 133,33 UM [(50+100+250)/3];
+c) A quantia estimada será 50 UM (10 % de probabilidade), 250 UM 
+(30 % de probabilidade) ou 100 UM (60 % de probabilidade). Com 
+base nessa informação limitada, o fluxo de caixa esperado estimado é 
+de 140 UM [(50x0,10)+(250x0,30)+(100x0,60)].
+Em cada caso, é provável que o fluxo de caixa esperado estimado 
+proporcione uma melhor estimativa do valor de uso do que o mínimo, 
+o mais provável ou o máximo tomados individualmente.
+12 — A aplicação de uma abordagem pelo fluxo de caixa esperado 
+está sujeita a um constrangimento baseado na relação custos/benefícios. 
+Em alguns casos, uma entidade pode ter acesso a muitos dados que 
+podem ser capazes de desenvolver muitos cenários de fluxos de caixa. Noutros casos, uma entidade pode não ser capaz de desenvolver mais 
+do que demonstrações gerais acerca da variabilidade de fluxos de caixa 
+sem incorrer em custos substanciais. A entidade precisa de equilibrar o custo da obtenção de informação adicional face à fiabilidade adicional 
+que essa informação trará à mensuração.
+13 — Alguns defendem que as técnicas pelo fluxo de caixa esperado 
+não são apropriadas para mensurar um único item ou um item com um 
+número limitado de possíveis desfechos. Oferecem um exemplo de 
+um ativo com dois possíveis desfechos: uma probabilidade de 90 % 
+de que o fluxo de caixa seja 10 UM e uma probabilidade de 10 % de 
+que o fluxo de caixa seja 1.000 UM. Observam que o fluxo de caixa esperado nesse exemplo é de 109 UM e criticam esse resultado como  9 — O valor presente esperado de 892,36 UM difere da noção tradicio-
+nal da melhor estimativa de 902,73 UM (probabilidade de 60 %). Uma 
+computação tradicional do valor presente aplicada a este exemplo exige 
+uma decisão sobre a tempestividade possível dos fluxos de caixa a usar e, 
+em conformidade, não reflete a probabilidade de outras tempestividades. 
+Isto deve -se ao facto de a taxa de desconto numa computação de valor 
+presente tradicional não refletir as incertezas da tempestividade.
+10 — O uso de probabilidades é um elemento essencial da abordagem 
+pelo fluxo de caixa esperado. Alguns questionam se a atribuição de 
+probabilidades e estimativas altamente subjetivas sugere maior precisão 
+do que, de facto, existe. Contudo, a correta aplicação da abordagem 
+tradicional (descrita no parágrafo 6) exige as mesmas estimativas e 
+subjetividade sem proporcionar a transparência computacional da abor-
+dagem pelo fluxo de caixa esperado.
+11 — Muitas estimativas desenvolvidas na prática corrente já in-
+corporam informalmente os elementos dos fluxos de caixa esperados. 
+Além disso, os contabilistas enfrentam muitas vezes a necessidade de 
+mensurar um ativo ao usar informação limitada sobre as probabilidades 
+de possíveis fluxos de caixa. Por exemplo, um contabilista pode ser 
+confrontado com as seguintes situações:
+a) A quantia estimada recai algures entre 50 UM e 250 UM, mas ne-
+nhuma quantia nesse intervalo é mais provável do que qualquer quantia. 
+Com base nessa informação limitada, o fluxo de caixa esperado estimado 
+é de 150 UM [(50+250)/2];
+b) A quantia estimada recai algures entre 50 UM e 250 UM e a quantia 
+mais provável é 100 UM. Contudo, as probabilidades associadas a cada 20862  Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+não sendo representativo de qualquer das quantias que poderão ser pagas 
+em última instância.
+14 — Afirmações como a anterior refletem desacordo subjacente com 
+o objetivo de mensuração. Se o objetivo é acumulação dos custos em 
+que se incorre, os fluxos de caixa esperados podem não produzir uma estimativa fielmente representativa do custo esperado. Não é provável 
+que a quantia recuperável do ativo neste exemplo seja de 10 UM, mesmo 
+que seja o fluxo de caixa mais provável. Isto deve -se ao facto de uma 
+mensuração de 10 UM não incorporar a incerteza do fluxo de caixa na 
+mensuração do ativo. Em vez disso, o fluxo de caixa incerto é apresen-
+tado como se fosse um fluxo de caixa certo. Nenhuma entidade racional 
+venderia um ativo com estas características por 10 UM.
+Taxa de desconto
+15 — Qualquer que seja a abordagem que uma entidade adote para 
+mensurar o valor de uso de um ativo, as taxas de juro usadas para 
+descontar os fluxos de caixa não devem refletir riscos para os quais 
+os fluxos de caixa tenham sido estimados. De outro modo, o efeito de 
+alguns pressupostos será tido em consideração duas vezes.
+16 — Quando uma taxa de um ativo específico não estiver diretamente 
+disponível no mercado, uma entidade usa substitutos para estimar a 
+taxa de desconto. A finalidade é estimar, tanto quanto possível, uma 
+avaliação do mercado:
+a) Do valor temporal do dinheiro para os períodos até ao fim da vida 
+útil do ativo;
+b) Dos fatores b), d) e e) descritos no parágrafo 1, até ao ponto em 
+que esses fatores não originaram ajustamentos para atingir os fluxos 
+de caixa estimados.
+17 — Como ponto de partida na determinação de tal estimativa, a 
+entidade deve ter em conta as seguintes taxas:
+a) O custo médio ponderado de capital da entidade determinado pelo 
+uso de técnicas tais como o Modelo de Apreçamento de ativos de Capital 
+(Capital Asset Pricing Model );
+b) A taxa incremental de empréstimos obtidos pela entidade; e
+c) Outras taxas de mercado de empréstimos obtidos.
+18 — Contudo, estas taxas devem ser ajustadas:
+a) Para refletir a forma como o mercado avaliaria os riscos específicos 
+associados aos fluxos de caixa estimados do ativo; e
+b) Para excluir os riscos que não sejam relevantes para os fluxos de 
+caixa estimados do ativo ou para os quais os fluxos de caixa tenham sido ajustados.
+Devem ser considerados riscos, tais como o risco de país, o risco de 
+moeda e o risco de preço.
+19 — A taxa de desconto é independente da estrutura de capital da 
+entidade e da forma como a entidade financeira financiou a compra do ativo, porque os fluxos de caixa futuros que se espera obter de um ativo não dependem da forma como a entidade financiou o ativo.
+20 — O parágrafo 24 da NCRF 12 — Imparidade de Ativos exige que 
+a taxa de desconto usada seja uma taxa antes dos impostos. Portanto, 
+quando a base usada para estimar a taxa de desconto for após os impostos, 
+essa base é ajustada para refletir uma taxa antes dos impostos.
+21 — Uma entidade usa normalmente uma taxa de desconto única para 
+a estimativa do valor de uso de um ativo. Porém, uma entidade usa taxas 
+de desconto separadas para períodos futuros, distintos quando o valor de uso for sensível a uma diferença nos riscos para períodos distintos ou à estrutura de prazos das taxas de juro.
+Data de eficácia
+22 — Uma entidade deve aplicar esta Norma Interpretativa para os 
+períodos com início em ou após 1 de janeiro de 2016.
+23 — Esta Norma Interpretativa substitui a NI 2 — Uso de Técnicas 
+de Valor Presente para mensurar o Valor de Uso, constante do Aviso 
+n.º 15653/2009, publicado no DR, 2.ª série, n.º 173, de 7 de setembro 
+de 2009.
+20 de julho de 2015. — O Secretário -Geral do Ministério das Finan-
+ças, Rogério Manuel Aroso Peixoto Rodrigues .
+208811523 pelo Decreto-Lei n.º 158/2009, de 13 de julho, alterado pelo Decreto-Lei 
+n.º 98/2015, de 2 de junho:

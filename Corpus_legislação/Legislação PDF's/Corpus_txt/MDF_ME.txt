@@ -1,0 +1,78 @@
+Diário da República, 1.ª série — N.º 143 — 24 de julho de 2015  5017
+  ANEXO 18
+Entidade: .........................................
+ BALANÇO EM  XX  DE  YYYYYYY  DE 20NN (modelo ME) UNIDADE MONETÁRIA (1)
+RUBRICAS
+XX YY N XX YY N-1
+ATIVO
+Ativo não corrente
+Ativos fixos tangíveis
+Ativos intangíveisInvestimentos financeiros
+Créditos e outros ativos não correntes
+Ativo corrente
+Inventários
+Clientes
+Estado e outros entes públicos
+Capital subscrito e não realizadoDiferimentosOutros ativos correntesCaixa e depósitos bancários
+Total do ativo
+CAPITAL PRÓPRIO E PASSIVO
+Capital próprio
+Capital subscritoOutros instrumentos de capital próprioReservasResultados transitados
+Outras variações no capital próprio
+Resultado líquido do período
+Total do capital próprio
+Passivo
+Passivo não corrente
+Provisões
+Financiamentos obtidosOutras dividas a pagar
+Passivo corrente
+FornecedoresEstado e outros entes públicosFinanciamentos obtidos
+Diferimentos
+Outros passivos correntes
+Total do passivo
+Total do capital próprio e do passivo
+1.ͲTotaldecompromissos financeiros nãoincluídos nobalanço
+2.ͲTotaldegarantias ouativosepassivoscontingentes nãoincluídos nobalanço
+3.ͲNatureza eformadasgarantias reaisprestadas
+4.ͲCompromissos emmatériadepensões
+5.ͲCompromissos faceaempresas coligadas ouassociadas
+6.1.ͲTaxasdejuroeprincipais condições
+6.2.ͲMontantes eventualmente reembolsados, amortizados ouobjetoderenúncia
+7.1.ͲMotivosdasaquisições efetuadas duranteoperíodo
+7.4.ͲNúmeroeovalornominalou,nafaltadevalornominal,ovalorcontabilístico doconjunto das
+ações/quotas adquiridas edetidasemcarteira,bemcomoafraçãodocapitalsubscrito queelas
+representamDATAS
+INFORMAÇÃO ADICIONAL /COMPLEMENTAR 
+6.ͲMontante dosadiantamentos edoscréditosconcedidos aosmembros dosórgãosde
+administração, dedireçãooudesupervisão, comindicação de:
+6.3.ͲCompromissos assumidos emseunomeatítulodegarantias dequalquer natureza, com
+indicação domontante globalparacadacategoria
+7.ͲAções/quotas própriasadquiridas querdiretamente, querporintermédio depessoaatuandoem
+nomeprópriomasporcontadaentidade:
+7.2.ͲNúmeroevalornominalou,nafaltadevalornominal,ovalorcontabilístico dasações/quotas 
+adquiridas ealienadas duranteoperíodo,bemcomoafraçãodocapitalsubscrito queelas
+representam
+7.3.ͲContravalor dasações/quotas, nocasodeaquisições oualienação atítulooneroso5018  Diário da República, 1.ª série — N.º 143 — 24 de julho de 2015 
+  ANEXO 19
+Entidade: .........................................
+DEMONSTRAÇÃO DOS RESULTADOS POR NATUREZAS (modelo ME)
+PERÍODO FINDO EM  XX  DE  YYYYYYY  DE 20NN UNIDADE MONETÁRIA(1)
+N N-1
+Vendas e serviços prestados + +
+Subsídios à exploração + +
+Variação nos inventários da produção + / - + / -
+Trabalhos para a própria entidade + +
+Custo das mercadorias vendidas e das matérias consumidas - -
+Fornecimentos e serviços externos - -
+Gastos com o pessoal - -
+Imparidade (perdas/reversões) - / + - / +
+Provisões (aumentos/reduções) - / + - / +
+Outros rendimentos + +
+Outros gastos - -
+Resultado antes de depreciações, gastos de financiamento e impostos = =
+Gastos/reversões de depreciação e de amortização - / + - / +
+Resultado operacional (antes de gastos de financiamento e impostos) = =
+Gastos de financiamento (líquidos) - -
+Resultado antes de impostos = =
+Imposto sobre o rendimento do período - / + - / +
+Resultado líquido do período = =RENDIMENTOS E GASTOSPERÍODOS

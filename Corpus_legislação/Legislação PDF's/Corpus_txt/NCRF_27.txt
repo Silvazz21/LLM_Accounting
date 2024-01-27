@@ -1,0 +1,481 @@
+Norma Contabilística e de Relato Financeiro 27
+Instrumentos Financeiros
+Objetivo
+1 — O objetivo desta Norma é o de prescrever o tratamento conta-
+bilístico dos instrumentos financeiros e respetivos requisitos de apre-sentação.
+Âmbito
+2 — Esta Norma deve ser aplicada no reconhecimento e mensuração 
+dos instrumentos financeiros. Uma entidade pode não aplicar esta Norma 
+se optar por reconhecer, mensurar e divulgar os instrumentos financeiros 
+de acordo com as normas internacionais de contabilidade adotadas nos 
+termos do Regulamento (CE) n.º 1606/2002.
+3 — Esta Norma aplica -se a todos os instrumentos financeiros com 
+exceção de:
+a) Investimentos em subsidiárias, associadas e empreendimentos 
+conjuntos;
+b) Direitos e obrigações no âmbito de um plano de benefícios a 
+empregados;
+c) Direitos no âmbito de um contrato de seguro a não ser que o contrato 
+de seguro resulte numa perda para qualquer das partes em resultado dos 
+termos contratuais que se relacionem com:
+i) Alterações no risco segurado;
+ii) Alterações na taxa de câmbio;
+iii) Entrada em incumprimento de uma das partes;
+d) Locações, a não ser que a locação resulte numa perda para o locador 
+ou locatário como resultado dos termos do contrato que se relacionem com:
+i) Alterações no preço do bem locado;
+ii) Alterações na taxa de câmbio;
+iii) Entrada em incumprimento de uma das contrapartes.
+4 — Muitos dos contratos para comprar ou vender itens não financei-
+ros tais como mercadorias ( commodity ), outros inventários, proprieda-20832 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+des ou equipamentos são excluídos da presente norma porque não são 
+instrumentos financeiros. Porém, alguns contratos são substancialmente 
+idênticos a instrumentos financeiros na medida em que i) possam ser 
+liquidados pela entrega de instrumentos financeiros ao invés de ativos não financeiros ou ii) contenham termos não relacionados com compra 
+ou venda de itens não financeiros no âmbito da atividade normal da 
+entidade. Assim, esta norma deve ser aplicada a tais contratos de compra 
+ou venda de itens não financeiros que:
+a) Possam ser liquidados, de forma compensada, em dinheiro ou outro 
+ativo financeiro, ou pela troca de instrumentos financeiros, como se o 
+contrato fosse instrumento financeiro, com exceção dos contratos que:
+i) Tenham sido celebrados com o propósito de entrega ou receção 
+de itens não financeiros em conformidade com a respetiva expectativa 
+da entidade de comprar, vender ou utilizar o referido item, na data que foram celebrados e posteriormente a essa data;
+ii) Tenham sido designados desde o início como contratos sobre os 
+bens em causa; e
+iii) A sua liquidação esteja prevista mediante a entrega dos bens em 
+causa.
+b) Embora excluídos do âmbito da anterior alínea, resultem numa 
+perda para o comprador ou vendedor na sequência dos termos do contrato 
+que não esteja relacionada com i) alterações no preço do item não finan-
+ceiro, ii) alterações na taxa de câmbio ou iii) entrada em incumprimento 
+de uma das contrapartes.
+Definições
+5 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Ativo financeiro: é qualquer ativo que seja:
+a) Dinheiro;
+b) Um instrumento de capital próprio de uma outra entidade;
+c) Um direito contratual:
+i) De receber dinheiro ou outro ativo financeiro de outra entidade; ou
+ii) De trocar ativos financeiros ou passivos financeiros com outra 
+entidade em condições que sejam potencialmente favoráveis para a 
+entidade; ou
+d) Um contrato que seja ou possa ser liquidado em instrumentos de 
+capital próprio da própria entidade e que seja:
+i) Um não derivado para o qual a entidade esteja, ou possa estar, 
+obrigada a receber um número variável dos instrumentos de capital 
+próprio da própria entidade; ou
+ii) Um derivado que seja ou possa ser liquidado de forma diferente 
+da troca de uma quantia fixa em dinheiro ou outro ativo financeiro por um número fixo de instrumentos de capital próprio da própria entidade. Para esta finalidade, os instrumentos de capital próprio da própria enti-dade não incluem instrumentos que sejam eles próprios contratos para futuro recebimento ou entrega dos instrumentos de capital próprio da própria entidade.
+Compromisso firme: é um acordo vinculativo para a troca de uma 
+quantidade especificada de recursos a um preço especificado numa data 
+ou em datas futuras especificadas.
+Custo amortizado de um ativo financeiro ou de um passivo financeiro: 
+é a quantia pela qual o ativo financeiro ou o passivo financeiro é mensu-
+rado no reconhecimento inicial, menos os reembolsos de capital, mais ou 
+menos a amortização cumulativa, usando o método do juro efetivo, de 
+qualquer diferença entre essa quantia inicial e a quantia na maturidade, 
+e menos qualquer redução quanto à imparidade ou incobrabilidade.
+Custos de transação: são custos incrementais que sejam diretamente 
+atribuíveis à aquisição, emissão ou alienação de um ativo ou passivo fi-
+nanceiro. Um custo incremental é aquele que não seria incorrido se a enti-
+dade não tivesse adquirido, emitido ou alienado o instrumento financeiro.
+Derivado: é um instrumento financeiro ou outro contrato com todas 
+as três características seguintes:
+a) O seu valor altera -se em resposta à alteração numa especificada 
+taxa de juro, preço de instrumento financeiro, preço de mercadoria, taxa 
+de câmbio, índice de preços ou de taxas, notação de crédito ou índice 
+de crédito, ou outra variável, desde que, no caso de uma variável não financeira, a variável não seja específica de uma parte do contrato (por vezes denominada “subjacente”);
+b) Não requer qualquer investimento líquido inicial ou requer um 
+investimento inicial líquido inferior ao que seria exigido para outros tipos de contratos que se esperaria que tivessem uma resposta seme-lhante às alterações nos fatores de mercado; e
+c) É liquidado numa data futura.Desreconhecimento: é a remoção de um ativo financeiro ou de um pas-
+sivo financeiro anteriormente reconhecido no balanço de uma entidade.
+Instrumento de capital próprio: é qualquer contrato que evidencie um 
+interesse residual nos ativos de uma entidade após dedução de todos 
+os seus passivos.
+Instrumento de cobertura: é um derivado designado ou (apenas para 
+a cobertura de risco de alterações nas taxas de câmbio de moeda es-
+trangeira) um ativo financeiro não derivado designado ou um passivo financeiro não derivado cujo justo valor ou fluxos de caixa se espera 
+que compense as alterações no justo valor ou fluxos de caixa de um 
+item coberto designado.
+Instrumento financeiro: é um contrato que dá origem a um ativo 
+financeiro numa entidade e a um passivo financeiro ou instrumento de capital próprio noutra entidade.
+Item coberto: é um ativo, passivo, compromisso firme, transação futura 
+altamente provável ou investimento líquido numa unidade operacional 
+estrangeira que:
+a) Expõe a entidade ao risco de alterações no justo valor ou nos 
+fluxos de caixa futuros;
+b) Foi designado como estando coberto.
+Justo valor: é a quantia pela qual um ativo pode ser trocado ou um 
+passivo liquidado, entre partes conhecedoras e dispostas a isso, numa 
+transação em que não exista relacionamento entre elas. Para efeitos desta 
+norma, o justo valor é determinado tendo por referência: um valor de 
+mercado, relativamente aos instrumentos financeiros para os quais possa 
+ser facilmente identificado um mercado fiável; ou quando o seu valor 
+de mercado não puder ser fiavelmente determinado, o valor de mercado 
+dos componentes dos instrumentos financeiros ou de um instrumento 
+semelhante; ou a um valor resultante de modelos e técnicas de avaliação 
+geralmente aceites, para os instrumentos financeiros para os quais não 
+possa ser facilmente identificado um mercado fiável, devendo esses 
+modelos ou técnicas de avaliação assegurar uma aproximação razoável ao valor de mercado.
+Método do juro efetivo: é um método de calcular o custo amortizado 
+de um ativo financeiro ou de um passivo financeiro (ou grupo de ativos financeiros ou de passivos financeiros) e de imputar o rendimento dos 
+juros ou o gasto dos juros durante o período relevante. A taxa de juro 
+efetiva é a taxa que desconta exatamente os pagamentos ou recebimen-tos de caixa futuros estimados durante a vida esperada do instrumento 
+financeiro ou, quando apropriado, um período mais curto na quantia 
+escriturada líquida do ativo financeiro ou do passivo financeiro.
+Passivo financeiro: é qualquer passivo que seja:
+a) Uma obrigação contratual:
+i) De entregar dinheiro ou outro ativo financeiro a uma outra entidade; ou
+ii) De trocar ativos financeiros ou passivos financeiros com outra 
+entidade em condições que sejam potencialmente desfavoráveis para 
+a entidade; ou
+b) Um contrato que seja ou possa ser liquidado em instrumentos de 
+capital próprio da própria entidade e que seja:
+i) Um não derivado para o qual a entidade esteja ou possa estar obri-
+gada a entregar um número variável de instrumentos de capital próprio 
+da própria entidade; ou
+ii) Um derivado que seja ou possa ser liquidado de forma diferente 
+da troca de uma quantia fixa em dinheiro ou outro ativo financeiro por 
+um número fixo dos instrumentos de capital próprio da própria entidade. 
+Para esta finalidade, os instrumentos de capital próprio da própria enti-dade não incluem instrumentos que sejam eles próprios contratos para 
+futuro recebimento ou entrega dos instrumentos de capital próprio da 
+própria entidade.
+Transação prevista: é uma transação futura não comprometida mas 
+antecipada.
+Reconhecimento
+6 — Uma entidade deve reconhecer um ativo financeiro, um passivo 
+financeiro ou um instrumento de capital próprio apenas quando a en-
+tidade se torne uma parte das disposições contratuais do instrumento.
+7 — Uma entidade deve reconhecer instrumentos de capital próprio 
+no capital próprio quando a entidade emite tais instrumentos e os subs-critores fiquem obrigados a pagar dinheiro ou entregar qualquer outro recurso em troca dos referidos instrumentos de capital próprio.
+Se os instrumentos de capital próprio forem emitidos antes dos re-
+cursos serem proporcionados a entidade deve apresentar a quantia a 
+receber como ativo.
+8 — Se uma entidade adquirir ou readquirir os seus próprios instru-
+mentos de capital próprio, esses instrumentos (“quotas/ações próprias”) Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20833
+devem ser reconhecidos como dedução ao capital próprio. A quantia a 
+reconhecer deve ser o justo valor da retribuição paga pelos respetivos 
+instrumentos de capital próprio. Uma entidade não deve reconhecer 
+qualquer ganho ou perda na demonstração de resultados decorrente de 
+qualquer compra, venda emissão ou cancelamento de ações próprias.
+9 — No caso da entidade emitente ficar obrigada ou sujeita a uma 
+obrigação de entregar dinheiro, ou qualquer outro ativo, por contrapartida 
+de instrumentos de capital próprio emitidos pela entidade, o valor pre-
+sente da quantia a pagar deverá ser inscrito no passivo por contrapartida 
+de capital próprio. Caso cesse tal obrigação e não seja concretizado o 
+referido pagamento, a entidade deverá reverter a quantia inscrita no 
+passivo por contrapartida de capital próprio.
+Mensuração
+Mensuração inicial de ativos e passivos financeiros
+10 — Quando um ativo financeiro ou um passivo financeiro é inicial-
+mente reconhecido, uma entidade deve mensurá -lo pelo seu justo valor. 
+Os custos de transação que sejam diretamente atribuíveis à aquisição do 
+ativo financeiro ou à emissão do passivo financeiro devem ser incluídos 
+no justo valor, no caso dos ativos e passivos financeiros cuja mensuração 
+subsequente não seja ao justo valor.
+Mensuração subsequente de ativos e passivos financeiros
+11 — Após o reconhecimento inicial, uma entidade deve mensurar, 
+em cada data de relato, todos os ativos financeiros pelo justo valor com 
+as alterações de justo valor reconhecidas na demonstração de resultados, 
+exceto quanto a:
+a) Instrumentos de capital próprio de uma outra entidade que não 
+sejam negociados publicamente e cujo justo valor não possa ser obtido 
+de forma fiável, bem como derivados que estejam associados a e devam 
+ser liquidados pela entrega de tais instrumentos, os quais devem ser 
+mensurados ao custo menos perdas por imparidade;
+b) Contratos para conceder ou contrair empréstimos que não possam 
+ser liquidados em base líquida, quando executados, se espera que reú-
+nam as condições para reconhecimento ao custo ou ao custo amortizado 
+menos perdas por imparidade, e a entidade designe, no momento do 
+reconhecimento inicial, para serem mensurados ao custo menos perdas por imparidade;
+c) Ativos financeiros que a entidade designe, no momento do seu 
+reconhecimento inicial, para ser mensurado ao custo amortizado (uti-
+lizando o método da taxa de juro efetiva) menos qualquer perda por 
+imparidade; ou
+d) Ativos financeiros não derivados a serem detidos até à maturidade, 
+os quais deverão ser mensurados ao custo amortizado.
+12 — Um ativo financeiro pode ser designado para ser mensurado ao 
+custo amortizado se satisfizer todas as seguintes condições:
+a) Seja à vista ou tenha uma maturidade definida;
+b) Os retornos para o seu detentor sejam i) de montante fixo, ii) de 
+taxa de juro fixa durante a vida do instrumento ou de taxa variável que 
+seja um indexante típico de mercado para operações de financiamento 
+(como por exemplo a Euribor) ou que inclua um spread  sobre esse 
+mesmo indexante; e
+c) Não contenha nenhuma cláusula contratual que possa resultar 
+para o seu detentor em perda do valor nominal e do juro acumulado 
+(excluindo -se os casos típicos de risco de crédito).
+13 — Após o reconhecimento inicial, uma entidade deve mensurar, em 
+cada data de relato, todos os passivos financeiros pelo custo amortizado 
+usando o método do juro efetivo, exceto quanto a passivos financeiros 
+classificados como detidos para negociação, os quais devem ser men-surados pelo justo valor com as alterações de justo valor reconhecidas na demonstração de resultados.
+14 — Um passivo financeiro é classificado como detido para nego-
+ciação se:
+a) For incorrido principalmente para a finalidade de o recomprar num 
+prazo muito próximo;
+b) Fizer parte, aquando do reconhecimento inicial, de uma carteira 
+de instrumentos financeiros identificados, que são geridos em conjunto 
+e para os quais exista evidência de terem recentemente proporcionado 
+lucros reais; ou
+c) For um derivado (exceto se for um instrumento de cobertura de-
+signado e eficaz).
+15 — Exemplos de instrumentos financeiros que são mensurados ao 
+justo valor através de resultados:
+a) Investimentos em instrumentos de capital próprio com cotações 
+divulgadas publicamente;b) Instrumentos de dívida perpétua ou obrigações convertíveis;
+c) Ativos financeiros classificados como detidos para negociação, ou 
+seja ativos financeiros adquiridos principalmente para a finalidade de 
+venda num prazo muito próximo; que façam parte, aquando do reconheci-
+mento inicial, de uma carteira de instrumentos financeiros identificados, 
+que são geridos em conjunto e para os quais exista evidência de terem 
+recentemente proporcionado lucros reais; ou que sejam derivados (exceto 
+se for um instrumento de cobertura designado e eficaz).
+16 — Exemplos de instrumentos financeiros que são mensurados ao 
+custo amortizado:
+a) Clientes e outras contas a receber ou a pagar, bem como emprés-
+timos bancários, uma vez que satisfaçam tipicamente as condições 
+previstas no parágrafo 12;
+b) Investimentos em obrigações não convertíveis;
+c) Contas a receber ou a pagar em moeda estrangeira, uma vez que 
+satisfaçam tipicamente as condições previstas no parágrafo 12. Porém, 
+qualquer alteração no montante a pagar ou a receber devido a alterações 
+cambiais é reconhecida na demonstração de resultados;
+d) Empréstimos a subsidiárias ou associadas que sejam exigíveis, uma 
+vez que satisfaçam as condições previstas no parágrafo 12; ou
+e) Um instrumento de dívida que seja imediatamente exigível se o 
+emitente incumprir o pagamento de juro ou de amortização de dívida (tais cláusulas não violam as condições definidas no parágrafo 12).
+17 — Uma entidade não deve alterar a sua política de mensuração 
+subsequente de um ativo ou passivo financeiro enquanto tal instrumento 
+for detido, seja para passar a usar o modelo do justo valor, seja para 
+deixar de usar esse método. São situações de exceção quando deixar 
+de estar disponível uma mensuração fiável do justo valor para um ins-
+trumento de capital próprio de uma outra entidade mensurado ao justo 
+valor ou quando passar a estar disponível uma mensuração fiável do 
+justo valor para um instrumento de capital próprio de uma outra entidade 
+mensurado ao custo.
+18 — Se deixar de estar disponível uma mensuração fiável do justo 
+valor para um instrumento de capital próprio de uma outra entidade 
+mensurado ao justo valor, o instrumento de capital próprio deve ser 
+mensurado ao custo. A quantia escriturada do justo valor torna -se, à 
+data da transição, a quantia de custo para efeitos da adoção do modelo do custo.
+19 — Se passar a estar disponível uma mensuração fiável do justo 
+valor para um instrumento de capital próprio de uma outra entidade 
+mensurado ao custo, o instrumento de capital próprio deve ser men-
+surado ao justo valor com as variações do justo valor reconhecidas na 
+demonstração de resultados.
+Mensuração inicial e subsequente de instrumentos de capital próprio
+e de instrumentos compostos
+20 — Uma entidade deve mensurar os instrumentos de capital pró-
+prio emitidos pelo dinheiro recebido ou pelo justo valor dos recursos recebidos ou a receber: Se o pagamento for diferido e o valor temporal 
+do dinheiro for significativo, a mensuração inicial deve ser o valor 
+presente da quantia a receber. Todos os custos associados à emissão de instrumentos de capital próprio devem ser deduzidos à quantia inscrita 
+no respetivo capital próprio.
+21 — Na emissão de instrumentos compostos, como sejam instrumen-
+tos de dívida com opção de conversão ou obrigações com warrant ou 
+qualquer outro instrumento que combine instrumentos de capital próprio 
+com passivos financeiros, uma entidade deve alocar a quantia recebida 
+entre as respetivas componentes. Para tal imputação, uma entidade deve 
+primeiro determinar a quantia da componente do passivo financeiro 
+como sendo o justo valor do passivo financeiro similar que não tenha 
+associado nenhuma componente de capital próprio. A entidade deve 
+imputar a quantia residual à componente de capital próprio.
+22 — Uma entidade não deve reverter a quantia imputada ao capital 
+próprio em qualquer período subsequente.
+23 — Em períodos subsequentes à emissão, uma entidade deve re-
+conhecer sistematicamente qualquer diferença entre a componente de passivo e a quantia nominal a pagar, à data da maturidade, como gastos 
+de juro utilizando o método da taxa de juro efetiva.
+Imparidade
+Reconhecimento
+24 — Em cada data de relato, uma entidade deve avaliar a imparidade 
+de todos os ativos financeiros que não sejam mensurados ao justo valor 
+através de resultados. Se existir uma evidência objetiva de imparidade, 20834 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+a entidade deve reconhecer uma perda por imparidade na demonstração 
+de resultados.
+25 — Evidência objetiva de que um ativo financeiro ou um grupo 
+de ativos está em imparidade inclui dados observáveis que chamem a 
+atenção ao detentor do ativo sobre os seguintes eventos de perda:
+a) Significativa dificuldade financeira do emitente ou devedor;
+b) Quebra contratual, tal como não pagamento ou incumprimento no 
+pagamento do juro ou amortização da dívida;
+c) O credor, por razões económicas ou legais relacionados com a 
+dificuldade financeira do devedor, oferece ao devedor concessões que 
+o credor de outro modo não consideraria;
+d) Torne -se provável que o devedor irá entrar em falência ou qualquer 
+outra reorganização financeira;
+e) O desaparecimento de um mercado ativo para o ativo financeiro 
+devido a dificuldades financeiras do devedor; ou
+f) Informação observável indicando que existe uma diminuição na 
+mensuração da estimativa dos fluxos de caixa futuros de um grupo de ativos financeiros desde o seu reconhecimento inicial, embora a dimi-
+nuição não possa ser ainda identificada para um dado ativo financeiro 
+individual do grupo, tal como sejam condições económicas nacionais, 
+locais ou sectoriais adversas.
+26 — Outros fatores poderão igualmente evidenciar imparidade, 
+incluindo alterações significativas com efeitos adversos que tenham 
+ocorrido no ambiente tecnológico, de mercado, económico ou legal em que o emitente opere.
+27 — Os ativos financeiros que sejam individualmente significativos 
+e todos os instrumentos de capital próprio devem ser avaliados indivi-dualmente para efeitos de imparidade. Outros ativos financeiros devem 
+ser avaliados quanto a imparidade, seja individualmente, seja agrupados 
+com base em similares características de risco de crédito.
+Mensuração
+28 — O montante de perda por imparidade deverá ser mensurado 
+da seguinte forma:
+a) Para ativos financeiros mensurados ao custo amortizado, a perda por 
+imparidade é a diferença entre a quantia escriturada e o valor presente 
+(atual) dos fluxos de caixa estimados descontados à taxa de juro efetiva 
+original do ativo financeiro; e
+b) Para ativos financeiros mensurados ao custo, a perda por imparidade 
+é a diferença entre a quantia escriturada e o valor presente dos fluxos 
+de caixa futuros estimados descontados à taxa de retorno de mercado 
+corrente para um ativo financeiro semelhante.
+Reversão
+29 — Para os ativos financeiros mensurados ao custo amortizado, se, 
+num período subsequente, a quantia de perda por imparidade diminuir 
+e tal diminuição possa estar objetivamente relacionada com um evento 
+ocorrido após o reconhecimento da imparidade (como, por exemplo, 
+uma melhoria na notação de risco do devedor), a entidade deve reverter 
+a imparidade anteriormente reconhecida. A reversão não poderá resultar 
+numa quantia escriturada do ativo financeiro que exceda aquilo que seria 
+o custo amortizado do referido ativo, caso a perda por imparidade não tivesse sido anteriormente reconhecida. A entidade deve reconhecer a 
+quantia da reversão na demonstração de resultados.
+30 — Para os ativos financeiros mencionados no parágrafo 11  a), é 
+proibida a reversão das perdas por imparidade.
+Desreconhecimento
+Desreconhecimento de ativos financeiros
+31 — Uma entidade deve desreconhecer um ativo financeiro apenas 
+quando:
+a) Os direitos contratuais aos fluxos de caixa resultantes do ativo 
+financeiro expiram;
+b) A entidade transfere para outra parte todos os riscos significativos 
+e benefícios relacionados com o ativo financeiro; ou
+c) A entidade, apesar de reter alguns riscos significativos e benefícios 
+relacionados com o ativo financeiro, tenha transferido o controlo do ativo 
+para uma outra parte e esta tenha a capacidade prática de vender o ativo 
+na sua totalidade a uma terceira parte não relacionada e a possibilidade 
+de exercício dessa capacidade unilateralmente sem necessidade de impor 
+restrições adicionais à transferência. Se tal for o caso a entidade deve:
+i) Desreconhecer o ativo; e
+ii) Reconhecer separadamente qualquer direito e obrigação criada ou 
+retida na transferência;32 — A quantia escriturada do ativo transferido deverá ser alocada 
+entre os direitos e obrigações retidos e aqueles que foram transferidos, tendo por base os seus relativos justos valores à data da transferência. 
+Os direitos e obrigações criados de novo devem ser mensurados ao 
+justo valor àquela data. Qualquer diferença entre a retribuição recebida 
+e o montante reconhecido e desreconhecido nos termos do presente 
+parágrafo deverá ser incluída na demonstração de resultados do período 
+da transferência.
+33 — Se a transferência não resultar num desreconhecimento, uma 
+vez que a entidade reteve significativamente os riscos e benefícios de 
+posse do ativo transferido, a entidade deve continuar a reconhecer o ativo 
+transferido de forma integral e deverá reconhecer um passivo financeiro 
+pela retribuição recebida. Nos períodos subsequentes, a entidade deve reconhecer qualquer rendimento no ativo transferido e qualquer gasto incorrido no passivo financeiro.
+Desreconhecimento de passivos financeiros
+34 — Uma entidade deve desreconhecer um passivo financeiro (ou 
+parte de um passivo financeiro) apenas quando este se extinguir, isto é, 
+quando a obrigação estabelecida no contrato seja liquidada, cancelada ou expire.
+Contabilização da cobertura
+35 — Uma entidade poderá designar uma relação de cobertura entre 
+um instrumento de cobertura e um instrumento coberto de tal forma que 
+se qualifique como contabilização da cobertura. Se os critérios estabe-
+lecidos forem cumpridos, a contabilização da cobertura permite que o ganho ou perda no instrumento de cobertura e no instrumento coberto 
+seja reconhecido na demonstração de resultados simultaneamente.
+36 — Para a qualificação da contabilização da cobertura, estabelecida 
+na presente norma, uma entidade deve cumprir com todas as seguintes 
+condições:
+a) Designe e documente a relação de cobertura de tal forma que o 
+risco coberto, o item de cobertura e o item coberto estejam claramente 
+identificados e que o risco do item coberto seja o risco para que esteja a ser efetuada a cobertura com o instrumento de cobertura;
+b) O risco a cobrir seja um dos riscos estabelecidos no parágrafo 
+seguinte;
+c) A entidade espera que as alterações no justo valor ou fluxos de 
+caixa no item coberto, atribuíveis ao risco que estava a ser coberto, 
+compensará praticamente as alterações de justo valor ou fluxos de caixa 
+do instrumento de cobertura; e
+d) Uma transação futura que seja o objeto da cobertura tem de ser 
+altamente provável.
+37 — Esta Norma permite a contabilização da cobertura somente para:
+a) Risco de taxa de juro de um instrumento de dívida mensurado ao 
+custo amortizado;
+b) Risco de câmbio num compromisso firme ou numa transação futura 
+altamente provável;
+c) Exposição a risco de preço em ativos que sejam detidos ou abran-
+gidos por um compromisso firme ou por uma transação futura altamente 
+provável de compra ou de venda de ativos que tenham preços de mercado 
+determináveis; ou
+d) Exposição de risco cambial no investimento líquido numa unidade 
+operacional estrangeira.
+Cobertura de risco de taxa de juro fixa ou de risco de preços de ativos 
+detidos ou abrangidos por um compromisso firme
+38 — Se as condições de qualificação forem satisfeitas e a cobertura 
+de risco for para fazer face a uma exposição a taxa de juro fixa de um 
+instrumento de dívida mensurado ao custo amortizado ou de risco de 
+preço de ativos detidos ou abrangidos por um compromisso firme, a 
+entidade deve:
+a) Reconhecer o instrumento de cobertura como um ativo ou passivo 
+à data do balanço e as alterações no justo valor na demonstração de 
+resultados; e
+b) Reconhecer a alteração no justo valor do item coberto, relacionada 
+com o risco coberto, na demonstração de resultados e como um ajusta-
+mento à quantia escriturada do item coberto.
+39 — Se o risco coberto for o risco de taxa de juro fixa de um ativo 
+ou passivo mensurado ao custo amortizado, a entidade deve reconhecer 
+as liquidações periódicas, em base líquida, no instrumento de cober-
+tura, na demonstração de resultados do período a que as liquidações 
+respeitem.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20835
+40 — A entidade deve descontinuar a contabilização da cobertura se:
+a) O instrumento de cobertura expirar, for vendido ou termine;
+b) A cobertura deixe de satisfazer as condições para a contabilização 
+da cobertura; ou
+c) A entidade revogue a designação.
+41 — Se a contabilização da cobertura for descontinuada e o instru-
+mento coberto for um ativo ou passivo mensurado ao custo amortizado 
+que não seja desreconhecido, qualquer ganho ou perda reconhecido como 
+ajustamento à quantia escriturada do ativo coberto deverá ser refletido na 
+demonstração de resultados durante a vida remanescente do instrumento 
+coberto, utilizando a taxa de juro efetiva original.
+Cobertura do risco de variabilidade da taxa de juro, risco cambial, risco 
+de preço de uma transação futura altamente provável ou de risco
+cambial no investimento líquido numa unidade operacional estrangeira
+42 — Se as condições de qualificação forem satisfeitas e a cobertura 
+de risco respeitar à exposição à variabilidade na taxa de juro de um 
+instrumento de dívida mensurado ao custo amortizado, a entidade deve:
+a) Reconhecer as alterações no justo valor do instrumento de cobertura 
+diretamente em capital próprio; e
+b) Subsequentemente, deverá reconhecer as liquidações periódicas 
+em base líquida na demonstração de resultados no período em que as 
+liquidações em base líquida ocorram.
+43 — Se as condições para a contabilização da cobertura forem cum-
+pridas e o risco coberto for quer  a) a exposição ao risco de câmbio de 
+uma transação futura altamente provável;  b) a exposição a risco de preço 
+de uma transação futura altamente provável; ou  c) o risco de câmbio no 
+investimento líquido numa unidade operacional estrangeira; a entidade 
+deve reconhecer as alterações no justo valor do instrumento de cobertura 
+diretamente no capital próprio. A relação de cobertura termina para  a) e b)
+quando a transação coberta ocorrer e para a  c) quando o investimento 
+líquido numa unidade operacional estrangeira for vendido. O ganho ou 
+perda reconhecida no capital próprio deve ser reclassificado de capital próprio para a demonstração de resultados quando o item coberto seja 
+reconhecido na demonstração de resultados.
+44 — A entidade deve descontinuar a contabilização da cobertura se:
+a) O instrumento de cobertura expirar, for vendido ou terminado;
+b) A cobertura deixar de satisfazer as condições para a contabilização 
+da cobertura;
+c) Na cobertura de uma transação futura, a transação deixar de ser 
+altamente provável; ou
+d) A entidade revogar a designação.
+Se não for mais expectável que a transação futura venha a ocorrer 
+ou se o instrumento de dívida coberto mensurado ao custo amorti-
+zado for desreconhecido, qualquer ganho ou perda no instrumento de 
+cobertura que tenha sido previamente reconhecido no capital próprio deverá ser removido do capital próprio e reconhecido na demonstração 
+de resultados.
+Data de eficácia
+45 — Uma entidade deve aplicar esta Norma a partir do primeiro 
+período que se inicie em ou após 1 de janeiro de 2016.
+46 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam 
+comparáveis.
+47 — Esta Norma substitui a NCRF 27 Instrumentos Financeiros, 
+constante do Aviso n.º 15655/2009, publicado no Diário da República, 
+2.ª série, n.º 173, de 7 de setembro de 2009.

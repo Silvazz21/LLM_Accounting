@@ -1,0 +1,297 @@
+Norma Contabilística e de Relato Financeiro 17
+Agricultura
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro é 
+o de prescrever o tratamento contabilístico e a apresentação de demons-
+trações financeiras relativas à atividade agrícola.
+Âmbito
+2 — Esta Norma deve ser aplicada na contabilização do que se segue 
+quando se relacione com a atividade agrícola:
+a) Ativos biológicos;
+b) Produto agrícola no ponto da colheita; e
+c) Subsídios de entidades públicas incluídos nos parágrafos 34 e 35.
+3 — Esta Norma não se aplica a:
+a) Terrenos relacionados com a atividade agrícola (ver a NCRF 7 — 
+Ativos Fixos Tangíveis e a NCRF 11 — Propriedades de Investimento); e
+b) Ativos intangíveis relacionados com a atividade agrícola (ver a 
+NCRF 6 — Ativos Intangíveis).
+4 — Esta Norma é aplicada ao produto agrícola, que é o produto co-
+lhido dos ativos biológicos da entidade, somente no momento da colheita. 
+Após isso, é aplicada a NCRF 18 — Inventários, ou uma outra Norma 
+Contabilística e de Relato Financeiro aplicável. Concordantemente, esta 
+Norma não trata do processamento do produto agrícola após colheita; 
+por exemplo, a transformação de uvas em vinho por um vitivinicultor que tenha cultivado a vinha e colhido as uvas. Se bem que tal processa-mento possa ser uma extensão lógica e natural da atividade agrícola e 
+os acontecimentos que tenham tido lugar possam ter alguma similitude 
+com a transformação biológica, tal processamento não é incluído na 
+definição de atividade agrícola nesta Norma.
+5 — O quadro abaixo apresentado proporciona exemplos de ativos 
+biológicos, produto agrícola e produtos que são o resultado de proces-
+samento após colheita: 
+Ativos biológicos Produto agrícolaProdutos resultantes
+de processamento após colheita
+Carneiros  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Lã . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Fio de lã, carpetes
+Árvores numa plantação florestal . . . . . . . . . . . . . Árvores abatidas   . . . . . . . . . . . . . . . . . . . . . . . . . Troncos, madeira serrada 
+Plantas  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Algodão, Cana Colhida . . . . . . . . . . . . . . . . . . . . Fio de algodão, roupas Açúcar 
+Gado produtor de leite . . . . . . . . . . . . . . . . . . . . . . Leite . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Queijo
+Porcos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Carcaças . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . Salsichas, presuntos curados
+Arbustos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Folhas. . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . Chá, tabaco curado
+Vinhas  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Uvas . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . Vinho
+Árvores de fruto   . . . . . . . . . . . . . . . . . . . . . . . . . . Frutos colhidos   . . . . . . . . . . . . . . . . . . . . . . . . . . Frutos processados 
+Definições
+Definições relacionadas com a agricultura
+6 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Atividade agrícola: é a gestão por uma entidade da transformação 
+biológica e a colheita de ativos biológicos para venda ou para conversão, 
+em produtos agrícolas ou em ativos biológicos adicionais.
+Ativo biológico: é um animal ou planta vivos.Colheita: é a separação de um produto de um ativo biológico ou a 
+cessação dos processos de vida de um ativo biológico.
+Custos de alienação: são os custos incrementais diretamente atribuíveis 
+à alienação de um ativo, excluindo os gastos de financiamento e os gastos 
+de impostos sobre o rendimento.
+Grupo de ativos biológicos: é uma agregação de animais ou de plantas 
+vivos semelhantes.
+Produto agrícola: é o produto colhido dos ativos biológicos da entidade.
+Transformação biológica: compreende os processos de crescimento 
+natural, degeneração, produção e procriação que causem alterações 
+qualitativas e quantitativas num ativo biológico.
+7 — A atividade agrícola cobre uma escala diversa de atividades. 
+Por exemplo, criação de gado, silvicultura, safra anual ou perene, cul-tivo de pomares e de plantações, floricultura e aquacultura (incluindo criação de peixes). Existem certas características comuns dentro desta 
+diversidade:
+a) Capacidade de alteração: os animais vivos e as plantas são capazes 
+de transformação biológica;
+b) Gestão de alterações: a gestão facilita a transformação biológica 
+pelo aumento, ou, pelo menos, estabilização, de condições necessárias 
+para que o processo tenha lugar (por exemplo, níveis nutricionais, mis-
+tura, temperatura, fertilidade e luz). Tal gestão distingue a atividade 
+agrícola de outras atividades. Por exemplo, colher de fontes não ge-
+ridas (tais como pesca oceânica e de florestação) não é uma atividade 
+agrícola; e
+c) Mensuração de alterações: a alteração de qualidade (por exemplo, 
+mérito genético, densidade, amadurecimento, cobertura de gordura, con-
+teúdo de proteínas e resistência das fibras) ou de quantidade (por exem-
+plo, progénie, peso, metros cúbicos, comprimento ou diâmetro das fibras 
+e número de rebentos) ocasionada por transformação biológica ou co-
+lheita é mensurada e monitorizada como uma função de gestão rotinada.
+8 — A transformação biológica origina as consequências seguintes:
+a) Alterações de ativos por intermédio de:
+i) Crescimento (um aumento de quantidade ou melhoramento na 
+qualidade de um animal ou planta);
+ii) Degeneração (uma diminuição na quantidade ou deterioração na 
+qualidade de um animal ou planta); ou
+iii) Procriação (criação de animais ou de plantas vivos adicionais); ouDiário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20803
+b) Produção de produto agrícola tal como borracha em bruto (latex), 
+folhas de chá, lã e leite.
+Definições gerais
+9 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Justo valor: é a quantia pela qual um ativo pode ser trocado ou um 
+passivo liquidado, entre partes conhecedoras e dispostas a isso, numa transação em que não exista relacionamento entre elas.
+Mercado ativo: é um mercado no qual se verifiquem todas as con-
+dições seguintes:
+a) Os itens negociados no mercado são homogéneos;
+b) Podem ser encontrados em qualquer momento compradores e 
+vendedores dispostos a comprar e vender; e
+c) Os preços estão disponíveis ao público.
+Quantia escriturada: é a quantia pela qual um ativo é reconhecido no 
+balanço, após a dedução de qualquer depreciação/amortização acumulada 
+e de perdas por imparidade acumuladas inerentes.
+Subsídios de entidades públicas: são os definidos na NCRF 22 — Sub-
+sídios e Outros Apoios das Entidades Públicas.
+10 — O justo valor de um ativo é baseado na sua localização e con-
+dição presentes. Consequentemente, por exemplo, o justo valor do gado 
+numa fazenda é o preço do gado no mercado relevante menos o custo 
+de transporte e outros para levar o gado para o mercado.
+Reconhecimento e mensuração
+11 — Uma entidade deve reconhecer um ativo biológico ou produto 
+agrícola quando, e somente quando:
+a) A entidade controle o ativo como consequência de acontecimentos 
+passados;
+b) Seja provável que benefícios económicos associados ao ativo 
+fluirão para a entidade; e
+c) O justo valor ou custo do ativo possa ser fiavelmente mensurado.
+12 — Na atividade agrícola, o controlo pode ser evidenciado, por 
+exemplo, pela posse legal do gado e pela marcação a quente ou de outro 
+modo, aquando da aquisição, nascimento ou desmama. Os benefícios 
+económicos futuros são normalmente estimados pela mensuração dos atributos físicos significativos.
+13 — Um ativo biológico deve ser mensurado, no reconhecimento 
+inicial e em cada data de balanço, pelo seu justo valor menos os custos 
+de alienação, exceto no caso descrito no parágrafo 30 em que o justo 
+valor não pode ser fiavelmente mensurado.
+14 — O produto agrícola colhido dos ativos biológicos de uma enti-
+dade deve ser mensurado pelo seu justo valor menos os custos de vender 
+no momento da colheita. Tal mensuração é o custo nessa data aquando 
+da aplicação da NCRF 18, ou uma outra Norma Contabilística e de 
+Relato Financeiro aplicável.
+15 — A mensuração pelo justo valor de um ativo biológico ou produto 
+agrícola pode ser facilitada pelo agrupamento de ativos biológicos ou 
+de produtos agrícolas de acordo com atributos relevantes, por exemplo, 
+por idade ou qualidade. Uma entidade seleciona os atributos que corres-
+pondam aos atributos usados no mercado como base de determinação do preço.
+16 — As entidades celebram muitas vezes contratos para vender os 
+seus ativos biológicos ou produtos agrícolas numa data futura. Os preços 
+de contrato não são necessariamente relevantes na mensuração pelo 
+justo valor porque o justo valor reflete o mercado corrente em que um 
+comprador e um vendedor dispostos a uma transação nela incorrerão. 
+Consequentemente, o justo valor de um ativo biológico ou produto agrí-
+cola não é ajustado por força da existência de um contrato. Nalguns casos, 
+um contrato para a venda de um ativo biológico ou produto agrícola 
+pode ser um contrato oneroso, como definido na NCRF 21 — Provisões, 
+Passivos Contingentes e Ativos Contingentes.
+17 — Se existir um mercado ativo para um ativo biológico ou produto 
+agrícola, o preço cotado nesse mercado é a base apropriada para determi-
+nar o justo valor desse ativo. Se uma entidade tiver acesso a diferentes 
+mercados ativos, a entidade usará a mais relevante. Por exemplo, se uma 
+entidade tiver acesso a dois mercados ativos, usará o preço existente no 
+mercado em que espera que seja o usado. As cotações oficiais de mercado 
+disponibilizadas pelo Sistema de Informação de Mercados Agrícolas, são exemplo deste conceito.18 — Se não existir um mercado ativo, uma entidade usará um ou 
+mais dos indicadores que se seguem, quando disponíveis, na determi-
+nação do justo valor:
+a) O preço mais recente de transação no mercado, desde que não tenha 
+havido uma alteração significativa nas circunstâncias económicas entre 
+a data dessa transação e a do balanço;
+b) Os preços de mercado de ativos semelhantes com ajustamento 
+para refletir diferenças; e
+c) Referências do setor tais como o valor de um pomar expresso por 
+contentores de exportação, hectare ou outra unidade de medida do setor 
+e o valor do gado expresso em quilo de carne.
+19 — Em certos casos, as fontes de informação listadas no pará-
+grafo 18 podem sugerir diferentes conclusões quanto ao justo valor de 
+um ativo biológico ou produto agrícola. Uma entidade considerará as 
+razões dessas diferenças, a fim de chegar à estimativa mais fiável de 
+justo valor dentro de uma série relativamente estreita de estimativas 
+razoáveis.
+20 — Em certas circunstâncias, os preços ou valores determinados 
+pelo mercado podem não estar disponíveis para um ativo biológico na 
+sua condição atual. Nestas circunstâncias, na determinação do justo 
+valor, uma entidade usará o valor presente dos fluxos de caixa líqui-dos de um ativo, descontados a uma taxa pré -imposto determinada no 
+mercado corrente.
+21 — O objetivo de um cálculo do valor presente de fluxos de caixa 
+líquidos esperados é o de determinar o justo valor de um ativo bio-
+lógico no seu local e condição atuais. Uma entidade considerará isto 
+na determinação de uma taxa de desconto apropriada a ser usada e 
+ao estimar os fluxos de caixa líquidos esperados. A condição atual de 
+um ativo biológico exclui quaisquer aumentos de valor derivados de 
+transformação biológica adicional e de atividades futuras da entidade, 
+tais como os relacionados com o aumento por transformação biológica, colheita e venda futura.
+22 — Uma entidade não inclui quaisquer fluxos de caixa para finan-
+ciar os ativos, impostos, ou repor ativos biológicos após colheita (por 
+exemplo, o custo de replantar árvores numa plantação após o corte).
+23 — Ao acordar no preço de uma transação entre partes não rela-
+cionadas entre si, compradores e vendedores conhecedores e dispostos 
+a isso considerarão a possibilidade de variações nos fluxos de caixa. 
+Assim, esse justo valor reflete a possibilidade de tais variações. Con-
+cordantemente, uma entidade incorpora expectativas acerca de possíveis 
+variações nos fluxos de caixa quer nos fluxos de caixa esperados, quer 
+na taxa de desconto, quer nalguma combinação das duas. Ao determinar 
+uma taxa de desconto, uma entidade usa pressupostos consistentes com 
+os usados na estimativa de fluxos de caixa esperados, para evitar o efeito 
+da dupla contagem de pressupostos ou da sua omissão.
+24 — O custo pode aproximar -se algumas vezes do justo valor, par-
+ticularmente quando:
+a) Tenha tido lugar pouca transformação biológica desde que ocorreu o 
+custo inicial (por exemplo, pés de árvores de fruto brotados de sementes, 
+plantados imediatamente antes da data do balanço); ou
+b) Não se espera que o impacto da transformação biológica sobre os 
+preços seja material (por exemplo, no crescimento inicial, num ciclo de 
+produção de 30 anos, de uma plantação de pinheiros).
+25 — Os ativos biológicos estão muitas vezes fisicamente implantados 
+nos terrenos (por exemplo, árvores numa floresta plantada). Pode não 
+haver mercado separado para ativos biológicos que estejam implantados 
+no terreno mas pode existir um mercado ativo para os ativos combinados, 
+isto é, para os ativos biológicos, terrenos em bruto e melhoramentos de 
+terrenos, como um conjunto. Uma entidade pode usar informação relativa 
+a ativos combinados para mensurar o justo valor de ativos biológicos. 
+Por exemplo, o justo valor de terrenos em bruto e melhoramento de 
+terrenos pode ser deduzido do justo valor dos ativos combinados para chegar ao justo valor de ativos biológicos.
+Ganhos e perdas
+26 — Um ganho ou uma perda proveniente do reconhecimento inicial 
+de um ativo biológico pelo justo valor menos os custos de alienação 
+e de uma alteração de justo valor menos os custos de alienação de um 
+ativo biológico devem ser incluídos no resultado líquido do período 
+em que surja.
+27 — Pode surgir uma perda no reconhecimento inicial de um ativo 
+biológico, porque os custos de vender são deduzidos ao determinar o justo valor menos os custos de alienação de um ativo biológico. Pode surgir um ganho no reconhecimento inicial de um ativo biológico, tal como quando nasce um bezerro.20804 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+28 — Um ganho ou perda que surja no reconhecimento inicial do 
+produto agrícola pelo justo valor menos os custos de alienação deve ser 
+incluído no resultado líquido do período em que surja.
+29 — Pode surgir um ganho ou uma perda no reconhecimento inicial 
+do produto agrícola como consequência de colheitas.
+Incapacidade de mensurar fiavelmente o justo valor
+30 — Há um pressuposto de que o justo valor pode ser mensurado 
+com fiabilidade para um ativo biológico. Contudo, esse pressuposto pode 
+ser refutado apenas no reconhecimento inicial de um ativo biológico, 
+relativamente ao qual não estão disponíveis preços cotados de mercado 
+e cujas mensurações alternativas do justo valor estão determinadas como 
+sendo claramente pouco fiáveis. Nesse caso, esse ativo biológico deve 
+ser mensurado pelo custo menos qualquer depreciação acumulada e 
+qualquer perda por imparidade acumulada. Quando o justo valor desse 
+ativo biológico se tornar fiavelmente mensurável, uma entidade deve 
+mensurá -lo pelo seu justo valor menos os custos estimados do ponto de 
+venda. Quando um ativo biológico não corrente satisfizer os critérios de 
+classificação como detido para venda (ou for incluído num grupo para 
+alienação que esteja classificado como detido para venda) de acordo 
+com a NCRF 8 — Ativos Não Correntes Detidos para Venda e Unidades 
+Operacionais Descontinuadas, presume -se que o justo valor pode ser 
+mensurado com fiabilidade.
+31 — A presunção do parágrafo 30 somente pode ser refutada no 
+reconhecimento inicial. Uma entidade que tenha previamente mensu-rado um ativo biológico pelo seu justo valor menos custos de alienação continuará a mensurar o ativo biológico pelo seu justo valor menos os custos de alienação até à sua alienação.
+32 — Em todos os casos, uma entidade mensura o produto agrícola no 
+ponto de colheita pelo seu justo valor menos os custos de alienação. Esta 
+Norma reflete o ponto de vista de que o justo valor do produto agrícola no ponto de colheita pode ser sempre fiavelmente mensurado.
+33 — Ao determinar o custo, depreciação acumulada e perdas por im-
+paridade acumuladas, uma entidade toma em consideração a NCRF 18, 
+a NCRF 7 e a NCRF 12 — Imparidade de Ativos.
+Subsídios das entidades públicas
+34 — Um subsídio das entidades públicas incondicional relacionado 
+com um ativo biológico deve ser reconhecido nos resultados quando, e apenas quando, o subsídio das entidades públicas se tornar recebível.
+35 — Se um subsídio das entidades públicas relacionado com um ativo 
+biológico for condicional, incluindo quando um subsídio das entidades 
+públicas exige que uma entidade não realize uma atividade agrícola 
+especificada, uma entidade deve reconhecer o subsídio das entidades 
+públicas nos resultados quando, e apenas quando, as condições associa-
+das ao subsídio das entidades públicas forem cumpridas.
+36 — Os termos e condições de subsídios governamentais variam. 
+Por exemplo, um subsídio pode exigir que uma entidade cultive num dado local durante cinco anos e exigir que a entidade devolva todo o subsídio se ela cultivar durante menos do que cinco anos. Neste caso, o 
+subsídio não é reconhecido nos resultados até que os cinco anos passem. 
+Contudo, se os termos do subsídio permitirem que parte dele seja retida de acordo com o tempo que decorreu, a entidade reconhece essa parte nos resultados à medida que o tempo passar.
+Considerações finais
+37 — Os ativos biológicos consumíveis são os que estejam para ser 
+colhidos como produto agrícola ou vendidos como ativos biológicos. 
+Exemplos de ativos biológicos consumíveis são o gado destinado à pro-
+dução de carne, gado detido para venda, peixe em aquacultura, colheitas 
+tal como milho e trigo e árvores que estejam em desenvolvimento para 
+obtenção de madeiras. Os ativos biológicos de produção são os que não 
+sejam ativos biológicos consumíveis; por exemplo, gado do qual pode 
+ser obtido leite, vinhas, árvores de fruto e árvores a partir das quais se 
+obtenha lenha por desbaste enquanto essas árvores permanecem vivas. 
+Os ativos biológicos de produção não são produto agrícola mas, antes, de regeneração própria.
+38 — Os ativos biológicos podem ser classificados como ativos bio-
+lógicos maduros (ou adultos) ou ativos biológicos imaturos (ou juvenis). 
+Os ativos biológicos maduros (ou adultos) são os que tenham atingido 
+as especificações de colhíveis (relativamente aos ativos biológicos 
+consumíveis) ou sejam suscetíveis de sustentar colheitas regulares (re-lativamente aos ativos biológicos de produção).
+39 — O justo valor menos os custos de alienação de um ativo bio-
+lógico pode alterar -se quer devido a alterações físicas quer devido a 
+alterações de preços no mercado. É útil a divulgação separada de al-terações físicas e de preços, na avaliação do desempenho do período 
+corrente, e das perspetivas futuras, particularmente quando haja um ciclo de produção maior do que um ano. Em tais casos, uma entidade é 
+encorajada a divulgar, por grupo ou de qualquer outra maneira, a quan-tia de alterações no justo valor menos custos de alienação incluída nos resultados líquidos devida a alterações físicas e a alterações de preços. 
+Esta alteração é geralmente menos útil quando o ciclo produtivo seja 
+menor do que um ano (por exemplo, quando se criem frangos ou se 
+cultivem cereais).
+40 — A transformação biológica origina uma quantidade de tipos 
+de alterações físicas — crescimento, degeneração, produção e procria-ção — cada uma das quais é observável e mensurável. Cada um desses 
+tipos de alterações físicas tem um relacionamento direto com benefícios 
+económicos futuros. Uma alteração de justo valor de um ativo biológico 
+devido a colheita é também uma alteração física.
+Data de eficácia
+41 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+42 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam comparáveis.
+43 — Esta Norma substitui a NCRF 17 — Agricultura, constante 
+do Aviso n.º 15655/2009, publicado no Diário da República,  2.ª série, 
+n.º 173, de 7 de setembro de 2009.

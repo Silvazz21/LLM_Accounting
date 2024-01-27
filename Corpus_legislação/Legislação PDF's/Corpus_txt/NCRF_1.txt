@@ -1,0 +1,347 @@
+Norma Contabilística e de Relato Financeiro 1
+Estrutura e Conteúdo das Demonstrações Financeiras
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro é 
+o de prescrever as bases quanto à estrutura e conteúdo do balanço, da 
+demonstração dos resultados, da demonstração das alterações no capital 
+próprio e do anexo. A demonstração de fluxos de caixa é desenvolvida-mente tratada na NCRF 2 — Demonstração de Fluxos de Caixa.
+2 — Não se encontram contemplados nesta Norma o âmbito, fina-
+lidades, componentes e considerações gerais sobre as demonstrações 
+financeiras, uma vez que estão vertidas no capítulo 2 (Bases para a 
+Apresentação de Demonstrações Financeiras) do Sistema de Normali-zação Contabilística (SNC).
+Âmbito
+3 — Esta Norma deve ser aplicada a todas as demonstrações finan-
+ceiras de finalidades gerais preparadas e apresentadas de acordo com 
+as Normas Contabilísticas e de Relato Financeiro.
+Considerações gerais
+4 — Esta Norma exige determinadas divulgações no balanço, na 
+demonstração dos resultados e na demonstração das alterações no ca-
+pital próprio e exige divulgação de outras linhas de itens ou nessas 
+demonstrações ou no anexo.
+5 — Esta Norma usa por vezes o termo “divulgação” num sentido 
+lato, englobando itens apresentados no balanço, na demonstração dos resultados, na demonstração das alterações no capital próprio e na de-monstração dos fluxos de caixa, assim como no anexo. As divulgações exigidas estão descritas no correspondente Modelo de Demonstrações Financeiras.
+Identificação das demonstrações financeiras
+6 — As demonstrações financeiras devem ser identificadas claramente 
+e distinguidas de outra informação publicada no mesmo documento.
+7 — As NCRF aplicam -se apenas às demonstrações financeiras e não a 
+outra informação apresentada num relatório anual ou noutro documento. 
+Por isso, é importante que os utentes consigam distinguir informação 
+que seja preparada usando as NCRF de outra informação que possa ser 
+útil aos utentes mas não seja objeto desses requisitos.
+8 — Cada componente das demonstrações financeiras deve ser identi-
+ficado claramente. Além disso, a informação seguinte deve ser mostrada 
+de forma proeminente e repetida quando for necessário para a devida 
+compreensão da informação apresentada:
+a) O nome da entidade que relata ou outros meios de identificação, e 
+qualquer alteração nessa informação desde a data do balanço anterior;
+b) Se as demonstrações financeiras abrangem a entidade individual 
+ou um grupo de entidades;
+c) A data do balanço ou o período abrangido pelas demonstrações 
+financeiras, conforme o que for apropriado para esse componente das 
+demonstrações financeiras;
+d) A moeda de apresentação, por regra o Euro; e
+e) O nível de arredondamento, que não pode exceder o milhar de 
+unidades da moeda referida em  d) usado na apresentação de quantias 
+nas demonstrações financeiras.20750  Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+Período de relato
+9 — As demonstrações financeiras devem ser apresentadas pelo menos 
+anualmente. Quando se altera a data do balanço de uma entidade e as 
+demonstrações financeiras anuais sejam apresentadas para um período 
+mais longo ou mais curto do que um ano, a entidade deve divulgar, além 
+do período abrangido pelas demonstrações financeiras:
+a) A razão para usar um período mais longo ou mais curto; e
+b) O facto de que não são inteiramente comparáveis quantias compa-
+rativas da demonstração dos resultados, da demonstração das alterações 
+no capital próprio, da demonstração de fluxos de caixa e das notas do 
+anexo relacionadas.
+Balanço
+Distinção corrente/não corrente
+10 — Uma entidade deve apresentar ativos correntes e não correntes, 
+e passivos correntes e não correntes, como classificações separadas no 
+balanço de acordo com os parágrafos 14 a 24.
+11 — Uma entidade deve divulgar as quantias que se espera sejam 
+recuperadas ou liquidadas num prazo superior a doze meses para cada 
+linha de item de ativo e de passivo que combine quantias que se espera 
+sejam recuperadas ou liquidadas:
+a) Até doze meses após a data do balanço; e
+b) Após doze meses da data do balanço.
+12 — Quando uma entidade fornece bens ou serviços dentro de um 
+ciclo operacional claramente identificável, a classificação separada 
+de ativos e passivos correntes e não correntes no balanço proporciona 
+informação útil ao se distinguir os ativos líquidos que estejam conti-
+nuamente em circulação, como capital circulante, dos que são usados nas operações de longo prazo da entidade. Essa classificação também 
+realça os ativos que se espera que sejam realizados dentro do ciclo 
+operacional corrente, bem como os passivos que devam ser liquidados 
+dentro do mesmo período.
+13 — A informação acerca das datas previstas para a realização de 
+ativos e de passivos é útil na avaliação da liquidez e solvência de uma 
+entidade. Para alguns instrumentos financeiros é exigida a divulgação 
+das datas de maturidade de ativos financeiros e de passivos financeiros. 
+Os ativos financeiros incluem dívidas a receber comerciais e outras e 
+os passivos financeiros incluem dívidas a pagar comerciais e outras. 
+A informação sobre a data prevista para a recuperação e liquidação de 
+ativos e de passivos não monetários tais como inventários e provisões é 
+também útil, quer os ativos e passivos sejam ou não classificados como 
+correntes ou não correntes. Por exemplo, uma entidade deve divulgar 
+a quantia de inventários que espera que sejam recuperados a mais de doze meses após a data do balanço.
+Ativos correntes
+14 — Um ativo deve ser classificado como corrente quando satisfizer 
+qualquer dos seguintes critérios:
+a) Espera -se que seja realizado, ou pretende -se que seja vendido ou 
+consumido, no decurso normal do ciclo operacional da entidade;
+b) Esteja detido essencialmente para a finalidade de ser negociado;
+c) Espera -se que seja realizado num período até doze meses após a 
+data do balanço; ou
+d) É caixa ou equivalente de caixa, a menos que lhe seja limitada a 
+troca ou sejam usados para liquidar um passivo durante pelo menos doze 
+meses após a data do balanço.
+Todos os outros ativos devem ser classificados como não cor-
+rentes.
+15 — Esta Norma usa a expressão “não corrente” para incluir ati-
+vos tangíveis, intangíveis e financeiros cuja natureza seja de longo 
+prazo.
+16 — O ciclo operacional de uma entidade é o tempo entre a aqui-
+sição de ativos para processamento e sua realização em caixa ou seus 
+equivalentes. Quando o ciclo operacional normal da entidade não for 
+claramente identificável, pressupõe -se que a sua duração seja de doze 
+meses. Os ativos correntes incluem ativos (tais como inventários e 
+dívidas a receber comerciais) que são vendidos, consumidos ou reali-
+zados como parte do ciclo operacional normal mesmo quando não se 
+espere que sejam realizados num período até doze meses após a data 
+do balanço. Os ativos correntes também incluem ativos essencialmente 
+detidos para a finalidade de serem negociados e a parte corrente de ativos 
+financeiros não correntes.Passivos correntes
+17 — Um passivo deve ser classificado como corrente quando satis-
+fizer qualquer um dos seguintes critérios:
+a) Se espere que seja liquidado durante o ciclo operacional normal 
+da entidade;
+b) Esteja detido essencialmente para a finalidade de ser negociado;
+c) Deva ser liquidado num período até doze meses após a data do 
+balanço; ou
+d) A entidade não tenha um direito incondicional de diferir a liquidação 
+do passivo durante pelo menos doze meses após a data do balanço.
+Todos os outros passivos devem ser classificados como não correntes.
+18 — Alguns passivos correntes, tais como dívidas a pagar comerciais 
+e alguns acréscimos de gastos relativos a empregados e outros gastos 
+operacionais, são parte do capital circulante usado no ciclo operacional 
+normal da entidade. Tais itens operacionais são classificados como 
+passivos correntes mesmo que estejam para ser liquidados a mais de 
+doze meses após a data do balanço. O mesmo ciclo operacional normal 
+aplica -se à classificação dos ativos e passivos de uma entidade. Quando 
+o ciclo operacional normal da entidade não for claramente identificável, 
+pressupõe -se que a sua duração seja de doze meses.
+19 — Outros passivos correntes não são liquidados como parte do 
+ciclo operacional normal, mas está prevista a sua liquidação para um período até doze meses após a data do balanço ou estão essencialmente 
+detidos para a finalidade de serem negociados. Exemplos disto são 
+os passivos financeiros classificados como detidos para negociação, 
+descobertos em bancos e a parte corrente de passivos financeiros não 
+correntes, dividendos a pagar, impostos sobre o rendimento e outras 
+dívidas a pagar não comerciais. Os passivos financeiros que propor-
+cionem financiamento numa base de longo prazo e cuja liquidação não 
+esteja prevista para um período até doze meses após a data do balanço 
+são passivos não correntes, sujeitos aos parágrafos 22 e 23.
+20 — Uma entidade classifica os seus passivos financeiros como 
+correntes quando a sua liquidação estiver prevista para um período até 
+doze meses após a data do balanço, mesmo que:
+a) O prazo original tenha sido por um período superior a doze meses; e
+b) Um acordo de refinanciamento, ou de reescalonamento de pagamen-
+tos, numa base de longo prazo seja completado após a data do balanço 
+e antes das demonstrações financeiras serem autorizadas para emissão.
+21 — Se uma entidade esperar, e tiver a possibilidade de, refinanciar 
+ou substituir ( roll over ) uma obrigação durante pelo menos doze meses 
+após a data do balanço, ela classifica a obrigação como não corrente, 
+mesmo que fosse devida dentro de um período mais curto. Contudo, 
+quando o refinanciamento ou a substituição ( roll over ) da obrigação não 
+depender do critério da entidade (por exemplo, se não houver um acordo 
+de refinanciamento), o potencial de refinanciamento não é considerado 
+e a obrigação é classificada como corrente.
+22 — Quando uma entidade não cumprir um compromisso segundo 
+um acordo de empréstimo de longo prazo até à data do balanço, inclu-
+sive com o efeito de o passivo se tornar pagável à ordem, o passivo é 
+classificado como corrente, mesmo que o mutuante tenha concordado, 
+após a data do balanço e antes da autorização das demonstrações finan-
+ceiras para emissão, em não exigir pagamento como consequência do 
+incumprimento. O passivo é classificado como corrente porque, à data 
+do balanço, a entidade não tem um direito incondicional de diferir a sua 
+liquidação durante pelo menos doze meses após essa data.
+23 — Contudo, o passivo é classificado como não corrente se o mutu-
+ante tiver concordado, até à data do balanço, em proporcionar um período 
+de graça a terminar pelo menos doze meses após a data do balanço, 
+dentro do qual a entidade pode retificar o incumprimento e durante o 
+qual o mutuante não pode exigir o reembolso imediato.
+24 — Com respeito a empréstimos classificados como passivos cor-
+rentes, se os acontecimentos que se seguem ocorrerem entre a data do 
+balanço e a data em que as demonstrações financeiras forem autoriza-
+das para emissão, esses acontecimentos qualificam -se para divulgação 
+como acontecimentos que não dão lugar a ajustamentos de acordo com 
+a NCRF 24 — Acontecimentos após a Data do Balanço:
+a) Refinanciamento numa base de longo prazo;
+b) Retificação de um incumprimento de um acordo de empréstimo 
+de longo prazo; e
+c) Receção, da parte do mutuante, de um período de graça para retificar 
+um incumprimento de um acordo de empréstimo de longo prazo que 
+termine pelo menos doze meses após a data do balanço.
+Informação a ser apresentada no balanço
+25 — A informação mínima a apresentar no balanço consta do res-
+petivo modelo publicado em Portaria.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20751
+26 — Linhas de itens adicionais, títulos e subtotais podem ser apre-
+sentados no balanço quando tal apresentação for relevante para uma 
+melhor compreensão da posição financeira da entidade.
+27 — Uma entidade deve divulgar, no balanço ou no anexo, outras 
+subclassificações das linhas de itens apresentadas, classificadas de uma 
+forma apropriada para as operações da entidade.
+28 — O pormenor proporcionado nas subclassificações depende dos 
+requisitos das NCRF e da dimensão, natureza e função das quantias 
+envolvidas. As divulgações variam para cada item, por exemplo:
+a) Os itens do ativo fixo tangível são desagregados em classes, de 
+acordo com a NCRF 7 — Ativos Fixos Tangíveis;
+b) As contas a receber são desagregadas em contas a receber de 
+clientes comerciais, contas a receber de partes relacionadas, adianta-
+mentos e outras;
+c) Os inventários são subclassificados, de acordo com a NCRF 18 — 
+Inventários, em classificações tais como mercadorias, consumíveis de 
+produção, matérias -primas, trabalhos em curso e produtos acabados;
+d) As provisões são desagregadas em provisões para benefícios dos 
+empregados e outros itens; e
+e) O capital social e as reservas são desagregados em várias rubricas, 
+tais como capital, reserva legal e outras reservas.
+Informação a ser apresentada no anexo
+29 — Uma entidade deve divulgar o seguinte no anexo:
+a) O número e o valor nominal ou, na falta de valor nominal, o valor 
+contabilístico das ações ou quotas subscritas durante o período dentro 
+dos limites do capital autorizado;
+b) Se existirem várias categorias de ações ou quotas, o número e o 
+valor nominal ou, na falta de valor nominal, o valor contabilístico de 
+cada uma das categorias;
+c) A existência de partes de capital beneficiárias, obrigações conver-
+tíveis, títulos de subscrição, opções ou títulos ou direitos similares, com 
+indicação do seu número e do âmbito dos direitos que conferem;
+d) A denominação ou firma, a sede social ou a sede estatutária e a 
+forma jurídica de cada uma das entidades de que a entidade seja sócia 
+de responsabilidade ilimitada;
+e) A proposta de aplicação de resultados ou, se aplicável, a aplicação 
+dos resultados; e
+f) A natureza e o objetivo comercial das operações da entidade não 
+incluídas no balanço e o respetivo impacto financeiro na entidade, desde 
+que os riscos ou os benefícios resultantes de tais operações sejam mate-
+riais e na medida em que a divulgação de tais riscos ou benefícios seja necessária para efeitos da avaliação da posição financeira da entidade.
+Demonstração dos resultados
+Resultados do período
+30 — Todos os itens de rendimentos e de gastos reconhecidos num 
+período devem ser incluídos nos resultados a menos que uma Norma o exija de outro modo.
+Informação a ser apresentada na demonstração dos resultados
+31 — A informação mínima a apresentar na demonstração dos resul-
+tados consta do respetivo modelo publicado em Portaria.
+32 — Linhas de itens adicionais, títulos e subtotais podem ser apre-
+sentados na demonstração dos resultados, quando tal apresentação for 
+relevante para uma melhor compreensão do desempenho financeiro 
+da entidade.
+33 — Uma entidade não deve apresentar itens de rendimento e de 
+gasto como itens extraordinários, quer na demonstração dos resultados 
+quer no anexo. Deverá, porém, divulgar no anexo a quantia e a natureza 
+de elementos isolados dos rendimentos ou dos gastos cuja dimensão ou incidência sejam excecionais.
+34 — Os itens a apresentar na demonstração dos resultados deverão 
+basear -se numa classificação que atenda à sua natureza, podendo, adi-
+cionalmente, ser apresentada uma demonstração de resultados em que a 
+classificação dos itens se baseie na sua função dentro da entidade.
+35 — O resultado por ação básico deve ser calculado dividindo os 
+resultados atribuíveis aos detentores de capital próprio ordinário da 
+empresa -mãe (o numerador) pelo número médio ponderado de ações ordinárias em circulação (o denominador) durante o período.
+Informação a ser apresentada no anexo
+36 — Quando os itens de rendimentos e de gastos são materiais, a sua 
+natureza e quantia devem ser divulgadas separadamente.37 — As circunstâncias que dão origem à divulgação separada de 
+itens de rendimentos e de gastos incluem:
+a) Reestruturações das atividades de uma entidade e reversões de 
+quaisquer provisões para os custos de reestruturação;
+b) Alienações de itens de ativos fixos tangíveis;
+c) Alienações de investimentos;
+d) Unidades operacionais descontinuadas;
+e) Resolução de litígios; e
+f) Outras reversões de provisões.
+Demonstração das alterações no capital próprio
+38 — As rubricas a incluir na demonstração das alterações no capital 
+próprio constam do respetivo modelo publicado em Portaria.
+39 — As alterações no capital próprio de uma entidade entre duas datas 
+de balanço refletem o aumento ou a redução nos seus ativos líquidos 
+durante o período. Com a exceção das alterações resultantes de transações 
+com detentores de capital próprio agindo na sua capacidade de detentores 
+de capital próprio (tais como contribuições de capital, reaquisições de 
+instrumentos de capital próprio da entidade e dividendos) e dos custos 
+de transação diretamente relacionados com tais transações, a alteração 
+global no capital próprio durante um período representa a quantia total 
+de rendimentos e gastos, incluindo ganhos e perdas, gerada pelas ativi-
+dades da entidade durante esse período (quer esses itens de rendimentos 
+e de gastos sejam reconhecidos nos resultados ou diretamente como 
+alterações no capital próprio).
+40 — Esta demonstração financeira introduz o conceito de resultado 
+integral, que resulta da agregação direta do resultado líquido do período 
+com todas as variações ocorridas em capitais próprios não diretamente relacionadas com os detentores de capital, agindo enquanto tal.
+41 — A NCRF 4 — Políticas Contabilísticas, Alterações nas Estimati-
+vas Contabilísticas e Erros exige ajustamentos retrospetivos para efetuar 
+alterações nas políticas contabilísticas, até ao ponto que seja praticável, 
+exceto quando as disposições transitórias noutra Norma o exijam de outra 
+forma. A NCRF 4 também exige que as reexpressões para corrigir erros sejam feitas retrospetivamente, até ao ponto em que seja praticável. Os 
+ajustamentos retrospetivos e as reexpressões retrospetivas são feitos 
+no saldo dos resultados transitados, exceto quando uma Norma exija 
+ajustamentos retrospetivos de outro componente do capital próprio. 
+A divulgação na demonstração das alterações no capital próprio do 
+ajustamento total para cada componente do capital próprio resultante, 
+é feita separadamente das alterações nas políticas contabilísticas e de 
+correções de erros. Estes ajustamentos são divulgados para cada período 
+anterior e no início do período.
+Anexo
+Estrutura
+42 — O anexo deve:
+a) Apresentar informação acerca das bases de preparação das demons-
+trações financeiras e das políticas contabilísticas usadas;
+b) Divulgar a informação exigida pelo Modelo de Demonstrações 
+Financeiras que não seja apresentada no balanço, na demonstração dos 
+resultados, na demonstração das alterações no capital próprio ou na 
+demonstração dos fluxos de caixa; e
+c) Proporcionar informação adicional que não seja apresentada no 
+balanço, na demonstração dos resultados, na demonstração das alterações 
+no capital próprio ou na demonstração dos fluxos de caixa, mas que seja 
+relevante para uma melhor compreensão de qualquer uma delas.
+43 — As notas do anexo devem ser apresentadas de uma forma sis-
+temática. Cada item no balanço, na demonstração dos resultados, na 
+demonstração das alterações no capital próprio e na demonstração dos 
+fluxos de caixa, que tenha merecido uma nota no anexo, deve ter uma 
+referência cruzada.
+44 — As notas do anexo devem ser apresentadas pela seguinte ordem:
+a) Identificação da entidade, incluindo domicílio, natureza da ativi-
+dade, nome e sede da empresa -mãe, se aplicável;
+b) Referencial contabilístico de preparação das demonstrações financeiras;
+c) Resumo das principais políticas contabilísticas adotadas;
+d) Informação de suporte de itens apresentados no balanço, na de-
+monstração dos resultados, na demonstração das alterações no capital 
+próprio e na demonstração dos fluxos de caixa, pela ordem em que cada 
+demonstração e cada linha de item seja apresentada;
+e) Passivos contingentes e compromissos contratuais não reconhecidos;
+f) Divulgações exigidas por diplomas legais;
+g) Informações de caráter ambiental.20752  Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+Divulgações de políticas contabilísticas
+45 — Uma entidade deve divulgar um resumo das principais políticas 
+contabilísticas, designadamente:
+a) Bases de mensuração usadas na preparação das demonstrações 
+financeiras;
+b) Outras políticas contabilísticas usadas que sejam relevantes para 
+uma compreensão das demonstrações financeiras.
+46 — Uma entidade deve divulgar, no resumo das políticas contabilís-
+ticas significativas ou em outras notas, os juízos de valor, com a exceção 
+dos que envolvam estimativas, que o órgão de gestão fez no processo de 
+aplicação das políticas contabilísticas da entidade e que tenham maior impacto nas quantias reconhecidas nas demonstrações financeiras.
+Principais fontes de incerteza das estimativas
+47 — Uma entidade deve divulgar, no anexo, informação acerca dos 
+principais pressupostos relativos ao futuro, e outras principais fontes da 
+incerteza das estimativas à data do balanço, que tenham um risco signi-
+ficativo de provocar um ajustamento material nas quantias escrituradas de ativos e passivos durante o período contabilístico seguinte.
+Data de eficácia
+48 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+49 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam comparáveis.
+50 — Esta Norma substitui a NCRF 1 — Estrutura e Conteúdo das 
+Demonstrações Financeiras, constante do Aviso n.º 15655/2009, publi-
+cado no Diário da República, 2.ª série, n.º 173, de 7 de setembro de 2009.

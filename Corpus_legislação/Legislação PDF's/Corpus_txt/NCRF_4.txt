@@ -1,0 +1,375 @@
+Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20757
+Norma Contabilística e de Relato Financeiro 4
+Políticas Contabilísticas, Alterações nas Estimativas
+Contabilísticas e Erros
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro 
+é o de prescrever os critérios para a seleção e alteração das políticas 
+contabilísticas, bem como o tratamento contabilístico das alterações nas 
+estimativas contabilísticas e correções de erros. A Norma destina -se a melhorar a relevância e a fiabilidade das demonstrações financeiras de 
+uma entidade, e a sua comparabilidade ao longo do tempo e com as 
+demonstrações financeiras de outras entidades.
+2 — Os requisitos de divulgação relativos a políticas contabilísticas, 
+exceto aqueles que digam respeito a alterações nas políticas conta-
+bilísticas, são estabelecidos na NCRF 1 — Estrutura e Conteúdo das 
+Demonstrações Financeiras.
+Âmbito
+3 — Esta Norma deve ser aplicada na seleção e aplicação de políticas 
+contabilísticas e na contabilização de alterações nas políticas contabi-
+lísticas, alterações nas estimativas contabilísticas e correções de erros 
+de períodos anteriores.
+4 — Os efeitos fiscais de correções de erros de períodos anteriores e 
+ajustamentos retrospetivos derivados da aplicação de alterações nas polí-
+ticas contabilísticas são contabilizados de acordo com a NCRF 25 — Im-
+postos Sobre o Rendimento.
+Definições
+5 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Alteração na estimativa contabilística: é um ajustamento na quantia 
+escriturada de um ativo ou de um passivo, ou a quantia de consumo 
+periódico de um ativo, que resulta da avaliação do presente estado dos 
+ativos e passivos, e obrigações e benefícios futuros esperados associados 
+aos mesmos. As alterações nas estimativas contabilísticas resultam de 
+nova informação ou novos desenvolvimentos e, em conformidade, não 
+são correções de erros.
+Aplicação prospetiva: de uma alteração numa política contabilística 
+e de reconhecimento do efeito de uma alteração numa estimativa con-
+tabilística, respetivamente, é:
+a) A aplicação da nova política contabilística a transações, outros 
+acontecimentos e condições, que ocorram após a data em que a política 
+seja alterada; e
+b) O reconhecimento do efeito da política da alteração na estimativa 
+contabilística nos períodos corrente e futuro afetados pela alteração.
+Aplicação retrospetiva: é a aplicação de uma nova política contabi-
+lística a transações, outros acontecimentos e condições, como se essa política tivesse sido sempre aplicada.
+Erros de períodos anteriores: são omissões, e declarações incorretas, 
+nas demonstrações financeiras da entidade de um ou mais períodos 
+anteriores decorrentes da falta de uso, ou uso incorreto, de informação 
+fiável que:
+a) Estava disponível quando as demonstrações financeiras desses 
+períodos foram autorizadas para emissão; e
+b) Poderia razoavelmente esperar -se que tivesse sido obtida e tomada 
+em consideração na preparação e apresentação dessas demonstrações 
+financeiras.
+Tais erros incluem os efeitos de erros matemáticos, erros na aplicação 
+de políticas contabilísticas, faltas de cuidado ou interpretações incorretas 
+de factos e fraudes.
+Impraticável: a aplicação de um requisito é impraticável quando a 
+entidade não o pode aplicar depois de ter feito todos os esforços razoáveis 
+para o conseguir. Para um período anterior em particular, é impraticável 
+aplicar retrospetivamente uma alteração na política contabilística ou fazer 
+uma reexpressão retrospetiva para corrigir um erro se:
+a) Os efeitos da aplicação retrospetiva ou da reexpressão retrospetiva 
+não forem determináveis;
+b) A aplicação retrospetiva ou a reexpressão retrospetiva exigir pres-
+supostos sobre qual teria sido a intenção da entidade nesse período; ou
+c) A aplicação retrospetiva ou a reexpressão retrospetiva exigir esti-
+mativas significativas de quantias e se for impossível distinguir objeti-vamente a informação sobre estas estimativas que:
+i) Proporcione provas das circunstâncias que existiam na(s) data(s) em 
+que essas quantias foram reconhecidas, mensuradas ou divulgadas;ii) Teria estado disponível quando as demonstrações financeiras desse 
+período foram autorizadas para emissão.
+Material: as omissões ou declarações incorretas de itens são mate-
+riais se puderem, individual ou coletivamente, influenciar as decisões 
+económicas dos utentes, tomadas com base nas demonstrações finan-
+ceiras. A materialidade depende da dimensão e natureza da omissão 
+ou declaração incorreta ajuizada nas circunstâncias que a rodeiam. A 
+dimensão e a natureza do item, ou uma combinação de ambas, podem 
+ser o fator determinante.
+Normas Contabilísticas e de Relato Financeiro: são as Normas e 
+Normas Interpretativas emanadas da Comissão de Normalização Con-
+tabilística (CNC).
+Políticas contabilísticas: são os princípios, bases, convenções, regras 
+e práticas específicos aplicados por uma entidade na preparação e apre-sentação de demonstrações financeiras.
+Reexpressão retrospetiva: é a correção do reconhecimento, mensura-
+ção e divulgação de quantias de elementos das demonstrações financeiras 
+como se um erro de períodos anteriores nunca tivesse ocorrido.
+6 — Avaliar se uma omissão ou declaração incorreta poderia in-
+fluenciar as decisões económicas dos utentes, sendo portanto material, 
+exige a consideração das características desses utentes. Para esse efeito, 
+“presume -se que os utentes tenham um razoável conhecimento das 
+atividades empresariais económicas e da contabilidade e vontade de 
+estudar a informação com razoável diligência”. Por isso, a avaliação 
+deve ter em conta a forma como se pode esperar razoavelmente que 
+os utentes com tais atributos possam ser influenciados na tomada de 
+decisões económicas.
+Políticas contabilísticas
+Seleção e aplicação de políticas contabilísticas
+7 — A política ou políticas contabilísticas a aplicar a determinado item 
+será a que decorrer da Norma que especificamente tratar da transação, 
+outro acontecimento ou condição.
+8 — As NCRF estabelecem políticas contabilísticas que resultam 
+em demonstrações financeiras contendo informação relevante e fiável sobre as transações, outros acontecimentos e condições a que se apli-
+cam. Essas políticas não necessitam de ser aplicadas quando o efeito da 
+sua aplicação for imaterial, exceto se tiver por objetivo alcançar uma 
+determinada apresentação da posição financeira, desempenho financeiro 
+ou fluxos de caixa.
+9 — Na ausência de uma Norma ou Norma Interpretativa que se apli-
+que especificamente a uma transação, outro acontecimento ou condição, 
+o órgão de gestão ajuizará quanto ao desenvolvimento e aplicação de 
+uma política contabilística que resulte em informação que seja:
+a) Relevante para a tomada de decisões económicas por parte dos 
+utentes;
+b) Fiável, de tal modo que as demonstrações financeiras:
+i) Representem fielmente a posição financeira, o desempenho finan-
+ceiro e os fluxos de caixa da entidade;
+ii) Reflitam a substância económica de transações, outros aconteci-
+mentos e condições e não meramente a forma legal;
+iii) Sejam neutras, isto é, estejam isentas de enviesamentos;
+iv) Sejam prudentes; e
+v) Sejam completas em todos os aspetos materiais.
+10 — Ao fazer os juízos de valor descritos no parágrafo 9, o órgão 
+de gestão deve consultar e considerar a aplicabilidade das seguintes 
+fontes, por ordem indicada:
+a) Os requisitos das Normas que tratam de assuntos semelhantes e 
+relacionados; e
+b) As definições e os critérios de reconhecimento e de mensuração 
+para ativos, passivos, rendimentos e gastos na Estrutura Conceptual.
+Consistência de políticas contabilísticas
+11 — Uma entidade deve selecionar e aplicar as suas políticas con-
+sistentemente para transações semelhantes, outros acontecimentos e 
+condições, a menos que uma Norma ou Norma Interpretativa especifica-
+mente exija ou permita a categorização de itens para os quais possam ser 
+apropriadas diferentes políticas. Se uma Norma ou Norma Interpretativa 
+exigir ou permitir tal categorização, uma política contabilística deve ser 
+selecionada e aplicada consistentemente a cada categoria.20758 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+Alterações nas políticas contabilísticas
+12 — Uma entidade deve alterar uma política contabilística apenas 
+se a alteração:
+a) For exigida por uma Norma ou Norma Interpretativa; ou
+b) Resultar no facto de as demonstrações financeiras proporcionarem 
+informação fiável e mais relevante sobre os efeitos das transações, ou-
+tros acontecimentos ou condições, na posição financeira, desempenho financeiro ou fluxos de caixa da entidade.
+13 — Os utentes das demonstrações financeiras precisam de poder 
+comparar as demonstrações financeiras de uma entidade ao longo do 
+tempo para identificar tendências na sua posição financeira, desempenho 
+financeiro e fluxos de caixa. Por isso, são aplicadas as mesmas políticas 
+contabilísticas em cada período ou de um período para o outro, a menos 
+que uma alteração numa política contabilística esteja em conformidade 
+com um dos critérios enunciados no parágrafo 12.
+14 — O que se segue não são alterações nas políticas contabilísticas:
+a) A aplicação de uma política contabilística para transações, outros 
+acontecimentos, ou condições, que difiram em substância daqueles que ocorreram anteriormente; e
+b) A aplicação de uma nova política contabilística para transações, 
+outros acontecimentos ou condições, que não ocorreram anteriormente ou eram imateriais.
+15 — A aplicação inicial de uma política para revalorizar ativos em 
+conformidade com a NCRF 6 — Ativos Intangíveis ou a NCRF 7 — Ati-
+vos Fixos Tangíveis é uma alteração numa política contabilística a ser 
+tratada como uma revalorização de acordo com a NCRF 6 ou NCRF 7 
+e não de acordo com esta Norma.
+16 — Os parágrafos 17 a 24 não se aplicam à alteração na política 
+descrita no parágrafo 15.
+Aplicar alterações nas políticas contabilísticas
+17 — Sem prejuízo do disposto no parágrafo 20:
+a) Uma entidade deve contabilizar uma alteração na política con-
+tabilística resultante da aplicação inicial de uma Norma ou Norma 
+Interpretativa de acordo com as disposições transitórias específicas, se 
+existirem nessa Norma ou Norma Interpretativa; e
+b) Quando uma entidade altere uma política contabilística na apli-
+cação inicial de uma Norma ou Norma Interpretativa que não inclua 
+disposições transitórias específicas que se apliquem a essa alteração, 
+ou quando altere uma política contabilística voluntariamente, ela deve 
+aplicar a alteração retrospetivamente.
+18 — Para a finalidade desta Norma, a aplicação antecipada de uma 
+Norma ou Norma Interpretativa não é uma alteração voluntária na 
+política contabilística.
+Aplicação retrospetiva
+19 — Sem prejuízo do disposto no parágrafo 20, quando uma alteração 
+na política contabilística é aplicada retrospetivamente de acordo com 
+o parágrafo 17( a) ou 17( b) a entidade deve ajustar o saldo de abertura 
+de cada componente do capital próprio afetado para o período anterior mais antigo apresentado e as outras quantias comparativas divulgadas para cada período anterior apresentado como se a nova política tivesse sido sempre aplicada.
+Limitações à aplicação retrospetiva
+20 — Quando a aplicação retrospetiva for exigida pelo parágrafo 17( a)
+ou 17( b) uma alteração na política contabilística deve ser aplicada re-
+trospetivamente exceto até ao ponto em que seja impraticável determinar 
+quer os efeitos específicos de um período quer o efeito cumulativo da 
+alteração.
+21 — Quando for impraticável determinar os efeitos específicos num 
+período da alteração duma política contabilística na informação compa-
+rativa para um ou mais períodos anteriores apresentados, a entidade deve 
+aplicar a nova política contabilística às quantias escrituradas de ativos e 
+passivos no início do período mais antigo para o qual seja praticável a 
+aplicação retrospetiva, que pode ser o período corrente, e deve fazer um 
+ajustamento correspondente no saldo de abertura de cada componente do capital próprio afetado desse período.
+22 — Quando for impraticável determinar o efeito cumulativo, no 
+início do período corrente, da aplicação de uma nova política contabilís-
+tica a todos os períodos anteriores, a entidade deve ajustar a informação 
+comparativa para aplicar a nova política contabilística prospetivamente 
+a partir da data mais antiga em que seja praticável fazê -lo.23 — Quando uma entidade aplicar uma nova política contabilística 
+retrospetivamente, ela aplica a nova política contabilística à informação 
+comparativa para períodos anteriores tão antigos quanto for praticável. 
+A aplicação retrospetiva a um período anterior não é praticável a menos 
+que seja praticável determinar o efeito cumulativo nas quantias dos ba-
+lanços de abertura e de fecho desse período. A quantia do ajustamento 
+resultante relacionado com períodos anteriores aos apresentados nas 
+demonstrações financeiras é feita para o saldo de abertura de cada 
+componente do capital próprio afetado do período anterior mais an-
+tigo apresentado. Normalmente, o ajustamento é feito nos resultados 
+transitados. Contudo, o ajustamento pode ser feito noutro componente 
+do capital próprio (por exemplo, para cumprir uma Norma ou Norma 
+Interpretativa). Qualquer outra informação sobre períodos anteriores, 
+tal como resumos históricos de dados financeiros, é também ajustada para períodos tão antigos quanto praticável.
+24 — Quando for impraticável a uma entidade fazer a aplicação retros-
+petiva de uma nova política contabilística, porque não pode determinar o 
+efeito cumulativo da aplicação da mesma a todos os períodos anteriores, 
+deve, de acordo com o parágrafo 22 fazer a aplicação prospetiva dessa 
+nova política desde o início do período mais antigo em que tal seja prati-
+cável. Por isso, ela ignora a parte do ajustamento cumulativo nos ativos, 
+passivos e capital próprio que surja antes dessa data. A alteração numa política contabilística é permitida mesmo que seja impraticável fazer a 
+sua aplicação prospetiva a qualquer período anterior. Os parágrafos 40 
+a 43 proporcionam orientação quando for impraticável aplicar uma nova 
+política contabilística a um ou mais períodos anteriores.
+Alterações nas estimativas contabilísticas
+25 — Como consequência das incertezas inerentes às atividades em-
+presariais, muitos itens nas demonstrações financeiras não podem ser 
+mensurados com precisão, podendo apenas ser estimados. A estimativa 
+envolve juízos de valor baseados na última informação disponível. Por 
+exemplo, podem ser exigidas estimativas de:
+a) Débitos incobráveis (de contas a receber);
+b) Obsolescência de inventários;
+c) Justo valor dos ativos e passivos financeiros;
+d) A vida útil de, ou o modelo esperado de consumo dos benefícios 
+económicos futuros incorporados em, ativos depreciáveis; e
+e) Obrigações respeitantes a garantias.
+26 — O uso de estimativas razoáveis é uma parte essencial da pre-
+paração de demonstrações financeiras e não diminui a sua fiabilidade.
+27 — Uma estimativa pode necessitar de revisão se ocorrerem altera-
+ções nas circunstâncias em que a estimativa se baseou ou em consequên-
+cia de nova informação ou de mais experiência. Dada a sua natureza, a revisão de uma estimativa não se relaciona com períodos anteriores e 
+não é a correção de um erro.
+28 — Uma alteração na base de mensuração aplicada é uma altera-
+ção numa política contabilística e não uma alteração numa estimativa 
+contabilística. Quando for difícil distinguir uma alteração numa política 
+contabilística de uma alteração da estimativa contabilística, a alteração é tratada como alteração numa estimativa contabilística.
+29 — O efeito de uma alteração numa estimativa contabilística, que 
+não seja uma alteração à qual se aplique o parágrafo 30, deve ser reco-nhecido prospetivamente incluindo -o nos resultados do:
+a) Período de alteração, se a alteração afetar apenas esse período; ou
+b) Período de alteração e períodos futuros, se a alteração afetar ambas 
+as situações.
+30 — Até ao ponto em que uma alteração numa estimativa contabi-
+lística dá origem a alterações em ativos e passivos, ou se relacione com 
+um item do capital próprio, ela deve ser reconhecida pelo ajustamento 
+da quantia escriturada do item de capital próprio, ativo ou passivo 
+relacionado no período da alteração.
+31 — O reconhecimento prospetivo do efeito de uma alteração numa 
+estimativa contabilística significa que a alteração é aplicada a transações, 
+outros acontecimentos ou condições a partir da data de alteração na 
+estimativa. Uma alteração numa estimativa contabilística pode afetar 
+apenas os resultados do período corrente ou os resultados tanto do 
+período corrente como de futuros períodos. Por exemplo, uma alteração 
+na estimativa da quantia de débitos incobráveis afeta apenas os resulta-
+dos do período corrente e, por isso, é reconhecida no período corrente. 
+Porém, uma alteração na estimativa da vida útil, ou no modelo esperado 
+de consumo dos benefícios económicos futuros incorporados num ativo 
+depreciável, afeta o gasto de depreciação do período corrente e de cada um dos futuros períodos durante a vida útil remanescente do ativo. Em 
+ambos os casos, o efeito da alteração relacionada com o período corrente 
+é reconhecido como rendimento ou gasto no período corrente. O efeito, Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20759
+caso exista, em futuros períodos é reconhecido como rendimento ou 
+gasto nesses períodos futuros.
+Erros
+32 — Podem surgir erros no que respeita ao reconhecimento, men-
+suração, apresentação ou divulgação de elementos de demonstrações 
+financeiras. As demonstrações financeiras não estão em conformidade 
+com as NCRF se contiverem erros materiais ou erros imateriais feitos in-
+tencionalmente para alcançar uma determinada apresentação da posição 
+financeira, desempenho financeiro ou fluxos de caixa de uma entidade. 
+Os erros potenciais do período corrente descobertos nesse período são 
+corrigidos antes de as demonstrações financeiras serem autorizadas para 
+emissão. Contudo, os erros materiais por vezes só são descobertos num período posterior, e estes erros de períodos anteriores são corrigidos na 
+informação comparativa apresentada nas demonstrações financeiras 
+desse período posterior (ver parágrafos 33 a 38).
+33 — Sem prejuízo do disposto no parágrafo 34, uma entidade deve 
+corrigir os erros materiais de períodos anteriores retrospetivamente ao 
+primeiro conjunto de demonstrações financeiras aprovadas após a sua 
+descoberta:
+a) Reexpressando as quantias comparativas para o(s) período(s) 
+anterior(es) apresentado(s) em que tenha ocorrido o erro; ou
+b) Se o erro ocorreu antes do período anterior mais antigo apresentado, 
+reexpressando os saldos de abertura dos ativos, passivos e capital próprio 
+para o período mais antigo apresentado.
+Limitações à reexpressão retrospetiva
+34 — Um erro do período anterior deve ser corrigido por reexpressão 
+retrospetiva exceto até ao ponto em que seja impraticável determinar quer 
+os efeitos específicos de um período quer o efeito cumulativo do erro.
+35 — Quando for impraticável determinar o período em que se come-
+çam a sentir os efeitos de um erro na informação comparativa para um 
+ou mais períodos anteriores apresentados, a entidade deve reexpressar 
+os saldos de abertura de ativos, passivos e capital próprio para o período 
+mais antigo para o qual seja praticável a reexpressão retrospetiva (que 
+pode ser o período corrente).
+36 — Quando for impraticável determinar o efeito cumulativo, no 
+início do período corrente, de um erro em todos os períodos anteriores, 
+a entidade deve reexpressar a informação comparativa para corrigir 
+o erro prospetivamente a partir da data mais antiga em que tal seja 
+praticável.
+37 — A correção de um erro de um período anterior é excluída dos 
+resultados do período em que o erro é descoberto. Qualquer informa-
+ção apresentada sobre períodos anteriores, incluindo qualquer resumo histórico de dados financeiros, é reexpressa para períodos tão antigos 
+quanto tal seja praticável.
+38 — Quando for impraticável determinar a quantia de um erro (por 
+exemplo, um erro na aplicação de uma política contabilística) para todos 
+os períodos anteriores, a entidade, de acordo com o parágrafo 35, reex-
+pressa a informação comparativa prospetivamente a partir da data mais 
+antiga em que tal seja praticável. Por isso, ela ignora a parte da reexpresão 
+cumulativa dos ativos, passivos e capital próprio que surja antes dessa data. Os parágrafos 40 a 43 proporcionam orientação sobre quando é 
+impraticável corrigir um erro para um ou mais períodos anteriores.
+39 — As correções de erros distinguem -se de alterações nas estima-
+tivas contabilísticas. As estimativas contabilísticas, pela sua natureza, 
+são aproximações que podem necessitar de revisão à medida que se 
+torne conhecida informação adicional. Por exemplo, o ganho ou a perda 
+reconhecido no momento do desfecho de uma contingência não é a 
+correção de um erro.
+Impraticabilidade com respeito à aplicação retrospetiva
+e à reexpressão retrospetiva
+40 — Em algumas circunstâncias, torna -se impraticável ajustar infor-
+mação comparativa para um ou mais períodos anteriores para conseguir 
+comparabilidade para o período corrente. Por exemplo, podem não ter 
+sido coligidos dados no(s) período(s) anterior(es) de uma forma que 
+permita quer a aplicação retrospetiva de uma nova política contabilística 
+(incluindo, para a finalidade dos parágrafos 41 a 43, a sua aplicação 
+prospetiva a períodos anteriores) quer a reexpressão retrospetiva para 
+corrigir um erro de um período anterior, e pode ser impraticável recriar 
+essa informação.
+41 — É frequentemente necessário fazer estimativas de aplicação de 
+uma política contabilística a elementos das demonstrações financeiras reconhecidos ou divulgados com respeito a transações, outros aconte-
+cimentos ou condições. A estimativa encerra alguma subjetividade e as 
+estimativas podem ser feitas após a data do balanço. É mais difícil fazer 
+estimativas quando se aplica retrospetivamente uma política contabilís-tica ou se faz uma reexpressão retrospetiva para corrigir um erro de um 
+período anterior, devido ao período de tempo mais longo que pode ter 
+decorrido desde a transação, outro acontecimento ou condição afetados. 
+Contudo, o objetivo das estimativas relacionadas com períodos anteriores 
+permanece o mesmo que para as estimativas feitas no período corrente, 
+nomeadamente, para que a estimativa reflita as circunstâncias que exis-
+tiam quando a transação, outro acontecimento ou condição ocorreram.
+42 — Por isso, aplicar retrospetivamente uma nova política contabi-
+lística ou corrigir um erro de um período anterior exige que se distinga 
+a informação que:
+a) Proporcione provas de circunstâncias que existiam na(s) data(s) em 
+que tiver ocorrido a transação, outro acontecimento ou condição; e
+b) Teria estado disponível quando as demonstrações financeiras desse 
+período anterior foram autorizadas para emissão.
+Para alguns tipos de estimativas (por exemplo, uma estimativa de justo 
+valor não baseada num preço de mercado ou em contributos observáveis) 
+é impraticável distinguir estes tipos de informação. Quando a aplicação 
+retrospetiva ou a reexpressão retrospetiva exija que se faça uma estima-
+tiva significativa para a qual seja impossível distinguir estes dois tipos 
+de informação, é impraticável aplicar a nova política contabilística.
+43 — Não deve ser usada perceção ao aplicar uma nova política 
+contabilística a, ou ao corrigir quantias para um período anterior, quer ao fazer suposições sobre quais teriam sido as intenções do órgão de gestão num período anterior, quer ao estimar as quantias reconhecidas, 
+mensuradas ou divulgadas num período anterior. Por exemplo, quando uma entidade corrija um erro de um período anterior na mensuração de 
+ativos financeiros previamente classificados como investimentos detidos 
+até à maturidade, ela não altera a respetiva base de mensuração para esse 
+período. Num outro exemplo, quando uma entidade corrija um erro de 
+um período anterior ao calcular o seu passivo relativo a baixa por doença 
+acumulada dos empregados, ela ignora a informação sobre uma época 
+de gripe invulgarmente grave no período seguinte que, naturalmente, apenas foi conhecida depois das demonstrações financeiras do período 
+anterior terem sido autorizadas para emissão. O facto das estimativas 
+significativas serem frequentemente exigidas quando se emenda infor-
+mação comparativa apresentada para períodos anteriores não impede o 
+ajustamento ou correção fiável da informação comparativa.
+Data de eficácia
+44 — Uma entidade deve aplicar esta Norma a partir do primeiro 
+período que se inicie em ou após 1 de janeiro de 2016.
+45 — Esta Norma substitui a NCRF 4 Políticas Contabilísticas, Al-
+terações nas Estimativas Contabilísticas e Erros, constante do Aviso 
+n.º 15655/2009, publicado no Diário da República, 2.ª série, n.º 173, 
+de 7 de setembro de 2009.

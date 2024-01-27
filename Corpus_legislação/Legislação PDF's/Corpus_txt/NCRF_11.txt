@@ -1,0 +1,602 @@
+Norma Contabilística e de Relato Financeiro 11
+Propriedades de Investimento
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro é o 
+de prescrever o tratamento contabilístico de propriedades de investimento.
+Âmbito
+2 — Esta Norma deve ser aplicada no reconhecimento e mensuração 
+de propriedades de investimento.
+3 — Esta Norma aplica -se, nomeadamente, à mensuração nas de-
+monstrações financeiras de um locatário de interesses de propriedades 
+de investimento detidos numa locação contabilizada como locação 
+financeira e à mensuração nas demonstrações financeiras de um locador 
+de propriedades de investimento disponibilizadas a um locatário numa 
+locação operacional. Esta Norma não trata de matérias cobertas pela 
+NCRF 9 — Locações, incluindo:
+a) Classificação de locações como locações financeiras ou locações 
+operacionais;
+b) Reconhecimento de rendimentos de locações resultantes de pro-
+priedades de investimento (ver também NCRF 20 — Rédito);
+c) Mensuração, nas demonstrações financeiras de um locatário, de 
+interesses de propriedade detidos segundo uma locação contabilizada 
+como locação operacional;
+d) Mensuração, nas demonstrações financeiras de um locador, do seu 
+investimento líquido numa locação;
+e) Contabilização de transações de venda seguida de locação; e
+f) Divulgações acerca de locações financeiras e de locações opera-
+cionais.
+4 — Esta norma não se aplica a:
+a) Ativos biológicos relacionados com a atividade agrícola (ver 
+NCRF 17 — Agricultura); eb) Direitos minerais e reservas minerais tais como petróleo, gás natural 
+e recursos não regenerativos semelhantes (ver a NCRF 16 — Exploração 
+e Avaliação de Recursos Minerais).
+Definições
+5 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Custo: é a quantia de caixa ou seus equivalentes paga ou o justo valor 
+de outra retribuição dada para adquirir um ativo no momento da sua 
+aquisição ou construção ou, quando aplicável, a quantia atribuída a esse 
+ativo aquando do reconhecimento inicial de acordo com os requisitos específicos de outras NCRF.
+Justo valor: é a quantia pela qual um ativo pode ser trocado ou um 
+passivo liquidado, entre partes conhecedoras e dispostas a isso, numa 
+transação em que não exista relacionamento entre elas.
+Propriedade de investimento: é a propriedade (terreno ou um edifício, 
+ou parte de um edifício, ou ambos) detida (pelo proprietário ou pelo 
+locatário numa locação financeira) para obter rendas ou para valorização 
+do capital ou para ambas as finalidades, e não para:
+a) Uso na produção ou fornecimento de bens ou serviços ou para 
+finalidades administrativas; ou
+b) Venda no decurso ordinário do negócio.
+Propriedade ocupada pelo titular: é a propriedade detida (pelo proprie-
+tário ou pelo locatário numa locação financeira) para uso na produção 
+ou fornecimento de bens ou serviços ou para finalidades administrativas.
+Quantia escriturada: é a quantia pela qual um ativo é reconhecido no 
+balanço, após a dedução de qualquer depreciação/amortização acumulada 
+e de perdas por imparidade acumuladas inerentes.
+6 — Um interesse de propriedade que seja detido por um locatário 
+numa locação operacional pode ser classificado e contabilizado como 
+propriedade de investimento se, e apenas se, a propriedade satisfizer 
+a definição de uma propriedade de investimento e o locatário usar o 
+modelo do justo valor definido nos parágrafos 34 a 58 para o ativo 
+reconhecido. Esta classificação alternativa está disponível numa base 
+de propriedade a propriedade. Contudo, uma vez escolhida esta classi-
+ficação alternativa para um interesse de propriedade deste género detido 
+segundo uma locação operacional, todas as propriedades classificadas como propriedade de investimento devem ser contabilizadas usando o 
+modelo do justo valor.
+7 — As propriedades de investimento são detidas para obter rendas 
+ou para valorização do capital ou para ambas as finalidades. Por isso, 
+uma propriedade de investimento gera fluxos de caixa altamente inde-pendentes dos outros ativos detidos por uma entidade. Isto distingue as 
+propriedades de investimento de propriedades ocupadas pelos titulares. A 
+produção ou fornecimento de bens ou serviços (ou o uso de propriedades 
+para finalidades administrativas) gera fluxos de caixa que são atribuíveis 
+não apenas às propriedades, mas também a outros ativos usados no 
+processo de produção ou de fornecimento. A NCRF 7 — Ativos Fixos 
+Tangíveis aplica -se a propriedades ocupadas pelos titulares.
+8 — O que se segue são exemplos de propriedades de investimento:
+a) Terrenos detidos para valorização do capital a longo prazo e não 
+para venda a curto prazo no decurso ordinário de negócios;
+b) Terrenos detidos para uso futuro ainda não determinado (se uma 
+entidade não tiver determinado que usará o terreno como propriedade ocupada pelo titular ou para venda a curto prazo no decurso ordinário do negócio, o terreno é considerado como detido para valorização do capital);
+c) Um edifício que seja propriedade da entidade (ou detido pela 
+entidade numa locação financeira) e que seja locado segundo uma ou 
+mais locações operacionais;
+d) Um edifício que esteja desocupado mas detido para ser locado 
+segundo uma ou mais locações operacionais; ou
+e) Propriedade que esteja a ser construída ou desenvolvida para futuro 
+uso como propriedade de investimento.
+9 — Seguem -se exemplos de itens que não são propriedades de in-
+vestimento, estando, por isso, fora do âmbito desta Norma:
+a) Propriedades destinadas à venda no decurso ordinário do negó-
+cio ou em vias de construção ou desenvolvimento para tal venda (ver 
+NCRF 18 — Inventários), por exemplo, propriedade adquirida exclusi-
+vamente com vista a alienação subsequente no futuro próximo ou para desenvolvimento e revenda;
+b) Propriedade que esteja a ser construída ou desenvolvida por conta 
+de terceiros (ver NCRF 19 — Contratos de Construção); ou
+c) Propriedade ocupada pelo titular (ver NCRF 7), incluindo (entre 
+outras coisas) propriedade detida para futuro uso como propriedade Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20781
+ocupada pelo titular, propriedade detida para futuro desenvolvimento 
+e uso subsequente como propriedade ocupada pelo titular, propriedade 
+ocupada por empregados (paguem ou não os empregados rendas a taxas 
+de mercado) e propriedade ocupada pelo titular aguardando alienação.
+10 — Algumas propriedades compreendem uma parcela que é detida 
+para obter rendas ou para valorização de capital e uma outra parte que 
+é detida para uso na produção ou fornecimento de bens ou serviços ou 
+para finalidades administrativas. Se estas partes puderem ser vendi-
+das separadamente (ou locadas separadamente segundo uma locação 
+financeira), uma entidade contabilizará as partes separadamente. Se 
+as partes não puderem ser vendidas separadamente, a propriedade só é uma propriedade de investimento se uma parte não significativa for detida para uso na produção ou fornecimento de bens ou serviços ou 
+para finalidades administrativas.
+11 — Em alguns casos, uma entidade proporciona serviços de apoio 
+aos ocupantes de uma propriedade que ela detenha. Uma entidade trata 
+tal propriedade como propriedade de investimento se os serviços forem 
+insignificantes em relação ao acordo como um todo. Um exemplo é 
+quando o titular de um edifício de escritórios proporciona serviços de 
+segurança e de manutenção aos locatários que ocupam o edifício.
+12 — Noutros casos, os serviços prestados são significativos. Por 
+exemplo, se uma entidade possui e gere um hotel, os serviços propor-cionados aos hóspedes são significativos para o acordo como um todo. Por isso, um hotel gerido pelo proprietário é uma propriedade ocupada 
+pelo titular e não uma propriedade de investimento.
+13 — Pode ser difícil determinar se os serviços de apoio são ou 
+não tão significativos que uma propriedade não se qualifique como 
+propriedade de investimento. Por exemplo, o proprietário de um hotel por vezes transfere algumas responsabilidades a terceiros segundo um 
+contrato de gestão. Os termos de tais contratos variam grandemente. 
+Num extremo, a posição do proprietário pode, em substância, ser a 
+de um investidor passivo. No outro extremo, o proprietário pode sim-plesmente ter externalizado funções do dia -a -dia, embora ficando com 
+significativa exposição a riscos de variações nos fluxos de caixa gerados 
+pelas operações do hotel.
+14 — É necessário juízo de valor para determinar se uma propriedade 
+se qualifica como uma propriedade de investimento. Uma entidade de-
+senvolve critérios a fim de que possa exercer esse juízo de valor de forma 
+consistente de acordo com a definição de propriedade de investimento 
+e com a relacionada orientação nos parágrafos 7 a 13.
+15 — Em alguns casos, uma entidade possui propriedade que está 
+locada à, e ocupada pela, sua empresa -mãe ou por uma outra subsidiá-ria. A propriedade não se qualifica como propriedade de investimento nas demonstrações financeiras consolidadas, porque a propriedade está 
+ocupada pelo titular na perspetiva do grupo. Porém, da perspetiva da 
+entidade que a possui, tal propriedade é propriedade de investimento se satisfizer a definição do parágrafo 5. Por isso, o locador trata a pro-
+priedade como propriedade de investimento.
+Reconhecimento
+16 — A propriedade de investimento deve ser reconhecida como um 
+ativo quando, e apenas quando:
+a) For provável que os futuros benefícios económicos que estejam 
+associados à propriedade de investimento fluirão para a entidade; e
+b) O custo da propriedade de investimento possa ser mensurado 
+fiavelmente.
+17 — Uma entidade avalia segundo este princípio de reconheci-
+mento todos os seus custos da propriedade de investimento no momento 
+em que eles sejam incorridos. Estes custos incluem custos incorridos 
+inicialmente para adquirir uma propriedade de investimento e custos 
+incorridos subsequentemente para adicionar a, substituir partes de, ou 
+prestar manutenção a uma propriedade.
+18 — Segundo o princípio de reconhecimento do parágrafo 16, uma 
+entidade não reconhece na quantia escriturada de uma propriedade de 
+investimento os custos da manutenção diária à propriedade. Pelo contrá-
+rio, estes custos são reconhecidos nos resultados quando incorridos. Os 
+custos da manutenção diária são basicamente os custos da mão -de -obra 
+e dos consumíveis, e podem incluir o custo de peças sobressalentes 
+menores. A finalidade destes dispêndios é muitas vezes descrita como 
+sendo para reparações e manutenção da propriedade.
+19 — Parcelas de propriedades de investimento podem ter sido adqui-
+ridas por substituição. Por exemplo, as paredes interiores podem ser subs-
+tituições das paredes originais. Segundo o princípio do reconhecimento, 
+uma entidade reconhece na quantia escriturada de uma propriedade de investimento o custo da parcela de substituição de uma propriedade de investimento existente no momento em que o custo seja incorrido se os critérios de reconhecimento forem cumpridos. A quantia escriturada das parcelas que sejam substituídas é desreconhecida de acordo com as 
+disposições de desreconhecimento desta Norma.
+Mensuração no reconhecimento
+20 — Uma propriedade de investimento deve ser mensurada inicial-
+mente pelo seu custo. Os custos de transação devem ser incluídos na mensuração inicial.
+21 — O custo de uma propriedade de investimento comprada com-
+preende o seu preço de compra e qualquer dispêndio diretamente atri-
+buível. Os dispêndios diretamente atribuíveis incluem, por exemplo, as 
+remunerações profissionais por serviços legais, impostos de transferência 
+de propriedade e outros custos de transação.
+22 — O custo de uma propriedade de investimento não é aumentado 
+por:
+a) Custos de arranque (a menos que sejam necessários para trazer a 
+propriedade à condição necessária para que seja capaz de funcionar da forma pretendida);
+b) Perdas operacionais incorridas antes de a propriedade de investi-
+mento ter atingido o nível de ocupação previsto; ou
+c) Quantidades anormais de material, mão -de -obra ou outros re-
+cursos consumidos incorridos na construção ou desenvolvimento da 
+propriedade.
+23 — Se o pagamento de uma propriedade de investimento for dife-
+rido, o seu custo é o equivalente ao preço a dinheiro. A diferença entre 
+esta quantia e os pagamentos totais é reconhecida como gasto de juros 
+durante o período de crédito.
+24 — O custo inicial do interesse de propriedade detido numa locação 
+e classificado como uma propriedade de investimento deve estar de 
+acordo com o prescrito para uma locação financeira no parágrafo 19 da 
+NCRF 9, isto é o ativo deve ser reconhecido pelo menor entre o justo 
+valor da propriedade e o valor presente dos pagamentos mínimos da 
+locação. Uma quantia equivalente deve ser reconhecida como passivo 
+de acordo com o mesmo parágrafo.
+25 — Qualquer prémio pago por uma locação é tratado como parte 
+dos pagamentos mínimos da locação para esta finalidade, e é portanto 
+incluído no custo do ativo, mas excluído do passivo. Se um interesse 
+de propriedade detido segundo uma locação for classificado como pro-priedade de investimento, o item contabilizado pelo justo valor é esse 
+interesse e não a propriedade subjacente. A orientação para a determi-
+nação do justo valor de um interesse de propriedade está desenvolvida 
+para o modelo do justo valor nos parágrafos 34 a 58. Essa orientação 
+também é relevante para a determinação do justo valor quando esse 
+valor é usado como custo no reconhecimento inicial.
+26 — Uma ou mais propriedades de investimento podem ser ad-
+quiridas em troca de um ativo ou ativos não monetários, ou de uma 
+combinação de ativos monetários e não monetários. O seguinte exemplo 
+refere -se a uma troca de um ativo não monetário por um outro, mas 
+também se aplica a todas as trocas descritas na frase anterior. O custo de 
+tal propriedade de investimento é mensurado pelo justo valor a menos quea) a transação de troca careça de substância comercial ou b) nem o 
+justo valor do ativo recebido nem o justo valor do ativo cedido sejam 
+fiavelmente mensuráveis. O ativo adquirido é mensurado desta forma 
+mesmo que uma entidade não possa imediatamente desreconhecer o ativo 
+cedido. Se o ativo adquirido não for mensurado pelo justo valor, o seu custo é mensurado pela quantia escriturada do ativo cedido.
+27 — Uma entidade determina se uma transação de troca tem subs-
+tância comercial considerando a extensão em que espera que os seus 
+futuros fluxos de caixa sejam alterados como resultado da transação. Uma transação de troca tem substância comercial se:
+a) A configuração (risco, tempestividade e quantia) dos fluxos de 
+caixa do ativo recebido diferir da configuração dos fluxos de caixa do 
+ativo transferido; ou
+b) O valor específico para a entidade relativo à parte das operações da 
+entidade afetadas pela transação se altera em resultado da troca; e
+c) A diferença na alínea a) ou b) for significativa em relação ao justo 
+valor dos ativos trocados.
+Para a finalidade de determinar se uma transação de troca tem subs-
+tância comercial, o valor específico para a entidade relativo à parte das 
+operações da entidade afetada pela transação deve refletir os fluxos de 
+caixa após impostos. O resultado destas análises pode ser claro sem que 
+uma entidade tenha de efetuar cálculos detalhados.
+28 — O justo valor de um ativo para o qual não existam transações 
+de mercado comparáveis é fiavelmente mensurável se a) a variabilidade 
+no intervalo de estimativas razoáveis do justo valor não for significativa 
+para esse ativo ou b) as probabilidades de várias estimativas dentro do 
+intervalo puderem ser razoavelmente avaliadas e usadas ao estimar o 
+justo valor. Se a entidade for capaz de determinar com fiabilidade o justo 20782 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+valor tanto do ativo recebido como do ativo cedido, então o justo valor 
+do ativo cedido é usado para mensurar o custo a não ser que o justo 
+valor do ativo recebido seja mais claramente evidente.
+Mensuração após reconhecimento
+Política contabilística
+29 — Com as exceções indicadas nos parágrafos 31 a 35, uma entidade 
+deve escolher como sua política contabilística o modelo do justo valor, 
+referido nos parágrafos 34 a 58, ou o modelo do custo mencionado no 
+parágrafo 59 e deve aplicar essa política a todas as suas propriedades 
+de investimento.
+30 — A NCRF 4 — Políticas Contabilísticas, Alterações nas Esti-
+mativas Contabilísticas e Erros afirma que uma alteração voluntária na política contabilística deve ser feita apenas se a alteração resultar numa apresentação mais apropriada de transações, de outros acontecimentos 
+ou de condições nas demonstrações financeiras da entidade. É altamente 
+improvável que uma alteração do modelo do justo valor para o modelo do custo resulte numa apresentação mais apropriada.
+31 — Esta Norma exige que todas as entidades determinem o justo 
+valor de propriedades de investimento, para a finalidade de mensuração 
+(se a entidade usar o modelo do justo valor) ou de divulgação (se a enti-
+dade usar o modelo do custo). Incentiva -se uma entidade, mas não se lhe 
+exige, que determine o justo valor das propriedades de investimento na base de uma valorização por um avaliador independente que tenha uma 
+qualificação profissional relevante e reconhecida e que tenha experiência 
+recente na localização e na categoria da propriedade de investimento que esteja a ser valorizada.
+32 — Uma entidade pode:
+a) Escolher o modelo do justo valor ou o modelo do custo para todas 
+as propriedades de investimento que suportem passivos que pagam um 
+retorno diretamente associado ao justo valor de, ou aos retornos de, ativos 
+especificados incluindo essa propriedade de investimento; e
+b) Escolher o modelo do justo valor ou o modelo do custo para todas 
+as outras propriedades de investimento, independentemente da escolha 
+feita na alínea a).
+33 — Se uma entidade escolher diferentes modelos para as duas 
+categorias descritas no parágrafo 32, as vendas de propriedades de inves-
+timento entre conjuntos de ativos mensurados usando modelos diferentes 
+devem ser reconhecidas pelo justo valor e a alteração acumulada no 
+justo valor deve ser reconhecida nos resultados. Em conformidade, se 
+a propriedade de investimento for vendida de um conjunto em que se 
+usa o modelo do justo valor para um conjunto em que se usa o modelo 
+do custo, o justo valor da propriedade à data da venda torna -se o seu custo considerado.
+Modelo do justo valor
+34 — Após o reconhecimento inicial, uma entidade que escolha o 
+modelo do justo valor deve mensurar todas as suas propriedades de 
+investimento pelo justo valor, exceto nos casos descritos no parágrafo 54.
+35 — Quando um interesse de propriedade detido por um locatário 
+numa locação operacional for classificado como uma propriedade de 
+investimento segundo o parágrafo 6, o parágrafo 29 deixa de ser opcional. 
+O modelo do justo valor deve ser aplicado.
+36 — Um ganho ou uma perda proveniente de uma alteração no 
+justo valor de propriedades de investimento deve ser reconhecido nos resultados do período em que ocorra.
+37 — O justo valor da propriedade de investimento é o preço pelo 
+qual a propriedade poderia ser trocada entre partes conhecedoras e dis-postas a isso numa transação em que não exista relacionamento entre 
+as mesmas (ver parágrafo 5). O justo valor exclui especificamente um 
+preço estimado inflacionado ou deflacionado por condições ou circuns-
+tâncias especiais tais como financiamento atípico, acordos de venda e 
+relocação, considerações especiais ou concessões dadas por alguém 
+associado à venda.
+38 — Uma entidade determina o justo valor sem qualquer dedução 
+para custos de transação em que possa incorrer por venda ou outra 
+alienação.
+39 — O justo valor da propriedade de investimento deve refletir as 
+condições de mercado à data do balanço.
+40 — O justo valor é um valor específico num determinado momento, 
+por exemplo, numa determinada data. Dado que as condições de mercado 
+podem mudar, a quantia relatada como justo valor pode ser incorreta ou não ser apropriada se estimada relativamente a outro momento. A definição de justo valor assume também troca simultânea e conclusão do contrato de venda sem qualquer variação de preço que pudesse ser realizado entre partes conhecedoras e dispostas a isso numa transação em que não exista relacionamento entre elas se a troca e conclusão não 
+forem simultâneas.
+41 — O justo valor da propriedade de investimento reflete, entre 
+outras coisas, rendimento de rendas provenientes de locações correntes 
+e pressupostos razoáveis e suportáveis que representem aquilo que enti-
+dades conhecedoras e dispostas a isso assumiriam acerca de rendimentos 
+de rendas de futuras locações à luz de condições correntes. Também 
+reflete, numa base semelhante, quaisquer exfluxos de caixa (incluindo 
+pagamentos de rendas e outros exfluxos) que possam ser esperados 
+com respeito à propriedade. Alguns desses exfluxos estão refletidos no passivo enquanto outros se relacionam com exfluxos que não são reco-
+nhecidos nas demonstrações financeiras até data posterior (por exemplo, 
+pagamentos periódicos como rendas contingentes).
+42 — O parágrafo 24 especifica a base do reconhecimento inicial do 
+custo de um interesse numa propriedade locada. O parágrafo 34 exige 
+que o interesse numa propriedade locada seja remensurado, se necessário, 
+pelo justo valor. Numa locação negociada às taxas de mercado, o justo valor de um interesse numa propriedade locada na aquisição, líquido 
+de todos os pagamentos de locação esperados (incluindo os relativos a passivos reconhecidos), deve ser zero. Este justo valor não se altera 
+independentemente de, para fins contabilísticos, um ativo e passivo 
+locados serem reconhecidos pelo justo valor ou pelo valor presente 
+dos pagamentos mínimos da locação, de acordo com o parágrafo 19 da 
+NCRF 9. Assim, remensurar um ativo locado do custo, de acordo com 
+o parágrafo 24, para o justo valor, de acordo com o parágrafo 34, não 
+deveria resultar em qualquer ganho ou perda inicial, a não ser que o 
+justo valor seja mensurado em momentos diferentes. Isto pode ocorrer 
+quando for feita uma escolha para aplicar o modelo do justo valor após o reconhecimento inicial.
+43 — A definição de justo valor refere -se a “partes conhecedoras e 
+dispostas a isso”. Neste contexto, “conhecedoras” significa que tanto o 
+comprador disposto a isso como o vendedor disposto a isso estão razoa-
+velmente informados acerca da natureza e características da propriedade 
+de investimento, dos seus usos reais e potenciais, e das condições do 
+mercado à data do balanço. Um comprador disposto a isso está motivado, 
+mas não compelido, a comprar. Este comprador não está nem ansioso nem determinado a comprar por qualquer preço. O comprador efetivo 
+não pagaria um preço mais elevado do que o exigido por um mercado 
+composto por compradores e vendedores conhecedores e dispostos a isso.
+44 — Um vendedor disposto a isso não é nem um vendedor ansioso 
+nem um vendedor forçado, preparado para vender a qualquer preço, 
+nem um vendedor preparado para resistir a um preço não considerado 
+razoável de acordo com as condições correntes do mercado. O vendedor 
+disposto a isso está motivado a vender a propriedade de investimento nos termos do mercado pelo melhor preço possível. As circunstâncias 
+factuais do proprietário efetivo da propriedade de investimento não 
+fazem parte desta consideração porque o vendedor disposto a isso é um 
+proprietário hipotético (por exemplo, um vendedor disposto a isso não teria em consideração as circunstâncias fiscais particulares do proprie-
+tário efetivo da propriedade de investimento).
+45 — A definição de justo valor refere -se a uma transação entre 
+partes sem relacionamento entre si. Uma transação entre partes sem 
+relacionamento entre si é uma transação entre partes que não tenham um 
+relacionamento particular ou especial entre elas que torne os preços das 
+transações não característicos das condições de mercado. A transação é tida como uma transação entre entidades não relacionadas, cada uma 
+delas atuando independentemente.
+46 — A melhor evidência de justo valor é dada por preços correntes 
+num mercado ativo de propriedades semelhantes no mesmo local e 
+condição e sujeitas a locações e outros contratos semelhantes. Uma 
+entidade trata de identificar quaisquer diferenças de natureza, local ou 
+condição da propriedade, ou nos termos contratuais das locações e de 
+outros contratos relacionados com a propriedade.
+47 — Na ausência de preços correntes num mercado ativo do género 
+descrito no parágrafo 46, uma entidade considera a informação prove-
+niente de uma variedade de fontes, incluindo:
+a) Preços correntes num mercado ativo de propriedades de diferente 
+natureza, condição ou localização (ou sujeitas a diferentes locações ou 
+outros contratos), ajustados para refletir essas diferenças;
+b) Preços recentes de propriedades semelhantes em mercados me-
+nos ativos, com ajustamentos para refletir quaisquer alterações nas 
+condições económicas desde a data das transações que ocorreram a 
+esses preços; e
+c) Projeções de fluxos de caixa descontados com base em estimativas 
+fiáveis de futuros fluxos de caixa, suportadas pelos termos de qualquer 
+locação e de outros contratos existentes e (quando possível) por evi-
+dência externa tal como rendas correntes de mercado de propriedades 
+semelhantes no mesmo local e condição, e usando taxas de desconto que 
+reflitam avaliações correntes de mercado quanto à incerteza na quantia e tempestividade dos fluxos de caixa.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20783
+48 — Em alguns casos, as várias fontes listadas no parágrafo ante-
+rior podem sugerir conclusões diferentes quanto ao justo valor de uma propriedade de investimento. Uma entidade considera as razões dessas 
+diferenças, visando chegar à estimativa mais fiável do justo valor dentro 
+de um intervalo de estimativas razoáveis de justo valor.
+49 — Em casos excecionais, há clara evidência quando uma entidade 
+adquire pela primeira vez uma propriedade de investimento (ou quando 
+uma propriedade existente se torna pela primeira vez propriedade de in-
+vestimento na sequência de uma alteração de uso) de que a variabilidade 
+no intervalo de estimativas razoáveis de justo valor seria tão grande, e as 
+probabilidades dos vários efeitos tão difíceis de avaliar, que é negada a 
+utilidade de uma única estimativa de justo valor. Isto pode indicar que o 
+justo valor da propriedade não será determinável com fiabilidade numa base continuada (ver parágrafo 54).
+50 — O justo valor difere do valor de uso, tal como definido na 
+NCRF 12 — Imparidade de Ativos. O justo valor reflete o conhecimento 
+e as estimativas de compradores e vendedores conhecedores e dispostos 
+a isso. Em contraste, o valor de uso reflete as estimativas da entidade, incluindo os efeitos de fatores que podem ser específicos da entidade e não aplicáveis às entidades em geral. Por exemplo, o justo valor não reflete qualquer dos seguintes fatores na medida em que não estariam 
+geralmente disponíveis para compradores e vendedores conhecedores 
+e dispostos a isso:
+a) Valor adicional derivado da criação de uma carteira de propriedades 
+em diferentes localizações;
+b) Sinergias entre propriedades de investimento e outros ativos;
+c) Direitos legais ou restrições legais que somente sejam específicos 
+ao proprietário atual; e
+d) Benefícios fiscais ou encargos fiscais que sejam específicos ao 
+proprietário atual.
+51 — Ao determinar o justo valor da propriedade de investimento, 
+uma entidade não conta duplamente ativos ou passivos que estejam 
+reconhecidos como ativos ou passivos separados. Por exemplo:
+a) Equipamento, tal como elevadores ou ar condicionado, é muitas 
+vezes uma parte integrante de um edifício e está geralmente incluído 
+no justo valor da propriedade de investimento, não sendo reconhecido 
+separadamente como ativos fixos tangíveis;
+b) Se um escritório for locado mobilado, o justo valor do escritório 
+inclui geralmente o justo valor da mobília, porque o rendimento das 
+rendas se relaciona com o escritório mobilado. Quando a mobília for 
+incluída no justo valor da propriedade de investimento, uma entidade 
+não reconhece a mobília como um ativo separado;
+c) O justo valor da propriedade de investimento exclui o rendimento 
+da locação operacional acrescido ou pré -pago, porque a entidade reco-nhece-o como um passivo ou ativo separado; ou
+d) O justo valor da propriedade de investimento detida numa locação 
+reflete os fluxos de caixa esperados (incluindo a renda contingente que 
+se espera que se torne pagável). Em conformidade, se uma valorização 
+obtida para uma propriedade for líquida de todos os pagamentos que 
+se espera que sejam feitos, será necessário voltar a adicionar qualquer 
+passivo de locação reconhecido, para atingir o justo valor da propriedade 
+de investimento para finalidades contabilísticas.
+52 — O justo valor da propriedade de investimento não reflete os 
+dispêndios futuros de capital fixo que melhorem ou aumentem a pro-
+priedade e não reflete os benefícios futuros relacionados derivados 
+destes dispêndios futuros.
+53 — Em alguns casos, uma entidade espera que o valor presente dos 
+seus pagamentos relacionados com uma propriedade de investimento (que não sejam pagamentos relacionados com passivos reconhecidos) 
+excederá o valor presente dos respetivos recebimentos de caixa. Uma 
+entidade aplica a NCRF 21 — Provisões, Passivos Contingentes e Ativos 
+Contingentes para determinar se reconhece um passivo e, nesse caso, como mensurá -lo.
+Incapacidade de determinar fiavelmente o justo valor
+54 — Há uma presunção refutável de que uma entidade pode fiavel-
+mente determinar o justo valor de uma propriedade de investimento 
+numa base continuada. Porém, em casos excecionais, há clara evidência 
+quando uma entidade adquire pela primeira vez uma propriedade de in-
+vestimento (ou quando uma propriedade existente se torne pela primeira 
+vez propriedade de investimento na sequência de uma alteração de uso) 
+de que o justo valor da propriedade de investimento não é determinável 
+com fiabilidade numa base continuada. Isto ocorre quando, e apenas 
+quando, são pouco frequentes transações de mercado comparáveis e 
+quando não estão disponíveis estimativas alternativas fiáveis de justo 
+valor (por exemplo, com base em projeções de fluxos de caixa desconta-
+dos). Se uma entidade determinar que o justo valor de uma propriedade de investimento em construção não é fiavelmente determinável, mas 
+espera que o justo valor da propriedade seja fiavelmente determinável 
+quando a construção estiver concluída, deve mensurar essa propriedade 
+de investimento em construção pelo custo até o seu justo valor se tornar 
+fiavelmente determinável ou até à conclusão da construção (aplicando -se 
+o que ocorrer primeiro). Se uma entidade determinar que o justo valor de 
+uma propriedade de investimento (com exceção de uma propriedade de 
+investimento em construção) não é fiavelmente determinável numa base 
+continuada, a entidade deve mensurar essa propriedade de investimento 
+utilizando o modelo do custo da NCRF 7. O valor residual da propriedade 
+de investimento deve ser presumido como sendo zero. A entidade deve 
+aplicar a NCRF 7 até à alienação da propriedade de investimento.
+55 — Quando uma entidade pode mensurar de forma fiável o justo 
+valor de uma propriedade de investimento em construção que foi pre-
+viamente mensurada pelo custo, deve mensurar essa propriedade pelo 
+seu justo valor. Uma vez concluída a construção dessa propriedade, 
+presume -se que o justo valor pode ser mensurado de forma fiável. Se 
+não for esse o caso, em conformidade com o parágrafo 54, a propriedade 
+deve ser contabilizada utilizando o modelo do custo em conformidade com a NCRF 7.
+56 — A presunção de que o justo valor da propriedade de investimento 
+em construção pode ser mensurado de forma fiável pode ser refutada apenas no reconhecimento inicial. Uma entidade que aferiu um item de propriedade de investimento em construção pelo justo valor não pode 
+concluir que o justo valor da propriedade de investimento concluída não 
+pode ser determinado de forma fiável.
+57 — Nos casos excecionais em que uma entidade é obrigada, pela 
+razão dada no parágrafo 54, a mensurar uma propriedade de investimento 
+usando o modelo do custo de acordo com a NCRF 7, ela mensura todos as suas outras propriedades de investimento pelo justo valor, incluindo as propriedades de investimento em construção. Nestes casos, embora uma entidade possa usar o modelo do custo para uma propriedade de 
+investimento, a entidade deve continuar a contabilizar cada uma das 
+propriedades restantes usando o modelo do justo valor.
+58 — Se uma entidade tiver previamente mensurado uma proprie-
+dade de investimento pelo justo valor, ela deve continuar a mensurar a propriedade pelo justo valor até à alienação (ou até que a propriedade se torne propriedade ocupada pelo titular ou a entidade comece a de-senvolver a propriedade para subsequente venda no decurso ordinário 
+do negócio) mesmo que transações de mercado comparáveis se tornem 
+menos frequentes ou que os preços do mercado se tornem menos pron-
+tamente disponíveis.
+Modelo do custo
+59 — Após o reconhecimento inicial, uma entidade que escolha o mo-
+delo do custo deve mensurar todas as suas propriedades de investimento 
+de acordo com os requisitos da NCRF 7 para esse modelo exceto aquelas 
+que satisfaçam os critérios de classificação como detidas para venda (ou 
+que estejam incluídas num grupo para alienação que esteja classificado 
+como detido para venda) de acordo com a NCRF 8. As propriedades de investimento que satisfaçam os critérios de classificação como detidas 
+para venda (ou que estejam incluídas num grupo para alienação que 
+esteja classificado como detido para venda) devem ser mensuradas de acordo com a NCRF 8.
+Transferências
+60 — As transferências para, ou de, propriedades de investimento 
+devem ser feitas quando, e apenas quando, houver uma alteração de 
+uso, evidenciada pelo seguinte:
+a) Início de ocupação pelo proprietário, para uma transferência de 
+propriedade de investimento para propriedade ocupada pelo titular;
+b) Início de desenvolvimento com vista à venda, para uma transfe-
+rência de propriedade de investimento para inventários;
+c) Fim de ocupação pelo proprietário, com vista a uma transferência da 
+propriedade ocupada pelo titular para propriedade de investimento; ou
+d) Início de uma locação operacional a uma outra entidade, com vista 
+a uma transferência de inventários para propriedade de investimento.
+61 — O parágrafo 60( b) exige que uma entidade transfira uma pro-
+priedade de propriedade de investimento para inventários quando, e 
+apenas quando, houver uma alteração no uso, evidenciada pelo começo 
+de desenvolvimento com vista à venda. Quando uma entidade decidir 
+alienar uma propriedade de investimento sem desenvolvimento, ela con-
+tinua a tratar a propriedade como uma propriedade de investimento até 
+que seja desreconhecida (eliminada do balanço) e deixe de a tratar como 
+inventário. De forma semelhante, se uma entidade começar a desenvolver 
+de novo uma propriedade de investimento existente para futuro uso conti-
+nuado como propriedade de investimento, a propriedade permanece uma 20784 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+propriedade de investimento não sendo reclassificada como propriedade 
+ocupada pelo titular durante o novo desenvolvimento.
+62 — Os parágrafos 63 a 68 aplicam -se aos aspetos de reconhecimento 
+e mensuração que surgem quando uma entidade usa o modelo do justo 
+valor para propriedades de investimento. Quando uma entidade usar o 
+modelo do custo, as transferências entre propriedades de investimento, propriedades ocupadas pelo titular e inventários não alteram a quantia escriturada da propriedade transferida e não alteram o custo dessa pro-priedade para finalidades de mensuração ou divulgação.
+63 — Para uma transferência de propriedade de investimento es-
+criturada pelo justo valor para propriedade ocupada pelo titular ou 
+para inventários, o custo considerado da propriedade para subsequente 
+contabilização de acordo com a NCRF 7 ou a NCRF 18 deve ser o seu 
+justo valor à data da alteração de uso.
+64 — Se uma propriedade ocupada pelo titular se tornar uma proprie-
+dade de investimento que seja escriturada pelo justo valor, uma entidade 
+deve aplicar a NCRF 7 até à data da alteração de uso. A entidade deve 
+tratar qualquer diferença nessa data entre a quantia escriturada de pro-
+priedade de acordo com a NCRF 7 e o seu justo valor da mesma forma que uma revalorização de acordo com a NCRF 7.
+65 — Até à data em que uma propriedade ocupada pelo titular se 
+torne uma propriedade de investimento escriturada pelo justo valor, 
+uma entidade deprecia a propriedade e reconhece quaisquer perdas por imparidade que tenham ocorrido. A entidade trata qualquer diferença nessa data entre a quantia escriturada da propriedade de acordo com a NCRF 7 e o seu justo valor da mesma forma que uma revalorização de acordo com a NCRF 7. Por outras palavras:
+a) Qualquer diminuição resultante na quantia escriturada da proprie-
+dade é reconhecida nos resultados. Porém, até ao ponto em que uma 
+quantia seja incluída no excedente de revalorização dessa propriedade, 
+a diminuição é debitada contra esse excedente de revalorização; e
+b) Qualquer aumento resultante na quantia escriturada é tratado como 
+se segue:
+i) Até ao ponto em que o aumento reverta uma anterior perda por 
+imparidade dessa propriedade, o aumento é reconhecido nos resulta-
+dos. A quantia reconhecida nos resultados não pode exceder a quantia 
+necessária para repor a quantia escriturada para a quantia escriturada 
+que teria sido determinada (líquida de depreciação) caso nenhuma perda 
+por imparidade tivesse sido reconhecida; e
+ii) Qualquer parte remanescente do aumento é creditada diretamente 
+no capital próprio no excedente de revalorização. Na alienação subse-quente da propriedade de investimento, o excedente de revalorização incluído no capital próprio deve ser transferido para resultados transi-
+tados. A transferência do excedente de revalorização para resultados 
+transitados não é feita através dos resultados.
+66 — Para uma transferência de inventários para propriedades de 
+investimento que sejam escrituradas pelo justo valor, qualquer diferença 
+entre o justo valor da propriedade nessa data e a sua quantia escriturada anterior deve ser reconhecida nos resultados.
+67 — O tratamento de transferências de inventários para propriedades 
+de investimento que serão escrituradas pelo justo valor é consistente 
+com o tratamento de vendas de inventários.
+68 — Quando uma entidade concluir a construção ou o desenvolvi-
+mento de uma propriedade de investimento de construção própria que será escriturada pelo justo valor, qualquer diferença entre o justo valor da propriedade nessa data e a sua quantia escriturada anterior deve ser 
+reconhecida nos resultados.
+Alienações
+69 — Uma propriedade de investimento deve ser desreconhecida 
+(eliminada do balanço) na alienação ou quando a propriedade de in-
+vestimento for permanentemente retirada de uso e nenhuns benefícios 
+económicos forem esperados da sua alienação.
+70 — A alienação de uma propriedade de investimento pode ser 
+alcançada pela venda ou pela celebração de uma locação financeira. 
+Ao determinar a data de alienação da propriedade de investimento, uma 
+entidade aplica os critérios enunciados na NCRF 20 — Rédito para 
+reconhecimento do rédito da venda de bens. A NCRF 9 aplica -se a uma 
+alienação efetuada pela celebração de uma locação financeira e a uma 
+venda seguida de locação.
+71 — Se, de acordo com o princípio de reconhecimento do pará-
+grafo 16, uma entidade reconhecer na quantia escriturada de um ativo o 
+custo de uma substituição de parte de uma propriedade de investimento, 
+então ela desreconhece a quantia escriturada da parte substituída. Rela-
+tivamente à propriedade de investimento contabilizada usando o modelo 
+do custo, uma parte substituída pode não ser uma parte que tenha sido depreciada separadamente. Se não for praticável que uma entidade de-termine a quantia escriturada da parte substituída, ela pode usar o custo da substituição como indicação do custo da parte substituída que era 
+no momento em que foi adquirida ou construída. Segundo o modelo do 
+justo valor, o justo valor da propriedade de investimento pode já refletir 
+o facto de que a parte a ser substituída perdeu o seu valor. Noutros casos, 
+pode ser difícil discernir quanto do justo valor deve ser reduzido para a parte a ser substituída. Uma alternativa à redução do justo valor para a parte substituída, quando não for prático realizar essa redução, é incluir 
+o custo da substituição na quantia escriturada do ativo e reavaliar o justo 
+valor, como seria exigido para adições não envolvendo substituição.
+72 — Os ganhos ou perdas provenientes da retirada de uso ou alie-
+nação de propriedades de investimento devem ser determinados como 
+a diferença entre os proventos líquidos da alienação e a quantia escri-
+turada do ativo e devem ser reconhecidos nos resultados (a menos que a NCRF 9 — Locações exija doutra maneira no caso de uma venda e relocação) no período da retirada de uso ou da alienação.
+73 — A retribuição a receber com a alienação de uma propriedade de 
+investimento é inicialmente reconhecida pelo justo valor. Em particular, 
+se o pagamento de uma propriedade de investimento for diferido, a 
+retribuição recebida é reconhecida inicialmente pelo equivalente ao 
+preço a dinheiro. A diferença entre a quantia nominal da retribuição e o equivalente ao preço a dinheiro é reconhecida como rédito de juros de 
+acordo com a NCRF 20 usando o método do juro efetivo.
+74 — Uma entidade aplica a NCRF 21, ou outras Normas, conforme 
+apropriado, a quaisquer passivos que retenha após a alienação de uma 
+propriedade de investimento.
+75 — A compensação de terceiros para propriedades de investimento 
+que tenham sofrido imparidade, se tenham perdido ou tenham sido 
+cedidas deve ser reconhecida nos resultados quando a compensação 
+se tornar recebível.
+76 — Imparidades ou perdas de propriedades de investimento, rei-
+vindicações relacionadas ou pagamentos de compensação de terceiros 
+e qualquer aquisição ou construção posterior de ativos de substituição 
+constituem acontecimentos económicos separados que são contabilizados 
+separadamente como se segue:
+a) As imparidades da propriedade de investimento são reconhecidas 
+de acordo com a NCRF 12;
+b) As retiradas de uso ou alienações da propriedade de investimento 
+são reconhecidas de acordo com os parágrafos 69 a 74 desta Norma;
+c) A compensação de terceiros por propriedades de investimento que 
+tenham sofrido imparidade, se tenham perdido ou tenham sido cedidas é reconhecida nos resultados quando se tornar recebível; e
+d) O custo dos ativos restaurados, comprados ou construídos como 
+substituições é determinado de acordo com os parágrafos 20 a 28 desta 
+Norma.
+Data de eficácia
+77 — Uma entidade deve aplicar esta Norma a partir do primeiro 
+período que se inicie em ou após 1 de janeiro de 2016.
+78 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam comparáveis.
+79 — Esta Norma substitui a NCRF 11 — Propriedades de Inves-
+timento, constante do Aviso n.º 15655/2009, publicado no Diário da 
+República, 2.ª série, n.º 173, de 7 de setembro de 2009.

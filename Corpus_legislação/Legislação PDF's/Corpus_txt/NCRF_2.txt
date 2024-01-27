@@ -1,0 +1,297 @@
+Norma Contabilística e de Relato Financeiro 2
+Demonstração de Fluxos de Caixa
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro 
+é o de exigir informação acerca das alterações históricas de caixa e 
+seus equivalentes de uma entidade por meio de uma demonstração de 
+fluxos de caixa que classifique os fluxos de caixa durante o período em operacionais, de investimento e de financiamento.
+Âmbito
+2 — Uma entidade deve preparar uma demonstração de fluxos de 
+caixa de acordo com os requisitos desta Norma e deve apresentá -la como 
+parte integrante das suas demonstrações financeiras de cada período em 
+que são apresentadas demonstrações financeiras.
+Definições
+3 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Atividades de financiamento: são as atividades que têm como conse-
+quência alterações na dimensão e composição do capital próprio e nos 
+empréstimos obtidos pela entidade.
+Atividades de investimento: são as atividades relacionadas com a 
+aquisição e alienação de ativos de longo prazo e de outros investimentos 
+não incluídos em equivalentes de caixa.
+Atividades operacionais: são as principais atividades geradoras de 
+rédito da entidade e outras atividades que não sejam de investimento ou de financiamento.
+Caixa: compreende o dinheiro em caixa e em depósitos à ordem.
+Equivalentes de caixa: são investimentos financeiros a curto prazo, 
+altamente líquidos que sejam prontamente convertíveis para quantias 
+conhecidas de dinheiro e que estejam sujeitos a um risco insignificante 
+de alterações de valor.
+Fluxos de caixa: são influxos (recebimentos, entradas) e exfluxos 
+(pagamentos, saídas) de caixa e seus equivalentes.
+Caixa e equivalentes de caixa
+4 — Os equivalentes de caixa são detidos com a finalidade de ir ao 
+encontro dos compromissos de caixa a curto prazo e não para investi-mento ou outros propósitos. Para um investimento se qualificar como 
+um equivalente de caixa tem de ser prontamente convertível para uma quantia conhecida de dinheiro e estar sujeito a um risco insignificante 
+de alterações de valor. Por isso, um investimento só se qualifica nor-
+malmente como um equivalente de caixa quando tiver um vencimento 
+a curto prazo, seja três meses ou menos a partir da data de aquisição. Os 
+investimentos de capital próprio são excluídos dos equivalentes de caixa 
+a menos que sejam, em substância, equivalentes de caixa, por exemplo no caso de ações preferenciais adquiridas próximo do período do seu vencimento e com uma data específica de remição.
+5 — Os empréstimos bancários obtidos são geralmente considerados 
+como atividades de financiamento.
+6 — Os fluxos de caixa excluem movimentos entre itens que consti-
+tuam caixa e seus equivalentes porque estes componentes são parte da 
+gestão de caixa de uma entidade e não parte das suas atividades opera-
+cionais, de investimento e de financiamento. A gestão de caixa inclui o investimento de excessos de caixa nos equivalentes de caixa.
+Apresentação de uma demonstração de fluxos de caixa
+7 — A demonstração de fluxos de caixa deve apresentar os fluxos de 
+caixa do período classificados por atividades operacionais, de investi-
+mento e de financiamento, conforme modelo publicado em Portaria.
+8 — A classificação por atividades proporciona informação que per-
+mite aos utentes determinar o impacto dessas atividades na posição 
+financeira da entidade e nas quantias de caixa e seus equivalentes. Esta informação pode ser também usada para avaliar as relações entre estas atividades.
+Atividades operacionais
+9 — A quantia de fluxos de caixa proveniente de atividades ope-
+racionais é um indicador chave da medida em que as operações da 
+entidade geraram fluxos de caixa suficientes para pagar empréstimos, 
+manter a capacidade operacional da entidade, pagar dividendos e fazer novos investimentos, sem recurso a fontes externas de financiamento. 
+A informação acerca dos componentes específicos dos fluxos de caixa 
+operacionais históricos é útil, juntamente com outra informação, na 
+previsão de futuros fluxos de caixa operacionais.
+10 — Os fluxos de caixa das atividades operacionais são princi-
+palmente derivados das principais atividades geradoras de réditos da 
+entidade. Por isso, eles são geralmente consequência das operações e 
+outros acontecimentos que entram na determinação dos resultados da entidade.
+Exemplos de fluxos de caixa de atividades operacionais são:
+a) Recebimentos de caixa provenientes da venda de bens e da pres-
+tação de serviços;
+b) Recebimentos de caixa provenientes de royalties , honorários, 
+comissões e outros réditos;
+c) Pagamentos de caixa a fornecedores de bens e serviços;
+d) Pagamentos de caixa a e por conta de empregados;
+e) Pagamentos ou recebimentos de caixa por restituições de impos-
+tos sobre rendimento, a menos que estes se relacionem com as outras atividades; e
+f) Recebimentos e pagamentos de caixa relativos a contratos com a 
+finalidade de negócio.
+Algumas transações, tal como a alienação de um elemento do ativo fixo 
+tangível originam ganhos ou perdas que são incluídos na demonstração 
+dos resultados. Os fluxos de caixa relacionados com estas transações são 
+classificados como pertencentes a atividades de investimento. Contudo, 
+os pagamentos a partir de caixa para fabricar ou adquirir ativos detidos 
+para locação a outras partes e detidos subsequentemente para venda, tal como descrito no parágrafo 68 da NCRF 7 — Ativos Fixos Tangíveis, 
+são fluxos de caixa das atividades operacionais. Os recebimentos em 
+caixa provenientes da locação e de vendas subsequentes de tais ativos são igualmente fluxos de caixa das atividades operacionais.
+11 — Uma entidade pode deter títulos e empréstimos para finalida-
+des do negócio, situação em que são similares a inventários adquiridos 
+especificamente para revenda. Por isso, os fluxos de caixa provenien-
+tes da compra e venda de títulos para negociar ou comercializar são 
+classificados como atividades operacionais. De forma semelhante, os 
+adiantamentos de caixa e empréstimos feitos por instituições financeiras 
+são geralmente classificados como atividades operacionais desde que se relacionem com as principais atividades geradoras de rédito dessa entidade.
+Atividades de investimento
+12 — A divulgação separada dos fluxos de caixa provenientes das 
+atividades de investimento é importante porque os fluxos de caixa repre-
+sentam a extensão pela qual os dispêndios foram feitos relativamente a Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20753
+recursos destinados a gerar rendimento e fluxos de caixa futuros. Apenas 
+os dispêndios que resultam num ativo reconhecido no balanço são elegí-
+veis para classificação como atividades de investimento. São exemplos 
+de fluxos de caixa provenientes de atividades de investimento:
+a) Pagamentos de caixa para aquisição de ativos fixos tangíveis, 
+intangíveis e outros ativos a longo prazo. Estes pagamentos incluem 
+os relacionados com custos de desenvolvimento capitalizados e ativos 
+fixos tangíveis construídos pela própria entidade;
+b) Recebimentos de caixa por vendas de ativos fixos tangíveis, intan-
+gíveis e outros ativos a longo prazo;
+c) Pagamentos de caixa para aquisição de instrumentos de capital 
+próprio ou de dívida de outras entidades e de interesses em empre-
+endimentos conjuntos (que não sejam pagamentos dos instrumentos 
+considerados como sendo equivalentes de caixa ou dos detidos para 
+finalidades de negócio);
+d) Recebimentos de caixa relativos a vendas de instrumentos de 
+capital próprio ou de dívida de outras entidades e de interesses em 
+empreendimentos conjuntos (que não sejam recebimentos dos instru-
+mentos considerados como equivalentes de caixa e dos detidos para as 
+finalidades do negócio);
+e) Adiantamentos de caixa e empréstimos feitos a outras entidades;
+f) Recebimentos de caixa provenientes do reembolso de adiantamentos 
+e de empréstimos feitos a outras entidades;
+g) Pagamentos de caixa para contratos de futuros, contratos forward,
+contratos de opção e contratos de swap  exceto quando os contratos se-
+jam mantidos para as finalidades do negócio, ou os pagamentos sejam classificados como atividades de financiamento; e
+h) Recebimentos de caixa provenientes de contratos de futuros, con-
+tratos forward,  contratos de opção e contratos de swap,  exceto quando 
+os contratos sejam mantidos para as finalidades do negócio, ou os rece-
+bimentos sejam classificados como atividades de financiamento.
+Atividades de financiamento
+13 — A divulgação separada de fluxos de caixa provenientes das 
+atividades de financiamento é importante porque é útil para estimar 
+os fluxos de caixa futuros a pagar a financiadores de capital pela enti-
+dade. São exemplos de fluxos de caixa provenientes de atividades de 
+financiamento:
+a) Recebimentos de caixa provenientes da emissão de ações ou de 
+outros instrumentos de capital próprio;
+b) Pagamentos de caixa por aquisição de ações (quotas) próprias, 
+redução do capital ou amortização de ações (quotas);
+c) Recebimentos provenientes da emissão de certificados de dívida, 
+empréstimos, livranças, obrigações, hipotecas e outros empréstimos 
+obtidos a curto ou longo prazo;
+d) Reembolsos de empréstimos obtidos; e
+e) Pagamentos efetuados por um locatário para a redução de uma 
+dívida em aberto relacionada com uma locação financeira.
+Relato de fluxos de caixa das atividades operacionais
+14 — Uma entidade deve relatar os fluxos de caixa provenientes 
+de atividades operacionais pelo uso do método direto, pelo qual, são 
+divulgadas as principais classes dos recebimentos e dos pagamentos 
+brutos de caixa.
+15 — Este método proporciona informação que pode ser útil na es-
+timativa de fluxos de caixa futuros. A informação acerca das principais 
+classes de recebimentos brutos (de caixa) e de pagamentos brutos (de 
+caixa) pode ser obtida:
+a) A partir dos registos contabilísticos da entidade; ou
+b) Pelo ajustamento de vendas, custo das vendas e outros itens da 
+demonstração dos resultados relativamente a:
+i) Alterações, durante o período, em inventários e em contas a receber 
+e a pagar, relacionadas com a atividade operacional;
+ii) Outros itens que não sejam de caixa; e
+iii) Outros itens pelos quais os efeitos de caixa sejam fluxos de caixa 
+de investimento ou de financiamento.
+Relato de fluxos de caixa das atividades de investimento
+e de financiamento
+16 — Uma entidade deve relatar separadamente as principais clas-
+ses de recebimentos brutos de caixa e de pagamentos brutos de caixa 
+provenientes das atividades de investimento e de financiamento, exceto 
+até ao ponto em que os fluxos de caixa descritos no parágrafo 17 sejam relatados numa base líquida.Relato de fluxos de caixa numa base líquida
+17 — Os fluxos de caixa provenientes das seguintes atividades ope-
+racionais, de investimento e de financiamento podem ser relatados 
+numa base líquida:
+a) Recebimentos e pagamentos por conta de clientes quando o fluxo 
+de caixa reflita as atividades do cliente e não os da entidade; e
+b) Recebimentos e pagamentos dos itens em que a rotação seja rápida, 
+as quantias sejam grandes e os vencimentos sejam curtos.
+Fluxos de caixa em moeda estrangeira
+18 — Os fluxos de caixa resultantes de transações em moeda estran-
+geira devem ser registados na moeda funcional de uma entidade mediante 
+a aplicação à quantia em moeda estrangeira da taxa de câmbio entre a 
+moeda funcional e a moeda estrangeira na data do fluxo de caixa.
+19 — Os fluxos de caixa de uma subsidiária estrangeira devem ser 
+transpostos às taxas de câmbio entre a moeda funcional e a moeda 
+estrangeira nas datas dos fluxos de caixa.
+20 — Os fluxos de caixa denominados numa moeda estrangeira são 
+relatados de maneira consistente com a NCRF 23 — Os Efeitos de 
+Alterações em Taxas de Câmbio. Esta permite o uso de uma taxa de 
+câmbio que se aproxime da taxa real. Por exemplo, uma taxa de câmbio 
+média ponderada de um período pode ser usada para registar transpo-sições de moeda estrangeira ou a transposição dos fluxos de caixa de uma subsidiária estrangeira. Porém, a NCRF 23 não permite o uso da 
+taxa de câmbio à data do balanço quando sejam transpostos os fluxos 
+de caixa de uma subsidiária estrangeira.
+21 — Os ganhos e as perdas não realizados provenientes de altera-
+ções de taxas de câmbio de moeda estrangeira não são fluxos de caixa. 
+Porém, o efeito das alterações das taxas de câmbio sobre caixa e seus 
+equivalentes detidos ou devidos numa moeda estrangeira é relatado 
+na demonstração dos fluxos de caixa a fim de reconciliar caixa e seus 
+equivalentes no início e no fim do período. Esta quantia é apresentada 
+separadamente da dos fluxos de caixa das atividades operacionais, de investimento e de financiamento e inclui as diferenças, se as houver, 
+caso esses fluxos de caixa tivessem sido relatados às taxas de câmbio 
+do fim do período.
+Juros e dividendos
+22 — Cada um dos fluxos de caixa de juros e dividendos recebidos 
+e pagos deve ser separadamente divulgado. Cada um deve ser classi-
+ficado de maneira consistente de período para período como atividade operacional, de investimento ou de financiamento.
+23 — A quantia total de juros pagos durante um período deve ser 
+divulgada na demonstração de fluxos de caixa quer tenha sido reconhe-
+cida como um gasto na demonstração dos resultados quer tenha sido 
+capitalizada de acordo com a NCRF 10 — Custos de Empréstimos 
+Obtidos.
+24 — Os juros pagos e juros e dividendos recebidos podem ser classifi-
+cados como fluxos de caixa operacionais porque entram na determinação 
+dos resultados. Alternativamente, os juros pagos e os juros e dividendos 
+recebidos podem ser classificados como fluxos de caixa de financiamento 
+e fluxos de caixa de investimento, respetivamente, porque são custos de 
+obtenção de recursos financeiros ou retornos de investimentos.
+25 — Os dividendos pagos podem ser classificados como fluxos de 
+caixa de financiamento porque são um custo da obtenção de recursos 
+financeiros. Alternativamente, os dividendos pagos podem ser classifica-
+dos como um componente de fluxo de caixa das atividades operacionais 
+a fim de ajudar os utentes a determinar a capacidade de uma entidade de 
+pagar dividendos a partir dos fluxos de caixa operacionais.
+Impostos sobre o rendimento
+26 — Os fluxos de caixa provenientes de impostos sobre o rendi-
+mento devem ser divulgados separadamente devendo ser classificados 
+como fluxos de caixa de atividades operacionais a menos que possam 
+ser especificamente identificados com as atividades de financiamento e de investimento.
+Investimentos em subsidiárias, em associadas
+e em empreendimentos conjuntos
+27 — Quando se contabilizar um investimento numa associada ou 
+numa subsidiária contabilizado pelo método da equivalência patrimonial 
+ou pelo método do custo, uma investidora restringe o seu relato na de-
+monstração de fluxo de caixa aos fluxos de caixa entre ela e a investida, 
+como por exemplo, aos dividendos e adiantamentos.
+28 — Uma entidade que relate os seus interesses numa entidade 
+conjuntamente controlada usando a consolidação proporcional, incluirá 20754 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+na sua demonstração consolidada de fluxos de caixa a sua parte pro-
+porcional dos fluxos de caixa da entidade conjuntamente controlada. 
+Uma entidade que relate tal interesse usando o método da equivalência 
+patrimonial inclui na sua demonstração de fluxos de caixa os fluxos de 
+caixa que respeitem aos seus investimentos na entidade conjuntamente controlada, e distribuições e outros pagamentos ou recebimentos entre 
+ela e a entidade conjuntamente controlada.
+Alterações nos interesses de propriedade em subsidiárias
+e outras atividades empresariais
+29 — Os fluxos de caixa agregados provenientes da obtenção ou 
+perda de controlo de subsidiárias ou de outras unidades empresariais 
+devem ser apresentados separadamente e classificados como atividades 
+de investimento.
+30 — Uma entidade deve divulgar, agregadamente, no que respeita 
+tanto à obtenção como à perda de controlo de subsidiárias ou de ou-
+tras unidades empresariais durante o período, cada uma das seguintes 
+informações:
+a) A retribuição total paga ou recebida;
+b) A parte da retribuição que consista em caixa e seus equivalentes;
+c) A quantia de caixa e seus equivalentes na subsidiária ou na unidade 
+empresarial sobre as quais o controlo é obtido ou perdido; e
+d) A quantia dos ativos e passivos que não sejam caixa ou seus equi-
+valentes na subsidiária ou unidade empresarial sobre as quais o controlo 
+é obtido ou perdido, resumida por cada categoria principal.
+31 — A quantia agregada de dinheiro pago ou recebido como retribui-
+ção da obtenção ou perda de controlo de subsidiárias ou outras atividades 
+empresariais é relatada na demonstração de fluxos de caixa, pelo líquido 
+de caixa e seus equivalentes adquiridos ou alienados.
+32 — Os fluxos de caixa resultantes de alterações nos interesses de 
+propriedade numa subsidiária que não resultam em perda de controlo 
+devem ser classificados como fluxos de caixa de atividades de finan-
+ciamento.
+33 — As alterações nos interesses de propriedade numa subsidiária 
+que não resultam em perda de controlo, tal como a compra ou venda 
+subsequente por uma empresa -mãe de instrumentos de capital próprio de 
+uma subsidiária, são contabilizadas como transações de capital próprio 
+(ver a NCRF 15 — Investimentos em Subsidiárias e Consolidação). 
+Em conformidade, os fluxos de caixa resultantes são classificados da 
+mesma forma que outras transações com proprietários descritas no 
+parágrafo 13.
+Transações que não sejam por caixa
+34 — As transações de investimento e de financiamento que não 
+exijam o uso de caixa ou seus equivalentes devem ser excluídas da 
+demonstração de fluxos de caixa. Tais operações devem ser divulgadas 
+noutra parte das demonstrações financeiras de tal maneira que proporcio-
+nem toda a informação relevante acerca das atividades de investimento 
+e de financiamento.
+35 — Algumas atividades de financiamento e de investimento não 
+têm um impacto direto nos fluxos correntes de caixa se bem que afetem 
+a estrutura do capital e do ativo da entidade. A exclusão das transações 
+que não sejam de caixa da demonstração de fluxos de caixa é consis-
+tente com o objetivo dessa demonstração porque esses elementos não 
+envolvem fluxos de caixa no período corrente. Exemplos de operações 
+não monetárias são:
+a) A aquisição de ativos pela assunção de passivos diretamente rela-
+cionados ou por meio de uma locação financeira;
+b) A aquisição de uma entidade por meio de uma emissão de capital; e
+c) A conversão de dívidas em capital.
+Data de eficácia
+36 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+37 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam comparáveis.
+38 — Esta Norma substitui a NCRF — 2 Demonstração de Fluxos 
+de Caixa, constante do Aviso n.º 15655/2009, publicado no Diário da 
+República, 2.ª série, n.º 173, de 7 de setembro de 2009.

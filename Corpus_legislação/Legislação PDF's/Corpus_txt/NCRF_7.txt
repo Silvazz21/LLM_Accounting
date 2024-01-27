@@ -1,0 +1,528 @@
+Norma Contabilística e de Relato Financeiro 7
+Ativos Fixos Tangíveis
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro é 
+o de prescrever o tratamento contabilístico para ativos fixos tangíveis, 
+para que os utentes das demonstrações financeiras possam perceber a 
+informação acerca do investimento de uma entidade nos seus ativos fixos 
+tangíveis, bem como as alterações nesse investimento. Os principais 
+aspetos a considerar na contabilização dos ativos fixos tangíveis são o 
+seu reconhecimento e mensuração.
+Âmbito
+2 — Esta Norma deve ser aplicada na contabilização de ativos fixos 
+tangíveis exceto quando uma outra Norma exija ou permita um trata-
+mento contabilístico diferente.
+3 — Esta norma não se aplica a:
+a) Ativos fixos tangíveis classificados como detidos para venda, de 
+acordo com a NCRF 8 — Ativos não Correntes Detidos para Venda e 
+Unidades Operacionais Descontinuadas;
+b) Ativos biológicos relacionados com a atividade agrícola (ver 
+NCRF 17 — Agricultura);
+c) Ativos relacionados com a exploração e avaliação de recursos 
+minerais (ver NCRF 16 — Exploração e Avaliação de Recursos Mi-
+nerais); ou
+d) Direitos minerais e reservas minerais tais como petróleo, gás natural 
+e recursos não regenerativos semelhantes.
+Contudo, esta Norma aplica -se aos ativos fixos tangíveis usados para 
+desenvolver ou manter os ativos descritos nas alíneas b) a d).
+4 — Outras Normas podem exigir o reconhecimento de um item do 
+ativo fixo tangível com base numa abordagem diferente da usada nesta 
+Norma. Por exemplo, a NCRF 9 — Locações exige que uma entidade avalie o reconhecimento de um item do ativo fixo tangível locado na base da transferência de riscos e vantagens. Porém, em tais casos, são 
+prescritos na referida Norma outros aspetos do tratamento contabilístico 
+destes ativos, incluindo a depreciação.
+5 — Uma entidade que use o modelo de custo para propriedades de 
+investimento em conformidade com a NCRF 11 — Propriedades de 
+Investimento deve usar o modelo de custo desta Norma.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20769
+Definições
+6 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Ativos fixos tangíveis: são itens tangíveis os que:a) Sejam detidos para uso na produção ou fornecimento de bens ou 
+serviços, para arrendamento a outros, ou para fins administrativos; e
+b) Se espera que sejam usados durante mais do que um período.
+Custo: é a quantia de caixa ou seus equivalentes paga ou o justo valor 
+de outra retribuição dada para adquirir um ativo no momento da sua 
+aquisição ou construção ou, quando aplicável, a quantia atribuída a esse 
+ativo aquando do reconhecimento inicial de acordo com os requisitos 
+específicos de outras NCRF.
+Depreciação: é a imputação sistemática da quantia depreciável de um 
+ativo durante a sua vida útil.
+Justo valor: é a quantia pela qual um ativo pode ser trocado ou um 
+passivo liquidado, entre partes conhecedoras e dispostas a isso, numa 
+transação em que não exista relacionamento entre elas.
+Perda por imparidade: é o excedente da quantia escriturada de um 
+ativo, ou de uma unidade geradora de caixa, em relação à sua quantia 
+recuperável.
+Quantia depreciável: é o custo de um ativo, ou outra quantia substituta 
+do custo, menos o seu valor residual.
+Quantia escriturada: é a quantia pela qual um ativo é reconhecido no 
+Balanço, após a dedução de qualquer depreciação/amortização acumu-
+lada e de perdas por imparidade acumuladas inerentes.
+Quantia recuperável: é a quantia mais alta entre o justo valor de um 
+ativo ou unidade geradora de caixa menos os custos de alienação e o 
+seu valor de uso.
+Valor específico para a entidade: é o valor presente dos fluxos de caixa 
+que uma entidade espera que resultem do uso continuado de um ativo 
+e da sua alienação no final da sua vida útil ou em que espera incorrer ao liquidar um passivo.
+Valor residual: de um ativo é a quantia estimada que uma entidade 
+obteria correntemente pela alienação de um ativo, após dedução dos 
+custos de alienação estimados, se o ativo já tivesse a idade e as condições 
+esperadas no final da sua vida útil.
+Vida útil: é:
+a) O período durante o qual uma entidade espera que um ativo esteja 
+disponível para uso; ou
+b) O número de unidades de produção ou similares que uma entidade 
+espera obter do ativo.
+Reconhecimento
+7 — O custo de um item de ativo fixo tangível deve ser reconhecido 
+como ativo se, e apenas se:
+a) For provável que futuros benefícios económicos associados ao 
+item fluam para a entidade; e
+b) O custo do item puder ser mensurado fiavelmente.
+8 — Os itens como, por exemplo, peças sobressalentes, equipamentos 
+de reserva e equipamentos de manutenção são reconhecidos de acordo 
+com esta NCRF quando satisfazem a definição de ativos fixos tangíveis. 
+Caso contrário, são classificados como inventário.
+9 — Esta Norma não prescreve a unidade de medida para reconhe-
+cimento, isto é, aquilo que constitui um item do ativo fixo tangível. 
+Assim, é necessário exercer juízos de valor ao aplicar os critérios de 
+reconhecimento às circunstâncias específicas de uma entidade. Pode 
+ser apropriado agregar itens individualmente insignificantes, tais como moldes, ferramentas e bases, e aplicar os critérios ao valor agregado.
+10 — Uma entidade avalia segundo este princípio de reconhecimento 
+todos os seus ativos fixos tangíveis e custos de equipamento no momento 
+em que eles sejam incorridos. Estes custos incluem custos incorridos inicialmente para adquirir ou construir um item do ativo fixo tangível e os custos incorridos posteriormente para adicionar a, substituir parte 
+de, ou dar assistência ao mesmo.
+11 — Podem ser considerados no ativo por uma só quantidade e 
+quantia fixa, os itens imobilizados que, no seu conjunto, satisfaçam 
+simultaneamente as seguintes condições:
+a) Sejam renovados frequentemente;
+b) Representem, bem a bem, uma quantia imaterial para a entidade; e
+c) Tenham uma vida útil não superior a três anos.
+Custos iniciais
+12 — Os itens do ativo fixo tangível podem ser adquiridos por ra-
+zões de segurança ou ambientais. A aquisição de tal ativo fixo tangível, embora não aumentando diretamente futuros benefícios económicos 
+de qualquer item particular existente de ativo fixo tangível, pode ser 
+necessário para que a entidade obtenha futuros benefícios económicos 
+dos seus outros ativos. Esses itens do ativo fixo tangível qualificam -se 
+para o reconhecimento como ativos porque permitem a uma entidade 
+obter futuros benefícios económicos dos ativos relacionados para além 
+dos que teria obtido se não tivesse adquirido esses itens. Por exemplo, 
+uma indústria química pode instalar novos processos químicos de ma-nuseamento a fim de se conformar com exigências ambientais para a 
+produção e armazenamento de químicos perigosos. Os melhoramentos 
+nas instalações relacionados são reconhecidos como um ativo porque, 
+sem eles, a entidade não está em condições de fabricar e vender tais 
+produtos químicos. Contudo, a quantia escriturada resultante desse ativo 
+e ativos relacionados é testada quanto a imparidade de acordo com a 
+NCRF 12 — Imparidade de Ativos.
+Custos subsequentes
+13 — Segundo o princípio de reconhecimento do parágrafo 7, uma 
+entidade não reconhece na quantia escriturada de um item do ativo fixo 
+tangível os custos da assistência diária ao item. Pelo contrário, estes 
+custos são reconhecidos nos resultados quando incorridos. Os custos da 
+assistência diária são primordialmente os custos da mão -de -obra e dos 
+consumíveis, e podem incluir o custo de pequenas peças. A finalidade destes dispêndios é muitas vezes descrita como sendo para “reparações 
+e manutenção” de um item do ativo fixo tangível.
+14 — Partes de alguns itens do ativo fixo tangível poderão necessitar 
+de substituições a intervalos regulares. Por exemplo, um forno pode 
+exigir ser restaurado (com tijolos refratários) após uma quantidade de horas de uso ou os interiores dos aviões tal como assentos e cozinhas 
+de bordo podem exigir substituição algumas vezes durante a vida da 
+estrutura. Itens do ativo fixo tangível também podem ser adquiridos 
+para efetuar uma substituição recorrente menos frequente, tal como a 
+substituição das paredes interiores de um edifício, ou para efetuar uma 
+substituição não recorrente. Segundo o princípio de reconhecimento do parágrafo 7, uma entidade reconhece na quantia escriturada de um item 
+do ativo fixo tangível o custo da peça de substituição desse item quando 
+o custo for incorrido se os critérios de reconhecimento forem cumpridos. 
+A quantia escriturada das peças que são substituídas é desreconhecida 
+de acordo com as disposições de desreconhecimento desta Norma (ver 
+parágrafos 66 a 71).
+15 — A condição de continuar a operar um item do ativo fixo tangível 
+(por exemplo, uma aeronave) pode ser a realização regular de inspeções 
+importantes em busca de falhas, independentemente de as peças desse 
+item serem ou não substituídas. Quando cada inspeção importante for 
+efetuada, o seu custo é reconhecido na quantia escriturada do item do 
+ativo fixo tangível, como substituição, se os critérios de reconhecimento 
+forem satisfeitos. Qualquer quantia escriturada remanescente do custo 
+da inspeção anterior (distinta das peças físicas) é desreconhecida. Isto 
+ocorre independentemente de o custo da inspeção anterior ter sido 
+identificado na transação em que o item foi adquirido ou construído. Se necessário, o custo estimado de uma futura inspeção semelhante pode 
+ser usado como indicador de qual o custo do componente de inspeção 
+existente quando o item foi adquirido ou construído.
+Mensuração no reconhecimento
+16 — Um item do ativo fixo tangível que satisfaça as condições de 
+reconhecimento como um ativo deve ser mensurado pelo seu custo.
+Elementos do custo
+17 — O custo de um item do ativo fixo tangível compreende:
+a) O seu preço de compra, incluindo os direitos de importação e os 
+impostos de compra não reembolsáveis, após dedução dos descontos 
+e abatimentos;
+b) Quaisquer custos diretamente atribuíveis para colocar o ativo na 
+localização e condição necessárias para o mesmo ser capaz de funcionar 
+da forma pretendida; e
+c) A estimativa inicial dos custos de desmantelamento e remoção do 
+item e de restauro do local no qual este está localizado, em cuja obrigação 
+uma entidade incorre quando o item é adquirido ou como consequência 
+de ter usado o item durante um determinado período para finalidades diferentes da produção de inventários durante esse período.
+18 — Exemplos de custos diretamente atribuíveis são:
+a) Custos de benefícios dos empregados (ver subsidiariamente a 
+NCRF 28 — Benefícios dos Empregados) decorrentes diretamente da 
+construção ou aquisição de um item do ativo fixo tangível;
+b) Custos de preparação do local;20770 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+c) Custos iniciais de entrega e de manuseamento;
+d) Custos de instalação e montagem;
+e) Custos de testar se o ativo funciona corretamente, após dedução 
+dos proventos líquidos da venda de qualquer item produzido enquanto 
+se coloca o ativo nessa localização e condição (tais como amostras 
+produzidas quando se testa o equipamento); e
+f) Honorários.
+19 — Uma entidade aplica a NCRF 18 — Inventários aos custos das 
+obrigações de desmantelamento, remoção e restauro do local em que 
+um item está localizado que sejam incorridos durante um determinado 
+período como consequência de ter usado o item para produzir inventários 
+durante esse período. As obrigações por custos contabilizados de acordo 
+com a NCRF 18 ou com a presente Norma são reconhecidas e mensu-radas de acordo com a NCRF 21 — Provisões, Passivos Contingentes e Ativos Contingentes.
+20 — Exemplos de custos que não são custos de um item do ativo 
+fixo tangível são:
+a) Custos de abertura de novas instalações;
+b) Custos de introdução de um novo produto ou serviço (incluindo 
+custos de publicidade ou atividades promocionais);
+c) Custos de condução do negócio numa nova localização ou com 
+uma nova classe de clientes (incluindo custos de formação de pessoal); e
+d) Custos de administração e outros custos gerais.
+21 — O reconhecimento dos custos na quantia escriturada de um item 
+do ativo fixo tangível cessa quando o item está na localização e condi-
+ção necessárias para que seja capaz de funcionar da forma pretendida. Assim sendo, os custos incorridos na utilização ou reinstalação de um item não são incluídos na quantia escriturada desse item. Por exemplo, os custos seguintes não são incluídos na quantia escriturada de um item 
+do ativo fixo tangível:
+a) Custos incorridos enquanto um item capaz de funcionar da forma 
+pretendida ainda não tenha sido colocado em uso ou esteja a ser usado a uma capacidade inferior à sua capacidade total;
+b) Perdas operacionais iniciais, tais como as incorridas enquanto 
+cresce a exigência da produção do item; e
+c) Custos de relocalização ou reorganização de uma parte ou de todas 
+as operações de uma entidade.
+22 — Algumas operações ocorrem em ligação com a construção ou 
+desenvolvimento de um item do ativo fixo tangível, mas não são neces-sárias para colocar o item na localização e condição necessárias para 
+que este seja capaz de funcionar da forma pretendida. Estas operações 
+ocasionais podem ocorrer antes ou durante as atividades de construção ou 
+desenvolvimento. Por exemplo, podem ser obtidos rendimentos através 
+do uso de um local de construção como um parque de estacionamento 
+até a construção ter início. Dado que não são necessárias operações 
+inerentes para colocar um item na localização e condição necessárias 
+para que este seja capaz de funcionar da forma pretendida, o rendimento 
+e os respetivos gastos das operações inerentes são reconhecidos nos 
+resultados e incluídos nas suas respetivas classificações de rendimento ou de gasto.
+23 — O custo de um ativo construído pela própria entidade determina-
+-se usando os mesmos princípios quanto a um ativo adquirido. Se uma entidade produzir ativos idênticos para venda no decurso normal das 
+operações empresariais, o custo do ativo é geralmente o mesmo que o 
+custo de construir um ativo para venda (ver NCRF 18). Por isso, quais-quer lucros internos são eliminados para chegar a tais custos. De forma 
+semelhante, o custo de quantias anormais de materiais, de mão -de -obra 
+ou de outros recursos desperdiçados incorridos na autoconstrução de um ativo não é incluído no custo do ativo. A NCRF 10 — Custos de 
+Empréstimos Obtidos estabelece critérios para o reconhecimento do 
+juro como componente da quantia escriturada de um item do ativo fixo tangível construído pela própria entidade.
+Mensuração do custo
+24 — O custo de um item do ativo fixo tangível é equivalente ao preço 
+em dinheiro à data do reconhecimento. Se o pagamento for diferido para 
+além das condições normais de crédito, a diferença entre o equivalente ao 
+preço em dinheiro e o pagamento total é reconhecida como juro durante 
+o período de crédito a não ser que esse juro seja reconhecido na quantia 
+escriturada do item de acordo com o tratamento previsto na NCRF 10.
+25 — Um ou mais itens do ativo fixo tangível podem ser adquiridos 
+em troca de um ativo ou ativos não monetários, ou de uma combinação de ativos monetários e não monetários. O seguinte exemplo refere -se 
+simplesmente a uma troca de um ativo não monetário por outro, mas 
+também se aplica a todas as trocas descritas na frase anterior. O custo de 
+um tal item do ativo fixo tangível é mensurado pelo justo valor a não ser quea) a transação da troca careça de substância comercial; ou b) nem 
+o justo valor do ativo recebido nem o justo valor do ativo cedido sejam 
+fiavelmente mensuráveis. O item adquirido é mensurado desta forma 
+mesmo que uma entidade não possa imediatamente desreconhecer o 
+ativo cedido. Se o item adquirido não for mensurado pelo justo valor, o seu custo é mensurado pela quantia escriturada do ativo cedido.
+26 — Uma entidade determina se uma transação de troca tem subs-
+tância comercial considerando a extensão em que se espera que os seus 
+futuros fluxos de caixa sejam alterados como resultado da transação. 
+Uma transação de troca tem substância comercial se:
+a) A configuração (risco, tempestividade e quantia) dos fluxos de 
+caixa do ativo recebido diferir da configuração dos fluxos de caixa do 
+ativo transferido; ou
+b) O valor específico para a entidade relativo à parte das operações 
+da entidade afetada pelas alterações na transação como resultado da 
+troca; e
+c) A diferença na alínea a) ou b) for significativa relativamente ao 
+justo valor dos ativos trocados.
+Para determinar se uma transação de troca tem substância comercial, o 
+valor específico para a entidade relativo à parte das operações da entidade 
+afetada pela transação deve refletir os fluxos de caixa após impostos. 
+O resultado destas análises pode ser claro sem que uma entidade tenha de efetuar cálculos detalhados.
+27 — Se uma entidade for capaz de determinar com fiabilidade o justo 
+valor tanto do ativo recebido como do ativo cedido, então o justo valor do ativo cedido é usado para mensurar o custo do ativo recebido a não 
+ser que o justo valor do ativo recebido seja mais claramente evidente.
+28 — O custo de um item do ativo fixo tangível detido por um lo-
+catário segundo uma locação financeira é determinado de acordo com 
+a NCRF 9.
+Mensuração após reconhecimento
+29 — Uma entidade deve escolher o modelo de custo do parágrafo 30 
+ou o modelo de revalorização do parágrafo 31 como sua política con-
+tabilística e deve aplicar essa política a uma classe inteira de ativos 
+fixos tangíveis.
+Modelo do custo
+30 — Após o reconhecimento como ativo, um item do ativo fixo 
+tangível deve ser escriturado pelo seu custo menos qualquer depreciação 
+acumulada e quaisquer perdas por imparidade acumuladas.
+Modelo de revalorização
+31 — Após o reconhecimento como um ativo, um item do ativo fixo 
+tangível cujo justo valor possa ser mensurado fiavelmente deve ser 
+escriturado por uma quantia revalorizada, que é o seu justo valor à data 
+da revalorização menos qualquer depreciação acumulada subsequente 
+e perdas por imparidade acumuladas subsequentes. As revalorizações 
+devem ser feitas com suficiente regularidade para assegurar que a quantia 
+escriturada não difira materialmente daquela que seria determinada pelo 
+uso do justo valor à data do balanço.
+32 — O justo valor de terrenos e edifícios deve ser determinado a 
+partir de provas com base no mercado por avaliação que deverá ser 
+realizada por avaliadores profissionalmente qualificados e independen-
+tes. O justo valor de itens de instalações e equipamentos é geralmente o seu valor de mercado determinado por avaliação.
+33 — Se não houver provas, com base no mercado, do justo valor 
+devido à natureza especializada do item do ativo fixo tangível ou se 
+o item for raramente vendido, exceto como parte de um negócio em 
+continuação, uma entidade não pode utilizar o método de revalorização.
+34 — A frequência das revalorizações depende das alterações nos 
+justos valores dos ativos fixos tangíveis que estão a ser revalorizados. Quando o justo valor de um ativo revalorizado diferir materialmente 
+da sua quantia escriturada, é exigida uma nova revalorização. Alguns 
+itens do ativo fixo tangível sofrem alterações significativas e voláteis no justo valor, necessitando, por conseguinte, de revalorização anual. 
+Tais revalorizações frequentes são desnecessárias para itens do ativo 
+fixo tangível apenas com alterações insignificantes no justo valor. Em vez disso, pode ser necessário revalorizar o item apenas a cada três ou 
+cinco anos.
+35 — Quando um item do ativo fixo tangível for revalorizado, qual-
+quer depreciação acumulada à data da revalorização é tratada de uma 
+das seguintes formas:
+a) Reexpressa proporcionalmente com a alteração na quantia escri-
+turada bruta do ativo a fim de que a quantia escriturada do ativo após a 
+revalorização iguale a quantia revalorizada. Este método é muitas vezes Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20771
+usado quando um ativo for revalorizado por meio da aplicação de um 
+índice para determinar o seu custo de reposição depreciado.
+b) Eliminada contra a quantia escriturada bruta do ativo, sendo a 
+quantia líquida reexpressa para a quantia revalorizada do ativo. Este 
+método é muitas vezes usado para edifícios.
+A quantia do ajustamento proveniente da reexpressão ou da eliminação 
+da depreciação acumulada faz parte do aumento ou da diminuição na 
+quantia escriturada que seja contabilizado de acordo com os parágra-fos 39 e 40.
+36 — Se um item do ativo fixo tangível for revalorizado, toda a classe 
+do ativo fixo tangível à qual pertença esse ativo deve ser revalorizada.
+37 — Uma classe do ativo fixo tangível é um agrupamento de ativos 
+de natureza e uso semelhantes nas operações de uma entidade. O que se segue são exemplos de classes separadas:
+a) Terrenos;
+b) Terrenos e edifícios;
+c) Maquinaria;
+d) Navios;
+e) Aviões;
+f) Veículos a motor;
+g) Mobiliário e suportes fixos; e
+h) Equipamento de escritório.
+38 — Os itens integrados numa classe do ativo fixo tangível são 
+revalorizados simultaneamente a fim de ser evitada a revalorização 
+seletiva de ativos e o relato de quantias nas demonstrações financeiras 
+que sejam uma mistura de custos e valores em datas diferentes. Porém, 
+uma classe de ativos pode ser revalorizada numa base rotativa desde que 
+a revalorização da classe de ativos seja concluída num curto período e desde que as revalorizações sejam mantidas atualizadas.
+39 — Se a quantia escriturada de um ativo for aumentada como resul-
+tado de uma revalorização, o aumento deve ser creditado diretamente no 
+capital próprio numa conta com o título de excedente de revalorização. Contudo, o aumento deve ser reconhecido nos resultados até ao ponto em que reverta um decréscimo de revalorização do mesmo ativo pre-viamente reconhecido nos resultados.
+40 — Se a quantia escriturada de um ativo for diminuída como re-
+sultado de uma revalorização, a diminuição deve ser reconhecida nos 
+resultados. Contudo, a diminuição deve ser debitada diretamente ao 
+capital próprio até ao limite da quantia de crédito existente no excedente 
+de revalorização com respeito a esse ativo.
+41 — O excedente de revalorização incluído no capital próprio com 
+respeito a um item do ativo fixo tangível deve ser transferido diretamente 
+para resultados transitados quando o ativo for desreconhecido. Isto pode 
+implicar a transferência da totalidade do excedente quando o ativo for 
+retirado de uso ou alienado. Uma parte do excedente deve ser transferida 
+quando o ativo for usado por uma entidade. Nesse caso, a quantia do 
+excedente transferida será a diferença entre a depreciação baseada na 
+quantia escriturada revalorizada do ativo e a depreciação baseada no 
+custo original do ativo. As transferências do excedente de revalorização 
+para resultados transitados não são feitas por via de resultados.
+42 — Os efeitos dos impostos sobre o rendimento, se os houver, 
+resultantes da revalorização do ativo fixo tangível são reconhecidos de acordo com a NCRF 25 — Impostos sobre o Rendimento.
+Depreciação
+43 — Cada parte de um item do ativo fixo tangível com um custo que 
+seja significativo em relação ao custo total do item deve ser depreciada 
+separadamente.
+44 — Uma entidade imputa a quantia inicialmente reconhecida com 
+respeito a um item do ativo fixo tangível às partes significativas deste 
+e deprecia separadamente cada parte. Por exemplo, pode ser apropriado 
+depreciar separadamente a estrutura e os motores de uma aeronave, sejam 
+eles propriedade da entidade ou sujeitos a locação financeira.
+45 — Uma parte significativa de um item do ativo fixo tangível pode 
+ter uma vida útil e um método de depreciação que sejam os mesmos que 
+a vida útil e o método de depreciação de uma outra parte significativa do mesmo item. Essas partes podem ser agrupadas ao determinar -se o gasto de depreciação.
+46 — Na medida em que uma entidade deprecie separadamente 
+algumas partes de um item do ativo fixo tangível, também deprecia 
+separadamente o remanescente do item. O remanescente é composto 
+pelas partes de um item que não são individualmente significativas. Se uma entidade tiver expectativas variadas para essas partes, podem ser necessárias técnicas de aproximação para depreciar o remanescente de uma forma que represente fielmente o padrão de consumo e/ou a vida útil dessas partes.47 — Uma entidade pode escolher depreciar separadamente as partes 
+de um item que não tenham um custo que seja significativo em relação 
+ao custo total do item.
+48 — O gasto de depreciação em cada período deve ser reconhecido 
+nos resultados a menos que seja incluído na quantia escriturada de um 
+outro ativo.
+49 — O gasto de depreciação de um período é geralmente reconhecido 
+nos resultados. Contudo, por vezes, os futuros benefícios económicos incorporados num ativo são absorvidos na produção de outros ativos. 
+Neste caso, o gasto de depreciação constitui parte do custo do outro ativo 
+e está incluído na sua quantia escriturada. Por exemplo, a depreciação de 
+instalações e equipamento de fabrico é incluída nos custos de conversão 
+de inventários (ver NCRF 18). De forma semelhante, a depreciação de 
+ativos fixos tangíveis usados para atividades de desenvolvimento pode 
+ser incluída no custo de um ativo intangível reconhecido de acordo com 
+a NCRF 6 — Ativos Intangíveis.
+Quantia depreciável e período de depreciação
+50 — A quantia depreciável de um ativo deve ser imputada numa 
+base sistemática durante a sua vida útil.
+51 — O valor residual e a vida útil de um ativo devem ser revistos pelo 
+menos no final de cada ano financeiro e, se as expectativas diferirem das 
+estimativas anteriores, a(s) alteração(ões) deve(m) ser contabilizada(s) 
+como uma alteração numa estimativa contabilística de acordo com a 
+NCRF 4 — Políticas Contabilísticas, Alterações nas Estimativas Con-
+tabilísticas e Erros.
+52 — A depreciação é reconhecida mesmo se o justo valor do ativo 
+exceder a sua quantia escriturada, desde que o valor residual do ativo 
+não exceda a sua quantia escriturada. A reparação e manutenção de um 
+ativo não evitam a necessidade de o depreciar.
+53 — A quantia depreciável de um ativo é determinada após dedu-
+ção do seu valor residual. Na prática, o valor residual de um ativo é 
+muitas vezes insignificante e por isso imaterial no cálculo da quantia 
+depreciável.
+54 — O valor residual de um ativo pode aumentar até uma quantia 
+igual ou superior à quantia escriturada do ativo. Se assim for, o gasto 
+de depreciação do ativo é zero a menos que, e até que, o seu valor 
+residual diminua posteriormente para uma quantia abaixo da quantia 
+escriturada do ativo.
+55 — A depreciação de um ativo começa quando este esteja disponível 
+para uso, isto é quando estiver na localização e condição necessárias para que seja capaz de operar na forma pretendida. A depreciação de 
+um ativo cessa na data que ocorrer mais cedo entre a data em que o 
+ativo for classificado como detido para venda (ou incluído num grupo para alienação que seja classificado como detido para venda) de acordo com a NCRF 8 e a data em que o ativo for desreconhecido. Porém, a 
+depreciação não cessa quando o ativo se tornar ocioso ou for retirado 
+do uso a não ser que o ativo esteja totalmente depreciado. Contudo, 
+segundo os métodos de depreciação pelo uso, o gasto de depreciação pode ser zero enquanto não houver produção.
+56 — Os futuros benefícios económicos incorporados num ativo são 
+consumidos por uma entidade principalmente através do seu uso. Porém, 
+outros fatores, tais como obsolescência técnica ou comercial e desgaste normal enquanto um ativo permaneça ocioso, dão origem muitas vezes à diminuição dos benefícios económicos que poderiam ter sido obtidos 
+do ativo. Consequentemente, todos os fatores que se seguem são con-
+siderados na determinação da vida útil de um ativo:
+a) Uso esperado do ativo, o qual é avaliado por referência à capacidade 
+ou produção física esperadas do ativo;
+b) Desgaste normal esperado, que depende de fatores operacionais 
+tais como o número de turnos durante os quais o ativo será usado e o 
+programa de reparação e manutenção, e o cuidado e manutenção do 
+ativo enquanto estiver ocioso;
+c) Obsolescência técnica ou comercial proveniente de alterações ou 
+melhoramentos na produção, ou de uma alteração na procura de mercado 
+para o serviço ou produto derivado do ativo; e
+d) Limites legais ou semelhantes no uso do ativo, tais como as datas 
+de extinção de locações com ele relacionadas.
+57 — A vida útil de um ativo é definida em termos da utilidade espe-
+rada do ativo para a entidade. A política de gestão de ativos da entidade 
+pode envolver a alienação de ativos após um período especificado ou 
+após consumo de uma proporção especificada dos futuros benefícios 
+económicos incorporados no ativo. Por isso, a vida útil de um ativo 
+pode ser mais curta do que a sua vida económica. A estimativa da vida útil do ativo é uma questão de juízo de valor baseado na experiência da entidade com ativos semelhantes.
+58 — Os terrenos e edifícios são ativos separáveis e são contabilizados 
+separadamente, mesmo quando sejam adquiridos conjuntamente. Com 20772 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+algumas exceções, como as pedreiras e os locais usados como aterros, 
+os terrenos têm uma vida útil ilimitada pelo que não são depreciados. Os 
+edifícios têm vida útil limitada e, por isso, são ativos depreciáveis. Um 
+aumento no valor de um terreno no qual um edifício esteja construído 
+não afeta a determinação da quantia depreciável do edifício.
+59 — Se o custo do terreno incluir os custos do desmantelamento, 
+remoção e restauro do local, essa porção do custo do terreno é depre-
+ciada durante o período de benefícios obtidos ao incorrer nesses custos. 
+Nalguns casos, o próprio terreno pode ter uma vida útil limitada, caso em 
+que é depreciado de modo a refletir os benefícios a serem dele retirados.
+Método de depreciação
+60 — O método de depreciação usado deve refletir o modelo por 
+que se espera que os futuros benefícios económicos do ativo sejam 
+consumidos pela entidade.
+61 — O método de depreciação é aplicado consistentemente a um 
+ativo de período para período, a menos que ocorra alguma alteração 
+significativa no modelo esperado de consumo dos futuros benefícios eco-
+nómicos associados a esse ativo. Nesse caso, o método deve ser alterado 
+para refletir o novo modelo, sendo tal modificação contabilizada como 
+alteração numa estimativa contabilística de acordo com a NCRF 4.
+62 — Pode ser usada uma variedade de métodos de depreciação 
+para imputar a quantia depreciável de um ativo numa base sistemática 
+durante a sua vida útil. Estes métodos incluem o método da linha reta, 
+o método do saldo decrescente e o método das unidades de produção. 
+A depreciação pelo método da linha reta resulta num débito constante 
+durante a vida útil do ativo se o seu valor residual não se alterar. O 
+método do saldo decrescente resulta num débito decrescente durante 
+a vida útil. O método das unidades de produção resulta num débito 
+baseado no uso ou produção esperados. A entidade seleciona o método 
+que reflita mais aproximadamente o modelo esperado de consumo dos 
+futuros benefícios económicos incorporados no ativo. Esse método é aplicado consistentemente de período para período a menos que ocorra 
+uma alteração no modelo esperado de consumo desses futuros benefícios 
+económicos.
+Imparidade
+63 — Para determinar se um item do ativo fixo tangível está, ou não, 
+com imparidade, uma entidade aplica a NCRF 12. Essa Norma explica 
+como uma entidade revê a quantia escriturada dos seus ativos, como 
+determina a quantia recuperável de um ativo e quando reconhece ou 
+reverte o reconhecimento de uma perda por imparidade.
+Compensação por imparidade
+64 — A compensação de terceiros por itens do ativo fixo tangível que 
+estiverem com imparidade, perdidos ou cedidos deve ser incluída nos 
+resultados quando a compensação se tornar recebível.
+65 — As imparidades ou perdas de itens do ativo fixo tangível, rei-
+vindicações relacionadas ou pagamentos de compensação de terceiros 
+e qualquer aquisição ou construção posterior de ativos de substituição 
+constituem acontecimentos económicos separados que são contabilizados 
+separadamente como se segue:
+a) As imparidades de itens do ativo fixo tangível são reconhecidas 
+de acordo com a NCRF 12;
+b) O desreconhecimento de itens do ativo fixo tangível retirados de 
+uso ou alienados é determinado de acordo com esta Norma;
+c) A compensação de terceiros por itens do ativo fixo tangível que es-
+tiverem com imparidade, perdidos ou cedidos é incluída na determinação 
+dos resultados quando a compensação se tornar recebível; e
+d) O custo de itens do ativo fixo tangível restaurados, comprados ou 
+construídos como reposições é determinado de acordo com esta Norma.
+Desreconhecimento
+66 — A quantia escriturada de um item do ativo fixo tangível deve 
+ser desreconhecida:
+a) No momento da alienação; ou
+b) Quando não se espere futuros benefícios económicos do seu uso 
+ou alienação.
+67 — O ganho ou perda decorrente do desreconhecimento de um item 
+do ativo fixo tangível deve ser incluído nos resultados quando o item for desreconhecido (a menos que a NCRF 9 exija de forma diferente 
+no caso de uma venda e relocação). O ganho não deve ser classificado 
+como rédito. Contudo, uma entidade que, no decurso das suas atividades 
+normais, vende regularmente itens de ativos fixos tangíveis que deteve para locação a outras entidades, deve transferir tais ativos para inven-tários pela sua quantia escriturada quando deixarem de ser objeto de 
+locação e passarem a ser detidos para venda. Os proventos da venda de tais ativos devem ser reconhecidos como rédito em conformidade com 
+NCRF 20 — Rédito. A NCRF 8 não se aplica quando os ativos detidos 
+para venda no decurso normal da atividade empresarial são transferidos 
+para inventários.
+68 — A alienação de um item do ativo fixo tangível pode ocorrer 
+numa variedade de formas (por exemplo, por venda, por celebração de 
+um contrato de locação financeira ou por doação). Aquando da alienação 
+de um item do ativo fixo tangível, uma entidade deve aplicar os critérios 
+referidos na NCRF 20, para reconhecimento do rédito. A NCRF 9 aplica-
+-se à alienação por “venda seguida de locação”.
+69 — Se, segundo o princípio de reconhecimento do parágrafo 7, uma 
+entidade reconhecer na quantia escriturada de um item do ativo fixo tan-
+gível o custo de uma substituição de parte do item, então ela desreconhece 
+a quantia escriturada da parte substituída independentemente desta ter 
+sido depreciada ou não separadamente. Se não for praticável que uma entidade determine a quantia escriturada da parte substituída, ela pode 
+usar o custo da substituição como indicação do custo da parte substituída 
+reportada ao momento em que foi adquirida ou construída.
+70 — O ganho ou perda decorrente do desreconhecimento de um item 
+do ativo fixo tangível deve ser determinado como a diferença entre os proventos líquidos da alienação, se os houver, e a quantia escriturada do item.
+71 — A retribuição a receber pela alienação de um item do ativo fixo 
+tangível é reconhecida inicialmente pelo seu justo valor. Se o pagamento 
+do item for diferido, a retribuição recebida é reconhecida inicialmente 
+pelo equivalente ao preço em dinheiro. A diferença entre a quantia no-
+minal da retribuição e o equivalente ao preço em dinheiro é reconhecida 
+como rédito de juros de acordo com a NCRF 20, refletindo o rendimento 
+efetivo sobre a conta a receber.
+Data de eficácia
+72 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+73 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam comparáveis.
+74 — Esta Norma substitui a NCRF 7 Ativos Fixos Tangíveis, cons-
+tante do Aviso n.º 15655/2009, publicado no Diário da República, 
+2.ª série, n.º 173, de 7 de setembro de 2009.

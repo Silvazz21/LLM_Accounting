@@ -1,0 +1,556 @@
+Norma Contabilística e de Relato Financeiro 21
+Provisões, Passivos Contingentes e Ativos Contingentes
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro 
+é o de prescrever critérios de reconhecimento e bases de mensuração apropriados a provisões, passivos contingentes e ativos contingentes.20812 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+Âmbito
+2 — Esta Norma deve ser aplicada por todas as entidades na con-
+tabilização de provisões, passivos contingentes e ativos contingentes, 
+exceto:
+a) Os que resultam de contratos executórios, exceto quando o contrato 
+seja oneroso; ou
+b) Os cobertos por uma outra Norma.
+3 — Esta Norma não se aplica a instrumentos financeiros, incluindo ga-
+rantias, que estejam no âmbito da NCRF 27 — Instrumentos Financeiros.
+4 — Não são objeto de tratamento por esta Norma os tipos específicos 
+de provisões, passivos contingentes ou ativos contingentes que sejam 
+tratados em normas específicas, como, a título de exemplo, é o caso:
+a) Dos passivos contingentes assumidos numa concentração de ativi-
+dades empresariais, que são objeto de tratamento na NCRF 14 — Con-
+centrações de Atividades Empresariais;
+b) De certos tipos de provisões relativas a contratos de construção, 
+tratadas na NCRF 19 — Contratos de Construção;
+c) De certos tipos de provisões relativas a impostos sobre o rendi-
+mento, tratados na NCRF 25 — Impostos sobre o Rendimento; e
+d) De certos tipos de provisões relativas a locações, tratados na 
+NCRF 9 — Locações. Porém, como a NCRF 9 não contém requisitos 
+específicos para tratar locações operacionais que se tenham tornado 
+onerosas, a presente Norma aplica -se a tais casos.
+5 — Algumas quantias tratadas como provisões podem relacionar -se 
+com o reconhecimento do rédito, por exemplo quando uma entidade dê 
+garantias em troca de uma remuneração. A NCRF 20 — Rédito identifica 
+as circunstâncias em que o rédito é reconhecido e proporciona orientação 
+prática sobre a aplicação dos critérios de reconhecimento. Consequente-
+mente, a presente Norma não altera os requisitos da NCRF 20.
+6 — Outras NCRF especificam se os dispêndios são tratados como 
+ativos ou como gastos. Dado que esta problemática não é tratada nesta 
+Norma, não consta desta qualquer proibição ou exigência de capitaliza-
+ção dos custos reconhecidos quando é constituída uma provisão.
+7 — Esta Norma aplica -se também a provisões para reestruturações 
+(incluindo unidades operacionais descontinuadas). Quando uma reestru-
+turação satisfizer a definição de uma unidade operacional descontinuada, 
+podem ser exigidas divulgações adicionais.
+Definições
+8 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Acontecimento que cria obrigações: é um acontecimento que cria uma 
+obrigação legal ou construtiva, que faça com que uma entidade não tenha 
+nenhuma alternativa realista senão liquidar essa obrigação.
+Ativo contingente: é um possível ativo proveniente de acontecimentos 
+passados e cuja existência somente será confirmada pela ocorrência ou 
+não de um ou mais acontecimentos futuros incertos não totalmente sob 
+o controlo da entidade.
+Contrato executório: é um contrato segundo o qual nenhuma das partes 
+tenha cumprido qualquer das suas obrigações ou ambas as partes apenas 
+tenham parcialmente cumprido as suas obrigações em igual extensão.
+Contrato oneroso: é um contrato em que os custos não evitáveis de 
+satisfazer as obrigações do contrato excedem os benefícios económicos 
+que se espera sejam recebidos ao abrigo do mesmo.
+Obrigação construtiva: é uma obrigação que decorre das ações de 
+uma entidade quando:
+a) Por via de um modelo estabelecido de práticas passadas, de políticas 
+publicadas ou de uma declaração atual suficientemente específica, a 
+entidade tenha indicado a outras partes que aceitará certas responsa-
+bilidades; e
+b) Em consequência, a entidade tenha criado uma expectativa válida 
+nessas outras partes de que cumprirá com essas responsabilidades.
+Obrigação legal: é uma obrigação que deriva de:
+a) Um contrato (através dos seus termos explícitos ou implícitos);
+b) Legislação; ou
+c) Outras disposições legais.
+Passivo: é uma obrigação presente da entidade proveniente de acon-
+tecimentos passados, cuja liquidação se espera que resulte num exfluxo 
+de recursos da entidade que incorporem benefícios económicos.
+Passivo contingente: é:
+a) Uma obrigação possível que provenha de acontecimentos passados 
+e cuja existência somente será confirmada pela ocorrência ou não de um ou mais acontecimentos futuros incertos não totalmente sob controlo 
+da entidade; ou
+b) Uma obrigação presente que decorra de acontecimentos passados, 
+mas que não é reconhecida porque:
+i) Não é provável que um exfluxo de recursos incorporando benefícios 
+económicos seja exigido para liquidar a obrigação; ou
+ii) A quantia da obrigação não pode ser mensurada com suficiente 
+fiabilidade.
+Provisão: é um passivo de tempestividade ou quantia incertos.
+Reestruturação: é um programa planeado e controlado pelo órgão de 
+gestão e que altera materialmente:
+a) O âmbito de um negócio empreendido por uma entidade; ou
+b) A maneira como o negócio é conduzido.
+9 — A interpretação de “provável” nesta Norma, como “mais provável 
+do que não”, não se aplica necessariamente a outras Normas Contabi-
+lísticas e de Relato Financeiro.
+Provisões e outros itens
+Provisões e outros passivos
+10 — As provisões podem ser distinguidas de outros passivos tais 
+como contas a pagar e acréscimos. As primeiras caracterizam -se pela 
+existência de incerteza acerca da tempestividade ou da quantia dos 
+dispêndios futuros necessários para a sua liquidação enquanto:
+a) As contas a pagar são passivos a pagar por bens ou serviços que 
+tenham sido faturados ou formalmente acordados com o fornecedor; e
+b) Os acréscimos são passivos a pagar por bens ou serviços que tenham 
+sido recebidos ou fornecidos mas que não tenham sido pagos, faturados 
+ou formalmente acordados com o fornecedor, incluindo quantias devidas 
+a empregados (por exemplo, quantias relacionadas com pagamento 
+acrescido de férias). Se bem que algumas vezes seja necessário estimar 
+a quantia ou tempestividade dos acréscimos, a incerteza é geralmente 
+muito menor do que nas provisões.
+Provisões e passivos contingentes
+11 — Em sentido geral, todas as provisões são contingentes porque são 
+incertas na sua tempestividade ou quantia. Porém, nesta Norma o termo 
+“contingente” é usado para passivos e ativos que não sejam reconheci-
+dos porque a sua existência somente será confirmada pela ocorrência 
+ou não de um ou mais eventos futuros incertos não totalmente sob o controlo da entidade. Além disso, nesta Norma, a expressão “passivo contingente” é usada para passivos que não satisfaçam os critérios de reconhecimento.
+12 — Esta Norma distingue entre:
+a) Provisões que, desde que possa ser efetuada uma estimativa fiável, 
+são reconhecidas como passivos porque são obrigações presentes e é 
+provável que um exfluxo de recursos que incorporem benefícios eco-nómicos será necessário para liquidar as obrigações; e
+b) Passivos contingentes que não são reconhecidos como passivos 
+porque são:
+i) Obrigações possíveis, uma vez que carecem de confirmação sobre 
+se a entidade tem ou não uma obrigação presente que possa conduzir a um exfluxo de recursos que incorporem benefícios económicos; ou
+ii) Obrigações presentes que não satisfazem os critérios de reconhe-
+cimento desta Norma, seja porque não é provável que será necessário 
+um exfluxo de recursos que incorporem benefícios económicos para 
+liquidar a obrigação, seja porque não pode ser feita uma estimativa 
+suficientemente fiável da quantia da obrigação.
+Reconhecimento
+Provisões
+13 — Uma provisão só deve ser reconhecida quando, cumulativamente:
+a) Uma entidade tenha uma obrigação presente, legal ou construtiva, 
+como resultado de um acontecimento passado;
+b) Seja provável que um exfluxo de recursos que incorporem benefí-
+cios económicos será necessário para liquidar a obrigação; e
+c) Possa ser feita uma estimativa fiável da quantia da obrigação.
+Obrigação presente
+14 — Em casos raros não é claro se existe ou não uma obrigação 
+presente. Nestes casos, presume -se que um acontecimento passado dá Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20813
+origem a uma obrigação presente se, tendo em conta toda a evidência 
+disponível, for mais provável do que não que tal obrigação presente 
+exista à data do balanço.
+15 — Em quase todos os casos será claro se um acontecimento passado 
+deu origem a uma obrigação presente. Em casos raros, por exemplo num 
+processo judicial, pode ser discutível se certos eventos ocorreram, ou 
+não, ou se esses eventos resultaram numa obrigação presente. Em tal 
+caso, uma entidade determina se existe uma obrigação presente à data do balanço tendo em conta toda a evidência disponível incluindo, por exemplo, a opinião de peritos. A evidência a considerar inclui qualquer prova adicional proporcionada por acontecimentos após a data do ba-
+lanço. Com base em tal evidência a entidade:
+a) Reconhece uma provisão, se os critérios de reconhecimento forem 
+satisfeitos, quando seja mais provável do que não que uma obrigação 
+presente exista à data do balanço; e
+b) Divulga um passivo contingente, quando seja mais provável que 
+nenhuma obrigação presente exista à data do balanço, a menos que a 
+possibilidade de um exfluxo de recursos que incorporem benefícios 
+económicos seja remota (vide o Apêndice).
+Acontecimento passado
+16 — Um acontecimento passado que conduza a uma obrigação 
+presente é chamado um acontecimento que cria obrigações. Para um 
+evento ser assim chamado é necessário que a entidade não tenha ne-
+nhuma alternativa realista senão liquidar a obrigação por ele criada, o que apenas ocorre:
+a) Quando a liquidação da obrigação possa ser imposta legalmente; ou
+b) No caso de uma obrigação construtiva, quando o evento (que pode 
+ser uma ação da própria entidade) crie expectativas válidas em terceiros 
+de que ela cumprirá a obrigação.
+17 — As demonstrações financeiras tratam da posição financeira da 
+entidade no fim do seu período de relato e não da sua possível posição 
+financeira no futuro. Consequentemente, nenhuma provisão é reco-
+nhecida para os gastos que necessitam de ser incorridos para operar no futuro. Os únicos passivos reconhecidos no balanço de uma entidade são os que existam à data daquela demonstração.
+18 — São apenas reconhecidas como provisões as obrigações que 
+surgem provenientes de acontecimentos passados que existem inde-
+pendentemente de ações futuras de uma entidade (isto é, da conduta 
+futura dos seus negócios). Constituem exemplos de tais obrigações, as 
+penalizações ou os custos de limpeza de danos ambientais ilegais que, em 
+ambos os casos, dariam origem na liquidação a um exfluxo de recursos que incorpore benefícios económicos sem atenção às futuras ações da entidade. Pelas mesmas razões, uma entidade reconhece uma provisão 
+para os custos de encerramento de um poço de petróleo ou de uma 
+central elétrica nuclear até ao limite das suas obrigações de retificação dos danos já causados. Contrariamente, devido a pressões comerciais ou exigências legais, uma entidade pode pretender ou precisar de levar a efeito dispêndios para operar de uma forma particular no futuro (por exemplo, montando filtros de fumo num certo tipo de fábricas). Dado 
+que a entidade pode evitar os dispêndios futuros pelas suas próprias 
+ações, por exemplo alterando o seu método de operar, ela não tem ne-nhuma obrigação presente relativamente a esse dispêndio futuro e não é reconhecida qualquer provisão.
+19 — Uma obrigação envolve sempre uma outra parte a quem a 
+obrigação é devida, sendo, por isso mesmo, necessária a identificação 
+da parte a quem a obrigação é devida (na verdade a obrigação pode 
+ser ao público em geral). Porque uma obrigação envolve sempre um 
+compromisso com uma outra parte, isto implica que uma decisão do 
+órgão de gestão apenas dá origem a uma obrigação construtiva à data do balanço se a decisão tiver sido comunicada antes daquela data aos afetados por ela de uma maneira suficientemente específica para sus-citar neles uma expectativa válida de que a entidade cumprirá as suas 
+responsabilidades.
+20 — Um acontecimento que não dê origem, de imediato, a uma 
+obrigação pode dá -la numa data posterior, por força de alterações na lei 
+ou porque um ato da entidade (nomeadamente, uma declaração pública 
+suficientemente específica) dê origem a uma obrigação construtiva. Por 
+exemplo, quando forem causados danos ambientais pode não haver 
+nenhuma obrigação para remediar as consequências. Porém, o facto 
+de ter havido o dano tornar -se -á um acontecimento que cria obrigações 
+quando uma nova lei exigir que o dano existente seja retificado ou quando 
+a entidade publicamente aceitar a responsabilidade pela retificação de uma maneira que crie uma obrigação construtiva.
+21 — Quando os pormenores de uma nova lei proposta tiverem ainda 
+de ser ultimados, uma obrigação só se verifica quando se tiver virtual-
+mente a certeza de que a legislação será aprovada nos termos constantes da proposta. Para a finalidade desta Norma, tal obrigação é tratada como 
+uma obrigação legal.
+Exfluxo provável de recursos que incorporem benefícios económicos
+22 — Para que um passivo se qualifique para reconhecimento precisa 
+de haver não somente uma obrigação presente mas também a probabili-
+dade de um exfluxo de recursos que incorporem benefícios económicos 
+para liquidar essa obrigação. Para a finalidade desta Norma, um exfluxo 
+de recursos ou outro acontecimento é considerado como provável se 
+o acontecimento for mais provável do que não de ocorrer, isto é, se a 
+probabilidade de que o acontecimento ocorrerá for maior do que a pro-
+babilidade de isso não acontecer. Quando não for provável que exista 
+uma obrigação presente, uma entidade divulga um passivo contingente, 
+a menos que a possibilidade de um exfluxo de recursos que incorporem 
+benefícios económicos seja remota (vide o Apêndice).
+23 — Quando houver várias obrigações semelhantes (por exemplo 
+garantias de produtos ou contratos semelhantes) a probabilidade de que 
+um exfluxo será exigido na liquidação é determinada considerando -se
+a classe de obrigações como um todo. Se bem que a probabilidade de 
+exfluxo de qualquer item possa ser pequeno, pode bem ser possível que 
+algum exfluxo de recursos será necessário para liquidar a classe de obri-
+gações como um todo. Se esse for o caso, é reconhecida uma provisão (se os outros critérios de reconhecimento forem satisfeitos).
+Estimativa fiável da obrigação
+24 — O uso de estimativas é uma parte essencial da preparação de 
+demonstrações financeiras e não prejudica a sua fiabilidade. Isto é espe-
+cialmente verdade no caso de provisões, que pela sua natureza são mais 
+incertas do que a maior parte de outros elementos do balanço. Exceto 
+em casos extremamente raros, uma entidade será capaz de determinar 
+uma gama de desfechos possíveis e pode por isso fazer uma estimativa 
+da obrigação que seja suficientemente fiável para usar ao reconhecer uma provisão.
+25 — No caso extremamente raro em que nenhuma estimativa fiável 
+possa ser feita, existe um passivo que não pode ser reconhecido. Esse 
+passivo é divulgado como um passivo contingente (vide o Apêndice).
+Passivos contingentes
+26 — Uma entidade não deve reconhecer um passivo contingente.
+27 — Um passivo contingente é divulgado (vide o Apêndice), a menos 
+que seja remota a possibilidade de um exfluxo de recursos que incorpo-
+rem benefícios económicos.
+28 — Quando uma entidade estiver conjunta e solidariamente com-
+prometida com uma obrigação, a parte da obrigação que se espera que seja satisfeita por outras partes é tratada como um passivo contingente. 
+A entidade reconhece uma provisão correspondente à parte da obrigação 
+pela qual seja provável um exfluxo de recursos que incorporem bene-fícios económicos, exceto na circunstância extremamente rara em que 
+nenhuma estimativa possa ser feita.
+29 — Os passivos contingentes podem desenvolver -se de uma maneira 
+não esperada inicialmente. Por isso, são continuadamente avaliados 
+para determinar se um exfluxo de recursos que incorporam benefícios 
+económicos se tornou provável. Se se tornar provável que um exfluxo 
+de benefícios económicos futuros serão exigidos para um item pre-
+viamente tratado como um passivo contingente, é reconhecida uma 
+provisão nas demonstrações financeiras do período em que a alteração 
+da probabilidade ocorra, exceto na circunstância extremamente rara em 
+que nenhuma estimativa fiável possa ser feita.
+Ativos contingentes
+30 — Uma entidade não deve reconhecer um ativo contingente.
+31 — Os ativos contingentes surgem normalmente de acontecimentos 
+não planeados ou não esperados que dão origem à possibilidade de um 
+influxo de benefícios económicos para a entidade. Um exemplo é uma 
+reivindicação que uma entidade esteja a intentar por intermédio de 
+processos legais, quando o desfecho seja incerto.
+32 — Os ativos contingentes não são reconhecidos nas demonstrações 
+financeiras uma vez que isso poderia resultar no reconhecimento de ren-
+dimentos que poderiam nunca ser realizados. Porém, quando a realização 
+de rendimentos esteja virtualmente certa, então o ativo relacionado não 
+é um ativo contingente e o seu reconhecimento é apropriado.
+33 — Um ativo contingente é divulgado quando for provável um in-
+fluxo de benefícios económicos, sem, contudo, dar indicações enganosas 
+da probabilidade de surgirem rendimentos.
+34 — Os ativos contingentes são avaliados continuadamente para 
+assegurar que os desenvolvimentos sejam apropriadamente refletidos 
+nas demonstrações financeiras. Se se tornar virtualmente certo que 20814 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+ocorrerá um influxo de benefícios económicos, o ativo e o rendimento 
+relacionado são reconhecidos nas demonstrações financeiras do período 
+em que a alteração ocorra. Se um influxo de benefícios económicos se 
+tornar provável, uma entidade divulga o ativo contingente.
+Mensuração
+A melhor estimativa
+35 — A quantia reconhecida como uma provisão deve ser a melhor 
+estimativa do dispêndio exigido para liquidar a obrigação presente à 
+data do balanço.
+36 — A melhor estimativa do dispêndio exigido para liquidar a obri-
+gação presente é a quantia que uma entidade racionalmente pagaria 
+para liquidar a obrigação à data do balanço ou para a transferir para 
+uma terceira parte nesse momento. Será muitas vezes impossível ou 
+proibitivamente dispendioso liquidar ou transferir uma obrigação à data 
+do balanço. Porém, a estimativa da quantia que uma entidade racional-mente pagaria para liquidar ou transferir a obrigação produz a melhor 
+estimativa do dispêndio exigido para a liquidar.
+37 — As estimativas do desfecho e do efeito financeiro são determi-
+nadas por julgamentos, complementados pela experiência de transações 
+semelhantes e, em alguns casos, por relatos de peritos independentes. 
+A evidência considerada inclui qualquer evidência adicional proporcio-
+nada por acontecimentos após a data do balanço.
+38 — As incertezas que rodeiam a quantia a ser reconhecida como uma 
+provisão são tratadas de várias formas, de acordo com as circunstâncias.
+39 — Quando a provisão a ser mensurada envolva uma grande po-
+pulação de itens, a obrigação é estimada ponderando todos os possíveis 
+desfechos pelas suas probabilidades associadas. O nome para este método 
+estatístico de estimativa é «o valor esperado». A provisão será por isso diferente dependendo de se a probabilidade de uma perda de uma dada 
+quantia seja, por exemplo, de 60 por cento ou de 90 por cento. Quando 
+houver uma escala contínua de desfechos possíveis, e cada ponto nessa 
+escala é tão provável como qualquer outro, é usado o ponto médio da 
+escala.
+40 — Quando uma única obrigação estiver a ser mensurada, o desfe-
+cho individual mais provável pode ser a melhor estimativa do passivo. Porém, mesmo em tal caso, a entidade considera outras consequências 
+possíveis. Quando outras consequências possíveis forem ou maioritaria-
+mente mais altas ou maioritariamente mais baixas do que a consequência 
+mais provável, a melhor estimativa será uma quantia mais alta ou mais baixa. Por exemplo, se uma entidade tiver de reparar uma avaria grave 
+numa fábrica importante que tenha construído para um cliente, a con-
+sequência mais provável pode ser a reparação ter sucesso à primeira 
+tentativa por um custo de 1.000, mas é feita uma provisão por uma 
+quantia maior se houver uma possibilidade significativa de que serão 
+necessárias tentativas posteriores.
+41 — A posição é mensurada antes dos impostos, porque as conse-
+quências fiscais da provisão, e alterações na mesma, são tratadas pela 
+NCRF 25.
+Riscos e incertezas
+42 — Os riscos e incertezas que inevitavelmente rodeiam muitos 
+acontecimentos e circunstâncias devem ser tidos em conta para se chegar 
+à melhor estimativa de uma provisão.
+43 — O risco descreve a variabilidade de desfechos. Um ajustamento 
+do risco pode aumentar a quantia pela qual é mensurado um passivo. 
+É necessária cautela ao fazer juízos em condições de incerteza, a fim 
+de que os rendimentos ou ativos não sejam subavaliados e os gastos ou passivos não sejam sobreavaliados. Porém, a incerteza não justifica a 
+criação de provisões excessivas ou uma sobreavaliação deliberada de 
+passivos. Por exemplo, se os custos projetados de um desfecho particu-
+larmente adverso forem estimados numa base prudente, esse desfecho 
+não é, então, deliberadamente tratado como mais provável do que for 
+realisticamente o caso. É necessário prudência para evitar duplicar 
+ajustamentos do risco e incerteza com a consequente sobreavaliação 
+de uma provisão.
+44 — Devem ser divulgadas as incertezas que rodeiam a quantia do 
+dispêndio.
+Valor presente
+45 — Quando o efeito do valor temporal do dinheiro for material, a 
+quantia de uma provisão deve ser o valor presente dos dispêndios que 
+se espera que sejam necessários para liquidar a obrigação.
+46 — Por causa do valor temporal do dinheiro, as provisões relacio-
+nadas com exfluxos de caixa que surjam logo após a data do balanço são 
+mais onerosas do que aquelas em que os exfluxos de caixa da mesma quantia surgem mais tarde. As provisões são por isso descontadas, 
+quando o efeito seja material.
+47 — A taxa (ou taxas) de desconto deve(m) ser uma taxa (ou taxas) 
+antes dos pré -impostos que reflita(m) as avaliações correntes de mercado 
+do valor temporal do dinheiro e dos riscos específicos do passivo. A(s) 
+taxa(s) de desconto não devem refletir riscos relativamente aos quais as 
+estimativas dos fluxos de caixa futuros tenham sido ajustados.
+Acontecimentos futuros
+48 — Os acontecimentos futuros que possam afetar a quantia ne-
+cessária para liquidar uma obrigação devem ser refletidos na quantia 
+de uma provisão quando houver evidência objetiva suficiente de que eles ocorrerão.
+49 — Os acontecimentos futuros esperados podem ser particularmente 
+importantes ao mensurar as provisões. Por exemplo, uma entidade pode 
+estimar que o custo de limpar um local no fim da sua vida útil será redu-
+zido por alterações futuras de tecnologia. A quantia reconhecida reflete uma expectativa razoável de observadores tecnicamente qualificados e 
+objetivos, tendo em conta toda a evidência disponível quanto à tecno-
+logia que estará disponível no momento da limpeza. Por conseguinte é 
+apropriado incluir, por exemplo, reduções de custo esperados associados 
+com experiência acrescida na aplicação de tecnologia existente ou o 
+custo esperado de aplicação de tecnologia existente a uma operação de limpeza maior ou mais complexa da que previamente tenha sido levada a efeito. Porém, uma entidade não antecipa o desenvolvimento de uma 
+tecnologia completamente nova de limpeza a menos que tal seja apoiado 
+por evidência objetiva suficiente.
+50 — O efeito de possível nova legislação é tido em consideração na 
+mensuração de uma obrigação existente quando exista evidência objetiva 
+suficiente de que a promulgação da lei é virtualmente certa. Além disso, 
+é requerida evidência quer do que a legislação vai exigir quer de que a 
+sua implementação é virtualmente certa.
+Alienação esperada de ativos
+51 — Os ganhos da alienação esperada de ativos não devem ser tidos 
+em consideração ao mensurar uma provisão.
+52 — Os ganhos na alienação esperada de ativos não são tidos em 
+conta ao mensurar uma provisão, mesmo que a alienação esperada 
+esteja intimamente ligada ao acontecimento que dá origem à provisão. 
+A entidade apenas reconhece ganhos nas alienações esperadas de ativos 
+no momento especificado pela NCRF que trata dos respetivos ativos.
+Reembolsos
+53 — Quando se esperar que uma parte ou a totalidade do dispên-
+dio necessário para liquidar uma provisão possa ser reembolsado por 
+uma outra parte, o reembolso deve ser reconhecido quando, e somente 
+quando, seja virtualmente certo que o mesmo será recebido se a enti-dade liquidar a obrigação. O reembolso deve ser tratado como um ativo 
+separado, não devendo a quantia reconhecida para o reembolso exceder 
+a quantia da provisão.
+54 — Na demonstração dos resultados, o gasto relacionado com 
+uma provisão pode ser apresentado líquido da quantia reconhecida do reembolso que lhe esteja associado.
+55 — Algumas vezes, uma entidade é capaz de esperar que outra parte 
+pague parte ou todo o dispêndio necessário para liquidar a provisão (por 
+exemplo, por intermédio de contratos de seguro, cláusulas de indem-
+nização ou garantias de fornecedores). A outra parte pode reembolsar 
+quantias pagas pela entidade ou pagar diretamente as quantias.
+56 — Na maioria dos casos, a entidade permanecerá comprometida 
+pela totalidade da quantia em questão de forma que a entidade teria de 
+liquidar a quantia inteira se a terceira parte deixou de efetuar o pagamento 
+por qualquer razão. Nesta situação, uma provisão é reconhecida para o total da quantia i do passivo e um ativo separado é reconhecido pelo 
+reembolso esperado quando seja virtualmente certo que o reembolso 
+será recebido se a entidade liquidar o passivo.
+57 — Nalguns casos, a entidade não estará comprometida pelos custos 
+em questão se a terceira parte deixar de efetuar o pagamento. Em tal caso, a entidade não tem nenhum passivo por esses custos, não sendo assim incluídos na provisão.
+Alterações em provisões
+58 — As provisões devem ser revistas à data de cada balanço e 
+ajustadas para refletir a melhor estimativa corrente. Se deixar de ser 
+provável que será necessário um exfluxo de recursos que incorporem 
+benefícios económicos futuro para liquidar a obrigação, a provisão 
+deve ser revertida.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20815
+59 — Quando forem utilizadas quantias descontadas, a quantia de uma 
+provisão aumenta em cada período para refletir a passagem do tempo. 
+Este aumento é reconhecido como um gasto financeiro.
+Uso de provisões
+60 — Uma provisão deve ser usada somente para os dispêndios rela-
+tivos aos quais a provisão foi originalmente reconhecida.
+61 — Somente os dispêndios que se relacionem com a provisão ori-
+ginal são contrabalançados com a mesma. Contrabalançar os dispêndios 
+com uma provisão que foi originalmente reconhecida para uma outra 
+finalidade esconderia o impacto de dois acontecimentos diferentes.
+Aplicação das regras de reconhecimento e de mensuração
+Perdas operacionais futuras
+62 — Não devem ser reconhecidas provisões para perdas operacionais 
+futuras, uma vez que estas não satisfazem a definição de passivo nem 
+os critérios gerais de reconhecimento estabelecidos.
+63 — Uma expectativa de perdas operacionais futuras é uma indicação 
+de que certos ativos da unidade operacional podem estar em imparidade, 
+pelo que a entidade deverá testar estes ativos quanto a imparidade 
+segundo a NCRF 12.
+Contratos onerosos
+64 — Se a entidade tiver um contrato que seja oneroso, a obrigação 
+presente segundo o contrato deve ser reconhecida e mensurada como 
+uma provisão.
+65 — Muitos contratos (por exemplo, algumas ordens de compra de 
+rotina) podem ser cancelados sem pagar compensação à outra parte e por 
+isso não há obrigação. Outros contratos estabelecem tanto direitos como 
+obrigações para cada uma das partes do contrato. Quando os eventos 
+tornem tal contrato oneroso, o contrato cai dentro do âmbito desta Norma, 
+existindo um passivo que é reconhecido. Os contratos executórios que não sejam onerosos caiem fora do âmbito desta Norma.
+66 — Esta Norma define um contrato oneroso como um contrato em 
+que os custos inevitáveis de satisfazer as obrigações segundo o contrato 
+excedem os benefícios económicos que se espera venham a ser recebidos 
+segundo o mesmo. Os custos inevitáveis segundo um contrato refletem 
+pelo menos o custo líquido de sair do contrato, que é o mais baixo entre 
+o custo de o cumprir e de qualquer compensação ou de penalidades que 
+resultem do seu incumprimento.
+67 — Antes de ser constituída uma provisão separada para um contrato 
+oneroso, uma entidade reconhece qualquer perda de imparidade que 
+tenha ocorrido nos ativos inerentes a esse contrato (ver a NCRF 12).
+Reestruturação
+68 — A definição de reestruturação, por regra, inclui, entre outras, 
+as seguintes situações:
+a) Venda ou cessação de uma linha de negócios;
+b) Fecho de locais de negócio num país ou região ou a deslocalização 
+de atividades de negócio de um país ou de uma região para um outro 
+ou uma outra;
+c) Alterações na estrutura de gestão, como, por exemplo, a eliminação 
+de um determinado nível; e
+d) Reorganizações fundamentais que tenham um efeito material na 
+natureza e foco das operações da entidade.
+69 — Uma provisão para custos de reestruturação somente é reco-
+nhecida quando os critérios de reconhecimento gerais de provisões 
+estabelecidos no parágrafo 13 sejam satisfeitos. Os parágrafos 70 a 80 
+estabelecem como é que os critérios gerais de reconhecimento se aplicam 
+a reestruturações.
+70 — Uma obrigação construtiva de reestruturar surge somente 
+quando uma entidade:
+a) Tenha um plano formal detalhado para a reestruturação identifi-
+cando pelo menos:
+i) O negócio ou parte de um negócio em questão;
+ii) As principais localizações afetadas;
+iii) A localização, função e número aproximado de empregados que 
+receberão retribuições pela cessação dos seus serviços;
+iv) Os dispêndios que serão levados a efeito; e
+v) Quando será implementado o plano; e
+b) Tenha criado uma expectativa válida nos afetados de que levará 
+a efeito a reestruturação ao começar a implementar esse plano ou ao anunciar as suas principais características aos afetados por ele.71 — A evidência de que uma entidade tenha começado a implementar 
+um plano de reestruturação será proporcionada, por exemplo, ao desman-
+telar a fábrica ou ao vender ativos ou pelo anúncio público das principais 
+características do plano. Um anúncio público de um plano detalhado 
+para reestruturar somente constitui uma obrigação construtiva para re-
+estruturar se ele for feito de tal maneira e em pormenor suficiente (isto 
+é, estabelecendo as principais características do plano) que dê origem a 
+expectativas válidas em outras partes, tais como clientes, fornecedores 
+e empregados (ou os seus representantes) de que a entidade levará a 
+efeito a reestruturação.
+72 — Para que um plano seja suficiente para dar origem a uma obri-
+gação construtiva quando comunicado aos afetados pelo mesmo, a sua 
+implementação necessita ser planeada para começar logo que possível e 
+ser completada segundo um calendário que torne improváveis alterações 
+significativas ao plano. Se se esperar que haverá uma longa demora antes 
+de a reestruturação começar ou que a reestruturação levará um período longo não razoável, é improvável que o plano suscite uma expectativa 
+válida da parte de outros de que a entidade está presentemente com-
+prometida com a reestruturação, porque o calendário dá oportunidades 
+à entidade de alterar os seus planos.
+73 — Uma decisão de reestruturação, tomada pelo órgão de gestão, 
+antes da data do balanço não conduz a uma obrigação construtiva à data 
+do balanço a menos que a entidade tenha, antes desta data:
+a) Iniciado a implementação do plano de reestruturação; ou
+b) Anunciado as principais características do plano de reestruturação 
+àqueles afetados pelo mesmo, de forma suficientemente específica para 
+suscitar expectativas válidas nos mesmos de que a entidade irá realizar 
+a reestruturação.
+Se uma entidade começar a implementar um plano de reestrutura-
+ção, ou se anunciar as suas principais características aos afetados pelo 
+plano, só depois da data do balanço, é exigida divulgação segundo a 
+NCRF 24 — Acontecimentos após a Data do Balanço, se a reestruturação 
+for material e se a não divulgação puder influenciar as decisões econó-
+micas dos utentes tomadas com base nas demonstrações financeiras.
+74 — Se bem que uma obrigação construtiva não seja criada unica-
+mente por uma decisão do órgão de gestão, uma obrigação pode resultar 
+de outros eventos anteriores juntamente com tal decisão. Por exemplo, 
+negociações com representantes de empregados para pagamentos de 
+cessação de emprego, ou com compradores para a venda de uma unidade 
+operacional podem ter sido concluídas, aguardando somente à aprova-
+ção do órgão de gestão. Uma vez que a aprovação tenha sido obtida e 
+comunicada a outras partes, a entidade tem uma obrigação construtiva 
+de reestruturar, se as condições do parágrafo 70 forem satisfeitas.
+75 — Nenhuma obrigação surge pela venda de uma unidade opera-
+cional até que a entidade esteja comprometida com a venda, isto é, haja 
+um acordo de venda vinculativo.
+76 — Mesmo quando uma entidade tenha tomado uma decisão de 
+vender uma unidade operacional e anunciado publicamente essa decisão, 
+ela não pode estar comprometida com a venda até que um comprador 
+tenha sido identificado e que haja um acordo vinculativo de venda. Até 
+que haja um acordo vinculativo de venda, a entidade estará em condições 
+de alterar a sua intenção e na verdade terá de tomar uma outra orienta-ção se não puder ser encontrado um comprador em termos aceitáveis. 
+Quando a venda de uma unidade operacional for concebida como parte 
+de uma reestruturação, os ativos da unidade operacional são revistos 
+quanto à sua imparidade, segundo a NCRF 12. Quando uma venda for 
+somente parte de uma reestruturação, uma obrigação construtiva pode 
+surgir para as outras partes da reestruturação antes que exista um acordo 
+de venda vinculativo.
+77 — Uma provisão para reestruturação deve incluir apenas os dis-
+pêndios diretos provenientes da reestruturação, que são os que, simul-
+taneamente:
+a) Estão necessariamente associados à reestruturação; e
+b) Não estão associados com as atividades continuadas da entidade.
+78 — Uma provisão para reestruturação não inclui os seguintes gastos:
+a) Deslocalizar ou voltar a formar pessoal que se mantém;
+b) Comercialização; ou
+c) Investimento em novos sistemas e redes de distribuição.
+Estes dispêndios relacionam -se com a conduta futura da entidade e 
+não são passivos de reestruturação à data do balanço. Tais dispêndios 
+são reconhecidos na mesma base como se surgissem independentemente 
+de uma reestruturação.
+79 — Perdas operacionais futuras identificáveis até à data de uma re-
+estruturação não são incluídas numa provisão, a menos que se relacionem 
+com um contrato oneroso como definido no parágrafo 8.20816 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+80 — Como exigido pelo parágrafo 51, os ganhos esperados na alie-
+nação de ativos não são tidos em consideração na mensuração de uma 
+provisão para reestruturação, mesmo se a venda de ativos for vista como 
+parte da reestruturação.
+Data de eficácia
+81 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+82 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam comparáveis.
+83 — Esta Norma substitui a NCRF 21 — Provisões, Passivos Con-
+tingentes e Ativos Contingentes, constante do Aviso n.º 15655/2009, 
+publicado no Diário da República,  2.ª série, n.º 173, de 7 de setembro 
+de 2009.
+Apêndice
+Árvore de decisão
+A finalidade deste apêndice é a de resumir os principais requisitos de 
+reconhecimento da NCRF 21, para provisões e passivos contingentes. 
+ Nota.  — Em casos raros, não está claro se há uma obrigação presente. 
+Nestes casos, considera -se que um acontecimento passado dá origem 
+a uma obrigação presente se, tendo em consideração toda a evidência 
+disponível, for mais provável do que não que uma obrigação presente 
+exista à data do balanço (parágrafo 15 desta Norma).

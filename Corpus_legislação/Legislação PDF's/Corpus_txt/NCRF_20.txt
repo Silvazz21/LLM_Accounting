@@ -1,0 +1,302 @@
+Norma Contabilística e de Relato Financeiro 20
+Rédito
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro é 
+o de prescrever o tratamento contabilístico de réditos, entendidos como 
+os rendimentos que surgem no decurso das atividades ordinárias de uma 
+entidade, como, por exemplo, vendas, honorários, juros, dividendos e royalties . A questão fundamental na contabilização do rédito é a de de-
+terminar quando reconhecer o mesmo. O rédito é reconhecido quando for provável que benefícios económicos futuros fluirão para a entidade 
+e esses benefícios possam ser fiavelmente mensurados. Esta Norma 
+identifica as circunstâncias em que estes critérios serão satisfeitos e, 
+por isso, o rédito será reconhecido. Ela também proporciona orientação 
+prática na aplicação destes critérios.
+Âmbito
+2 — Esta Norma deve ser aplicada na contabilização do rédito pro-
+veniente das transações e acontecimentos seguintes:
+a) Venda de bens;
+b) Prestação de serviços; e
+c) Uso por terceiros de ativos da entidade que produzam juros, royalties
+e dividendos.
+3 — O termo bens inclui bens produzidos pela entidade com a fina-
+lidade de serem vendidos e bens comprados para revenda, tais como 
+mercadorias compradas por um retalhista ou terrenos e outras proprie-dades detidas para revenda.
+4 — A prestação de serviços envolve tipicamente o desempenho 
+por uma entidade de uma tarefa contratualmente acordada durante um 
+período de tempo acordado. Os serviços podem ser prestados den-
+tro de um período único ou durante mais do que um período. Alguns contratos para a prestação de serviços estão diretamente relacionados com contratos de construção, como por exemplo, os contratos para os 
+serviços de gestão de projetos e de arquitetura. O rédito proveniente 
+destes contratos não é abordado nesta Norma mas é tratado de acordo com os requisitos para os contratos de construção como especificado 
+na NCRF 19 — Contratos de Construção.
+5 — O uso, por terceiros, de ativos da entidade dá origem a rédito 
+na forma de:
+a) Juros: encargos pelo uso de dinheiro ou seus equivalentes ou de 
+quantias devidas à entidade;
+b)Royalties : encargos pelo uso de ativos a longo prazo da entidade, 
+como, por exemplo, patentes, marcas, direitos de autor e software  de 
+computadores; e
+c) Dividendos: distribuições de lucros a detentores de investimentos 
+em capital próprio na proporção das suas detenções de uma classe 
+particular de capital.
+6 — Esta Norma não trata de réditos provenientes de:
+a) Acordos de locação (ver a NCRF 9 — Locações);
+b) Dividendos provenientes de investimentos que sejam contabilizados 
+pelo método da equivalência patrimonial (ver a NCRF 13 — Interesses 
+em Empreendimentos Conjuntos e Investimentos em Associadas);20810 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+c) Alterações no justo valor de ativos financeiros e passivos financei-
+ros, ou da sua alienação (ver a NCRF 27 — Instrumentos Financeiros);
+d) Alterações no valor de outros ativos correntes;
+e) Reconhecimento inicial e de alterações no justo valor de ativos bio-
+lógicos, relacionados com a atividade agrícola (ver a NCRF 17 — Agri-
+cultura);
+f) Reconhecimento inicial de produtos agrícolas (ver a NCRF 17 — 
+Agricultura); e
+g) Extração de minérios.
+Definições
+7 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Justo valor: é a quantia pela qual um ativo pode ser trocado ou um 
+passivo liquidado, entre partes conhecedoras e dispostas a isso, numa 
+transação em que não exista relacionamento entre elas.
+Método do juro efetivo: é um método de calcular o custo amortizado 
+de um ativo financeiro ou de um passivo financeiro (ou grupo de ativos 
+financeiros ou de passivos financeiros) e de imputar o rendimento dos juros ou o gasto dos juros durante o período relevante. A taxa de juro 
+efetiva é a taxa que desconta os pagamentos ou recebimentos de caixa 
+futuros estimados durante a vida esperada do instrumento financeiro 
+ou, quando apropriado, um período mais curto, na quantia escriturada 
+líquida do ativo financeiro ou do passivo financeiro.
+Rédito: é o influxo bruto de benefícios económicos durante o 
+período proveniente do decurso das atividades ordinárias de uma 
+entidade quando esses influxos resultarem em aumentos de capital 
+próprio, que não sejam aumentos relacionados com contribuições de 
+participantes no capital próprio.
+8 — O rédito inclui somente os influxos brutos de benefícios eco-
+nómicos recebidos e a receber pela entidade de sua própria conta. As 
+quantias cobradas por conta de terceiros tais como impostos sobre 
+vendas, impostos sobre bens e serviços e impostos sobre o valor acres-
+centado não são benefícios económicos que fluam para a entidade e 
+não resultam em aumentos de capital próprio. Por isso, são excluídos 
+do rédito. De forma semelhante, num relacionamento de agência, os 
+influxos brutos de benefícios económicos que não resultem em aumentos 
+de capital próprio para o agente, são excluídos do rédito. As quantias cobradas por conta do capital não são rédito. Em vez disso, o rédito é a quantia de comissão.
+Mensuração do rédito
+9 — O rédito deve ser mensurado pelo justo valor da retribuição 
+recebida ou a receber.
+10 — A quantia de rédito proveniente de uma transação é geralmente 
+determinada por acordo entre a entidade e o comprador ou utente do 
+ativo. É mensurado pelo justo valor da retribuição recebida ou a receber 
+tomando em consideração a quantia de quaisquer descontos comerciais 
+e de quantidades concedidos pela entidade.
+11 — Na maior parte dos casos, a retribuição é sob a forma de dinheiro 
+ou seus equivalentes e a quantia do rédito é a quantia em dinheiro ou seus 
+equivalentes recebidos ou a receber. Porém, quando o influxo de dinheiro 
+ou equivalentes de dinheiro for diferido, o justo valor da retribuição pode 
+ser menor do que a quantia nominal de dinheiro recebido ou a receber. Por exemplo, uma entidade pode conceder crédito isento de juros ao 
+comprador ou aceitar do comprador uma livrança com taxa de juro 
+inferior à do mercado como retribuição pela venda dos bens. Quando o acordo constitua efetivamente uma transação de financiamento, o justo valor da retribuição é determinado descontando todos os recebimentos 
+futuros usando uma taxa de juro imputada. A taxa de juro imputada é a 
+mais claramente determinável de entre:
+a) A taxa prevalecente de um instrumento similar de um emitente 
+com uma notação ( rating ) de crédito similar; ou
+b) A taxa de juro que desconte a quantia nominal do instrumento para 
+o preço de venda corrente a dinheiro dos bens ou serviços.
+A diferença entre o justo valor e a quantia nominal da retribuição é 
+reconhecida como rédito de juros de acordo com os parágrafos 29 e 30.
+12 — Quando os bens ou serviços sejam trocados ou objeto de swap
+por bens ou serviços que sejam de natureza e valor semelhante, a troca 
+não é vista como uma transação que gera réditos. É muitas vezes o caso 
+de mercadorias como petróleo ou leite em que os fornecedores trocam ou 
+entram em swap  de inventários em vários locais para satisfazer a procura 
+numa base tempestiva num dado local. Quando os bens sejam vendidos 
+ou os serviços sejam prestados em troca de bens ou serviços disseme-lhantes, a troca é vista como uma transação que gera rédito. O rédito é 
+mensurado pelo justo valor dos bens ou serviços recebidos ajustado pela quantia transferida de dinheiro ou seus equivalentes. Quando o justo valor 
+dos bens ou serviços recebidos não possa ser fiavelmente mensurado, 
+o rédito é mensurado pelo justo valor dos bens ou serviços entregues, 
+ajustado pela quantia transferida de dinheiro ou seus equivalentes.
+Reconhecimento do rédito
+13 — Os critérios de reconhecimento nesta Norma são geralmente 
+aplicados separadamente a cada transação. Contudo, em certas cir-
+cunstâncias, é necessário aplicar os critérios de reconhecimento aos 
+componentes separadamente identificáveis de uma transação única a 
+fim de refletir a substância da transação. Por exemplo, quando o preço 
+da venda de um produto inclua uma quantia identificável de serviços 
+subsequentes, essa quantia é diferida e reconhecida como rédito durante 
+o período em que o serviço seja executado. Inversamente, os critérios 
+de reconhecimento são aplicados a duas ou mais transações conjuntas, 
+quando elas estejam ligadas de tal maneira que o efeito comercial não possa ser compreendido sem referência às séries de transações como um todo. Por exemplo, uma entidade pode vender bens e, ao mesmo 
+tempo, celebrar um acordo separado para recomprar os bens numa data 
+posterior, negando assim o efeito substantivo da transação. Em tal caso, 
+as duas transações são tratadas conjuntamente.
+Venda de bens
+14 — O rédito proveniente da venda de bens deve ser reconhecido 
+quando tiverem sido satisfeitas todas as condições seguintes:
+a) A entidade tenha transferido para o comprador os riscos e vantagens 
+significativos da propriedade dos bens;
+b) A entidade não mantenha envolvimento continuado de gestão 
+com grau geralmente associado com a posse, nem o controlo efetivo 
+dos bens vendidos;
+c) A quantia do rédito possa ser fiavelmente mensurada;
+d) Seja provável que os benefícios económicos associados com a 
+transação fluam para a entidade; e
+e) Os custos incorridos ou a serem incorridos referentes à transação 
+possam ser fiavelmente mensurados.
+15 — A avaliação de quando uma entidade transferiu os riscos e van-
+tagens significativos da propriedade para o comprador exige um exame 
+das circunstâncias da transação. Na maior parte dos casos, a transferência 
+dos riscos e vantagens da propriedade coincide com a transferência do documento legal ou da passagem da posse para o comprador. Este é o 
+caso da maioria das vendas a retalho. Noutros casos, a transferência de 
+riscos e vantagens de propriedade ocorre num momento diferente da transferência do documento legal ou da passagem da posse.
+16 — Se a entidade retiver significativos riscos de propriedade, a 
+transação não é uma venda e o rédito não é reconhecido. Uma entidade pode reter um risco significativo de propriedade de muitas maneiras. 
+São exemplos de situações em que a entidade pode reter os riscos sig-
+nificativos e vantagens de propriedade:
+a) Quando a entidade retenha uma obrigação por execução não satis-
+fatória, não coberta por cláusulas normais de garantia;
+b) Quando o recebimento do rédito de uma dada venda esteja depen-
+dente da obtenção de rédito pela venda dos bens pelo comprador;
+c) Quando os bens sejam expedidos sujeitos a instalação e a instala-
+ção seja uma parte significativa do contrato que ainda não tenha sido concluído pela entidade; e
+d) Quando o comprador tenha o direito de rescindir a compra por uma 
+razão especificada no contrato de venda e a entidade não esteja segura 
+acerca da probabilidade de devolução.
+17 — Se uma entidade retiver somente um risco insignificante de 
+propriedade, a transação é uma venda e o rédito é reconhecido. Por 
+exemplo, um vendedor pode reter o título legal dos bens unicamente para 
+proteger a cobrabilidade da quantia devida. Em tal caso, se a entidade tiver transferido os riscos e vantagens significativos da propriedade, a 
+transação é uma venda e o rédito é reconhecido. Um outro exemplo de 
+uma entidade que retém apenas um risco insignificante de propriedade pode ser a de uma venda a retalho quando for oferecido um reembolso 
+se o cliente não ficar satisfeito. O rédito em tais casos é reconhecido no 
+momento da venda desde que o vendedor possa fiavelmente estimar as 
+devoluções futuras e reconheça um passivo por devoluções com base 
+em experiência anterior e noutros fatores relevantes.
+18 — O rédito só é reconhecido quando for provável que os benefícios 
+económicos associados com a transação fluam para a entidade. Nestes 
+casos, tal só é verificável depois de a retribuição ser recebida ou de 
+uma incerteza ser removida. Por exemplo, pode ser incerto que uma 
+autoridade governamental estrangeira conceda permissão para remeter Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20811
+a retribuição de uma venda num país estrangeiro. Quando a permissão 
+for concedida, a incerteza é retirada e o rédito é reconhecido.
+Porém, quando surgir uma incerteza acerca da cobrabilidade de uma 
+quantia já incluída no rédito, a quantia incobrável ou a quantia cuja re-
+cuperação tenha cessado de ser provável é reconhecida como gasto e não 
+como um ajustamento da quantia do rédito originalmente reconhecido.
+19 — O rédito e os gastos que se relacionem com a mesma transa-
+ção ou outro acontecimento são reconhecidos simultaneamente. Este 
+processo é geralmente referido como o balanceamento dos réditos com os gastos. Os gastos incluindo garantias e outros custos a serem incor-
+ridos após a expedição dos bens podem normalmente ser mensurados 
+com fiabilidade quando as outras condições para o reconhecimento do 
+rédito tenham sido satisfeitas. Porém, quando os gastos não possam ser 
+mensurados fiavelmente, o rédito não pode ser reconhecido. Em tais 
+circunstâncias, qualquer retribuição já recebida pela venda dos bens é 
+reconhecida como um passivo.
+Prestação de serviços
+20 — Quando o desfecho de uma transação que envolva a prestação 
+de serviços possa ser fiavelmente estimado, o rédito associado com a transação deve ser reconhecido com referência à fase de acabamento 
+da transação à data do balanço. O desfecho de uma transação pode 
+ser fiavelmente estimado quando todas as condições seguintes forem 
+satisfeitas:
+a) A quantia de rédito possa ser fiavelmente mensurada;
+b) Seja provável que os benefícios económicos associados à transação 
+fluam para a entidade;
+c) A fase de acabamento da transação à data do balanço possa ser 
+fiavelmente mensurada; e
+d) Os custos incorridos com a transação e os custos para concluir a 
+transação possam ser fiavelmente mensurados.
+21 — O reconhecimento do rédito com referência à fase de acaba-
+mento de uma transação é muitas vezes referido como o método da 
+percentagem de acabamento. Por este método, o rédito é reconhecido 
+nos períodos contabilísticos em que os serviços sejam prestados. O 
+reconhecimento do rédito nesta base proporciona informação útil sobre 
+a extensão da atividade de serviço e desempenho durante um período. 
+A NCRF 19 também exige o reconhecimento do rédito nesta base. As 
+exigências desta Norma são geralmente aplicáveis ao reconhecimento 
+do rédito e aos gastos associados de uma transação que envolva a pres-tação de serviços.
+22 — O rédito somente é reconhecido quando for provável que os 
+benefícios económicos associados à transação fluam para a entidade. 
+Porém, quando surja uma incerteza acerca da cobrabilidade de uma 
+quantia já incluída no rédito, a quantia incobrável, ou a quantia com 
+respeito à qual a recuperação tenha cessado de ser provável, é reconhe-cida como um gasto, e não como um ajustamento da quantia de rédito 
+originalmente reconhecido.
+23 — Uma entidade é geralmente capaz de fazer estimativas fiáveis 
+após ter concordado com os outros parceiros da transação o seguinte:
+a) Os direitos que cada uma das partes está obrigada a cumprir quanto 
+ao serviço a ser prestado é recebido pelas partes;
+b) A retribuição a ser trocada; e
+c) O modo e os termos da liquidação.
+É também usualmente necessário que a entidade tenha um sistema efi-
+caz de orçamentação financeira interna e de relato financeiro. A entidade 
+revê e, quando necessário, põe o visto nas estimativas de rédito à me-
+dida que o serviço está a ser executado. A necessidade de tais revisões 
+não indicia que o desfecho da transação não possa ser estimado com 
+fiabilidade.
+24 — A fase de acabamento de uma transação pode ser determinada 
+por diversos métodos. Uma entidade usa o método que mensure fiavel-
+mente os serviços executados. Dependendo da natureza da transação, os métodos podem incluir:
+a) Vistorias do trabalho executado;
+b) Serviços executados até à data, expressos como uma percentagem 
+do total dos serviços a serem executados; ou
+c) A proporção que os custos incorridos até à data tenham com os 
+custos totais estimados da transação. Apenas os custos que reflitam 
+serviços executados até à data são incluídos nos custos incorridos até 
+à data. Apenas os custos que reflitam serviços executados ou a serem executados são incluídos nos custos totais estimados da transação.
+Os pagamentos progressivos e os adiantamentos recebidos de clientes 
+não refletem muitas vezes os serviços executados.
+25 — Em termos práticos, quando os serviços sejam desempenhados 
+por um número indeterminado de atos durante um período específico de tempo, o rédito é reconhecido numa base de linha reta durante o período 
+específico a menos que haja evidência de que um outro método represente 
+melhor a fase de acabamento. Quando um ato específico seja muito mais 
+significativo do que quaisquer outros atos, o reconhecimento do rédito 
+é adiado até que o ato significativo seja executado.
+26 — Quando o desfecho da transação que envolva a prestação de 
+serviços não possa ser estimado com fiabilidade, o rédito somente deve 
+ser reconhecido na medida em que sejam recuperáveis os gastos reco-nhecidos.
+27 — Durante as primeiras fases de uma transação, é frequente que 
+o desfecho da transação não possa ser fiavelmente estimado. Contudo, 
+pode ser provável que a entidade recupere os custos incorridos na mesma. 
+Por isso, o rédito é reconhecido somente na medida em que se espere 
+que sejam recuperados os custos incorridos, não sendo reconhecido 
+qualquer lucro.
+28 — Quando o desfecho de uma transação não possa ser fiavelmente 
+estimado e não seja provável que os custos incorridos sejam recuperados, 
+o rédito não é reconhecido e os custos incorridos são reconhecidos como 
+um gasto. Quando deixarem de existir as incertezas que impediram 
+que o desfecho do contrato pudesse ser fiavelmente estimado, o rédito é reconhecido de acordo com o parágrafo 20 (com referência à fase de 
+acabamento) e não de acordo com o parágrafo 26 (critério de recuperação 
+dos custos incorridos).
+Juros, royalties  e dividendos
+29 — O rédito proveniente do uso por outros de ativos da entidade 
+que produzam juros, royalties  e dividendos deve ser reconhecido nas 
+bases estabelecidas no parágrafo 30, quando:
+a) Seja provável que os benefícios económicos associados com a 
+transação fluam para a entidade; e
+b) A quantia do rédito possa ser fiavelmente mensurada.
+30 — O rédito deve ser reconhecido nas seguintes bases:
+a) Os juros devem ser reconhecidos utilizando o método do juro efetivo;
+b) Os royalties  devem ser reconhecidos segundo o regime do acrés-
+cimo de acordo com a substância do acordo relevante; e
+c) Os dividendos devem ser reconhecidos quando for estabelecido o 
+direito do acionista receber o pagamento.
+31 — Quando juros não pagos tenham sido acrescidos antes da aqui-
+sição de um investimento que produza juros, o recebimento subsequente 
+de juros é repartido entre os períodos de pré e pós -aquisição. Somente 
+a parte de pós aquisição é reconhecida como rédito.
+32 — Os royalties  são acrescidos atendendo aos termos do acordo 
+relevante e são gradualmente reconhecidos nessa base a menos que, tendo 
+em atenção a substância do acordo, seja mais apropriado reconhecer o 
+rédito numa outra base sistemática e racional.
+33 — O rédito apenas é reconhecido quando seja provável que os 
+benefícios económicos inerentes à transação fluam para a entidade. 
+Contudo, quando surja uma incerteza acerca da cobrabilidade de uma 
+quantia já incluída no rédito, a quantia incobrável, ou a quantia a respeito 
+da qual a recuperação tenha cessado de ser provável, é reconhecida 
+como um gasto, e não como um ajustamento da quantia do rédito ori-ginalmente reconhecido.
+Data de eficácia
+34 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+35 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam comparáveis.
+36 — Esta Norma substitui a NCRF — 20 Rédito, constante do Aviso 
+n.º 15655/2009, publicado no Diário da República,  2.ª série, n.º 173, de 
+7 de setembro de 2009.

@@ -1,0 +1,636 @@
+Norma Contabilística e de Relato Financeiro 25
+Impostos sobre o Rendimento
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro 
+é o de prescrever o tratamento contabilístico dos impostos sobre o 
+rendimento e, em especial, no que respeita a:
+a) Recuperação futura (liquidação) da quantia escriturada de ativos 
+(passivos) que sejam reconhecidos no balanço de uma entidade; e
+b) Transações e outros acontecimentos do período corrente que sejam 
+reconhecidos nas demonstrações financeiras de uma entidade.
+Está inerente no reconhecimento de um ativo ou passivo que a entidade 
+que relata espera recuperar ou liquidar a quantia escriturada do ativo ou 
+passivo. Se for provável que a recuperação ou liquidação dessa quantia 
+escriturada fizer com que os pagamentos futuros de impostos sejam 
+maiores (menores) do que seriam se tais recuperações ou liquidações 
+não tivessem consequências fiscais, esta Norma exige que uma entidade 
+reconheça um passivo por impostos diferidos (ativo por impostos dife-ridos), com certas exceções limitadas.
+Esta Norma exige que uma entidade contabilize as consequências 
+fiscais de transações e de outros acontecimentos da mesma forma que 
+contabiliza as próprias transações e outros acontecimentos. Assim, 
+relativamente, a transações e outros acontecimentos reconhecidos nos 
+resultados, qualquer efeito fiscal relacionado também é reconhecido 
+nos resultados. No que diz respeito a transações e outros acontecimen-Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20823
+tos reconhecidos diretamente no capital próprio, qualquer efeito fiscal 
+relacionado também é reconhecido diretamente no capital próprio. Do 
+mesmo modo, o reconhecimento de ativos e passivos por impostos 
+diferidos numa concentração de atividades empresariais afeta a quantia 
+degoodwill  resultante dessa concentração de atividades empresariais ou 
+a quantia reconhecida do ganho com a compra a preço baixo.
+Esta Norma trata também do reconhecimento dos ativos por impostos 
+diferidos provenientes de prejuízos fiscais não usados, ou de créditos 
+fiscais não usados, e da apresentação de impostos sobre o rendimento 
+nas demonstrações financeiras.
+Âmbito
+2 — Esta Norma deve ser aplicada na contabilização de impostos 
+sobre o rendimento.
+3 — Para as finalidades desta Norma, consideram -se impostos sobre o 
+rendimento todos os impostos no país e impostos estrangeiros que sejam 
+baseados em lucros tributáveis, bem como outros impostos tais como 
+impostos por retenção (de dividendos), que sejam pagáveis por uma 
+subsidiária, associada ou empreendimento conjunto em distribuições 
+à entidade que relata.
+4 — Esta Norma não trata dos métodos de contabilização dos subsí-
+dios das entidades públicas (NCRF 22 — Subsídios e Outros Apoios das 
+Entidades Públicas) ou de créditos fiscais ao investimento. Porém esta Norma trata da contabilização das diferenças temporárias que possam 
+surgir de créditos fiscais por tais subsídios ou investimentos.
+Definições
+5 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Ativos por impostos diferidos: são as quantias de impostos sobre o 
+rendimento recuperáveis em períodos futuros respeitantes a:
+a) Diferenças temporárias dedutíveis;
+b) Reporte de prejuízos fiscais não utilizados; e
+c) Reporte de créditos tributáveis não utilizados.
+Base fiscal de um ativo ou de um passivo: é a quantia atribuída a esse 
+ativo ou passivo para fins fiscais.
+Diferenças temporárias: são diferenças entre a quantia escriturada de 
+um ativo ou de um passivo no balanço e a sua base de tributação. As 
+diferenças temporárias podem ser:
+a) Diferenças temporárias tributáveis, que são diferenças temporárias 
+de que resultam quantias tributáveis na determinação do lucro tributável 
+(prejuízo fiscal) de períodos futuros quando a quantia escriturada do 
+ativo ou do passivo seja recuperada ou liquidada; ou
+b) Diferenças temporárias dedutíveis, que são diferenças temporárias 
+de que resultam quantias que são dedutíveis na determinação do lucro 
+tributável (prejuízo fiscal) de períodos futuros quando a quantia escri-
+turada do ativo ou do passivo seja recuperada ou liquidada.
+Gasto de impostos (rendimento de impostos): é a quantia agregada 
+incluída na determinação do resultado líquido do período respeitante a impostos correntes e a impostos diferidos.
+Imposto corrente: é a quantia a pagar (a recuperar) de impostos sobre 
+o rendimento respeitantes ao lucro (prejuízo) tributável de um período.
+Lucro contabilístico: é o resultado de um período antes da dedução 
+do gasto de impostos.
+Lucro tributável (prejuízo fiscal): é o lucro (ou prejuízo) de um pe-
+ríodo, determinado de acordo com as regras estabelecidas pelas autori-
+dades fiscais, sobre o qual são pagos (ou recuperáveis) impostos sobre 
+o rendimento.
+Passivos por impostos diferidos: são as quantias de impostos sobre 
+o rendimento pagáveis em períodos futuros com respeito a diferenças temporárias tributáveis.
+6 — O gasto de impostos (rendimento de impostos) compreende o 
+gasto corrente de impostos (rendimento corrente de impostos) e gasto 
+de impostos diferidos (rendimentos de impostos diferidos).
+Base fiscal
+7 — A base fiscal de um ativo é a quantia que será dedutível para 
+finalidades fiscais contra quaisquer benefícios económicos tributáveis 
+que fluirão para uma entidade quando ela recupere a quantia escriturada 
+do ativo. Se esses benefícios económicos não forem tributáveis, a base fiscal do ativo é igual à sua quantia escriturada.
+8 — A base fiscal de um passivo é a sua quantia escriturada, menos 
+qualquer quantia que será dedutível para finalidades fiscais com res-peito a esse passivo em períodos futuros. No caso de réditos que sejam recebidos adiantadamente, a base fiscal do passivo resultante é a sua 
+quantia escriturada, menos qualquer quantia dos réditos que não serão 
+tributáveis em períodos futuros.
+9 — Alguns itens têm uma base fiscal mas não são reconhecidos 
+como ativos e como passivos no balanço. Por exemplo, a diferença 
+entre a base fiscal de um ativo, que é a quantia que as autoridades fiscais 
+permitirão como dedução em períodos futuros, e a quantia escriturada 
+nula é uma diferença temporária dedutível que resulta num ativo por 
+impostos diferidos.
+10 — Quando a base fiscal de um ativo ou de um passivo não for 
+imediatamente evidente, é útil considerar o princípio fundamental em que 
+esta Norma se baseia: o de que uma entidade deve, com certas exceções 
+limitadas, reconhecer um passivo (ativo) por impostos diferidos quando 
+a recuperação ou liquidação da quantia escriturada de um ativo ou de 
+um passivo fizer com que os pagamentos futuros de impostos sejam 
+maiores (menores) do que seriam se tais recuperações ou liquidações não tivessem consequências tributáveis.
+11 — Nas demonstrações financeiras consolidadas, as diferenças 
+temporárias são determinadas pela comparação das quantias escrituradas 
+de ativos e de passivos com a base fiscal apropriada. A base fiscal é de-
+terminada por referência a uma declaração de impostos consolidada nas 
+jurisdições em que tal demonstração seja preenchida, ou, noutros casos, 
+a base fiscal é determinada por referência às declarações de impostos 
+de cada entidade no grupo.
+Reconhecimento de passivos por impostos correntes
+e de ativos por impostos correntes
+12 — Os impostos correntes para períodos correntes e anteriores 
+devem, na medida em que não estejam pagos, ser reconhecidos como passivos. Se a quantia já paga com respeito a períodos correntes e ante-
+riores exceder a quantia devida para esses períodos, o excesso deve ser 
+reconhecido como um ativo.
+13 — O benefício relacionado com um prejuízo fiscal que possa ser 
+reportado para recuperar impostos correntes de um período anterior deve 
+ser reconhecido como um ativo.
+14 — Quando um prejuízo fiscal for usado para recuperar impostos 
+correntes de um período anterior, uma entidade reconhece o benefício 
+como um ativo do período em que o prejuízo fiscal ocorra porque é 
+provável que o benefício fluirá para a entidade e que o benefício pode 
+ser fiavelmente mensurado.
+Reconhecimento de passivos por impostos diferidos
+e de ativos por impostos diferidos
+Diferenças temporárias tributáveis
+15 — Um passivo por impostos diferidos deve ser reconhecido para 
+todas as diferenças temporárias tributáveis, exceto até ao ponto em que 
+esse passivo por impostos diferidos resultar do:
+a) Reconhecimento inicial do goodwill , ou:
+b) Reconhecimento inicial de um ativo ou passivo numa transação que:
+i) Não seja uma concentração de atividades empresariais; e
+ii) Não afete, no momento da transação, nem o lucro contabilístico 
+nem o lucro tributável (prejuízo fiscal).
+Porém, para as diferenças temporárias associadas com investimentos 
+em subsidiárias, sucursais e associadas e interesses em empreendimentos 
+conjuntos, deve ser reconhecido um passivo por impostos diferidos de 
+acordo com o parágrafo 36.
+16 — Está inerente no reconhecimento de um ativo que a sua quantia 
+escriturada será recuperada na forma de benefícios económicos que fluam 
+para a entidade nos períodos futuros. Quando a quantia escriturada do 
+ativo exceder a sua base fiscal, a quantia dos benefícios económicos 
+tributáveis excederá a quantia que será permitida como dedução para 
+finalidades de tributação. Esta diferença é uma diferença temporária 
+tributável e a obrigação de pagar os resultantes impostos sobre o rendi-
+mento em períodos futuros é um passivo por impostos diferidos. Como a 
+entidade recupera a quantia escriturada do ativo, a diferença temporária 
+tributável reverterá e a entidade terá lucro tributável. Isto faz com que 
+seja provável que benefícios económicos fluirão da entidade na forma de 
+pagamento de impostos. Por isso, esta Norma exige o reconhecimento de 
+todos os passivos por impostos diferidos, exceto em certas circunstâncias 
+descritas nos parágrafos 15 e 41.
+17 — Algumas diferenças temporárias surgem quando os rendimentos 
+ou gastos sejam incluídos no lucro contabilístico de um período se bem que sejam incluídos no lucro tributável num período diferente.
+Tais diferenças temporárias são muitas vezes descritas como dife-
+renças tempestivas.20824 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+18 — Diferenças temporárias também resultam quando:
+a) O custo de uma concentração de atividades empresariais é imputado 
+ao reconhecer os ativos identificáveis adquiridos e os passivos assumidos 
+pelos seus justos valores, mas pode não ser feito qualquer ajustamento 
+equivalente para efeitos fiscais (ver parágrafo 19);
+b) Os ativos são revalorizados e nenhum ajustamento equivalente é 
+feito para finalidades fiscais (ver parágrafo 20);
+c) O goodwill  resulta numa concentração de atividades empresariais 
+(ver parágrafo 21);
+d) A base fiscal de um ativo ou passivo no reconhecimento inicial 
+difere da sua quantia escriturada inicial, por exemplo, quando uma 
+entidade adquire um imóvel por valor inferior ao seu valor patrimonial 
+tributário (ver parágrafo 24); ou
+e) A quantia escriturada de investimentos em subsidiárias, associadas 
+e interesses em empreendimentos conjuntos torna -se diferente da base 
+fiscal do investimento ou interesse (ver parágrafos 35 a 42).
+Concentrações de atividades empresariais
+19 — O custo de uma concentração de atividades empresariais é 
+imputado ao reconhecer os ativos identificáveis adquiridos e os passivos 
+assumidos pelos seus justos valores à data de aquisição. Diferenças 
+temporárias resultam quando as bases fiscais de ativos identificáveis 
+adquiridos e de passivos assumidos não são afetados pela concentra-
+ção de atividades empresariais ou são afetados de forma diferente. Por 
+exemplo, quando a quantia escriturada de um ativo é aumentada até 
+ao justo valor, mas a base fiscal do ativo mantém -se pelo custo para o 
+proprietário anterior, resulta uma diferença temporária tributável que 
+origina um passivo por impostos diferidos. O passivo por impostos 
+diferidos resultante afeta o goodwill  (ver parágrafo 61).
+Ativos escriturados pelo justo valor
+20 — As Normas Contabilísticas e de Relato Financeiro permitem 
+que certos ativos sejam escriturados pelo justo valor ou sejam reva-
+lorizados (ver, por exemplo, a NCRF 7 — Ativos Fixos Tangíveis, a 
+NCRF 6 — Ativos Intangíveis, a NCRF 27 — Instrumentos Financeiros 
+e a NCRF 11 — Propriedades de Investimento). Em Portugal, a revalori-
+zação ou reexpressão de um ativo não afeta o lucro tributável no período 
+da revalorização ou reexpressão e, consequentemente, a base fiscal do 
+ativo não é ajustada. Contudo, a recuperação futura da quantia escri-
+turada resultará num fluxo tributável de benefícios económicos para a 
+entidade e a quantia que será dedutível para finalidades tributárias diferirá 
+da quantia desses benefícios económicos. A diferença entre a quantia 
+escriturada de um ativo revalorizado e a sua base fiscal é uma diferença temporária e dá origem a um passivo ou ativo por impostos diferidos. Isto é verdade mesmo se a entidade não pretender alienar o ativo. Em tais casos, a quantia escriturada revalorizada do ativo será recuperada pelo uso e isto gerará rendimento tributável que excede a depreciação 
+que será permitida para finalidades tributáveis nos períodos futuros.
+Goodwill
+21 — Ogoodwill  resultante de uma concentração de atividades em-
+presariais é mensurado como o excesso do custo da concentração acima 
+do interesse da adquirente no justo valor líquido dos ativos, passivos e 
+passivos contingentes identificáveis da adquirida. As autoridades fiscais 
+nem sempre permitem reduções na quantia escriturada do goodwill  como 
+um gasto dedutível na determinação do lucro tributável. Além disso, o 
+custo do goodwill  é muitas vezes não dedutível quando uma subsidiária 
+aliena a sua atividade empresarial subjacente. Consequentemente, nes-
+ses casos, o goodwill  tem uma base fiscal de zero. Qualquer diferença 
+entre a quantia escriturada de goodwill  e a sua base fiscal de zero é uma 
+diferença temporária tributável. Contudo, esta Norma não permite o 
+reconhecimento do passivo por impostos diferidos resultante porque o 
+goodwill  é mensurado como residual e o reconhecimento do passivo por 
+impostos diferidos iria aumentar a quantia escriturada de goodwill .
+22 — As reduções posteriores num passivo por impostos diferidos que 
+não seja reconhecido por resultar do reconhecimento inicial do goodwill
+também são consideradas como resultando do reconhecimento inicial 
+dogoodwill , não sendo portanto reconhecidas.
+23 — Os passivos por impostos diferidos por diferenças temporárias 
+tributáveis relacionadas com o goodwill  são, porém, reconhecidos até ao 
+ponto em que não resultem do reconhecimento inicial do goodwill .
+Reconhecimento inicial de um ativo ou passivo
+24 — Uma diferença temporária pode surgir no reconhecimento ini-
+cial de um ativo ou passivo, por exemplo, se parte ou todo o custo de 
+um ativo não for dedutível para finalidades de impostos. O método de contabilizar tal diferença temporária depende da natureza da transação 
+que conduziu ao reconhecimento inicial do ativo:
+a) Numa concentração de atividades empresariais, uma entidade 
+reconhece qualquer passivo ou ativo por impostos diferidos e isso afeta 
+a quantia do goodwill  ou do ganho com a compra a preço baixo que ela 
+reconhece (ver parágrafo 21);
+b) Se a transação afetar o lucro contabilístico ou o lucro tributável, uma 
+entidade reconhecerá qualquer passivo ou ativo por impostos diferidos 
+e reconhecerá o resultante gasto ou rendimento por impostos diferidos 
+na demonstração dos resultados (ver parágrafo 53);
+c) Se a transação não for uma concentração de atividades empre-
+sariais, e não afetar nem o lucro contabilístico nem o lucro tributável, 
+uma entidade, na ausência da exceção prevista nos parágrafos 15 e 25, reconheceria o passivo ou ativo diferido resultante e ajustaria a quantia escriturada do ativo ou passivo pela mesma quantia. Tais ajustamentos tornariam as demonstrações financeiras menos transparentes. Por isso, 
+esta Norma não permite que uma entidade reconheça o passivo ou 
+ativo por impostos diferidos resultante, nem no reconhecimento inicial nem subsequentemente. Para além disso, uma entidade não reconhece alterações subsequentes no passivo ou ativo por impostos diferidos não reconhecidos enquanto o ativo é depreciado.
+Diferenças temporárias dedutíveis
+25 — Um ativo por impostos diferidos deve ser reconhecido para 
+todas as diferenças temporárias dedutíveis até ao ponto em que seja 
+provável que exista um lucro tributável relativamente ao qual a dife-
+rença temporária dedutível possa ser usada, a não ser que o ativo por 
+impostos diferidos resulte do reconhecimento inicial de um ativo ou 
+passivo numa transação que:
+a) Não seja uma concentração de atividades empresariais; e
+b) No momento da transação, não afete o lucro contabilístico nem o 
+lucro tributável (prejuízo fiscal).
+Porém, para diferenças temporárias dedutíveis associadas a investi-
+mentos em subsidiárias, sucursais e associadas e a interesses em em-preendimentos conjuntos, deve ser reconhecido um ativo por impostos diferidos de acordo com o parágrafo 41.
+26 — Está inerente no reconhecimento de um passivo que a quantia 
+escriturada será liquidada em períodos futuros por meio de um exfluxo 
+de recursos da entidade incorporando benefícios económicos. Quando 
+os recursos fluam da entidade, parte ou todas as suas quantias podem ser 
+dedutíveis na determinação do lucro tributável de um período mais tardio 
+do que o período em que o passivo seja reconhecido. Em tais casos, uma 
+diferença temporária existe entre a quantia escriturada do passivo e a sua 
+base fiscal. Concordantemente, um ativo por impostos diferidos surge com respeito a impostos sobre o rendimento que serão recuperáveis em 
+períodos futuros quando seja permitido que essa parte do passivo seja 
+uma dedução na determinação do lucro tributável. Semelhantemente, 
+se a quantia escriturada de um ativo for menor do que a sua base fiscal 
+a diferença dá origem a um ativo por impostos diferidos, com respeito a impostos que serão recuperáveis em períodos futuros.
+27 — A reversão de diferenças temporárias dedutíveis resulta em 
+deduções na determinação de lucros tributáveis de períodos futuros. Con-
+tudo, os benefícios económicos na forma de reduções nos pagamentos de 
+impostos fluirão para a entidade somente se ela obtiver lucros tributáveis 
+suficientes contra os quais as deduções possam ser compensadas. Por 
+isso, uma entidade reconhece ativos por impostos diferidos somente 
+quando for provável que lucros tributáveis estarão disponíveis contra os 
+quais as diferenças temporárias dedutíveis possam ser utilizadas.
+28 — É provável que lucro tributável esteja disponível e contra o 
+qual uma diferença temporária dedutível possa ser utilizada quando 
+haja diferenças temporárias tributáveis suficientes relacionadas com 
+a mesma autoridade fiscal e com a mesma entidade tributável que se esperem inverter:
+a) No mesmo período que a reversão esperada da diferença temporária 
+dedutível; ou
+b) Nos períodos em que um prejuízo fiscal proveniente do ativo por 
+impostos diferidos possa ser reportado ou transportado.
+Em tais circunstâncias, o ativo por impostos diferidos é reconhecido 
+no período em que as diferenças temporárias dedutíveis surjam.
+29 — Quando haja diferenças temporárias tributáveis insuficientes re-
+lacionadas com a mesma autoridade fiscal e a mesma entidade tributável, 
+o ativo por impostos diferidos é reconhecido até ao ponto em que:
+a) Seja provável que a entidade tenha lucros tributáveis suficientes 
+relacionados com a mesma autoridade fiscal e a mesma entidade tribu-
+tável no mesmo período em que a reversão das diferenças temporárias 
+dedutíveis (ou nos períodos em que o prejuízo fiscal proveniente do Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20825
+ativo por impostos diferidos possa ser reportado ou transportado). Ao 
+avaliar se terá ou não lucro tributável suficiente em períodos futuros, 
+uma entidade ignora quantias tributáveis provenientes de diferenças 
+temporárias dedutíveis que se esperem que se originem em períodos 
+futuros, porque os ativos por impostos diferidos provenientes destas 
+diferenças temporárias dedutíveis exigirão elas próprias lucros tributáveis 
+futuros a fim de serem utilizadas; ou
+b) Estejam disponíveis oportunidades de planeamento de impostos 
+para a entidade, que criará lucro tributável em períodos apropriados.
+30 — Quando uma entidade tenha uma história de prejuízos recentes, 
+a entidade considera a orientação dos parágrafos 32 e 33.
+Prejuízos fiscais não usados e créditos por impostos não usados
+31 — Um ativo por impostos diferidos deve ser reconhecido para o 
+reporte de prejuízos fiscais não usados e créditos tributáveis não usados 
+até ao ponto em que seja provável que lucros tributáveis futuros estarão 
+disponíveis contra os quais possam ser usados prejuízos fiscais não 
+usados e créditos tributáveis não usados.
+32 — Os critérios para reconhecer ativos por impostos diferidos 
+provenientes do reporte de prejuízos fiscais e de créditos de impostos 
+não utilizados são os mesmos que os critérios para o reconhecimento 
+de ativos por impostos diferidos provenientes de diferenças temporárias 
+dedutíveis. Porém, a existência de prejuízos fiscais não usados é forte 
+prova de que podem não estar disponíveis lucros tributáveis futuros. 
+Por isso, quando uma entidade tenha uma história de perdas recentes, a entidade reconhece um ativo por impostos diferidos proveniente de 
+prejuízos fiscais ou de créditos tributáveis não utilizados somente até 
+ao ponto que a entidade tenha suficientes diferenças temporárias tribu-
+táveis ou que haja outras provas convincentes de que lucros tributáveis suficientes estarão disponíveis contra os quais os prejuízos fiscais não 
+utilizados ou créditos tributáveis não utilizados possam ser utilizados 
+pela entidade. Em tais circunstâncias exige -se a divulgação da quantia 
+do ativo por impostos diferidos e da natureza da prova que suporta o seu reconhecimento.
+33 — Uma entidade considera os critérios seguintes na avaliação da 
+probabilidade de que o lucro tributável estará disponível contra o qual 
+prejuízos fiscais não usados ou créditos tributáveis não usados possam 
+ser utilizados:
+a) Se a entidade tiver diferenças temporárias tributáveis relacionadas 
+com a mesma autoridade fiscal e com a mesma entidade tributável, de 
+que resultarão quantias tributáveis contra as quais os prejuízos fiscais 
+não usados ou créditos tributáveis não usados possam ser utilizados 
+antes que se extingam;
+b) Se for provável que a entidade tenha lucros tributáveis antes dos 
+prejuízos fiscais não usados ou que créditos tributáveis não usados 
+expirem; ou
+c) Se os prejuízos fiscais não usados resultarem de causas identificá-
+veis que provavelmente não se repetirão.
+Até ao ponto em que não seja provável que lucros tributáveis estejam 
+disponíveis contra os quais os prejuízos fiscais não usados ou créditos tributáveis não usados possam ser utilizados, o ativo por impostos di-
+feridos não é reconhecido.
+Reavaliação de ativos por impostos diferidos não reconhecidos
+34 — À data de cada balanço, uma entidade reavalia os ativos por 
+impostos diferidos não reconhecidos. A entidade reconhece previamente 
+um ativo por impostos diferidos não reconhecido até ao ponto em que se 
+torne provável que os lucros tributáveis futuros permitirão que o ativo 
+por impostos diferidos seja recuperado. Por exemplo, uma melhoria nas 
+condições comerciais pode tornar mais provável que a entidade seja 
+capaz de gerar suficiente lucro tributável no futuro para que o ativo por 
+impostos diferidos satisfaça os critérios fixados nos parágrafos 25 ou 31. 
+Um outro exemplo dá -se quando uma entidade reavalia os ativos por 
+impostos diferidos à data da concentração de atividades empresariais 
+ou subsequentemente (ver parágrafos 62 e 63).
+Investimentos em subsidiárias, associadas e interesses
+em empreendimentos conjuntos
+35 — As diferenças temporárias surgem quando a quantia escritu-
+rada de investimentos em subsidiárias, associadas ou interesses em 
+empreendimentos conjuntos (nomeadamente a parte da empresa -mãe,
+do investidor ou do empreendedor nos ativos líquidos da subsidiária, 
+associada ou empreendimento conjunto, incluindo a quantia escriturada 
+degoodwill ) se torna diferente da base fiscal (que é muitas vezes o custo) do investimento ou interesse. Tais diferenças podem surgir numa 
+quantidade de circunstâncias diferentes, por exemplo:
+a) A existência de lucros não distribuídos de subsidiárias, associadas 
+e empreendimentos conjuntos;
+b) Alterações nas taxas de câmbio quando uma empresa -mãe e a sua 
+subsidiária estão localizadas em países diferentes; e
+c) Uma redução na quantia escriturada de um investimento numa 
+associada para a sua quantia recuperável.
+36 — Uma entidade deve reconhecer um passivo por impostos di-
+feridos para todas as diferenças temporárias tributáveis associadas aos investimentos em subsidiárias, sucursais e associadas e interesses em 
+empreendimentos conjuntos, exceto até ao ponto em que as seguintes 
+condições sejam ambas satisfeitas:
+a) Que a empresa -mãe, o investidor ou o empreendedor seja capaz de 
+controlar a tempestividade da reversão da diferença temporária; e
+b) Que seja provável que a diferença temporária não reverterá no 
+futuro previsível.
+37 — Dado a empresa -mãe controlar a política de dividendos da sua 
+subsidiária, é capaz também de controlar a tempestividade da reversão de diferenças temporárias associadas com esse investimento (incluindo 
+as diferenças temporárias provenientes não só de lucros não distribuídos 
+mas também de quaisquer diferenças de transposição de moeda estran-geira). Para além disso, muitas vezes seria impraticável determinar a 
+quantia de impostos sobre rendimento que devam ser pagos quando as 
+diferenças temporárias revertam. Por isso, quando a empresa -mãe tenha 
+determinado que esses lucros não serão distribuídos no futuro previsível, 
+a empresa -mãe não reconhece um passivo por impostos diferidos. As 
+mesmas considerações aplicam -se a investimentos em sucursais.
+38 — Os ativos e passivos não monetários de uma entidade são 
+mensurados na sua moeda funcional (ver NCRF 23 — Os Efeitos de 
+Alterações em Taxas de Câmbio). Se os lucros tributáveis e os prejuízos 
+fiscais (e, consequentemente, a base fiscal dos seus ativos e passivos não 
+monetários) forem determinados numa moeda diferente, as alterações 
+na taxa de câmbio originam diferenças temporárias que resultam num 
+passivo ou (dependendo do parágrafo 25) ativo por impostos diferidos reconhecido. O imposto diferido resultante é debitado ou creditado nos 
+resultados (ver parágrafo 52).
+39 — Um investidor numa associada não controla essa entidade e 
+geralmente não está numa posição para determinar a sua política de 
+dividendos. Por isso, na ausência de um acordo exigindo que os lucros da associada não serão distribuídos no futuro previsível, um investidor 
+reconhece um passivo por impostos diferidos provenientes de diferenças 
+temporárias tributáveis associadas ao investimento na associada. Em 
+alguns casos, um investidor pode não ser capaz de determinar a quantia 
+de impostos que serão pagos se ele recuperar o custo do seu investimento 
+na associada mas pode determinar que igualará ou excederá uma quantia 
+mínima. Em tais casos, o passivo por impostos diferidos é mensurado 
+por essa quantia.
+40 — O acordo entre as partes de um empreendimento conjunto trata 
+geralmente da partilha dos lucros e identifica se as decisões em tais 
+assuntos exigem ou não o consentimento de todos os empreendedores 
+ou de uma maioria especificada dos mesmos. Quando o empreendedor 
+puder controlar a partilha dos lucros e seja provável que os lucros não serão distribuídos no futuro previsível, não é reconhecido um passivo por impostos diferidos.
+41 — Uma entidade deve reconhecer um ativo por impostos dife-
+ridos para todas as diferenças temporárias dedutíveis provenientes de 
+investimentos em subsidiárias, sucursais, associadas e interesses em 
+empreendimentos conjuntos, até ao ponto em que, e somente até ao 
+ponto em que, seja provável que:
+a) A diferença temporária reverterá no futuro previsível; e
+b) Estará disponível lucro tributável contra o qual a diferença tem-
+porária possa ser utilizada.
+42 — Ao decidir se um ativo por impostos diferidos é reconhecido 
+para diferenças temporárias dedutíveis associadas aos seus investimentos 
+em subsidiárias, associadas e interesses em empreendimentos conjuntos, 
+uma entidade considera a orientação estabelecida nos parágrafos 28 a 30.
+Mensuração
+43 — Os ativos (passivos) por impostos correntes dos períodos cor-
+rentes e anteriores devem ser mensurados pela quantia que se espera que seja paga (recuperada de) às autoridades fiscais, usando as taxas fiscais (e leis fiscais) aprovadas à data do balanço.
+44 — Os ativos e passivos por impostos diferidos devem ser mensu-
+rados pelas taxas fiscais que se espera que sejam de aplicar no período 20826 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+em seja realizado o ativo ou seja liquidado o passivo, com base nas taxas 
+fiscais (e leis fiscais) que estejam aprovadas à data do balanço.
+45 — A mensuração de passivos por impostos diferidos e de ativos por 
+impostos diferidos deve refletir as consequências fiscais que resultam 
+da forma pela qual a entidade espera, à data do balanço, recuperar ou 
+liquidar a quantia escriturada dos seus ativos e passivos.
+46 — Em alguns casos, a forma pela qual uma entidade recupera 
+(liquida) a quantia escriturada de um ativo (passivo) pode afetar a base fiscal do ativo (passivo). Em tais casos, uma entidade mensura os pas-sivos por impostos diferidos e ativos por impostos diferidos usando a 
+base fiscal que seja consistente com a forma esperada de recuperação 
+ou liquidação.
+47 — Ativos e passivos por impostos diferidos não devem ser des-
+contados.
+48 — A determinação fiável de ativos e passivos por impostos di-
+feridos numa base descontada exige calendarização pormenorizada da tempestividade da reversão de cada diferença temporária. Em muitos 
+casos tal calendarização é impraticável ou altamente complexa. Por 
+isso, é inapropriado exigir o desconto de ativos e passivos diferidos. 
+Permitir, mas não exigir o desconto, resultaria em ativos e passivos por 
+impostos diferidos que não seriam comparáveis entre entidades. Por 
+isso, esta Norma não exige nem permite o desconto de ativos e passivos 
+por impostos diferidos.
+49 — As diferenças temporárias são determinadas por referência à 
+quantia escriturada de um ativo ou um passivo. Isto aplica -se mesmo 
+quando essa quantia escriturada seja ela própria determinada numa base 
+descontada, como, por exemplo, no caso de obrigações de benefícios de 
+reforma (ver a NCRF 28 — Benefícios de Empregados).
+50 — A quantia escriturada de um ativo por impostos diferidos deve 
+ser revista à data de cada balanço. Uma entidade deve reduzir a quantia 
+escriturada de um ativo por impostos diferidos até ao ponto em que deixe 
+de ser provável que lucros tributáveis suficientes estarão disponíveis 
+para permitir que o benefício de parte, ou totalidade, desse ativo por impostos diferidos seja utilizado. Qualquer redução deve ser revertida 
+até ao ponto que se torne provável que lucros tributáveis suficientes 
+estarão disponíveis.
+Reconhecimento de imposto corrente e diferido
+51 — A contabilização dos efeitos de impostos correntes e diferidos 
+de uma transação ou de outro acontecimento é consistente com a con-
+tabilização da transação ou do próprio acontecimento. Os parágrafos 52 
+a 64 implementam este princípio.
+Demonstração dos resultados
+52 — Os impostos correntes e diferidos devem ser reconhecidos como 
+um rendimento ou como um gasto e incluídos no resultado líquido do 
+período, exceto até ao ponto em que o imposto provenha de:
+a) Uma transação ou acontecimento que seja reconhecido, no mesmo 
+ou num período diferente, diretamente no capital próprio (ver parágra-
+fos 55 a 59); ou
+b) Uma concentração de atividades empresariais (ver parágrafos 61 
+a 64).
+53 — A maior parte dos passivos por impostos diferidos e de ativos 
+por impostos diferidos surge quando os rendimentos ou gastos sejam in-
+cluídos no lucro contabilístico num período, se bem que sejam incluídos 
+no lucro tributável (prejuízo fiscal) noutro período diferente. O imposto 
+diferido resultante é reconhecido na demonstração dos resultados.
+54 — A quantia escriturada dos ativos e passivos por impostos di-
+feridos pode alterar -se mesmo se não houver alteração na quantia das 
+diferenças temporárias relacionadas. Isto pode resultar, por exemplo, de:
+a) Uma alteração nas taxas de tributação ou leis fiscais;
+b) Uma reavaliação da recuperabilidade de ativos por impostos di-
+feridos; ou
+c) Uma alteração da maneira esperada de recuperação de um ativo.
+O imposto diferido resultante é reconhecido na demonstração dos re-
+sultados, exceto até ao ponto que ele se relacione com itens previamente 
+debitados ou creditados ao capital próprio (ver parágrafo 57).
+Itens creditados ou debitados diretamente ao capital próprio
+55 — O imposto corrente, ou imposto diferido, deve ser debitado ou 
+creditado diretamente ao capital próprio se o imposto se relacionar com 
+itens que sejam creditados ou debitados, no mesmo ou num período 
+diferente, diretamente ao capital próprio.56 — As Normas Contabilísticas e de Relato Financeiro exigem ou 
+permitem que certos itens sejam creditados ou debitados diretamente 
+ao capital próprio. São exemplos de tais itens:
+a) Uma alteração na quantia escriturada proveniente da revalorização 
+do ativo fixo tangível (ver a NCRF 7);
+b) Um ajustamento no saldo de abertura de resultados transitados 
+resultante de uma alteração na política contabilística aplicada retrospe-
+tivamente ou da correção de um erro (ver NCRF 4 — Políticas Conta-
+bilísticas, Alterações nas Estimativas Contabilísticas e Erros); ou
+c) As diferenças de câmbio resultantes da transposição das demonstra-
+ções financeiras de uma unidade operacional estrangeira (ver NCRF 23);
+57 — Em circunstâncias excecionais pode ser difícil determinar a 
+quantia de impostos correntes e diferidos que se relacione com itens 
+creditados ou debitados ao capital próprio. Isto pode ser o caso, por 
+exemplo, quando:
+a) Uma alteração na taxa do imposto ou noutras regras de impostos 
+que afete um ativo ou passivo por impostos diferidos relacionado (na totalidade ou em parte) com um item que esteja previamente debitado 
+ou creditado ao capital próprio; ou
+b) Uma entidade determine que um ativo por impostos diferidos deva 
+ser reconhecido, ou deixe de ser reconhecido na totalidade, e o ativo por 
+impostos diferidos se relacione (na totalidade ou em parte) com um item 
+que tenha sido anteriormente debitado ou creditado ao capital próprio.
+Em tais casos, o imposto corrente e diferido relacionado com itens 
+que sejam creditados ou debitados ao capital próprio é baseado numa 
+imputação pro rata  razoável do imposto corrente e diferido da enti-
+dade, ou noutro método que atinja uma imputação mais apropriada nas 
+circunstâncias.
+58 — A NCRF 7 especifica que uma entidade deve transferir anual-
+mente o excedente (reserva) de revalorização para resultados transitados 
+pela quantia igual à diferença entre a depreciação ou amortização de um 
+ativo revalorizado e a depreciação ou amortização baseada no custo desse 
+ativo. A quantia transferida deve ser líquida de qualquer imposto diferido 
+relacionado. Considerações semelhantes aplicam -se a transferências 
+feitas pela alienação de um item de ativo fixo tangível.
+59 — Quando um ativo for revalorizado para finalidades de tribu-
+tação e essa revalorização estiver relacionada com uma revalorização 
+contabilística de um período anterior, ou com uma que se espera que seja 
+levada a efeito num período futuro, os efeitos fiscais da revalorização 
+do ativo e do ajustamento da base fiscal são creditados ou debitados ao 
+capital próprio nos períodos em que ocorram.
+60 — Quando uma entidade pagar dividendos aos seus acionistas, 
+pode ser -lhe exigido que pague uma parcela dos dividendos às autori-
+dades fiscais em nome dos acionistas (retenção de imposto). Tal quantia 
+paga, ou a pagar, às autoridades fiscais é debitada ao capital próprio 
+como parte dos dividendos.
+Impostos diferidos provenientes de uma concentração
+de atividades empresariais
+61 — Tal como explicado no parágrafo 19, podem surgir diferenças 
+temporárias numa concentração de atividades empresariais. De acordo 
+com a NCRF 14 — Concentrações de Atividades Empresariais, uma 
+entidade reconhece quaisquer ativos por impostos diferidos resultantes (até ao ponto em que satisfazem os critérios de reconhecimento do pa-
+rágrafo 25) ou passivos por impostos diferidos, como ativos e passivos 
+identificáveis à data da aquisição. Consequentemente, esses ativos e 
+passivos por impostos diferidos afetam o goodwill  ou o ganho com a 
+compra a preço baixo que a entidade reconhece. Contudo, de acordo com 
+o parágrafo 15( a), uma entidade não reconhece passivos por impostos 
+diferidos resultantes do reconhecimento inicial do goodwill .
+62 — Como resultado de uma concentração de atividades empre-
+sariais, a probabilidade de realizar um ativo por impostos diferidos 
+pré -aquisição da adquirente poderia sofrer alterações. Uma adquirente 
+pode considerar que é provável que venha a recuperar o seu próprio 
+ativo por impostos diferidos que não tenha sido reconhecido antes da 
+concentração de atividades empresariais. Por exemplo, a adquirente 
+pode ser capaz de usar o benefício dos seus prejuízos fiscais não usa-
+dos face ao futuro lucro tributável da adquirida. Como alternativa, 
+como resultado da concentração de atividades empresariais, poderá 
+já não ser provável que um futuro lucro tributável permita que o ativo 
+por impostos diferidos seja recuperado. Nesses casos, a adquirente 
+reconhece uma alteração no ativo por impostos diferidos no período da 
+concentração de atividades empresariais, mas não a inclui como parte 
+da contabilização da concentração de atividades empresariais. Portanto, 
+a adquirente não a toma em consideração ao mensurar o goodwill  ou o 
+ganho com a compra a preço baixo que ela reconhece na concentração de atividades empresariais.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20827
+63 — O potencial benefício de transportar os prejuízos fiscais da ad-
+quirida ou outros ativos por impostos diferidos poderá não satisfazer os 
+critérios da NCRF 14 relativamente ao reconhecimento separado quando 
+uma concentração de atividades empresariais for inicialmente conta-
+bilizada mas poderá ser posteriormente realizado. Uma entidade deve 
+reconhecer benefícios por impostos diferidos adquiridos que ela realiza 
+após a concentração de atividades empresariais do seguinte modo:
+a) Os benefícios por impostos diferidos adquiridos que sejam reconhe-
+cidos até à conclusão da contabilização inicial no período de mensuração 
+e que resultem de novas informações sobre factos e circunstâncias que 
+existiam à data de aquisição devem ser aplicados para reduzir a quantia 
+escriturada de qualquer goodwill  relacionado com essa aquisição. Se a 
+quantia escriturada desse goodwill  for zero, quaisquer benefícios por im-
+postos diferidos remanescentes devem ser reconhecidos nos resultados;
+b) Todos os outros benefícios por impostos diferidos adquiridos que 
+sejam realizados devem ser reconhecidos nos resultados (ou, quando esta Norma o exigir, diretamente no capital próprio).
+64 — Contudo, este procedimento não deve resultar na criação de 
+um excesso do interesse da adquirente no justo valor líquido dos ativos, 
+passivos e passivos contingentes identificáveis da adquirida acima do 
+custo da concentração, nem deve aumentar a quantia anteriormente 
+reconhecida para um tal excesso.
+Apresentação
+Compensação
+65 — Se bem que os ativos e passivos por impostos correntes sejam 
+reconhecidos e mensurados separadamente, uma entidade deve compen-
+sar ativos por impostos correntes e passivos por impostos correntes nas 
+suas demonstrações financeiras se, e somente se, a entidade:
+a) Tiver um direito legalmente executável para compensar quantias 
+reconhecidas; e
+b) Pretender liquidar numa base líquida, ou realizar o ativo e liquidar 
+simultaneamente o passivo.
+66 — Uma entidade terá normalmente um direito legalmente executá-
+vel para compensar um ativo por impostos correntes contra um passivo por impostos correntes quando eles se relacionem com impostos sobre o rendimento lançados pela mesma autoridade fiscal e esta autoridade 
+permita que a entidade faça ou receba um único pagamento líquido.
+67 — Em demonstrações financeiras consolidadas, um ativo por 
+impostos correntes de uma entidade de um grupo é compensado contra um passivo por impostos correntes de uma outra entidade de um grupo 
+se, e somente se, a dita entidade tiver um direito legalmente executável 
+de fazer ou receber tal pagamento líquido ou recuperar o ativo e liquidar 
+o passivo simultaneamente.
+68 — Uma entidade deve compensar os ativos por impostos diferidos 
+e passivos por impostos diferidos se, e somente se:
+a) A entidade tiver um direito legalmente executável de compensar 
+ativos por impostos correntes contra passivos por impostos correntes; e
+b) Os ativos por impostos diferidos e os passivos por impostos dife-
+ridos se relacionarem com impostos sobre o rendimento lançados pela mesma autoridade fiscal sobre a mesma entidade tributável.
+69 — Para evitar a necessidade de escalonamento detalhado da tem-
+pestividade da reversão de cada diferença temporária, esta Norma exige 
+que uma entidade compense um ativo por impostos diferidos contra um 
+passivo por impostos diferidos da mesma entidade tributável se, e so-
+mente se, eles se relacionam com impostos sobre o rendimento lançados 
+pela mesma autoridade fiscal e a entidade tiver um direito legalmente 
+executável de compensar ativos por impostos correntes contra passivos por impostos correntes.
+Gasto de impostos
+Gasto (rendimento) de imposto relacionado com resultados
+de atividades ordinárias
+70 — O gasto (rendimento) de impostos relacionado com o resultado 
+de atividades ordinárias deve ser apresentado na demonstração dos 
+resultados.
+Diferenças de câmbio em passivos ou ativos por impostos
+estrangeiros diferidos
+71 — A NCRF 23 exige que certas diferenças de câmbio sejam re-
+conhecidas como rendimentos ou gastos mas não especifica onde tais 
+diferenças devem ser apresentadas na demonstração dos resultados. Con-cordantemente, quando diferenças de câmbio de passivos ou de ativos 
+por impostos estrangeiros diferidos sejam reconhecidos na demonstração 
+dos resultados, tais diferenças podem ser classificadas como gastos (ren-
+dimentos) por impostos diferidos se essa apresentação for considerada 
+como a mais útil para os utentes das demonstrações financeiras.
+Data de eficácia
+72 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+73 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam comparáveis.
+74 — Esta Norma substitui a NCRF 25 — Impostos sobre o Ren-
+dimento, constante do Aviso n.º 15655/2009, publicado no Diário da 
+República,  2.ª série, n.º 173, de 7 de setembro de 2009.

@@ -1,0 +1,348 @@
+Norma Contabilística e de Relato Financeiro 8
+Ativos não Correntes Detidos para Venda e Unidades
+Operacionais Descontinuadas
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro é 
+o de prescrever a contabilização de ativos detidos para venda e a apre-sentação de unidades operacionais descontinuadas. Em particular, esta Norma exige que os ativos que satisfaçam os critérios de classificação 
+como detidos para venda:
+a) Sejam mensurados pelo menor valor entre a quantia escriturada e 
+o justo valor menos os custos de alienação, devendo a sua depreciação cessar; e
+b) Sejam apresentados separadamente no balanço, sendo os resultados 
+das unidades operacionais descontinuadas apresentados separadamente 
+na demonstração dos resultados.
+Âmbito
+2 — Os requisitos de classificação e de apresentação desta Norma 
+aplicam -se a todos os ativos não correntes reconhecidos e a todos os 
+grupos para alienação de uma entidade. Os requisitos de mensuração desta Norma aplicam -se a todos os ativos não correntes reconhecidos 
+e aos grupos para alienação (tal como definido no parágrafo 4, com 
+exceção dos ativos enunciados no parágrafo 5 que devem continuar a ser mensurados de acordo com as Normas aí indicadas.
+3 — Os ativos classificados como não correntes de acordo com a 
+NCRF 1 — Estrutura e Conteúdo das Demonstrações Financeiras não 
+devem ser reclassificados como ativos correntes enquanto não satisfi-
+zerem os critérios de classificação como detidos para venda de acordo 
+com a presente Norma. Os ativos de uma classe que uma entidade 
+normalmente consideraria como não corrente, que sejam adquiridos Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20773
+exclusivamente com vista a revenda, não devem ser classificados como 
+correntes, a não ser que satisfaçam os critérios de classificação como 
+detidos para venda de acordo com a presente Norma.
+4 — Por vezes, uma entidade aliena um grupo de ativos, possivelmente 
+com alguns passivos diretamente associados, em conjunto numa única transação. Um tal grupo para alienação pode ser um grupo de unidades geradoras de caixa, uma única unidade geradora de caixa, ou parte de 
+uma unidade geradora de caixa (1). O grupo pode incluir quaisquer 
+ativos e quaisquer passivos da entidade, incluindo ativos correntes, 
+passivos correntes e ativos excluídos pelo parágrafo 5 dos requisitos de mensuração desta Norma. Se um ativo não corrente dentro do âmbito dos requisitos desta Norma fizer parte de um grupo para alienação, os requisitos de mensuração desta Norma aplicam -se ao grupo como um todo, de forma que o grupo seja mensurado pelo menor valor entre a 
+sua quantia escriturada e o justo valor menos os custos de alienação. Os 
+requisitos para mensuração de ativos e passivos individuais dentro do grupo para alienação estão definidos nos parágrafos 19, 20 e 24.
+5 — As disposições de mensuração desta Norma não se aplicam aos 
+seguintes ativos, que estão abrangidos pelas normas indicadas, seja como 
+ativos individuais seja como parte de um grupo para alienação:
+a) Ativos por impostos diferidos (NCRF 25 — Impostos sobre o 
+Rendimento);
+b) Ativos provenientes de benefícios de empregados (NCRF 28 — Be-
+nefícios dos Empregados);
+c) Ativos financeiros NCRF 27 — Instrumentos Financeiros);
+d) Ativos não correntes que sejam mensurados de acordo com o mo-
+delo do justo valor (NCRF 11 — Propriedades de Investimento);
+e) Ativos não correntes que sejam mensurados pelo justo valor menos 
+os custos estimados do ponto de venda (NCRF 17 — Agricultura).
+Definições
+6 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Ativo corrente: é um ativo que satisfaça qualquer dos seguintes cri-
+térios:
+a) Se espera que seja realizado, ou se pretende que seja vendido ou 
+consumido, no decurso normal do ciclo operacional da entidade;
+b) Esteja detido essencialmente para a finalidade de ser negociado;
+c) Se espere que seja realizado num período até doze meses após a 
+data do balanço; ou
+d) Seja caixa ou equivalente de caixa a menos que lhe seja limitada 
+a troca ou sejam usados para liquidar um passivo durante pelo menos doze meses após a data do balanço.
+Ativos não correntes: são ativos que não satisfaçam a definição de 
+ativo corrente.
+Altamente provável: é um acontecimento cuja possibilidade de ocor-
+rência é significativamente mais do que provável.
+Componente de uma entidade: são unidades operacionais e fluxos de 
+caixa que possam ser claramente distinguidos, operacionalmente e para 
+finalidades de relato financeiro, do resto de uma entidade.
+Compromisso firme de compra: é um acordo com uma parte não 
+relacionada, vinculando ambas as partes e normalmente legalmente 
+imponível, que:
+a) Especifique todos os termos significativos, incluindo o preço e a 
+tempestividade das transações; e
+b) Inclua um desincentivo por não desempenho que seja suficiente-
+mente grande para tornar o desempenho altamente provável.
+Custos de alienação: são custos incrementais diretamente atribuíveis 
+à alienação de um ativo, grupo para alienação ou unidade geradora de caixa, excluindo gastos de financiamento e gastos de impostos sobre 
+o rendimento.
+Grupo para alienação: é um grupo de ativos a alienar, por venda ou de 
+outra forma, em conjunto com um grupo numa só transação, e passivos 
+diretamente associados a esses ativos que serão transferidos na transação. 
+O grupo inclui goodwill  adquirido numa concentração de atividades 
+empresariais se o grupo for uma unidade geradora de caixa à qual tenha 
+sido imputado goodwill  de acordo com os requisitos constantes dos 
+parágrafos 39 a 42 da NCRF 12 — Imparidade de Ativos.
+Justo valor: é a quantia pela qual um ativo pode ser trocado ou um 
+passivo liquidado, entre partes conhecedoras e dispostas a isso, numa transação em que não exista relacionamento entre elas.
+Provável: um acontecimento é provável quando a possibilidade da sua 
+ocorrência for superior à possibilidade da não ocorrência.
+Quantia recuperável: é a quantia mais alta entre o justo valor de um 
+ativo ou unidade geradora de caixa menos os custos de alienação e o seu valor de uso.Unidade geradora de caixa: é o mais pequeno grupo identificável 
+de ativos que seja gerador de influxos de caixa e que seja em larga 
+medida independente dos influxos de caixa de outros ativos ou grupos 
+de ativos.
+Unidade operacional descontinuada: é um componente de uma enti-
+dade que seja alienado ou esteja classificado como detido para venda e:
+a) Represente uma importante linha de negócios separada ou uma 
+área geográfica operacional;
+b) Seja parte integrante de um único plano coordenado para alienar 
+uma importante linha de negócios separada ou área geográfica opera-cional; ou
+c) Seja uma subsidiária adquirida exclusivamente com vista à revenda.
+Valor de uso: é o valor presente dos fluxos de caixa futuros estimados, 
+que se espera obter do uso continuado de um ativo ou unidade geradora 
+de caixa e da sua alienação no fim da sua vida útil.
+Classificação de ativos não correntes (ou grupos
+para alienação) como detidos para venda
+7 — Uma entidade deve classificar um ativo não corrente (ou um 
+grupo para alienação) como detido para venda se a sua quantia escri-turada é recuperada principalmente através de uma transação de venda em lugar de o ser pelo uso continuado.
+8 — Assim, o ativo (ou grupo para alienação) deve estar disponível 
+para venda imediata na sua condição presente, sujeito apenas aos termos 
+que sejam habituais e costumeiros para a venda de tais ativos (ou grupos 
+para alienação) e a sua venda seja altamente provável.
+Para que a venda seja altamente provável, a hierarquia de gestão 
+apropriada deve estar empenhada num plano para vender o ativo (ou grupo para alienação) e deve ter sido iniciado um programa para loca-
+lizar um comprador e concluir o plano. Além disso, o ativo (ou grupo 
+para alienação) deve ser amplamente publicitado para venda a um preço 
+que seja razoável em relação ao seu justo valor corrente. Deve, ainda, esperar -se que a venda se qualifique para reconhecimento como venda 
+concluída dentro de um ano a partir da data da classificação, exceto con-
+forme permitido pelo parágrafo 10, e as ações necessárias para concluir 
+o plano devem indicar a improbabilidade de alterações significativas no 
+mesmo ou de o mesmo ser retirado de uso.
+9 — Uma entidade que assumiu um compromisso relativamente a um 
+plano de vendas que envolve a perda de controlo de uma subsidiária deve 
+classificar todos os ativos e passivos dessa subsidiária como detidos para 
+venda quando são respeitados os critérios estabelecidos nos parágrafos 7 
+e 8, independentemente do facto de a entidade reter um interesse que não controla na sua antiga subsidiária após a venda.
+10 — Os acontecimentos ou circunstâncias podem prolongar o pe-
+ríodo para concluir a venda para lá de um ano. Um prolongamento do período durante o qual se exija que a venda seja concluída não exclui que um ativo (ou grupo para alienação) seja classificado como detido 
+para venda se o atraso for causado por acontecimentos ou circunstân-
+cias fora do controlo da entidade e se houver prova suficiente de que a 
+entidade continua comprometida com o seu plano de vender o ativo (ou 
+grupo para alienação). Será este o caso quando os critérios do Apêndice 
+forem satisfeitos.
+11 — As transações de venda incluem trocas de ativos não correntes 
+por outros ativos não correntes quando uma troca tiver substância co-mercial de acordo com a NCRF 7 — Ativos Fixos Tangíveis.
+12 — Quando uma entidade adquire um ativo não corrente (ou grupo 
+para alienação) exclusivamente com vista à sua posterior alienação, deve 
+classificar o ativo não corrente (ou grupo de disposição) como detido para venda à data de aquisição somente se: i) o requisito de um ano do 
+parágrafo 8 for satisfeito (exceto conforme permitido pelo parágrafo 10 
+eii) se for altamente provável que qualquer outro critério do parágrafo 8, 
+que não esteja satisfeito nessa data, o será no curto prazo após a aquisição 
+(normalmente no prazo de três meses).
+13 — Se o critério do parágrafo 8 for satisfeito após a data do balanço, 
+uma entidade não deve classificar um ativo não corrente (ou grupo para 
+alienação) como detido para venda nessas demonstrações financeiras 
+quando emitidas. Contudo, quando esses critérios forem satisfeitos após 
+a data do balanço mas antes da autorização para emissão das demonstra-
+ções financeiras, a entidade deve divulgar essa informação.
+Ativos não correntes a abandonar
+14 — Uma entidade não deve classificar como detido para venda 
+um ativo não corrente (ou grupo para alienação) a abandonar porque a 
+sua quantia escriturada será recuperada principalmente através do uso continuado. Contudo, se o grupo para alienação a abandonar satisfizer os critérios do parágrafo 33( a) a 33( c) desta Norma, a entidade deve 
+apresentar os resultados e fluxos de caixa do grupo para alienação como 
+unidades operacionais descontinuadas à data em que ele deixe de ser 20774 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+usado. Os ativos não correntes (ou grupos para alienação), a abandonar, 
+incluem ativos não correntes (ou grupos para alienação) a usar até ao 
+final da sua vida útil e ativos não correntes (ou grupos para alienação) 
+a encerrar em vez de vender.
+15 — Uma entidade não deve contabilizar como ativo não corrente 
+um ativo que tenha sido temporariamente retirado do serviço, como se tivesse sido abandonado.
+Mensuração de ativos não correntes (ou grupos para alienação) 
+classificados como detidos para venda
+Mensuração de um ativo não corrente (ou grupo para alienação)
+16 — Uma entidade deve mensurar um ativo não corrente (ou grupo 
+para alienação) classificado como detido para venda pelo menor va-
+lor entre a sua quantia escriturada e o justo valor menos os custos de 
+alienação.
+17 — Se um ativo (ou grupo para alienação) recém -adquirido satisfizer 
+os critérios de classificação como detido para venda (ver parágrafo 12), 
+a aplicação do parágrafo 16 resultará em que o ativo (ou grupo para alie-
+nação) seja mensurado no reconhecimento inicial pelo valor mais baixo 
+entre a sua quantia escriturada se não tivesse sido assim classificado (por 
+exemplo, o custo) e o justo valor menos os custos de alienação. Assim, 
+se o ativo (ou grupo para alienação) for adquirido como parte de uma concentração de atividades empresariais, ele deve ser mensurado pelo 
+justo valor menos os custos de alienação.
+18 — Quando se espera que a venda ocorra para além de um ano, a 
+entidade deve mensurar os custos de alienação pelo seu valor presente. 
+Qualquer aumento no valor presente dos custos de alienação que resulte 
+da passagem do tempo deve ser apresentado nos resultados como gasto de financiamento.
+19 — Imediatamente antes da classificação inicial do ativo (ou grupo 
+para alienação) como detido para venda, as quantias escrituradas do ativo 
+(ou de todos os ativos e passivos do grupo) devem ser mensuradas de acordo com as NCRF aplicáveis.
+20 — Na remensuração posterior de um grupo para alienação, as 
+quantias escrituradas de quaisquer ativos e passivos que não estejam no âmbito dos requisitos de mensuração desta Norma mas estejam in-
+cluídos num grupo para alienação classificado como detido para venda, 
+devem ser remensurados de acordo com as NCRF aplicáveis antes de o justo valor menos os custos de alienação do grupo para alienação ser 
+remensurado.
+Reconhecimento de perdas por imparidade e reversões
+21 — Uma entidade deve reconhecer uma perda por imparidade relati-
+vamente a qualquer redução inicial ou posterior do ativo (ou grupo para 
+alienação) para o justo valor menos os custos de alienação, até ao ponto 
+em que não tenha sido reconhecida de acordo com o parágrafo 20.
+22 — Uma entidade deve reconhecer um ganho ou qualquer aumento 
+posterior no justo valor menos os custos de alienação de um ativo, mas não para além da perda por imparidade acumulada que tenha sido re-
+conhecida seja de acordo com esta Norma seja anteriormente de acordo 
+com a NCRF 12.
+23 — Uma entidade deve reconhecer um ganho para qualquer au-
+mento posterior no justo valor menos os custos de alienação de um 
+grupo para alienação:
+a) Até ao ponto em que não tenha sido reconhecido de acordo com 
+o parágrafo 20; mas
+b) Não para além da perda por imparidade cumulativa que tenha sido 
+reconhecida, seja de acordo com esta Norma ou anteriormente de acordo 
+com a NCRF 12, relativamente aos ativos não correntes que estejam 
+dentro do âmbito dos requisitos de mensuração desta última Norma;
+24 — A perda por imparidade (ou qualquer ganho posterior) reco-
+nhecida para um grupo para alienação deve reduzir (ou aumentar) a 
+quantia escriturada dos ativos não correntes do grupo que estejam dentro 
+do âmbito dos requisitos de mensuração desta Norma, pela ordem de 
+imputação definida nos parágrafos 50( a) e (b) e 60 da NCRF 12.
+25 — Um ganho ou perda que não tenha sido anteriormente reconhe-
+cido à data da venda de um ativo não corrente (ou grupo para alienação) 
+deve ser reconhecido à data do desreconhecimento. Os requisitos rela-
+cionados com o desreconhecimento estão definidos:
+a) Nos parágrafos 66 a 72 da NCRF 7 — Ativos Fixos Tangíveis 
+relativamente aos ativos fixos tangíveis; e
+b) Nos parágrafos 108 a 113 da NCRF 6 — Ativos Intangíveis rela-
+tivamente aos ativos intangíveis.
+26 — Uma entidade não deve depreciar (ou amortizar) um ativo 
+não corrente enquanto estiver classificado como detido para venda ou enquanto fizer parte de um grupo para alienação classificado como 
+detido para venda. Os juros e outros gastos atribuíveis aos passivos de 
+um grupo para alienação classificado como detido para venda devem continuar a ser reconhecidos.
+Alterações num plano de venda
+27 — Se uma entidade classificou um ativo (ou grupo para alienação) 
+como detido para venda, mas os critérios dos parágrafos 8 e 10 já não 
+estiverem satisfeitos, a entidade deve cessar de classificar o ativo (ou 
+grupo para alienação) como detido para venda.
+28 — A entidade deve mensurar um ativo não corrente que deixe de 
+ser classificado como detido para venda (ou deixe de ser incluído num 
+grupo para alienação classificado como detido para venda) pelo valor 
+mais baixo entre:
+a) A sua quantia escriturada antes de o ativo (ou grupo para aliena-
+ção) ser classificado como detido para venda, ajustada por qualquer 
+depreciação, amortização ou revalorização que teria sido reconhecida 
+se o ativo (ou grupo para alienação) não estivesse classificado como 
+detido para venda; e
+b) A sua quantia recuperável à data da decisão posterior de não ven-
+der (2).
+29 — A entidade deve incluir qualquer ajustamento exigido na quan-
+tia escriturada de um ativo não corrente que deixe de ser classificado 
+como detido para venda nos rendimentos (3) de unidades operacionais 
+em continuação no período em que os critérios dos parágrafos 8 e 10 já não forem satisfeitos. A entidade deve apresentar esse ajustamento na 
+secção da demonstração dos resultados usada para apresentar um ganho 
+ou perda, reconhecido de acordo com o parágrafo 34.
+30 — Se uma entidade remover um ativo ou passivo individual de um 
+grupo para alienação classificado como detido para venda, os ativos e 
+passivos restantes do grupo para alienação a ser vendido devem continuar 
+a ser mensurados como um grupo apenas se o grupo satisfizer os critérios 
+dos parágrafos 8 e 10. De outro modo, os ativos não correntes restantes do grupo que satisfaçam individualmente os critérios de classificação como detidos para venda devem ser mensurados individualmente pelo 
+menor valor entre as suas quantias escrituradas e os justos valores menos 
+os custos de alienação.
+Apresentação e divulgações
+31 — Uma entidade deve apresentar e divulgar informação que 
+permita aos utentes das demonstrações financeiras avaliar os efeitos 
+financeiros das unidades operacionais descontinuadas e das alienações 
+de ativos não correntes (ou grupos para alienação).
+Apresentar unidades operacionais descontinuadas
+32 — Um componente de uma unidade compreende unidades ope-
+racionais e fluxos de caixa que possam ser claramente distinguidos, 
+operacionalmente e para finalidades de relato financeiro, do resto da 
+entidade. Por outras palavras, um componente de uma entidade terá sido 
+uma unidade geradora de caixa ou um grupo de unidades geradoras de 
+caixa enquanto detida para uso.
+33 — Uma unidade operacional descontinuada é um componente 
+de uma entidade que tenha sido alienado ou esteja classificado para 
+venda; e
+a) Represente uma importante linha de negócios separada ou uma 
+área geográfica operacional;
+b) Seja parte integrante de um único plano coordenado para alienar 
+uma importante linha de negócios separada ou área geográfica opera-
+cional; ou
+c) Seja uma subsidiária adquirida exclusivamente com vista à re-
+venda.
+Ganhos ou perdas relacionados com unidades
+operacionais em continuação
+34 — Qualquer ganho ou perda relativo à remensuração de um ativo 
+não corrente (ou grupo para alienação) classificado como detido para venda que não satisfaça a definição de unidade operacional desconti-
+nuada deve ser incluído nos resultados das unidades operacionais em 
+continuação.
+Apresentação de um ativo não corrente ou de um grupo para alienação 
+classificado como detido para venda
+35 — Uma entidade deve apresentar um ativo não corrente classifi-
+cado como detido para venda e os ativos de um grupo para alienação Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20775
+classificado como detido para venda separadamente de outros ativos 
+no balanço. Os passivos de um grupo para alienação classificado como 
+detido para venda devem ser apresentados separadamente dos outros 
+passivos no balanço. Esses ativos e passivos não devem ser compensados 
+nem apresentados como uma única quantia.
+Data de eficácia
+36 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+37 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam comparáveis.
+38 — Esta Norma substitui a NCRF 8 — Ativos Não Correntes De-
+tidos Para Venda e Unidades Operacionais Descontinuadas, constante 
+do Aviso n.º 15655/2009, publicado no Diário da República, 2.ª série, 
+n.º 173, de 7 de setembro de 2009.
+(1) Contudo, uma vez que se espera que os fluxos de caixa de tal 
+ativo ou grupos de ativos resultem principalmente da venda e não do 
+uso continuado, eles tornam -se menos dependentes dos fluxos de caixa 
+resultantes de outros ativos, e um grupo para alienação que fez parte 
+de uma unidade geradora de caixa torna -se uma unidade geradora de 
+caixa separada.
+(2) Se um ativo não corrente fizer parte de uma unidade geradora de 
+caixa, a sua quantia recuperável é a quantia escriturada que teria sido 
+reconhecida após a imputação de qualquer perda por imparidade resul-tante dessa unidade geradora de caixa, de acordo com a NCRF 12.
+(3) A não ser que o ativo seja um ativo fixo tangível ou um ativo 
+intangível que tenha sido revalorizado de acordo com a NCRF 7 ou 
+a NCRF 6 antes da classificação como detido para venda, em cujo 
+caso o ajustamento deve ser tratado como acréscimo ou decréscimo 
+na revalorização.
+Apêndice A
+Extensão do período exigido para concluir uma venda
+A1. Tal como indicado no parágrafo 10, uma extensão do período 
+durante o qual se exige que a venda seja concluída não exclui que um 
+ativo (ou grupo para alienação) seja classificado como detido para venda 
+se o atraso for causado por acontecimentos ou circunstâncias fora do 
+controlo da entidade e se houver prova suficiente de que a entidade 
+continua comprometida com o seu plano de vender o ativo (ou grupo 
+para alienação). Uma exceção ao requisito de um ano referido no pará-
+grafo 8 deve portanto aplicar -se nas seguintes situações em que esses acontecimentos ou circunstâncias ocorram:
+a) À data em que uma entidade se compromete a planear a venda de um 
+ativo não corrente (ou grupo para alienação), ela espera razoavelmente 
+que outros (não compradores) imponham condições à transferência do 
+ativo (ou grupo para alienação) que prolonguem o período exigido para que a venda seja concluída; e
+i) As ações necessárias para responder a essas condições não podem 
+ser iniciadas antes de ser obtido um compromisso firme de compra; e
+ii) Um compromisso firme de compra é altamente provável dentro 
+de um ano.
+b) Uma entidade obtém um compromisso firme de compra e, como 
+resultado, um comprador ou outros impõem inesperadamente condições 
+à transferência de um ativo não corrente (ou grupo para alienação), 
+anteriormente classificado como detido por venda, que irão prolongar 
+o período exigido para que a venda seja concluída; e
+i) Foram tomadas as ações tempestivas necessárias para responder 
+às condições; e
+ii) Se espere uma resolução favorável dos factos que condicionam 
+o atraso.
+c) Durante o período inicial de um ano, ocorrem circunstâncias que 
+foram anteriormente consideradas improváveis e, como resultado, um 
+ativo não corrente (ou grupo para alienação) anteriormente classificado 
+como detido para venda não é vendido até ao final desse período; e
+i) Durante o período inicial de um ano, a entidade envidou as ações 
+necessárias para responder à alteração nas circunstâncias;
+ii) O ativo não corrente (ou grupo para alienação) está a ser am-
+plamente publicitado a um preço que é razoável, dada a alteração nas 
+circunstâncias; e
+iii) Foi satisfeito o critério do parágrafo 8.

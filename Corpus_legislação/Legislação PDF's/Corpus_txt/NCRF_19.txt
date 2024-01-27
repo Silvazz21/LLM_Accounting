@@ -1,0 +1,351 @@
+Norma Contabilística e de Relato Financeiro 19
+Contratos de Construção
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro é o 
+de prescrever o tratamento contabilístico de réditos e custos associados Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20807
+a contratos de construção. Por força da natureza da atividade subjacente 
+aos contratos de construção, a data em que a atividade do contrato é 
+iniciada e a data em que a atividade é concluída caem geralmente em 
+períodos contabilísticos diferentes. Por isso, o assunto primordial na 
+contabilização dos contratos de construção é a imputação do rédito do 
+contrato e dos custos do contrato aos períodos contabilísticos em que o trabalho de construção seja executado. Esta Norma usa os critérios de reconhecimento estabelecidos na Estrutura conceptual para determinar 
+quando os réditos do contrato e os custos do contrato devam ser reconhe-
+cidos como réditos e gastos na demonstração dos resultados. Também proporciona indicação prática sobre a aplicação destes critérios.
+Âmbito
+2 — Esta Norma deve ser aplicada na contabilização dos contratos 
+de construção nas demonstrações financeiras das entidades contratadas.
+Definições
+3 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Adiantamentos: são quantias recebidas pela entidade contratada antes 
+que o respetivo trabalho seja executado.
+Contrato de construção: é um contrato especificamente negociado para 
+a construção de um ativo ou de uma combinação de ativos que estejam 
+intimamente inter -relacionados ou interdependentes em termos da sua 
+conceção, tecnologia e função ou do seu propósito ou uso final.
+Contrato de “ cost plus ”: é um contrato de construção em que a entidade 
+contratada é reembolsada por custos permitidos ou de outra forma defi-
+nidos mais uma percentagem destes custos ou uma remuneração fixada.
+Contrato de preço fixado: é um contrato de construção em que a 
+entidade contratada concorda com um preço fixado ou com uma taxa 
+fixada por unidade de output que, nalguns casos, está sujeito a cláusulas 
+de custos escalonados.
+Faturas progressivas por autos de medição são quantias faturadas 
+do trabalho executado de um contrato quer tenham ou não sido pagas 
+pelo cliente.
+Retenções são quantias de faturas progressivas que só são pagas depois 
+da satisfação das condições especificadas no contrato para o pagamento 
+de tais quantias ou até que os defeitos tenham sido retificados.
+4 — Um contrato de construção pode ser negociado para a construção 
+de um ativo único tal como uma ponte, um edifício, uma barragem, um 
+oleoduto, uma estrada, um navio ou um túnel. Um contrato de construção 
+pode também tratar da construção de um número de ativos que estejam 
+intimamente inter -relacionados ou interdependentes em termos da sua 
+conceção, tecnologia e função ou do seu propósito ou uso final; entre os 
+exemplos de tais contratos incluem -se os da construção de refinarias e de outras partes complexas de fábricas ou de equipamentos.
+5 — Para os fins desta Norma, os contratos de construção incluem:
+a) Contratos para a prestação de serviços que estejam diretamente 
+relacionados com a construção do ativo, por exemplo, os relativos a 
+serviços de gestores de projeto e arquitetos; e
+b) Contratos para a destruição ou restauro de ativos e o restauro do 
+ambiente após a demolição de ativos.
+6 — Os contratos de construção são formulados de várias maneiras 
+mas, para os fins desta Norma, são classificados como contratos de 
+preço fixado e contratos de “ cost plus ”. Alguns contratos de construção 
+podem conter características quer de um contrato de preço fixado quer 
+de um contrato de “ cost plus ” com um preço máximo acordado. Em tais 
+circunstâncias, uma entidade contratada necessita considerar todas as 
+condições dos parágrafos 23 e 24 a fim de determinar quando reconhecer 
+réditos e gastos do contrato.
+Combinação e segmentação de contratos de construção
+7 — Os requisitos desta Norma são usualmente aplicados separada-
+mente a cada contrato de construção. Porém, em certas circunstâncias, é 
+necessário aplicar a Norma a componentes separadamente identificáveis 
+de um único contrato ou conjuntamente a um grupo de contratos a fim 
+de refletir a substância de um contrato ou de um grupo de contratos.
+8 — Quando um contrato cobrir vários ativos, a construção de cada 
+ativo deve ser tratada como um contrato de construção separado quando:
+a) Propostas separadas tenham sido submetidas para cada ativo;
+b) Cada ativo tenha sido sujeito a negociação separada e a entidade 
+contratada e o cliente tenham estado em condições de aceitar ou rejeitar 
+a parte do contrato relacionada com cada ativo; e
+c) Os custos e réditos de cada ativo possam ser identificados.9 — Um grupo de contratos, quer com um único cliente quer com 
+vários clientes, deve ser tratado como um contrato de construção único quando:
+a) O grupo de contratos seja negociado como um pacote único;
+b) Os contratos estejam tão intimamente inter -relacionados que se-
+jam, com efeito, parte de um projeto único com uma margem de lucro 
+global; e
+c) Os contratos sejam executados simultaneamente ou numa sequência 
+contínua.
+10 — Um contrato pode proporcionar a construção de um ativo adi-
+cional por opção do cliente ou pode ser alterado para incluir a construção 
+de um ativo adicional. A construção do ativo adicional deve ser tratada 
+como um contrato de construção separado quando:
+a) O ativo difira significativamente na conceção, tecnologia ou função 
+do ativo ou ativos cobertos pelo contrato original; ou
+b) O preço do ativo seja negociado sem atenção ao preço original 
+do contrato.
+Rédito do contrato
+11 — O rédito do contrato deve compreender:
+a) A quantia inicial de rédito acordada no contrato; e
+b) Variações no trabalho, reclamações e pagamentos de incentivos 
+do contrato:
+i) Até ao ponto que seja provável que resultem em rédito; e
+ii) Estejam em condições de serem fiavelmente mensurados.
+12 — O rédito do contrato é mensurado pelo justo valor da retribuição 
+recebida ou a receber. A mensuração do rédito do contrato é afetada por 
+uma variedade de incertezas que dependem do desfecho de acontecimen-
+tos futuros. As estimativas necessitam muitas vezes de ser revistas na 
+medida em que os acontecimentos ocorram e as incertezas se resolvam. Por isso, a quantia do rédito do contrato pode aumentar ou diminuir de 
+um período para o seguinte. Por exemplo:
+a) Uma entidade contratada e um cliente podem acordar variações 
+ou reivindicações que aumentem ou diminuam o rédito do contrato 
+num período subsequente àquele em que o contrato foi inicialmente 
+acordado;
+b) A quantia de rédito acordada num contrato de preço fixado pode 
+aumentar em consequência de cláusulas de custo escalonadas;
+c) A quantia de rédito do contrato pode diminuir como consequência 
+de penalidades provenientes de atrasos causados pela entidade contratada 
+na conclusão do contrato; ou
+d) Quando um contrato de preço fixado envolve um preço fixado 
+por unidade de « output », o rédito do contrato aumenta à medida que a 
+quantidade de unidades aumente.
+13 — Uma variação é uma instrução dada pelo cliente para uma alte-
+ração no âmbito do trabalho a ser executado segundo o contrato. Uma 
+variação pode conduzir a um aumento ou a uma diminuição no rédito do 
+contrato. Exemplos de variações são as alterações nas especificações ou 
+na conceção do ativo e alterações na duração do contrato. Uma variação 
+é incluída no rédito do contrato quando:
+a) Seja provável que o cliente aprovará a variação e a quantia de rédito 
+proveniente da variação; e
+b) A quantia de rédito possa ser fiavelmente mensurada.
+14 — Uma reivindicação é uma quantia que a entidade contratada 
+procura cobrar do cliente ou de outra parte como reembolso de custos 
+não incluídos no preço do contrato. Uma reivindicação pode resultar, por 
+exemplo, de demoras causadas por clientes, de erros nas especificações 
+ou de alterações discutidas nos trabalhos do contrato. A mensuração da quantia de rédito proveniente de reivindicações está sujeita a um alto 
+nível de incerteza e depende muitas vezes do desfecho das negociações. 
+Por isso, as reivindicações somente são incluídas no rédito do contrato quando:
+a) As negociações tenham atingido um estágio avançado de tal forma 
+que seja provável que o cliente aceitará a reivindicação; e
+b) A quantia que seja provável ser aceite pelo cliente possa ser fia-
+velmente mensurada.
+15 — Os pagamentos de incentivos são quantias adicionais pagas à 
+entidade contratada se os níveis de desempenho especificados forem 
+atingidos ou excedidos. Por exemplo, um contrato pode permitir um 
+pagamento de incentivos à entidade contratada pela conclusão do con-20808 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+trato mais cedo. Os pagamentos de incentivos são incluídos no rédito 
+do contrato quando:
+a) O contrato esteja suficientemente adiantado que seja provável que 
+os níveis de execução especificados serão atingidos ou excedidos; e
+b) A quantia dos pagamentos de incentivos possa ser fiavelmente 
+mensurada.
+Custos do contrato
+16 — Os custos do contrato devem compreender:
+a) Os custos que se relacionem diretamente com o contrato específico;
+b) Os custos que sejam atribuíveis à atividade do contrato em geral 
+e possam ser imputados ao contrato; e
+c) Outros custos que sejam especificamente debitáveis ao cliente nos 
+termos do contrato.
+17 — Os custos que diretamente se relacionem com um contrato 
+específico incluem:
+a) Custos de mão -de -obra, incluindo supervisão;
+b) Custos de materiais usados na construção;
+c) Depreciação de ativos fixos tangíveis utilizados no na construção;
+d) Custos de movimentar os ativos fixos tangíveis e os materiais para 
+e do local da construção;
+e) Custos de alugar instalações e equipamentos;
+f) Custos de conceção e de assistência técnica que estejam diretamente 
+relacionados com o contrato;
+g) Custos estimados de retificar e garantir os trabalhos, incluindo os 
+custos esperados de garantia; e
+h) Reivindicações de terceiros.
+Estes custos devem ser reduzidos por qualquer rendimento inerente 
+que não esteja incluído no rédito do contrato como, por exemplo, o ren-
+dimento proveniente da venda de materiais excedentários e da alienação 
+de instalações e equipamentos no fim do contrato.
+18 — Compreendem -se nos custos que podem ser atribuíveis à ati-
+vidade do contrato em geral e que podem ser imputados a contratos 
+específicos:
+a) Seguros;
+b) Os custos de conceção e assistência técnica que não estejam dire-
+tamente relacionados com um contrato específico; e
+c) Gastos gerais de construção.
+Tais custos são imputados usando métodos que sejam sistemáticos e 
+racionais e que sejam aplicados consistentemente a todos os custos que 
+tenham características semelhantes. A imputação é baseada no nível 
+normal de atividade de construção. Os gastos gerais de construção 
+incluem custos tais como a preparação e processamento de salários do 
+pessoal de construção. Os custos que possam ser atribuíveis à atividade 
+do contrato em geral e possam ser imputados a contratos específicos 
+também incluem os custos de empréstimos obtidos nos termos previstos 
+na NCRF 10 — Custos de Empréstimos Obtidos.
+19 — Os custos que sejam especificamente debitáveis ao cliente 
+segundo os termos do contrato podem incluir alguns custos gerais ad-
+ministrativos e custos de desenvolvimento para os quais o reembolso 
+esteja especificado nos termos do contrato.
+20 — Os custos que não possam ser atribuídos à atividade do contrato 
+ou que não lhe possam ser imputados são excluídos dos custos de um 
+contrato de construção. Tais custos incluem:
+a) Custos administrativos gerais cujo reembolso não esteja especi-
+ficado no contrato;
+b) Custos de alienação;
+c) Custos de pesquisa e desenvolvimento cujo reembolso não esteja 
+especificado no contrato; e
+d) Depreciação de ativos fixos tangíveis ociosos que não sejam usados 
+num contrato particular.
+21 — Os custos do contrato incluem os custos atribuíveis a esse con-
+trato no período que vai desde a data em que o mesmo é assegurado até 
+à sua conclusão final. Porém, os custos que se relacionem diretamente 
+com um contrato e que sejam incorridos ao assegurar o contrato são 
+também incluídos como parte dos custos do contrato se eles puderem ser 
+separadamente identificados e mensurados fiavelmente e for provável que o contrato seja obtido. Quando os custos incorridos ao assegurar o contrato forem reconhecidos como um gasto do período em que sejam incorridos, não são incluídos nos custos do contrato quando o contrato for obtido num período subsequente.Reconhecimento do rédito e dos gastos do contrato
+22 — Quando o desfecho de um contrato de construção puder ser 
+fiavelmente estimado, o rédito do contrato e os custos do contrato as-
+sociados ao contrato de construção devem ser reconhecidos como rédito 
+e gastos respetivamente com referência à fase de acabamento da ativi-
+dade do contrato à data do balanço. Uma perda esperada no contrato de construção deve ser reconhecida imediatamente como um gasto de acordo com o parágrafo 36.
+23 — No caso de um contrato de preço fixado, o desfecho de um 
+contrato de construção pode ser fiavelmente estimado quando estiverem 
+satisfeitas todas as condições seguintes:
+a) O rédito do contrato possa ser mensurado fiavelmente;
+b) Seja provável que os benefícios económicos associados ao contrato 
+fluirão para a entidade;
+c) Tanto os custos do contrato para o acabar como a fase de acabamento 
+do contrato na data do balanço possam ser fiavelmente mensurados; e
+d) Os custos de contrato atribuíveis ao contrato possam ser clara-
+mente identificados e fiavelmente mensurados de forma que os custos 
+reais do contrato incorridos possam ser comparados com estimativas anteriores.
+24 — No caso de um contrato de” cost plus ”, o desfecho de um con-
+trato de construção pode ser fiavelmente mensurado quando estiverem satisfeitas todas as condições seguintes:
+a) Seja provável que os benefícios económicos associados ao contrato 
+fluirão para a entidade; e
+b) Os custos do contrato atribuíveis ao contrato, quer sejam ou não 
+reembolsáveis, possam ser claramente identificados e fiavelmente men-
+surados.
+25 — O reconhecimento de rédito e de gastos com referência à fase de 
+acabamento de um contrato é muitas vezes referido como o método da 
+percentagem de acabamento. Segundo este método, o rédito contratual é balanceado com os gastos contratuais incorridos ao atingir a fase de 
+acabamento, resultando no relato de rédito, gastos e lucros que possam 
+ser atribuíveis à proporção de trabalho concluído. Este método propor-
+ciona informação útil sobre a extensão de atividade e desempenho do 
+contrato durante um período.
+26 — Pelo método da percentagem de acabamento, o rédito do con-
+trato é reconhecido como rédito na demonstração dos resultados nos 
+períodos contabilísticos em que o trabalho seja executado. Os custos do 
+contrato são geralmente reconhecidos como um gasto na demonstração 
+dos resultados nos períodos contabilísticos em que o trabalho com o qual 
+se relacionam seja executado. Porém, qualquer excesso esperado dos 
+custos totais do contrato sobre os réditos totais do contrato é reconhecido 
+imediatamente como um gasto de acordo com o parágrafo 36.
+27 — Uma entidade contratada pode ter incorrido em custos do con-
+trato que se relacionem com a atividade futura do contrato. Tais custos 
+são reconhecidos como um ativo desde que seja provável que sejam 
+recuperados. Tais custos representam uma quantia devida pelo cliente e muitas vezes são classificados como trabalho em curso do contrato.
+28 — O desfecho de um contrato de construção só pode ser estimado 
+fiavelmente quando for provável que os benefícios económicos asso-
+ciados ao contrato fluirão para a entidade. Porém, quando surja uma 
+incerteza acerca da cobrabilidade de uma quantia já incluída no rédito do 
+contrato, e já reconhecida na demonstração dos resultados, a quantia não 
+cobrável ou a quantia a respeito da qual a recuperação tenha cessado de ser provável é reconhecida como um gasto e não como um ajustamento 
+da quantia do rédito do contrato.
+29 — Uma entidade está geralmente em condições de fazer estimativas 
+fiáveis após ter aceite um contrato que estabeleça:
+a) Os direitos a cumprir por cada parte no que respeita ao ativo a 
+ser construído;
+b) A retribuição a ser trocada; e
+c) A forma e o prazo de liquidação.
+É também normalmente necessário que a entidade tenha um sistema 
+eficaz de orçamentação e de relato financeiro. A entidade passa em 
+revista e, quando necessário, revê as estimativas do rédito do contrato e 
+dos custos do contrato à medida que o trabalho progride. A necessidade de tais revisões não indica necessariamente que o desfecho do contrato não possa ser estimado com fiabilidade.
+30 — A fase de acabamento de um contrato pode ser determinada de 
+várias maneiras. A entidade usa o método que permita mensurar com fiabilidade o trabalho executado. Dependendo da natureza do contrato, os métodos podem incluir:
+a) A proporção em que os custos do contrato incorridos no trabalho 
+executado até à data estejam para os custos estimados totais do contrato;Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20809
+b) Levantamentos do trabalho executado; e
+c) Conclusão de uma proporção física do trabalho contratado.
+Os pagamentos progressivos e os adiantamentos recebidos dos clientes 
+não refletem muitas vezes o trabalho executado.
+31 — Quando a fase de acabamento seja determinada com refe-
+rência aos custos do contrato incorridos até à data, somente os custos 
+do contrato que reflitam trabalho executado são incluídos nos custos 
+incorridos até à data. São exemplos de custos excluídos dos custos do 
+contrato incorridos até à data:
+a) Custos do contrato que se relacionem com a atividade futura do 
+contrato, tais como custos de materiais que tenham sido entregues num 
+local do contrato ou postos de lado para uso num contrato mas não 
+ainda instalados, usados ou aplicados durante a execução do contrato, a menos que os materiais tenham sido produzidos especificamente para 
+o contrato; e
+b) Pagamentos feitos a entidades subcontratadas adiantadamente 
+relativos a trabalho a executar segundo o subcontrato.
+32 — Quando o desfecho de um contrato de construção não possa 
+ser estimado fiavelmente:
+a) O rédito somente deve ser reconhecido até ao ponto em que seja 
+provável que os custos do contrato incorridos serão recuperáveis; e
+b) Os custos do contrato devem ser reconhecidos como um gasto no 
+período em que sejam incorridos.
+Uma perda esperada num contrato de construção deve ser reconhecida 
+imediatamente como um gasto de acordo com o parágrafo 36.
+33 — Durante as fases iniciais de um contrato dá -se muitas vezes o 
+caso de o desfecho do contrato não poder ser fiavelmente estimado. Não 
+obstante, pode ser provável que a entidade recupere os custos incorridos 
+do contrato. Por isso, o rédito do contrato somente é reconhecido até 
+ao ponto dos custos incorridos que se espera serem recuperáveis. Se 
+o desfecho do contrato não puder ser fiavelmente estimado, nenhum 
+lucro é reconhecido. Porém, mesmo quando o desfecho do contrato 
+não possa ser fiavelmente estimado, pode ser provável que os custos totais do contrato excedam os réditos totais do contrato. Em tais casos, 
+qualquer excesso esperado dos custos totais do contrato sobre o rédito 
+total do contrato é reconhecido imediatamente como um gasto de acordo 
+com o parágrafo 36.
+34 — Os custos do contrato cuja recuperação não seja provável são 
+reconhecidos imediatamente como um gasto. Exemplos das circuns-
+tâncias em que a recuperabilidade dos custos do contrato incorridos 
+pode não ser provável e em que os custos do contrato podem não ser 
+reconhecidos como um gasto incluem contratos:
+a) Que não sejam inteiramente coagíveis, isto é, a sua validade esteja 
+seriamente em questão;
+b) Cuja conclusão esteja sujeita ao desfecho de litígio ou de legislação 
+pendente;
+c) Relacionados com propriedades que seja provável estarem em risco 
+de perda ou expropriação;
+d) Em que o cliente não esteja em condições de cumprir as suas 
+obrigações;
+e) Em que a entidade contratada seja incapaz de completar o contrato 
+ou de cumprir as suas obrigações segundo o contrato.
+35 — Quando já não existirem as incertezas que impediram que 
+fosse fiavelmente estimado o desfecho do contrato, o rédito e os gastos 
+associados ao contrato de construção devem ser reconhecidos de acordo 
+com o parágrafo 22 e não de acordo com o parágrafo 32.
+Reconhecimento de perdas esperadas
+36 — Quando for provável que os custos totais do contrato excedam 
+o rédito total do contrato, a perda esperada deve ser reconhecida ime-
+diatamente como um gasto.
+37 — A quantia de tal perda é determinada independentemente:
+a) De ter ou não começado o trabalho do contrato;
+b) Da fase de acabamento da atividade do contrato; ou
+c) Da quantia de lucros que se espere surjam noutros contratos que 
+não sejam tratados como um contrato de construção único de acordo com o parágrafo 9.
+Alterações nas estimativas
+38 — O método da percentagem de acabamento é aplicado numa 
+base acumulada em cada período contabilístico às estimativas cor-
+rentes de rédito do contrato e custos do contrato. Por isso, os efeitos 
+de uma alteração na estimativa no rédito do contrato e nos custos do contrato, ou os efeitos de uma alteração na estimativa do desfecho de 
+um contrato, são contabilizados como uma alteração na estimativa 
+contabilística (ver a NCRF 4 — Políticas Contabilísticas, Alterações 
+nas Estimativas Contabilísticas e Erros). As estimativas alteradas são 
+usadas na determinação da quantia de rédito e de gastos reconhecidos 
+na demonstração dos resultados no período em que a alteração seja feita 
+e em períodos subsequentes.
+Data de eficácia
+39 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+40 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam 
+comparáveis.
+41 — Esta Norma substitui a NCRF 19 — Contratos de Construção, 
+constante do Aviso n.º 15655/2009, publicado no Diário da República,
+2.ª série, n.º 173, de 7 de setembro de 2009.

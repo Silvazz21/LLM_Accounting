@@ -1,0 +1,559 @@
+Norma Contabilística e de Relato Financeiro 14
+Concentrações de Atividades Empresariais
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro 
+é o de prescrever o tratamento, por parte de uma entidade, quando esta 
+empreende uma concentração de atividades empresariais. Em particular, 
+a norma estabelece que todas as concentrações de atividades empresa-
+riais devem ser contabilizadas pela aplicação do método de compra. Por 
+isso, a adquirente reconhece os ativos, passivos e passivos contingentes 
+identificáveis da adquirida pelos seus justos valores à data de aquisição, 
+e reconhece também o goodwill , que é amortizado no período da sua 
+vida útil (ou em 10 anos, caso a vida útil não possa ser estimada com fiabilidade).
+Âmbito
+2 — Esta Norma deve ser aplicada na contabilização de concentrações 
+de atividades empresariais.
+3 — Contudo, esta Norma não se aplica a:
+a) Concentrações de atividades empresariais em que entidades ou ativi-
+dades empresariais separadas se reúnem para formar um empreendimento 
+conjunto;
+b) Concentrações de atividades empresariais que envolvam entidades 
+ou atividades empresariais sob controlo comum;
+c) Concentrações de atividades empresariais que envolvam duas ou 
+mais entidades mútuas.
+Identificar uma concentração de atividades empresariais
+4 — O resultado de quase todas as concentrações de atividades em-
+presariais é que uma entidade, a adquirente, obtém o controlo de uma ou 
+mais atividades empresariais diferentes, as adquiridas. Se uma entidade 
+obtiver o controlo de uma ou mais entidades que não sejam atividades 
+empresariais, a junção dessas entidades não é uma concentração de 
+atividades empresariais. Quando uma entidade adquire um grupo de 
+ativos ou de ativos líquidos que não constitua uma atividade empre-
+sarial, ela deve imputar o custo do grupo entre os ativos e passivos 
+individuais identificáveis do grupo com base nos seus justos valores à 
+data da aquisição.
+5 — Uma concentração de atividades empresariais pode ser estru-
+turada numa variedade de formas por razões legais, fiscais ou outras. 
+Pode envolver a compra por parte de uma entidade do capital próprio de 
+outra entidade, a compra de todos os ativos líquidos de outra entidade, o assumir dos passivos de outra entidade, ou a compra de alguns dos 
+ativos líquidos de outra entidade que em conjunto formem uma ou mais 
+atividades empresariais. A concentração de atividades empresariais pode 
+concretizar -se pela emissão de instrumentos de capital próprio, pela 
+transferência de caixa, equivalentes de caixa ou outros ativos, ou por uma combinação dos mesmos. A transação pode ser entre os acionistas 
+das entidades concentradas ou entre uma entidade e os acionistas de outra 
+entidade. Pode envolver o estabelecimento de uma nova entidade para controlar as entidades concentradas ou os ativos líquidos transferidos, ou a reestruturação de uma ou mais das entidades concentradas.
+6 — Uma concentração de atividades empresariais pode resultar numa 
+relação entre empresa -mãe e subsidiária, na qual a adquirente é a empresa-
+-mãe e a adquirida a subsidiária da adquirente. Nessas circunstâncias, 
+a adquirente aplica esta Norma nas suas demonstrações financeiras 
+consolidadas. Ela inclui o seu interesse na adquirida como um investi-
+mento numa subsidiária nas demonstrações financeiras individuais (ver 
+NCRF 15 — Investimentos em Subsidiárias e Consolidação).
+7 — Uma concentração de atividades empresariais pode envolver 
+a aquisição dos ativos líquidos, incluindo qualquer goodwill,  de ou-Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20795
+tra entidade em vez da compra do capital próprio da outra entidade. 
+Uma tal concentração não resulta numa relação entre empresa -mãe e 
+subsidiária.
+8 — Incluídas na definição de uma concentração de atividades em-
+presariais, e portanto no âmbito desta Norma, estão as concentrações de atividades empresariais em que uma entidade obtém o controlo de outra entidade mas cuja data de obtenção de controlo (i. e. a data de 
+aquisição) não coincide com a data ou datas de aquisição de um interesse 
+de propriedade. Esta situação pode acontecer, por exemplo, quando uma 
+investida celebra acordos de recompra de ações com alguns dos seus 
+investidores e, como resultado, muda o controlo da investida.
+Definições
+9 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Atividade empresarial: é um conjunto integrado de atividades e de 
+ativos conduzidos e geridos com a finalidade de proporcionar:
+a) Um retorno aos investidores; ou
+b) Custos mais baixos ou outros benefícios económicos direta e pro-
+porcionalmente aos participantes.
+Uma atividade empresarial geralmente consiste em inputs , processos 
+aplicados a esses inputs  e produções resultantes, que são, ou serão, 
+usadas para gerar réditos. Se existir goodwill  num conjunto transferido 
+de atividades e ativos, deve presumir -se que o conjunto transferido é 
+uma atividade empresarial.
+Ativo intangível: é um ativo não monetário identificável sem subs-
+tância física.
+Concentração de atividades empresariais: é a junção de entidades ou 
+atividades empresariais separadas numa única entidade que relata.
+Concentração de atividades empresariais envolvendo entidades ou 
+atividades empresariais sob controlo comum: é uma concentração de atividades empresariais em que todas as entidades ou atividades em-
+presariais concentradas são em última análise controladas pela mesma 
+parte ou partes antes e após a concentração, sendo que o controlo não 
+é transitório.
+Controlo: é o poder de gerir as políticas financeiras e operacionais de 
+uma entidade ou de uma atividade económica a fim de obter benefícios 
+da mesma.
+Deve presumir -se que uma entidade concentrada obteve o controlo de 
+outra entidade concentrada quando adquire mais de metade dos direitos 
+de voto da outra entidade, a menos que seja possível demonstrar que 
+essa propriedade não constitui controlo. Mesmo que uma das entidades 
+concentradas não adquira mais de metade dos direitos de voto de outra 
+entidade concentrada, ela pode ter obtido o controlo da outra entidade 
+se, como resultado da concentração, ela obtiver:
+a) Poder sobre mais de metade dos direitos de voto da outra entidade 
+em virtude de um acordo com outros investidores; ou
+b) Poder para gerir as políticas financeiras e operacionais da outra 
+entidade segundo uma cláusula estatutária ou um acordo; ou
+c) Poder para nomear ou demitir a maioria dos membros do órgão de 
+gestão da outra entidade; ou
+d) Poder de agrupar a maioria de votos nas reuniões do órgão de 
+gestão da outra entidade.
+Data de aquisição: é a data em que a adquirente obtém efetivamente 
+o controlo sobre a adquirida.
+Empreendimento conjunto: é uma atividade económica empreendida 
+por dois ou mais parceiros, sujeita a controlo conjunto destes mediante um acordo contratual.
+Empresa -mãe: é uma entidade que detém uma ou mais subsidiárias.
+Entidade mútua: é uma entidade que não seja uma entidade detida 
+pelo investidor, tal como uma companhia de seguros mútuos ou uma 
+entidade cooperativa mútua, que proporciona custos mais baixos ou 
+outros benefícios económicos direta e proporcionalmente aos seus se-
+gurados ou participantes.
+Entidade que relata: é uma entidade para a qual existem utentes que 
+dependem das demonstrações financeiras de âmbito geral da entidade 
+para terem informação que lhes será útil na tomada de decisões acerca 
+da imputação de recursos. Uma entidade que relata pode ser uma única 
+entidade ou um grupo compreendendo uma empresa -mãe e todas as 
+suas subsidiárias.
+Interesse que não controla: é a parte dos resultados e dos ativos 
+líquidos de uma subsidiária atribuível a interesses de capital próprio 
+que não sejam detidos, direta ou indiretamente através de subsidiárias, 
+pela empresa -mãe.
+Justo valor: é a quantia pela qual um ativo pode ser trocado ou um 
+passivo liquidado, entre partes conhecedoras e dispostas a isso, numa transação em que não exista relacionamento entre elas.
+Passivo contingente: ée) Uma obrigação possível que provenha de acontecimentos passados 
+e cuja existência somente será confirmada pela ocorrência ou não de um 
+ou mais acontecimentos futuros incertos não totalmente sob controlo 
+da entidade; ou
+f) Uma obrigação presente que decorra de acontecimentos passados 
+mas que não é reconhecida porque:
+i) Não é provável que um exfluxo de recursos incorporando benefícios 
+económicos seja exigido para liquidar a obrigação; ou
+ii) A quantia da obrigação não pode ser mensurada com suficiente 
+fiabilidade.
+Subsidiária: é uma entidade, ainda que não constituída sob a forma 
+de sociedade, que é controlada por uma outra entidade, designada por 
+empresa -mãe.
+Goodwill:  corresponde a benefícios económicos futuros resultantes 
+de ativos que não são capazes de ser individualmente identificados e 
+separadamente reconhecidos.
+Método de contabilização
+10 — Todas as concentrações de atividades empresariais devem ser 
+contabilizadas pela aplicação do método de compra.
+11 — O método de compra considera a concentração de atividades 
+empresariais na perspetiva da entidade concentrada que é identificada 
+como a adquirente. A adquirente compra ativos líquidos e reconhece 
+os ativos adquiridos e os passivos e passivos contingentes assumidos, 
+incluindo aqueles que não tenham sido anteriormente reconhecidos 
+pela adquirida. A mensuração dos ativos e passivos da adquirente não é afetada pela transação, nem quaisquer ativos ou passivos adicionais da adquirente são reconhecidos como consequência da transação, porque não são o objeto da transação.
+Aplicação do método de compra
+12 — A aplicação do método de compra envolve os seguintes passos:
+a) Identificar uma adquirente;
+b) Mensurar o custo da concentração de atividades empresariais; e
+c) Imputar, à data da aquisição, o custo da concentração de atividades 
+empresariais aos ativos adquiridos e passivos e passivos contingentes 
+assumidos.
+Identificar a adquirente
+13 — Deve ser identificada uma adquirente para todas as concentra-
+ções de atividades empresariais. A adquirente é a entidade concentrada 
+que obtém o controlo sobre as outras entidades ou atividades empre-sariais concentradas.
+14 — Apesar de, por vezes, ser difícil identificar uma adquirente, há 
+normalmente indícios da sua existência. Por exemplo:
+a) Se o justo valor de uma das entidades concentradas for significa-
+tivamente superior ao da outra entidade concentrada, a entidade com o justo valor mais elevado é provavelmente a adquirente;
+b) Se a concentração de atividades empresariais for efetuada através 
+de trocas de instrumentos de capital próprio com voto ordinário por 
+caixa ou outros ativos, a entidade que cede caixa ou outros ativos é 
+provavelmente a adquirente; e
+c) Se numa concentração de atividades empresariais existir uma 
+entidade, de entre as entidades concentradas, cuja capacidade de gestão 
+permita dominar a seleção da equipa de direção da entidade concentrada 
+resultante, essa é provavelmente a adquirente.
+15 — Numa concentração de atividades empresariais efetuada atra-
+vés da troca de interesses de capital próprio, a entidade que emite os 
+interesses de capital próprio é normalmente a adquirente. Contudo, 
+todos os factos e circunstâncias pertinentes devem ser considerados 
+para determinar qual das entidades concentradas tem o poder de gerir as políticas financeiras e operacionais da outra entidade (ou entidades) 
+de forma a obter benefícios das suas atividades. Em algumas concentra-
+ções de atividades empresariais, geralmente referidas como aquisições inversas, a adquirente é a entidade cujos interesses de capital próprio foram adquiridos e a entidade emitente é a adquirida. Pode ser este o 
+caso quando, por exemplo, uma entidade, que não seja sociedade aberta, 
+consegue ser “adquirida” por uma sociedade aberta mais pequena como 
+forma de obter uma cotação na bolsa de valores. Embora legalmente a sociedade aberta emitente seja vista como a empresa -mãe e a entidade “adquirida” seja considerada a subsidiária, a subsidiária legal é a ad-quirente se tiver o poder de gerir as políticas financeiras e operacionais 
+da empresa -mãe legal por forma a obter benefícios das suas atividades. 
+Normalmente, a adquirente é a entidade de maiores dimensões; contudo, 
+os factos e as circunstâncias que rodeiam uma concentração indicam 20796 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+por vezes que uma entidade mais pequena adquire uma entidade de 
+maiores dimensões.
+16 — Quando uma nova entidade é constituída para emitir instru-
+mentos de capital próprio para efetuar uma concentração de atividades 
+empresariais, uma das entidades concentradas que existiam antes da 
+concentração deve ser identificada como adquirente com base nas pro-
+vas disponíveis.
+17 — De forma semelhante, quando uma concentração de ativida-
+des empresariais envolve mais de duas entidades concentradas, uma 
+das entidades concentradas que existiam antes da concentração deve 
+ser identificada como adquirente com base nas provas disponíveis. A 
+determinação da adquirente nestes casos deve considerar, entre outras 
+coisas, qual das entidades concentradas iniciou a concentração e se os 
+ativos ou réditos de uma das entidades concentradas excedem signifi-
+cativamente os das outras.
+Custo de uma concentração de atividades empresariais
+18 — A adquirente deve mensurar o custo de uma concentração de 
+atividades empresariais como o agregado dos justos valores, à data de 
+aquisição, dos ativos cedidos, dos passivos incorridos ou assumidos e dos instrumentos de capital próprio emitidos pela adquirente em troca do controlo sobre a adquirida.
+Custos relacionados com a aquisição
+19 — Os custos relacionados com a aquisição são custos em que a 
+adquirente incorre para tornar efetiva uma concentração de atividades 
+empresariais. Esses custos incluem honorários do intermediário; ho-
+norários de consultoria, legais, contabilísticos, de valorização e outros 
+honorários profissionais ou de consultoria; custos administrativos gerais, 
+incluindo os custos de manter um departamento de aquisições internas; e custos do registo e emissão de valores mobiliários representativos de 
+dívida e de capital próprio. A adquirente deve contabilizar os custos 
+relacionados com a aquisição como gastos nos períodos em que os custos 
+são incorridos e os serviços são recebidos, com uma exceção. Os custos 
+da emissão de valores mobiliários representativos de dívida ou de capital 
+próprio devem ser reconhecidos em conformidade com a NCRF 27.
+20 — Os ativos cedidos e os passivos incorridos ou assumidos pela 
+adquirente em troca do controlo da adquirida devem ser mensurados pelos justos valores à data de aquisição, de acordo com o exigido pelo 
+parágrafo 18. Portanto, quando a liquidação de todo ou qualquer parte 
+do custo de uma concentração de atividades empresariais for diferido, o justo valor desse componente diferido deve ser determinado ao des-contar as quantias a pagar do seu valor presente à data de aquisição, tendo em conta qualquer prémio ou desconto que provavelmente será incorrido na liquidação.
+21 — A retribuição transferida poderá incluir ativos ou passivos da 
+adquirente que tenham quantias escrituradas que diferem dos seus justos 
+valores à data de aquisição (por exemplo, ativos não monetários ou uma 
+atividade empresarial da adquirente). Se assim for, a adquirente deve 
+remensurar os ativos ou passivos transferidos pelos seus justos valores à 
+data de aquisição e reconhecer os ganhos ou perdas resultantes, se os hou-
+ver, nos resultados. Porém, por vezes, os ativos ou passivos transferidos 
+permanecem na entidade concentrada após a concentração de atividades 
+empresariais (por exemplo, porque os ativos ou passivos foram transfe-
+ridos para a adquirida em vez de para os seus ex -proprietários), pelo que 
+a adquirente retém o controlo sobre eles. Nessa situação, a adquirente 
+deve mensurar esses ativos e passivos pelas suas quantias escrituradas imediatamente antes da data de aquisição e não deve reconhecer, nos resultados, um ganho ou perda com ativos ou passivos que ela controla tanto antes como após a concentração de atividades empresariais.
+Ajustamentos no custo de uma concentração de atividades empresariais 
+dependentes de futuros acontecimentos
+22 — A retribuição que a adquirente transfere em troca da adquirida 
+inclui qualquer ativo ou passivo resultante de um acordo de retribuição 
+contingente. A adquirente deve reconhecer o justo valor à data de aqui-
+sição da retribuição contingente como parte da retribuição transferida 
+em troca da adquirida.
+23 — A adquirente deve classificar uma obrigação de pagar uma 
+retribuição contingente como um passivo ou como capital próprio com 
+base nas definições de um instrumento de capital próprio e de um passivo 
+financeiro contidas no parágrafo 5 da NCRF 27 Instrumentos Financeiros 
+ou noutras NCRF aplicáveis. A adquirente deve classificar como um 
+ativo o direito ao retorno de uma retribuição previamente transferida 
+se se verificarem as condições especificadas.
+24 — Algumas alterações no justo valor da retribuição contingente que 
+a adquirente reconheça após a data de aquisição podem ser o resultado de informações adicionais que a adquirente obteve após essa data sobre factos e circunstâncias que existiam à data de aquisição. Essas alterações 
+devem ser contabilizadas em conformidade com o parágrafo 53. Porém, 
+as alterações resultantes de acontecimentos após a data de aquisição, 
+tais como atingir a meta prevista para os resultados, alcançar um preço por ação especificado ou chegar a uma determinada etapa num projeto de pesquisa e desenvolvimento, não são ajustamentos à contabilização inicial determinada provisoriamente nos termos do parágrafo 53. Estas alterações devem ser contabilizadas pela adquirente do seguinte modo:
+a) A retribuição contingente classificada como capital próprio não deve 
+ser remensurada e a sua liquidação subsequente deve ser contabilizada 
+no capital próprio.
+b) A retribuição contingente classificada como um ativo ou passivo que:
+i) Seja um instrumento financeiro e esteja no âmbito da NCRF 27 
+deve ser mensurada pelo justo valor, sendo que qualquer ganho ou perda 
+resultante é reconhecido em conformidade com essa norma.
+ii) Não esteja no âmbito da NCRF 27 deve ser contabilizada em con-
+formidade com a NCRF 21 ou outras NCRF conforme apropriado.
+Imputar o custo de uma concentração de atividades
+empresariais aos ativos adquiridos
+e passivos e passivos contingentes assumidos
+25 — A adquirente deve, à data da aquisição, imputar o custo de 
+uma concentração de atividades empresariais ao reconhecer os ativos, 
+passivos e passivos contingentes identificáveis da adquirida que satis-façam os critérios de reconhecimento do parágrafo 26 pelos seus justos 
+valores nessa data, sem prejuízo das exceções referidas nos parágrafos 35 
+a 42. Qualquer diferença entre o custo da concentração de atividades 
+empresariais e o interesse da adquirente no justo valor líquido dos ativos, 
+passivos e passivos contingentes identificáveis assim reconhecidos deve 
+ser contabilizada de acordo com os parágrafos 43 a 50.
+26 — A adquirente deve reconhecer separadamente os ativos, passivos 
+e passivos contingentes identificáveis da adquirida à data de aquisição apenas se satisfizerem os seguintes critérios nessa data:
+a) No caso de um ativo que não seja um ativo intangível, se for pro-
+vável que qualquer benefício económico futuro associado flua para a 
+adquirente e o seu justo valor possa ser mensurado com fiabilidade;
+b) No caso de um passivo que não seja um passivo contingente, se 
+for provável que um exfluxo de recursos incorporando benefícios eco-
+nómicos seja necessário para liquidar a obrigação e o seu justo valor 
+possa ser mensurado com fiabilidade;
+c) No caso de um ativo intangível ou de um passivo contingente, se 
+o seu justo valor puder ser mensurado com fiabilidade.
+Nesta conformidade, qualquer interesse que não controla na adquirida 
+é expresso na proporção que lhe corresponde no justo valor líquido 
+desses itens.
+27 — A demonstração dos resultados da adquirente deve incorporar 
+os resultados da adquirida após a data de aquisição ao incluir os ren-
+dimentos e os gastos da adquirida com base no custo da concentração de atividades empresariais para a adquirente. Por exemplo, o gasto por 
+depreciação incluído após a data de aquisição na demonstração dos 
+resultados da adquirente que se relaciona com os ativos depreciáveis da 
+adquirida deve basear -se nos justos valores desses ativos depreciáveis 
+à data da aquisição, i. e. o seu custo para a adquirente.
+Ativos e passivos identificáveis da adquirida
+28 — De acordo com o parágrafo 25, a adquirente reconhece sepa-
+radamente como parte da imputação do custo da concentração apenas 
+os ativos, passivos e passivos contingentes identificáveis da adquirida 
+que existiam à data da aquisição e que satisfazem os critérios de reco-
+nhecimento do parágrafo 26. Portanto:
+a) A adquirente deve reconhecer os passivos por encerramento ou 
+redução das atividades da adquirida como parte da imputação do custo 
+da concentração apenas quando a adquirida tiver, à data da aquisição, um passivo por reestruturação existente reconhecido de acordo com a 
+NCRF 21 — Provisões, Passivos Contingentes e Ativos Contingentes; e
+b) A adquirente, quando imputar o custo da concentração, não deve 
+reconhecer passivos por perdas futuras ou outros custos em que se espera 
+incorrer como resultado da concentração de atividades empresariais.
+29 — Para se qualificarem para reconhecimento como parte da apli-
+cação do método de compra, os ativos identificáveis adquiridos e os 
+passivos assumidos têm de cumprir as definições de ativos e passivos 
+contidas na Estrutura conceptual à data de aquisição. Por exemplo, os 
+custos que a adquirente espera, mas nos quais não é obrigada a incorrer no futuro para efetivar o seu plano de abandonar uma atividade de uma 
+adquirida ou de terminar o emprego de ou transferir empregados de uma Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20797
+adquirida não são passivos à data de aquisição. Portanto, a adquirente 
+não reconhece esses custos como parte da aplicação do método de 
+compra. Em vez disso, a adquirente reconhece esses custos nas suas 
+demonstrações financeiras pós -concentração em conformidade com 
+outras NCRF.
+Ativos intangíveis da adquirida
+30 — De acordo com o parágrafo 26, a adquirente reconhece separa-
+damente um ativo intangível da adquirida à data da aquisição apenas se 
+esse ativo satisfizer a definição de ativo intangível da NCRF 6 — Ativos 
+Intangíveis e se o seu justo valor puder ser mensurado com fiabilidade. 
+Isto significa que a adquirente reconhece como um ativo separadamente 
+dogoodwill  um projeto de pesquisa e desenvolvimento em curso da 
+adquirida caso o projeto corresponda à definição de ativo intangível e 
+o seu justo valor possa ser fiavelmente mensurado. A NCRF 6 propor-
+ciona orientação para determinar se o justo valor de um ativo intangí-vel adquirido numa concentração de atividades empresariais pode ser 
+mensurado com fiabilidade.
+Passivos contingentes da adquirida
+31 — O parágrafo 26 especifica que a adquirente reconhece separa-
+damente um passivo contingente da adquirida como parte da imputação 
+do custo de uma concentração de atividades empresariais apenas se o seu 
+justo valor puder ser mensurado com fiabilidade. Se o seu justo valor 
+não puder ser mensurado com fiabilidade:
+a) Há um efeito resultante da quantia reconhecida como goodwill  ou 
+contabilizada de acordo com o parágrafo 48; e
+b) A adquirente deve divulgar informação acerca do passivo con-
+tingente.
+32 — Após o seu reconhecimento inicial, a adquirente deve mensurar 
+os passivos contingentes que são reconhecidos separadamente pelo valor 
+mais elevado entre:
+a) A quantia que seria reconhecida de acordo com a NCRF 21 — Pro-
+visões, Passivos Contingentes e Ativos Contingentes, e
+b) A quantia inicialmente reconhecida menos, quando apropriado, a amor-
+tização cumulativa reconhecida de acordo com a NCRF 20 — Rédito.
+33 — O requisito do parágrafo 32 não se aplica a contratos que te-
+nham sido contabilizados de acordo com a NCRF 27 — Instrumentos 
+Financeiros.
+Os compromissos para fornecer empréstimos a taxas de juro abaixo 
+do mercado que não possam ser liquidados, ainda que por compensação, 
+em dinheiro ou outro instrumento financeiro, devem ser reconhecidos inicialmente pelo seu justo valor e subsequentemente mensurados de 
+acordo com o parágrafo 32. Outros compromissos de empréstimos, que 
+não possam ser liquidados, ainda que por compensação, em dinheiro ou 
+outro instrumento financeiro, são contabilizados como passivos contin-
+gentes da adquirida se, à data da aquisição, não for provável que um 
+exfluxo de recursos incorporando benefícios económicos seja exigido para liquidar a obrigação ou se a quantia da obrigação não puder ser 
+mensurada com suficiente fiabilidade. Tais compromissos de empréstimo 
+são, de acordo com o parágrafo 26, reconhecidos separadamente como 
+parte da imputação do custo de uma concentração apenas se o seu justo 
+valor puder ser mensurado com fiabilidade.
+34 — Os passivos contingentes reconhecidos separadamente como 
+parte da imputação do custo de uma concentração de atividades em-
+presariais são excluídos do âmbito da NCRF 21 — Provisões, Passivos Contingentes e Ativos Contingentes.
+Exceções aos princípios do reconhecimento e da mensuração
+Impostos sobre o rendimento
+35 — A adquirente deve reconhecer e mensurar um ativo ou passivo 
+por impostos diferidos resultante dos ativos adquiridos e passivos assu-
+midos numa concentração de atividades empresariais em conformidade 
+com a NCRF 25 Impostos sobre o Rendimento.
+36 — A adquirente deve contabilizar os potenciais efeitos fiscais 
+de diferenças temporárias e de reportes de perdas fiscais não usados 
+ou créditos fiscais não usados de uma adquirida que existam à data de 
+aquisição ou que surjam como resultado da aquisição em conformidade 
+com a NCRF 25.
+Benefícios dos empregados
+37 — A adquirente deve reconhecer e mensurar um passivo (ou ativo, 
+se houver) relacionado com os acordos de benefícios dos empregados 
+da adquirida em conformidade com a NCRF 28 Benefícios dos Em-
+pregados.Ativos de indemnização
+38 — O vendedor numa concentração de atividades empresariais 
+pode indemnizar contratualmente a adquirente pelo desfecho de uma 
+contingência ou incerteza relacionada com todo ou parte de um ativo 
+ou passivo específico. Por exemplo, o vendedor pode indemnizar a 
+adquirente por perdas acima de uma quantia especificada sobre um 
+passivo resultante de uma contingência particular; por outras palavras, o vendedor vai garantir que o passivo da adquirente não excede uma 
+quantia especificada. Como resultado, a adquirente obtém um ativo de 
+indemnização.
+A adquirente deve reconhecer ao mesmo tempo e mensurar na mesma 
+base um ativo de indemnização e o item indemnizado, sujeito à necessi-
+dade de uma dedução de valorização por quantias incobráveis. Portanto, 
+se a indemnização se relacionar com um ativo ou passivo que seja re-
+conhecido à data de aquisição e mensurado pelo seu justo valor à data 
+de aquisição, a adquirente deve reconhecer o ativo de indemnização à data de aquisição mensurado pelo seu justo valor à data de aquisição. Para um ativo de indemnização mensurado pelo justo valor, os efeitos 
+da incerteza quanto a fluxos de caixa futuros devido a considerações de 
+cobrabilidade são incluídos na mensuração pelo justo valor, não sendo necessária uma dedução de valorização por quantias incobráveis.
+39 — Nalgumas circunstâncias, a indemnização poderá relacionar -se 
+com um ativo ou passivo que seja uma exceção aos princípios de reco-
+nhecimento ou de mensuração. Por exemplo, uma indemnização poderá 
+relacionar -se com um passivo contingente que não seja reconhecido à 
+data de aquisição porque o seu justo valor não é fiavelmente mensurável 
+nessa data. Como alternativa, uma indemnização poderá relacionar -se 
+com um ativo ou um passivo, por exemplo, que resulte de um benefício 
+de empregado, que seja mensurado numa base que não seja o justo valor 
+à data de aquisição. Nessas circunstâncias, o ativo de indemnização 
+deve ser reconhecido e mensurado usando pressupostos consistentes 
+com os usados para mensurar o item indemnizado, sujeito à avaliação 
+pela gerência da cobrabilidade do ativo de indemnização e a quaisquer 
+limitações contratuais sobre a quantia indemnizada.
+40 — No final de cada período de relato subsequente, a adquirente 
+deve mensurar um ativo de indemnização que tenha sido reconhecido à data de aquisição na mesma base que o passivo ou ativo indemnizado, 
+sujeito a quaisquer limitações contratuais à sua quantia e, no caso de um 
+ativo de indemnização que não seja subsequentemente mensurado pelo 
+seu justo valor, sujeito à avaliação por parte da gerência da cobrabilidade 
+do ativo de indemnização. A adquirente deve desreconhecer o ativo de 
+indemnização apenas quando cobrar o ativo, o vender ou de outro modo 
+perder o direito ao mesmo.
+Exceções ao princípio da mensuração
+Direitos readquiridos
+41 — A adquirente deve mensurar o valor de um direito readquirido 
+reconhecido como ativo intangível na base do restante termo contra-tual do contrato relacionado independentemente da possibilidade de os 
+participantes do mercado considerarem ou não potenciais renovações 
+contratuais ao determinar o seu justo valor.
+Ativos não correntes detidos para venda
+42 — A adquirente deve mensurar um ativo não corrente adquirido 
+(ou grupo para alienação) que seja classificado como detido para venda à data de aquisição em conformidade com a NCRF 8 Ativos Não Cor-
+rentes Detidos para Venda e Unidades Operacionais Descontinuadas 
+pelo justo valor menos os custos de alienação em conformidade com os parágrafos 16 a 20 dessa norma.
+Goodwill
+43 — A adquirente deve, à data da aquisição:
+a) Reconhecer o goodwill  adquirido numa concentração de atividades 
+empresariais como um ativo; e
+b) Inicialmente mensurar esse goodwill  pelo seu custo, que é o excesso 
+do custo da concentração de atividades empresariais acima do interesse 
+da adquirente no justo valor líquido dos ativos, passivos e passivos con-
+tingentes identificáveis reconhecido de acordo com o parágrafo 25.
+44 — O goodwill  adquirido numa concentração de atividades empre-
+sariais representa um pagamento feito pela adquirente em antecipação 
+de benefícios económicos futuros de ativos que não sejam capazes de ser individualmente identificados e separadamente reconhecidos.
+45 — Após o reconhecimento inicial, a adquirente deve mensurar 
+ogoodwill  adquirido numa concentração de atividades empresariais 20798 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+pelo custo menos amortizações acumuladas, menos qualquer perda por 
+imparidade acumulada.
+46 — O goodwill  adquirido numa concentração de atividades empre-
+sariais deve ser amortizado, nos termos da NCRF 6, no período da sua 
+vida útil (ou em 10 anos, caso a sua vida útil não possa ser estimada com 
+fiabilidade). Além disso, a adquirente deve testá -lo quanto a imparidade 
+se os acontecimentos ou alterações nas circunstâncias indicarem que 
+pode estar com imparidade, de acordo com a NCRF 12 — Imparidade 
+de Ativos.
+47 — A vida útil do goodwill  gerado numa concentração de atividades 
+empresariais pode ser diferente conforme a unidade geradora de caixa 
+à qual é imputado. Por exemplo, numa concentração de atividades 
+empresariais é gerado goodwill  relativo a duas unidades geradoras de 
+caixa distintas, sendo que uma dessas unidades geradoras de caixa tem 
+uma vida máxima de cinco anos e a outra unidade geradora de caixa não 
+tem maturidade definida e estima -se que o goodwill  gere benefícios ao 
+longo de dez anos. Neste caso a vida útil das duas porções de goodwill
+deverá ser distinta, apesar de ter sido gerado numa mesma concentração 
+de atividades empresariais.
+Compra a preço baixo
+48 — Ocasionalmente, uma adquirente fará uma compra a preço 
+baixo, que é uma concentração de atividades empresariais em que o 
+custo da concentração de atividades empresariais é inferior ao interesse 
+da adquirente no justo valor líquido dos ativos, passivos e passivos con-
+tingentes identificáveis. Se essa diferença permanecer após a aplicação 
+dos requisitos contidos no parágrafo 50, a adquirente deve reconhecer 
+o ganho nos resultados à data da sua realização. O ganho deve ser 
+atribuído à adquirente.
+49 — Uma compra a preço baixo poderá ocorrer, por exemplo, numa 
+concentração de atividades empresariais que seja uma venda forçada em que o vendedor está a agir por compulsão. Contudo, as exceções ao reconhecimento ou à mensuração de itens específicos referidos nos 
+parágrafos 35 a 42 também poderão resultar no reconhecimento de um 
+ganho (ou alterar a quantia de um ganho reconhecido) com uma compra 
+a preço baixo.
+50 — Antes de reconhecer um ganho numa compra a preço baixo, 
+a adquirente deve reavaliar se identificou corretamente todos os ativos 
+adquiridos e todos os passivos assumidos e deve reconhecer quaisquer 
+ativos ou passivos adicionais que estejam identificados nessa revisão. 
+A adquirente deve então rever os procedimentos usados para mensurar 
+as quantias que esta norma exige que sejam reconhecidas à data de 
+aquisição para todos os seguintes elementos:
+a) Os ativos identificáveis adquiridos e os passivos assumidos;
+b) No caso de uma concentração de atividades empresariais alcançada 
+por fases, o interesse de capital próprio na adquirida anteriormente 
+detido pela adquirente; e
+c) A mensuração do custo da concentração.
+O objetivo da revisão é assegurar que as mensurações refletem ade-
+quadamente a consideração de todas as informações disponíveis à data de aquisição.
+Concentração de atividades empresariais alcançada por fases
+51 — Por vezes, uma adquirente obtém o controlo de uma adquirida 
+na qual detinha um interesse de capital próprio imediatamente antes da data de aquisição. Por exemplo, a 31 de dezembro de 20X1, a Entidade 
+A detém um interesse de capital próprio que não controla de 35 % na Entidade B. Nessa data, a Entidade A compra outros 40 % de interesse na Entidade B, o que lhe confere o controlo sobre a Entidade B. Esta 
+NCRF refere -se a este tipo de transação como uma concentração de 
+atividades empresariais alcançada por fases.
+52 — Numa concentração de atividades empresariais alcançada por 
+fases, a adquirente deve mensurar o seu interesse de capital próprio 
+previamente detido na adquirida pelo seu justo valor à data de aquisição 
+e deve reconhecer o ganho ou perda, se houver, nos resultados. Em pe-
+ríodos de relato anteriores, a adquirente pode ter reconhecido alterações 
+no valor do seu interesse de capital próprio na adquirida diretamente 
+em capital próprio (por exemplo, porque o investimento foi classificado 
+como disponível para venda). Se o fez, a quantia que foi reconhecida 
+diretamente em capital próprio deve ser reconhecida na mesma base 
+que teria sido exigido se a adquirente tivesse alienado diretamente o 
+interesse de capital próprio previamente detido.
+Contabilização inicial determinada provisoriamente
+53 — Se a contabilização inicial de uma concentração de atividades 
+empresariais puder ser determinada apenas provisoriamente no final do 
+período em que a concentração for efetuada porque os justos valores a atribuir aos ativos, passivos e passivos contingentes identificáveis da 
+adquirida ou o custo da concentração apenas podem ser determinados 
+provisoriamente, a adquirente deve contabilizar a concentração usando 
+esses valores provisórios. A adquirente deve reconhecer quaisquer ajus-
+tamentos nesses valores provisórios como resultado da conclusão da 
+contabilização inicial:
+a) Num período que termina assim que a adquirente receber as in-
+formações que procurava sobre factos e circunstâncias que existiam à 
+data de aquisição ou vier a saber que não é possível obter mais infor-
+mações, não podendo esse período exceder doze meses após a data de 
+aquisição; e
+b) Desde a data da aquisição. Portanto:
+i) A adquirente deve reconhecer ativos ou passivos adicionais se novas 
+informações forem obtidas sobre factos e circunstâncias que existiam 
+à data de aquisição e que, se fossem conhecidas, teriam resultado no 
+reconhecimento desses ativos e passivos nessa data;
+ii) A quantia escriturada de um ativo, passivo e passivo contingente 
+identificável que seja reconhecida ou ajustada como resultado da con-
+clusão da contabilização inicial deve ser calculada como se o seu justo 
+valor à data de aquisição tivesse sido reconhecido a partir dessa data;
+iii) O goodwill  ou qualquer outro ganho reconhecido de acordo com o 
+parágrafo 48 deve ser ajustado desde a data da aquisição por uma quantia 
+igual ao ajustamento no justo valor à data de aquisição do ativo, passivo 
+e passivo contingente identificável a ser reconhecido ou ajustado. Ao 
+ajustar o valor do goodwill  deve também ajustar -se a quantia escriturada 
+das amortizações retrospetivamente;
+iv) A informação comparativa apresentada para os períodos anteriores 
+à conclusão da contabilização inicial da concentração deve ser apre-
+sentada como se a contabilização inicial tivesse sido concluída na data 
+de aquisição. Isto inclui quaisquer efeitos adicionais de depreciação, 
+amortização ou lucro ou perda reconhecidos como resultado de concluir 
+a contabilização inicial.
+Ajustamentos após a conclusão da contabilização inicial
+54 — Os ajustamentos na contabilização inicial de uma concentra-
+ção de atividades empresariais depois de concluída a contabilização 
+inicial devem ser reconhecidos apenas para corrigir um erro de acordo 
+com a NCRF 4 — Políticas Contabilísticas, Alterações nas Estimativas 
+Contabilísticas e Erros. Os ajustamentos na contabilização inicial de 
+uma concentração de atividades empresariais depois de concluída essa contabilização não devem ser reconhecidos para o efeito de alterações 
+nas estimativas. De acordo com a NCRF 4, o efeito de uma alteração 
+nas estimativas deve ser reconhecido no período corrente e nos períodos 
+futuros.
+Data de eficácia
+55 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+56 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam comparáveis.
+57 — Esta Norma substitui a NCRF 14 — Concentrações de Ativi-
+dades Empresariais, constante do Aviso n.º 15655/2009, publicado no 
+Diário da República,  2.ª série, n.º 173, de 7 de setembro de 2009.

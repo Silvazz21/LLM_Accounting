@@ -1,0 +1,608 @@
+Norma Contabilística e de Relato Financeiro 13
+Interesses em Empreendimentos Conjuntos
+e Investimentos em Associadas
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro 
+é o de prescrever o tratamento para os interesses em empreendimentos 
+conjuntos, independentemente da forma jurídica que possam revestir 
+(como, por exemplo: agrupamentos complementares de empresas, con-
+sórcios, agrupamentos europeus de interesse económico e associações 
+em participação) e para os investimentos em associadas. Esta Norma 
+proporciona orientação prática para o reconhecimento e mensuração 
+dos interesses em empreendimentos conjuntos e dos investimentos em 
+associadas. Também proporciona orientação no que concerne às formas 
+que podem assumir os empreendimentos conjuntos e à determinação da 
+existência de influência significativa.
+Âmbito
+2 — Esta Norma deve ser aplicada na contabilização de:
+a) Interesses em empreendimentos conjuntos e no relato dos ativos, 
+passivos, rendimentos e gastos de empreendimentos conjuntos nas de-
+monstrações financeiras de empreendedores e investidores, indepen-
+dentemente das estruturas ou formas segundo as quais as atividades do empreendimento conjunto se realizam, e
+b) Investimentos em associadas.
+3 — Contudo, esta Norma não se aplica a:
+a) Interesses de empreendedores em entidades conjuntamente con-
+troladas, nem a investimentos em associadas, detidos por organizações 
+de capital de risco;
+b) Interesses de empreendedores em entidades conjuntamente con-
+troladas nem a investimentos em associadas que estejam classificados 
+como detidos para venda, os quais devem ser contabilizados de acordo 
+com a NCRF 8 — Ativos Não Correntes Detidos para Venda e Unidades 
+Operacionais Descontinuadas.
+Definições
+4 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Associada: é uma entidade (aqui se incluindo as entidades que não 
+sejam constituídas em forma de sociedade, como, p. ex., as parcerias) 
+sobre a qual o investidor tenha influência significativa e que não seja 
+nem uma subsidiária nem um empreendimento conjunto.
+Consolidação proporcional: é um método de contabilização em 
+que a parte de um empreendedor em cada um dos ativos, passivos, 
+rendimentos e gastos de uma entidade conjuntamente controlada é 
+combinada linha a linha com itens semelhantes das demonstrações financeiras do empreendedor ou relatada como linhas de itens separadas 
+nas demonstrações financeiras do empreendedor.
+Controlo: é o poder de gerir as políticas financeiras e operacionais de 
+uma entidade ou de uma atividade económica a fim de obter benefícios 
+da mesma.
+Controlo conjunto: é a partilha de controlo, acordada contratual-
+mente, de uma atividade económica, e existe apenas quando as decisões 
+estratégicas financeiras e operacionais relacionadas com a atividade 
+exigem o consentimento unânime das partes que partilham o controlo (os empreendedores).
+Demonstrações financeiras consolidadas: são as demonstrações fi-
+nanceiras de um grupo de entidades apresentadas como as de uma única 
+entidade económica.
+Empreendedor: é um parceiro de um empreendimento conjunto que 
+tem controlo conjunto sobre esse empreendimento.
+Empreendimento conjunto: é uma atividade económica empreendida 
+por dois ou mais parceiros, sujeita a controlo conjunto destes mediante um acordo contratual.
+Influência significativa: é o poder de participar nas decisões das 
+políticas financeira e operacional da investida ou de uma atividade 
+económica mas que não é controlo nem controlo conjunto sobre essas políticas. A influência significativa pode ser obtida por posse de ações, estatuto ou acordo.
+Investidor num empreendimento conjunto: é um participante de um 
+empreendimento conjunto, que não tem controlo conjunto sobre esse 
+empreendimento conjunto.
+Método da equivalência patrimonial: é um método de contabilização 
+pelo qual o investimento ou interesse é inicialmente reconhecido pelo 
+custo (sendo o goodwill  respetivo apresentado separadamente) e poste-
+riormente ajustado em função das alterações verificadas, após a aquisi-
+ção, na quota -parte do investidor ou do empreendedor nos ativos líquidos 
+da investida ou da entidade conjuntamente controlada. Os resultados do 
+investidor ou empreendedor incluem a parte que lhe corresponda nos 
+resultados da investida ou da entidade conjuntamente controlada.
+Quantia escriturada de um investimento (contabilizado pelo método da 
+equivalência patrimonial): é a quantia reconhecida no balanço no âmbito 
+da contabilização desse investimento, incluindo goodwill  associado ainda 
+que apresentado separadamente.
+Subsidiária: é uma entidade, ainda que não constituída sob a forma 
+de sociedade, que é controlada por uma outra entidade, designada por 
+empresa -mãe.
+Caracterização de empreendimentos conjuntos e associadas
+Acordo contratual
+5 — A existência de um acordo contratual é um elemento essencial 
+para distinguir os interesses em empreendimentos conjuntos dos investi-
+mentos em associadas. As atividades que não tenham acordo contratual 
+para estabelecer o controlo conjunto não são empreendimentos conjuntos 
+para as finalidades desta Norma.
+6 — Os empreendimentos conjuntos assumem formas e estruturas 
+muito diferentes. Esta Norma identifica três grandes tipos — operações 
+conjuntamente controladas, ativos conjuntamente controlados e entidades 
+conjuntamente controladas — que são geralmente descritos como, e sa-
+tisfazem a definição de, empreendimentos conjuntos. As características 
+seguintes são comuns a todos os empreendimentos conjuntos:
+a) Dois ou mais empreendedores estão ligados por um acordo con-
+tratual; e
+b) O acordo contratual estabelece o controlo conjunto.
+7 — O acordo contratual pode ser evidenciado de várias maneiras 
+como, por exemplo, por um contrato entre os empreendedores ou por 
+atas de reuniões entre os empreendedores. Nalguns casos, o acordo é 
+incorporado nos artigos ou outro clausulado do empreendimento con-
+junto. Qualquer que seja a sua forma, o acordo contratual é geralmente 
+escrito e trata de assuntos tais como:
+a) A atividade, duração e obrigações de relato do empreendimento 
+conjunto;
+b) A nomeação do órgão de direção ou órgão de gestão equivalente 
+do empreendimento conjunto e os direitos de voto dos empreendedores;
+c) Contribuições de capital pelos empreendedores;
+d) A partilha dos empreendedores na produção, nos rendimentos, nos 
+gastos ou nos resultados do empreendimento conjunto.
+8 — O acordo contratual estabelece o controlo conjunto sobre o 
+empreendimento conjunto. Tal requisito assegura que nenhum em-
+preendedor esteja por si só em posição de controlar unilateralmente a 
+atividade do empreendimento conjunto.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20791
+9 — O acordo contratual pode identificar um empreendedor como 
+o operador ou o gestor do empreendimento conjunto. O operador não 
+controla o empreendimento conjunto, mas age de acordo com as políticas 
+operacionais e financeiras que tenham sido acordadas pelos empreen-
+dedores conforme o acordo contratual e delegadas no operador. Se o 
+operador tiver o poder de gerir as políticas operacionais e financeiras da 
+atividade económica, ele controla o empreendimento e o empreendimento 
+é uma subsidiária do operador e não um empreendimento conjunto.
+Operações conjuntamente controladas
+10 — Quando se está perante operações conjuntamente controladas, 
+não há lugar à constituição de uma entidade separada. Em vez disso, os 
+empreendedores participantes coordenam as suas atividades e trabalham 
+no projeto comum, aí envolvendo os seus próprios recursos e incorrendo 
+nos seus próprios gastos e passivos. O acordo de empreendimento con-
+junto proporciona geralmente meios pelos quais os réditos da venda 
+da produção conjunta e quaisquer gastos incorridos em comum são 
+partilhados entre os empreendedores.
+11 — Um exemplo de uma operação conjuntamente controlada dá -se 
+quando dois ou mais empreendedores combinam as suas operações, re-
+cursos e perícia para fabricar e comercializar conjuntamente um produto 
+particular, tal como uma aeronave. As diferentes partes do processo de 
+fabrico são levadas a efeito por cada um dos empreendedores. Cada 
+empreendedor suporta os seus próprios custos e obtém uma parte do 
+rédito da venda do avião, sendo tal partilha determinada segundo o 
+acordo contratual.
+Ativos conjuntamente controlados
+12 — Alguns empreendimentos conjuntos envolvem o controlo con-
+junto, e muitas vezes a propriedade conjunta, por parte dos empreende-
+dores, de um ou mais ativos que tenham sido contribuídos ou adquiridos 
+para a finalidade do empreendimento conjunto. Os ativos são usados para 
+a obtenção de benefícios para os empreendedores. Cada empreendedor pode ficar com uma parte da produção obtida a partir dos ativos e cada um suporta uma parte acordada dos gastos incorridos.
+13 — Estes empreendimentos conjuntos não envolvem a constituição 
+de uma sociedade organizada ou outra entidade, ou uma estrutura finan-
+ceira que esteja separada dos próprios empreendedores. Cada empreen-
+dedor tem controlo sobre a sua parte nos futuros benefícios económicos 
+através da sua parte nos ativos conjuntamente controlados.
+14 — Muitas atividades nas indústrias do petróleo, gás e extração 
+de minérios envolvem ativos conjuntamente controlados. Por exemplo, duas ou mais empresas de produção de petróleo podem conjuntamente controlar e explorar um pipeline . Cada um dos empreendedores utiliza 
+opipeline  para o transporte do seu próprio produto em retorno do qual 
+suporta uma proporção acordada dos gastos de exploração. Um outro 
+exemplo de um ativo conjuntamente controlado é quando duas entidades 
+controlam conjuntamente um imóvel de rendimento, cada uma tomando 
+uma parte das rendas recebidas e suportando uma parte dos gastos.
+Entidades conjuntamente controladas
+15 — Uma entidade conjuntamente controlada é um empreendimento 
+conjunto que envolve a constituição de uma sociedade ou de outra enti-
+dade em que cada empreendedor tenha um interesse. A entidade opera 
+da mesma forma que outras entidades, exceto que um acordo contratual 
+entre os empreendedores estabelece o controlo conjunto sobre a atividade 
+económica da entidade.
+16 — Uma entidade conjuntamente controlada controla os seus ativos, 
+incorre em passivos e gastos e obtém rendimentos. Pode fazer contratos 
+em seu próprio nome e obter fundos para os fins da atividade do empre-
+endimento conjunto. Cada empreendedor tem direito a uma parte dos lucros da entidade conjuntamente controlada, sem prejuízo de algumas dessas entidades também terem direito a partilhar da produção obtida 
+pelo empreendimento conjunto.
+17 — Um exemplo usual de uma entidade conjuntamente controlada 
+é quando duas entidades combinam as suas atividades numa linha par-
+ticular de negócios através da transferência dos ativos e passivos rele-
+vantes para uma entidade conjuntamente controlada. Um outro exemplo 
+é quando uma entidade começa um negócio num país estrangeiro em conjunto com o governo ou outro departamento nesse país, por meio 
+do estabelecimento de uma entidade separada que é conjuntamente 
+controlada pela entidade e pelo governo ou departamento.
+18 — Muitas entidades conjuntamente controladas são em substância 
+semelhantes aos empreendimentos conjuntos referidos como operações 
+ou como ativos conjuntamente controlados. Por exemplo, os empreende-
+dores podem transferir um ativo conjuntamente controlado, tal como um 
+pipeline de petróleo para uma entidade conjuntamente controlada, por razões fiscais ou outras. De forma semelhante, os empreendedores po-dem contribuir para uma entidade conjuntamente controlada com ativos 
+que serão operados conjuntamente. Algumas operações conjuntamente 
+controladas também envolvem a criação de uma entidade conjuntamente 
+controlada para tratar de aspetos particulares da atividade, como por 
+exemplo, a conceção, a comercialização, distribuição ou serviço pós-
+-venda da produção.
+Influência significativa
+19 — Se o investidor detiver, direta ou indiretamente (por exemplo, 
+através de subsidiárias), 20 % ou mais do poder de voto na investida, 
+presume -se que tem influência significativa, a menos que o contrário 
+possa ser claramente demonstrado. Se o investidor detiver, direta, ou 
+indiretamente (por exemplo, através de subsidiárias), menos de 20 % 
+do poder de voto na investida, presume -se que não tem influência sig-
+nificativa, a menos que o contrário possa ser claramente demonstrado. 
+A existência de outro investidor, que detenha uma participação maioritá-
+ria ou substancial, não impede necessariamente que se exerça influência 
+significativa.
+20 — A existência de influência significativa por parte de um inves-
+tidor é geralmente evidenciada por uma ou mais das seguintes formas:
+a) Representação no órgão de direção ou órgão de gestão equivalente 
+da investida;
+b) Participação em processos de decisão de políticas, incluindo a 
+participação em decisões sobre dividendos e outras distribuições;
+c) Transações materiais entre o investidor e a investida;
+d) Intercâmbio de pessoal de gestão; ou
+e) Fornecimento de informação técnica essencial.
+21 — Ao avaliar se uma entidade tem influência significativa, deverá 
+ser tida em conta a existência e o efeito de potenciais direitos de voto.
+22 — Uma entidade perde influência significativa sobre uma investida 
+quando perde o poder de participar nas decisões de política financeira e 
+operacional da investida. A perda de influência significativa pode ocorrer 
+com ou sem alteração nos níveis absolutos ou relativos de propriedade. 
+Pode ocorrer, por exemplo, quando uma associada passa a estar sujeita ao 
+controlo de uma entidade pública, tribunal, administrador ou regulador. 
+Pode também ocorrer como resultado de um acordo contratual.
+Reconhecimento e mensuração
+Operações conjuntamente controladas
+23 — Quando o empreendimento conjunto assumir a forma de opera-
+ção conjuntamente controlada, os ativos, passivos, rendimentos e gastos 
+são reconhecidos nas demonstrações financeiras do empreendedor, pelo 
+que nenhum ajustamento será necessário com respeito a estes itens 
+quando o empreendedor apresentar demonstrações financeiras.
+24 — Podem ser preparados registos contabilísticos e demonstrações 
+financeiras específicas para efeitos de avaliação do desempenho do 
+empreendimento conjunto.
+Ativos conjuntamente controlados
+25 — Quando o empreendimento conjunto assumir a forma de ativos 
+conjuntamente controlados cada empreendedor inclui nos seus registos 
+contabilísticos e reconhece nas suas demonstrações financeiras:
+a) A sua parte nos ativos conjuntamente controlados, classificados 
+de acordo com a natureza dos mesmos e não como um investimento, 
+como, por exemplo, uma parte de um pipeline conjuntamente controlado 
+é classificado como ativo fixo tangível;
+b) Quaisquer passivos em que tenha incorrido como, por exemplo, 
+os incorridos no financiamento da sua parte nos ativos;
+c) A sua parte em quaisquer passivos conjuntamente incorridos com 
+outros empreendedores em relação ao empreendimento conjunto;
+d) Quaisquer rendimentos da venda ou do uso da sua parte da produção 
+obtida do empreendimento conjunto, juntamente com a sua parte em 
+quaisquer gastos incorridos pelo empreendimento conjunto; e
+e) Quaisquer gastos em que tenha incorrido com respeito ao seu inte-
+resse no empreendimento conjunto como, por exemplo, os relacionados 
+com o financiamento do interesse do empreendedor nos ativos e com a 
+venda da sua parte da produção.
+Uma vez que os ativos, passivos, rendimentos e gastos são reconhe-
+cidos nas demonstrações financeiras do empreendedor, nenhum ajusta-
+mento será necessário com respeito a estes itens quando o empreendedor 
+apresentar demonstrações financeiras.
+26 — O tratamento de ativos conjuntamente controlados reflete a 
+substância e a realidade económica e, geralmente, a forma legal do 
+empreendimento conjunto. Registos contabilísticos separados do próprio 20792 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+empreendimento conjunto podem ser limitados aos gastos incorridos em 
+comum pelos empreendedores e em última instância suportados pelos 
+empreendedores conforme as participações acordadas entre si. Podem, 
+ainda, ser preparadas demonstrações financeiras específicas para efeitos 
+de avaliação do desempenho do empreendimento conjunto.
+Entidades conjuntamente controladas
+27 — Quando o empreendimento conjunto assumir a forma de en-
+tidade conjuntamente controlada, esta entidade tem os seus próprios 
+registos contabilísticos, prepara e apresenta demonstrações financeiras 
+da mesma forma que outras entidades.
+28 — Cada empreendedor contribui geralmente com dinheiro ou 
+com outros recursos para a entidade conjuntamente controlada. Estas 
+contribuições são incluídas nos registos contabilísticos do empreendedor 
+como um investimento na entidade conjuntamente controlada.
+29 — Um empreendedor reconhece o seu interesse numa entidade 
+conjuntamente controlada usando:
+a) Um dos dois formatos de relato para a consolidação proporcional 
+descritos no parágrafo 60, ou
+b) O método da equivalência patrimonial descrito no parágrafo 62.
+30 — Quando o empreendedor estiver sujeito à elaboração de de-
+monstrações financeiras consolidadas, deverá reconhecer nestas de-
+monstrações o seu interesse numa entidade conjuntamente controlada 
+usando o método indicado no parágrafo 29( a) e nas demonstrações 
+financeiras individuais que prepare deverá usar o método indicado no 
+parágrafo 29( b).
+31 — Quando o empreendedor não estiver sujeito à elaboração de 
+demonstrações financeiras consolidadas, deverá reconhecer nas suas 
+demonstrações financeiras individuais o seu interesse numa entidade 
+conjuntamente controlada usando, como método recomendado, o indi-
+cado no parágrafo 29( a), ou, como método alternativo, o indicado no 
+parágrafo 29( b).
+32 — Um empreendedor deve descontinuar o uso dos métodos re-
+feridos no parágrafo 29 a partir da data em que cesse de ter controlo 
+conjunto e influência significativa sobre a entidade.
+33 — Quando um interesse numa entidade conjuntamente controlada 
+anteriormente classificado como detido para venda, e contabilizado 
+nos termos da NCRF 8 — Ativos Não Correntes Detidos para Venda e 
+Unidades Operacionais Descontinuadas, deixar de satisfazer os critérios 
+dessa classificação, ele deve ser contabilizado usando, consoante os casos 
+aplicáveis, a consolidação proporcional ou o método da equivalência 
+patrimonial a partir da data da sua classificação como detido para venda. 
+Para efeitos comparativos as demonstrações financeiras relativas aos 
+períodos desde a classificação do interesse como detido para venda 
+devem ser reexpressas em conformidade.
+34 — Quando um empreendedor deixa de ter o controlo conjunto de 
+uma entidade, ele deve contabilizar o interesse retido de acordo com a 
+NCRF 27 — Instrumentos Financeiros a partir dessa data, desde que a 
+anterior entidade conjuntamente controlada não se torne uma subsidiária 
+ou uma associada. A partir da data em que uma entidade conjuntamente controlada se torna uma subsidiária de uma investidora, esta deve con-
+tabilizar o seu interesse de acordo com a NCRF 15 — Investimentos 
+em Subsidiárias e Consolidação e a NCRF 14 — Concentrações de 
+Atividades Empresariais. A partir da data em que uma entidade con-
+juntamente controlada se torna uma associada de uma investidora, esta deve contabilizar o seu interesse de acordo com o parágrafo 44 da pre-
+sente norma. Perante a perda de controlo conjunto, a investidora deve 
+mensurar pelo justo valor qualquer investimento retido na ex -entidade 
+conjuntamente controlada. A investidora deve reconhecer nos resultados 
+qualquer diferença entre:
+a) O justo valor de qualquer investimento retido e quaisquer proventos 
+resultantes da alienação da parte de interesse na entidade conjuntamente 
+controlada; e
+b) A quantia escriturada do investimento (incluindo a quantia escritu-
+rada do  goodwill  respetivo) à data em que ocorreu a perda do controlo 
+conjunto.
+35 — Quando o investimento retido numa entidade que deixa de ser 
+conjuntamente controlada é contabilizado de acordo com a NCRF 27, 
+o justo valor do investimento retido deve ser considerado como o seu 
+justo valor no reconhecimento inicial de um ativo financeiro de acordo com a NCRF 27.
+36 — Se uma investidora perder o controlo conjunto de uma entidade, 
+a investidora deve contabilizar todas as quantias reconhecidas direta-
+mente no capital próprio em relação a essa entidade na mesma base 
+em que seria exigido se a entidade conjuntamente controlada tivesse 
+alienado diretamente os ativos ou passivos relacionados. Portanto, se um ganho ou perda anteriormente reconhecido diretamente no capital próprio fosse reclassificado como resultado na alienação dos ativos ou 
+passivos relacionados, a investidora reclassifica o ganho ou perda do 
+capital próprio para os resultados (como ajustamento de reclassificação) 
+quando a investidora perder o controlo conjunto da entidade.
+37 — Um investidor numa entidade conjuntamente controlada que 
+não disponha de controlo conjunto, mas nele possa exercer influência 
+significativa, deve contabilizar esse investimento de acordo com o 
+parágrafo 44.
+38 — Um investidor numa entidade conjuntamente controlada que 
+não disponha de controlo conjunto, nem nele possa exercer influên-
+cia significativa, deve contabilizar esse investimento de acordo com 
+a NCRF 27.
+Transações entre um empreendedor e um empreendimento conjunto
+39 — Quando um empreendedor contribuir ou vender ativos a um 
+empreendimento conjunto, o reconhecimento de qualquer parte de um 
+ganho ou de uma perda resultante da transação deve refletir a substância 
+da transação. Enquanto os ativos estiverem retidos pelo empreendimento 
+conjunto, e desde que o empreendedor tenha transferido os riscos sig-
+nificativos e as recompensas de propriedade, o empreendedor deve 
+reconhecer apenas aquela parte do ganho ou perda que é atribuível aos 
+interesses dos outros empreendedores. O empreendedor deve reconhe-
+cer a totalidade da quantia de qualquer perda quando a contribuição ou 
+venda proporcione provas de uma redução no valor realizável líquido 
+dos ativos correntes ou de uma perda por imparidade.
+40 — Quando um empreendedor comprar ativos de um empreendi-
+mento conjunto, o empreendedor não deve reconhecer a sua parte nos 
+lucros do empreendimento conjunto derivados da transação até que 
+revenda os ativos a um terceiro independente. Um empreendedor deve 
+reconhecer a sua parte nas perdas resultantes destas transações da mesma 
+forma que os lucros, exceto que as perdas devem ser reconhecidas ime-
+diatamente quando representem uma redução no valor realizável líquido 
+de ativos correntes ou uma perda por imparidade.
+41 — Para avaliar se uma transação entre um empreendedor e um 
+empreendimento conjunto proporciona prova de imparidade de um ativo, 
+o empreendedor determina a quantia recuperável do ativo de acordo com 
+a NCRF 12 — Imparidade de Ativos. Ao determinar o valor de uso, o empreendedor estima os fluxos de caixa futuros provenientes do ativo 
+com base no uso continuado do ativo e na sua alienação final por parte 
+do empreendimento conjunto.
+Operadores de empreendimentos conjuntos
+42 — Os operadores ou gestores de um empreendimento con-
+junto devem contabilizar quaisquer remunerações de acordo com a 
+NCRF 20 — Rédito.
+43 — Um ou mais empreendedores podem agir como o operador ou 
+o gestor de um empreendimento conjunto. Aos operadores é geralmente 
+paga uma remuneração de gestão por tais deveres. As remunerações são 
+contabilizadas pelo empreendimento conjunto como um gasto.
+Investimentos em associadas
+44 — Um investimento numa associada deve ser contabilizado usando 
+o método da equivalência patrimonial, exceto se:
+a) Existirem restrições severas e duradouras que prejudiquem subs-
+tancialmente o exercício pela investidora dos seus direitos sobre o 
+património ou a gestão dessa entidade;
+b) As participações no capital da empresa associada não forem mate-
+rialmente relevantes para a realização do objetivo de as demonstrações financeiras darem uma imagem verdadeira e apropriada. Quando duas 
+ou mais entidades estejam nestas circunstâncias, mas sejam, no seu 
+conjunto, materialmente relevantes para o mesmo objetivo, o inves-
+timento nessas associadas deve ser contabilizado usando o método de equivalência patrimonial; ou
+c) Se trate de um caso, extremamente raro, em que as informações 
+necessárias não podem ser obtidas sem custos desproporcionados ou 
+sem demora injustificada,
+casos em que deverá ser aplicado o disposto no parágrafo 47.
+45 — A verificação das circunstâncias referidas nas alíneas a) e c)
+do parágrafo 42 constitui indicação de que o ativo pode estar com 
+imparidade.
+46 — Quando um investimento numa associada anteriormente classifi-
+cado como detido para venda, e contabilizado nos termos da NCRF 8 — 
+Ativos Não Correntes Detidos para Venda e Unidades Operacionais 
+Descontinuadas, deixar de satisfazer os critérios dessa classificação, ele 
+deve ser contabilizado usando o método da equivalência patrimonial a 
+partir da data da sua classificação como detido para venda. Para efei-tos comparativos, as demonstrações financeiras relativas aos períodos Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20793
+desde a classificação da associada como detida para venda devem ser 
+reexpressas em conformidade.
+47 — Uma investidora deve descontinuar o uso do método de equi-
+valência patrimonial a partir da data em que deixar de ter influência 
+significativa sobre uma associada. O investimento retido deve ser con-tabilizado de acordo com a NCRF 27 a partir dessa data, desde que a 
+associada não se torne uma subsidiária ou um empreendimento con-
+junto. A partir da data em que uma associada se torna uma subsidiária 
+de uma investidora, esta deve contabilizar o seu interesse de acordo 
+com a NCRF 15 — Investimentos em Subsidiárias e Consolidação e a 
+NCRF 14 — Concentrações de Atividades Empresariais. A partir da data 
+em que uma entidade associada se torna uma entidade conjuntamente controlada de uma investidora, esta deve contabilizar o seu interesse de 
+acordo com os parágrafos 29 a 31 da presente norma. Perante a perda 
+de influência significativa, a investidora deve mensurar pelo justo valor 
+qualquer investimento retido na ex -associada. A investidora deve reco-
+nhecer nos resultados qualquer diferença entre:
+a) O justo valor de qualquer investimento retido e quaisquer proventos 
+resultantes da alienação da parte de interesse na associada; e
+b) A quantia escriturada do investimento (incluindo a quantia escritu-
+rada do goodwill respetivo) à data em que ocorreu a perda de influência 
+significativa.
+48 — Quando o investimento retido numa entidade que deixa de 
+ser uma associada é contabilizado de acordo com a NCRF 27, o justo 
+valor do investimento retido deve ser considerado como o seu justo 
+valor no reconhecimento inicial de um ativo financeiro de acordo com 
+a NCRF 27.
+49 — Se uma investidora perder influência significativa sobre uma 
+associada, a investidora deve contabilizar todas as quantias reconhecidas 
+diretamente em capital próprio em relação a essa associada na mesma 
+base em que seria exigido se essa associada tivesse alienado diretamente 
+os ativos ou passivos relacionados. Portanto, se um ganho ou perda 
+anteriormente reconhecido diretamente no capital próprio por uma 
+associada fosse reclassificado como resultados na alienação dos ativos 
+ou passivos relacionados, a investidora reclassifica o ganho ou perda do 
+capital próprio para os resultados (como ajustamento de reclassificação) 
+quando perder influência significativa sobre a associada.
+50 — A parte de um grupo numa associada é o agregado das partes 
+detidas nessa associada pela empresa -mãe e suas subsidiárias. As partes 
+detidas por associadas ou por empreendimentos conjuntos do grupo são 
+ignoradas para esta finalidade. Quando uma associada tiver subsidiárias, 
+associadas ou empreendimentos conjuntos, os resultados e ativos líquidos 
+tidos em consideração na aplicação do método de equivalência patrimo-
+nial são os reconhecidos nas demonstrações financeiras (consolidadas 
+ou individuais, consoante exista, ou não, a obrigação de preparar contas 
+consolidadas) da associada (incluindo a parte da associada nos resultados 
+e ativos líquidos das suas associadas e empreendimentos conjuntos), 
+depois dos ajustamentos necessários para garantir a uniformidade das 
+políticas contabilísticas (ver parágrafos 67 e 68).
+51 — Os resultados provenientes de transações «ascendentes» e 
+«descendentes» entre um investidor (incluindo as suas subsidiárias 
+consolidadas) e uma associada são reconhecidos nas demonstrações 
+financeiras do investidor somente na medida em que correspondam aos 
+interesses de outros investidores na associada, não relacionados com 
+o investidor. Transações «ascendentes» são, por exemplo, vendas de 
+ativos de uma associada ao investidor. Transações «descendentes» são, 
+por exemplo, vendas de ativos do investidor a uma associada. Assim, 
+a parte do investidor nos resultados da associada resultantes destas 
+transações é eliminada.
+52 — Um investimento numa associada é contabilizado usando o 
+método da equivalência patrimonial a partir da data em que a entidade 
+participada se torne uma associada. Nesta data, qualquer diferença entre 
+o custo do investimento e a parte do investidor no justo valor líquido dos 
+ativos, passivos e passivos contingentes identificáveis da associada é 
+contabilizada de acordo com a NCRF 14 — Concentrações de Atividades 
+Empresariais, tendo em atenção o seguinte:
+a) O goodwill relacionado com uma associada é apresentado sepa-
+radamente da quantia escriturada do investimento. Esse goodwill  deve 
+ser amortizado, nos mesmos termos do referido no parágrafo 46 da 
+NCRF 14;
+b) Qualquer excesso da parte do investidor no justo valor líquido 
+dos ativos, passivos e passivos contingentes identificáveis da associada 
+acima do custo do investimento é excluído da quantia escriturada do investimento e é incluído como rendimento na determinação da parte 
+do investidor nos resultados da associada, nos termos do referido no 
+parágrafo 48 da NCRF 14.
+Serão feitos ajustamentos apropriados na parte do investidor nos re-
+sultados da associada, após a aquisição, para contabilizar, por exemplo, a depreciação dos ativos depreciáveis baseada nos seus justos valores 
+à data da aquisição. De forma semelhante, serão feitos ajustamentos 
+apropriados na parte do investidor nos resultados da associada, após a 
+aquisição, para ter em conta perdas por imparidade reconhecidas pela associada em itens tais como o goodwill  ou ativos fixos tangíveis.
+53 — Se uma associada tiver ações preferenciais cumulativas em 
+circulação, classificadas como capital próprio, que sejam detidas por 
+outros que não o investidor, este calcula a sua parte nos resultados depois 
+de os ajustar face aos dividendos de tais ações, independentemente de 
+terem sido ou não declarados.
+54 — Se a parte de um investidor nas perdas de uma associada igua-
+lar ou exceder o seu interesse na associada, o investidor descontinua 
+o reconhecimento da sua parte de perdas adicionais. O interesse numa 
+associada é a quantia escriturada do investimento na associada de acordo 
+com o método da equivalência patrimonial juntamente com quaisquer interesses de longo prazo que, em substância, façam parte do investi-
+mento líquido do investidor na associada. Por exemplo, um item cuja 
+liquidação não esteja planeada nem seja provável que ocorra no futuro 
+previsível é, em substância, uma extensão do investimento da entidade 
+nessa associada. Tais itens podem incluir ações preferenciais e contas 
+a receber ou empréstimos a longo prazo, mas não incluem contas a 
+receber comerciais, contas a pagar comerciais ou quaisquer contas a 
+receber de longo prazo para as quais existam garantias adequadas. As 
+perdas reconhecidas segundo o método da equivalência patrimonial que 
+excedam o investimento do investidor em ações ordinárias são aplicadas 
+a outros componentes do interesse do investidor numa associada pela ordem inversa da sua antiguidade (i. e. prioridade na liquidação).
+55 — Depois de o interesse do investidor ser reduzido a zero, as 
+perdas adicionais são tidas em conta mediante o reconhecimento de um 
+passivo, só na medida em que o investidor tenha incorrido em obrigações 
+legais ou construtivas ou tenha feito pagamentos a favor da associada. Se posteriormente a associada relatar lucros, o investidor retoma o re-conhecimento da sua parte nesses lucros somente após a sua parte nos 
+lucros igualar a parte das perdas não reconhecidas.
+Perdas por imparidade
+56 — Tendo aplicado o método da equivalência patrimonial e reconhe-
+cido as perdas da associada de acordo com o parágrafo 54, o investidor 
+deve determinar se é necessário reconhecer qualquer perda por impa-ridade adicional com respeito ao conjunto de interesses na associada.
+57 — A totalidade da quantia escriturada do investimento numa asso-
+ciada deve ser testada quanto a imparidade segundo a NCRF 12 — Im-
+paridade de Ativos como se de um único ativo se tratasse, comparando a 
+sua quantia recuperável (o mais elevado entre valor de uso e justo valor menos os custos de vender) com a sua quantia escriturada. Uma perda 
+por imparidade reconhecida nessas circunstâncias deve ser imputada 
+primeiramente ao goodwill . Deste modo, qualquer inversão dessa perda 
+por imparidade é reconhecida em conformidade com a NCRF 12, na 
+medida em que a quantia recuperável do investimento aumente subse-
+quentemente. Uma perda por imparidade reconhecida para o goodwill
+não deve ser revertida num período posterior. Ao determinar o valor de 
+uso do investimento, uma entidade estima:
+a) A sua parte no valor presente dos futuros fluxos de caixa estimados 
+que se espera que venham a ser gerados pela associada, incluindo os 
+fluxos de caixa das operações da associada e os proventos da alienação 
+final do investimento; ou
+b) O valor presente dos futuros fluxos de caixa estimados que se 
+espera que surjam de dividendos a serem recebidos do investimento e 
+da sua alienação final.
+Segundo pressupostos apropriados, ambos os métodos dão o mesmo 
+resultado.
+58 — A quantia recuperável de um investimento numa associada é 
+avaliada para cada associada, a menos que a associada não gere influxos 
+de caixa largamente independentes dos de outros ativos da entidade.
+Consolidação proporcional
+59 — A aplicação da consolidação proporcional significa que o 
+balanço do empreendedor inclui a sua parte nos ativos que controla 
+conjuntamente e a sua parte nos passivos pelos quais é conjuntamente 
+responsável. A demonstração dos resultados do empreendedor inclui a 
+sua parte nos rendimentos e gastos da entidade conjuntamente controlada. 
+Muitos dos procedimentos apropriados para a aplicação da consolidação 
+proporcional são semelhantes aos procedimentos para a consolidação de 
+investimentos em subsidiárias, que estão indicados na NCRF 15 — In-
+vestimentos em Subsidiárias e Consolidação.
+60 — Podem ser usados formatos diferentes de relato para levar a 
+efeito a consolidação proporcional.20794 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+O empreendedor pode combinar a sua parte em cada um dos ativos, 
+passivos, rendimentos e gastos da entidade conjuntamente controlada 
+com os itens semelhantes, linha a linha, nas suas demonstrações fi-
+nanceiras. Por exemplo, pode combinar a sua parte nos inventários da 
+entidade conjuntamente controlada com os seus inventários e a sua parte 
+nos ativos fixos tangíveis da entidade conjuntamente controlada com os 
+seus ativos fixos tangíveis.
+Como alternativa, o empreendedor pode incluir nas suas demonstra-
+ções financeiras linhas de itens separadas relativas à sua parte nos ativos, 
+passivos, rendimentos e gastos da entidade conjuntamente controlada. Por exemplo, pode mostrar a sua parte de um ativo corrente da entidade conjuntamente controlada separadamente como parte dos seus ativos 
+correntes; pode mostrar a sua parte nos ativos fixos tangíveis da entidade 
+conjuntamente controlada separadamente como parte dos seus ativos fixos tangíveis.
+Ambos os formatos de relato mostrariam quantias idênticas, quer do 
+resultado do período, quer de cada uma das principais classificações 
+de ativos, passivos, rendimentos e gastos, motivo pelo qual ambos os formatos são aceitáveis para as finalidades desta Norma.
+61 — Qualquer que seja o formato usado para levar a efeito a con-
+solidação proporcional, é desapropriado compensar quaisquer ativos 
+ou passivos com a dedução de outros passivos ou ativos ou quaisquer 
+rendimentos ou gastos com a dedução de outros gastos ou rendimentos, 
+a menos que exista um direito legal de compensação e a compensação 
+represente a expectativa quanto à realização do ativo ou à liquidação do passivo.
+Método da equivalência patrimonial
+62 — Muitos dos procedimentos apropriados para a aplicação do 
+método da equivalência patrimonial são semelhantes aos procedimentos 
+de consolidação descritos na NCRF 15 — Investimentos em Subsidiárias 
+e Consolidação. Além disso, os conceitos subjacentes aos procedimentos 
+usados na contabilização da aquisição de uma subsidiária são também 
+adotados na contabilização da aquisição de um investimento numa 
+associada.
+63 — Pelo método da equivalência patrimonial, o investimento numa 
+entidade é inicialmente reconhecido pelo custo (sendo o goodwill res-
+petivo apresentado separadamente) e a quantia escriturada é aumentada 
+ou diminuída para reconhecer a parte do investidor nos resultados da 
+investida depois da data da aquisição. A parte do investidor nos re-
+sultados da investida é reconhecida nos resultados do investidor. As 
+distribuições recebidas de uma investida reduzem a quantia escriturada 
+do investimento. Podem também ser necessários ajustamentos na quantia 
+escriturada, para alterações no interesse proporcional do investidor na 
+investida resultantes de alterações no capital próprio da investida que 
+não tenham sido reconhecidas nos resultados da investida. Tais alterações 
+incluem as resultantes da revalorização de ativos fixos tangíveis e das 
+diferenças de transposição de moeda estrangeira. A parte do investidor nessas alterações é reconhecida diretamente no seu capital próprio.
+64 — Quando existirem potenciais direitos de voto, a parte do in-
+vestidor nos resultados da investida e nas alterações no capital próprio da investida é determinada na base dos interesses de propriedade então existentes e não reflete o possível exercício ou conversão de potenciais direitos de voto.
+65 — As demonstrações financeiras disponíveis mais recentes da 
+investida são usadas pelo investidor na aplicação do método da equiva-
+lência patrimonial. Quando as datas de relato do investidor e da investida 
+forem diferentes, esta prepara, para uso do investidor, demonstrações 
+financeiras na mesma data das demonstrações financeiras do investidor 
+a não ser que isso se torne impraticável.
+66 — Quando, de acordo com o parágrafo 65, as demonstrações finan-
+ceiras de uma investida usadas na aplicação do método da equivalência patrimonial forem preparadas a partir de uma data de relato diferente 
+da data de relato do investidor, devem ser feitos ajustamentos para os 
+efeitos de transações ou acontecimentos significativos que ocorram 
+entre essa data e a data das demonstrações financeiras do investidor. 
+Em qualquer caso, a diferença entre a data de relato da investida e a do investidor não deve exceder os três meses. A extensão dos períodos de 
+relato e qualquer diferença nas datas de relato devem ser as mesmas de 
+período para período.
+67 — As demonstrações financeiras do investidor devem ser pre-
+paradas usando políticas contabilísticas uniformes para transações e 
+acontecimentos idênticos em circunstâncias semelhantes.
+68 — Se uma investida usar políticas contabilísticas diferentes das do 
+investidor para transações e acontecimentos idênticos em circunstâncias 
+semelhantes, devem ser feitos ajustamentos para conformar as políticas 
+contabilísticas da investida às do investidor quando as demonstrações 
+financeiras da investida forem usadas pelo investidor na aplicação do método da equivalência patrimonial.Data de eficácia
+69 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+70 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam comparáveis.
+71 — Esta Norma substitui a NCRF 13 — Interesses em Empreendi-
+mentos Conjuntos e Investimentos em Associadas, constante do Aviso 
+n.º 15655/2009, publicado no Diário da República,  2.ª série, n.º 173, 
+de 7 de setembro de 2009.

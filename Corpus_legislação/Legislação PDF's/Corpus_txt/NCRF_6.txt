@@ -1,0 +1,920 @@
+Norma Contabilística e de Relato Financeiro 6
+Ativos Intangíveis
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro é 
+o de prescrever o tratamento contabilístico de ativos intangíveis que não 
+sejam especificamente tratados noutras Normas. Esta Norma exige que 
+uma entidade reconheça um ativo intangível se, e apenas se, critérios 
+especificados forem satisfeitos. A Norma também especifica como 
+mensurar a quantia escriturada de ativos intangíveis e exige divulgações 
+especificadas acerca de ativos intangíveis.
+Âmbito
+2 — Esta Norma deve ser aplicada na contabilização de ativos in-
+tangíveis, exceto:
+a) Ativos intangíveis que se encontrem no âmbito de outra Norma;
+b) Ativos financeiros, tal como definidos na NCRF 27 — Instrumentos 
+Financeiros;
+c) Reconhecimento e mensuração de ativos de exploração e avaliação 
+(ver a NCRF 16 — Exploração e Avaliação de Recursos Minerais); e
+d) Dispêndios com o desenvolvimento e extração de minérios, petró-
+leo, gás natural e recursos não regenerativos semelhantes.
+3 — Se uma outra Norma prescrever a contabilização de um tipo 
+específico de ativo intangível, uma entidade aplica essa Norma em vez 
+desta. Por exemplo, esta Norma não se aplica a:
+a) Ativos intangíveis detidos por uma entidade para venda no decurso 
+ordinário da atividade empresarial (ver a NCRF 18 — Inventários e a 
+NCRF 19 — Contratos de Construção);
+b) Ativos por impostos diferidos (ver NCRF 25 — Impostos sobre 
+o Rendimento);
+c) Locações que estejam dentro do âmbito da NCRF 9 — Locações;
+d) Ativos provenientes de benefícios de empregados (ver NCRF 28 — 
+Benefícios dos Empregados);
+e) Ativos financeiros tal como definidos na NCRF 27 — Instrumentos 
+Financeiros, bem como ativos financeiros cujo reconhecimento e men-
+suração sejam tratados na NCRF 13 — Interesses em Empreendimentos 
+Conjuntos e Investimentos em Associadas e na NCRF 15 — Investimen-
+tos em Subsidiárias e Consolidação.20762 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+f)Goodwill  adquirido numa concentração de atividades empresariais 
+(ver a NCRF 14 — Concentrações de Atividades Empresariais).
+g) Ativos intangíveis não correntes classificados como detidos para 
+venda (ou incluídos num grupo para alienação que esteja classificado 
+como detido para venda), de acordo com a NCRF 8 — Ativos Não 
+Correntes Detidos para Venda e Unidades Operacionais Descontinuadas.
+4 — Alguns ativos intangíveis podem estar contidos numa substância 
+física tal como um disco compacto (no caso de software de computado-res), documentação legal (no caso de uma licença ou patente) ou filme. Ao determinar se um ativo que incorpore tanto elementos intangíveis 
+como tangíveis deve ser tratado segundo a NCRF 7 — Ativos Fixos 
+Tangíveis ou como um ativo intangível segundo esta Norma, a entidade 
+usa o seu juízo de valor para avaliar qual o elemento mais significativo. 
+Por exemplo, o software  de computador de uma máquina ou ferramenta 
+controlada por computador que não funcione sem esse software especí-
+fico é uma parte integrante do equipamento respetivo e é tratado como 
+ativo fixo tangível. O mesmo se aplica ao sistema operativo de um com-
+putador. Quando o software  não for uma parte integrante do hardware 
+respetivo, o software  de computador é tratado como um ativo intangível.
+5 — Esta Norma aplica -se, entre outras coisas, a dispêndios com publi-
+cidade, formação, arranque e atividades de pesquisa e desenvolvimento. 
+As atividades de pesquisa e desenvolvimento destinam -se ao desenvol-
+vimento de conhecimentos. Por isso, se bem que estas atividades possam 
+resultar num ativo com substância física (por exemplo, num protótipo), 
+o elemento físico do ativo é secundário em relação ao seu componente intangível, i.e., o conhecimento incorporado no mesmo.
+6 — No caso de uma locação financeira, o ativo subjacente pode ser 
+tangível ou intangível. Após o reconhecimento inicial, um locatário 
+contabiliza um ativo intangível, detido sob uma locação financeira, de 
+acordo com esta Norma. Os direitos protegidos por acordos de licencia-
+mento de itens tais como filmes, vídeos, peças de teatro, manuscritos, 
+patentes e copyrights são excluídos do âmbito da NCRF 9 — Locações e caem dentro do âmbito desta Norma.
+7 — As exclusões do âmbito de uma Norma podem ocorrer se as 
+atividades ou transações forem tão especializadas que deem origem a questões contabilísticas que podem necessitar de ser tratadas de uma 
+maneira diferente. Tais questões surgem na contabilização dos dispêndios 
+com a exploração de, ou desenvolvimento e extração de, petróleo, gás 
+e depósitos minerais em indústrias extrativas e no caso de contratos 
+de seguros. Por isso, esta Norma não se aplica a dispêndios com tais 
+atividades e contratos. Porém, esta Norma aplica -se a outros ativos intan-
+gíveis usados (tais como software de computador), e a outros dispêndios 
+incorridos (tais como custos de arranque), em indústrias extrativas.
+Definições
+8 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Ativo: é um recurso:
+a) Controlado por uma entidade como resultado de acontecimentos 
+passados; e
+b) Do qual se espera que fluam benefícios económicos futuros para 
+a entidade.
+Ativo intangível: é um ativo não monetário identificável sem subs-
+tância física.
+Ativos monetários: é dinheiro detido e outros ativos a receber em 
+quantias fixadas ou determináveis de dinheiro.
+Amortização: é a imputação sistemática da quantia depreciável de 
+um ativo intangível durante a sua vida útil.
+Custo: é a quantia de caixa ou seus equivalentes paga ou o justo valor 
+de outra retribuição dada para adquirir um ativo no momento da sua 
+aquisição ou construção, ou, quando aplicável, a quantia atribuída a esse 
+ativo aquando do reconhecimento inicial de acordo com os requisitos específicos de outras NCRF.
+Desenvolvimento: é a aplicação das descobertas derivadas da pesquisa 
+ou de outros conhecimentos a um plano ou conceção para a produção de materiais, mecanismos, aparelhos, processos, sistemas ou serviços, 
+novos ou substancialmente melhorados, antes do início da produção 
+comercial ou uso.
+Justo valor: é a quantia pela qual um ativo pode ser trocado ou um 
+passivo liquidado, entre partes conhecedoras e dispostas a isso, numa transação em que não exista relacionamento entre elas.
+Mercado ativo: é um mercado no qual se verifiquem todas as con-
+dições seguintes:
+a) Os itens negociados no mercado são homogéneos;
+b) Podem ser encontrados em qualquer momento compradores e 
+vendedores dispostos a comprar e vender; e
+c) Os preços estão disponíveis ao público.Perda por imparidade: é o excedente da quantia escriturada de um 
+ativo, ou de uma unidade geradora de caixa, em relação à sua quantia recuperável.
+Pesquisa: é a investigação original e planeada levada a efeito com a 
+perspetiva de obter novos conhecimentos científicos ou técnicos.
+Quantia depreciável: é o custo de um ativo ou outra quantia substituta 
+do custo, menos o seu valor residual.
+Quantia escriturada: é a quantia pela qual um ativo é reconhecido no 
+Balanço, após a dedução de qualquer depreciação/amortização acumu-
+lada e de perdas por imparidade acumuladas inerentes.
+Valor específico para a entidade: é o valor presente dos fluxos de caixa 
+que uma entidade espera que resultem do uso continuado de um ativo e da sua alienação no final da sua vida útil ou em que espera incorrer 
+ao liquidar um passivo.
+Valor residual de um ativo: é a quantia estimada que uma entidade 
+obteria correntemente pela alienação do ativo, após dedução dos custos 
+de alienação estimados, se o ativo já tivesse a idade e as condições 
+esperadas no final da sua vida útil.
+Vida útil: é:
+a) O período durante o qual uma entidade espera que um ativo esteja 
+disponível para uso; ou
+b) O número de unidades de produção ou similares que uma entidade 
+espera obter do ativo.
+Ativos intangíveis
+9 — As entidades gastam com frequência recursos, ou incorrem em 
+passivos, pela aquisição, desenvolvimento, manutenção ou melhoria de 
+recursos intangíveis tais como conhecimentos científicos ou técnicos, 
+conceção e implementação de novos processos ou sistemas, licenças, 
+propriedade intelectual, conhecimento de mercado e marcas e objeti-vos comerciais (incluindo nomes comerciais e títulos de publicações). 
+Exemplos comuns de itens englobados nestes grupos são o software  de 
+computadores, patentes, copyrights, filmes, listas de clientes, direitos 
+de hipotecas, licenças de pesca, quotas de importação, franchises, rela-
+cionamentos com clientes ou fornecedores, fidelidade de clientes, quota 
+de mercado e direitos de comercialização.
+10 — Nem todos os itens descritos no parágrafo 9 satisfazem a defi-
+nição de um ativo intangível, i.e. identificabilidade, controlo sobre um 
+recurso e existência de benefícios económicos futuros. Se um item que esteja dentro do âmbito desta Norma não satisfizer a definição de um 
+ativo intangível, o dispêndio para o adquirir ou gerar internamente é 
+reconhecido como um gasto quando for incorrido. Porém, se o item for adquirido numa concentração de atividades empresariais, faz parte do 
+goodwill  reconhecido à data da aquisição (ver parágrafo 66).
+Identificabilidade
+11 — A definição de um ativo intangível exige que o mesmo seja 
+identificável para o distinguir do goodwill .
+12 — Um ativo intangível é identificável se:
+a) For separável, i. e. capaz de ser separado ou dividido da entidade 
+e vendido, transferido, licenciado, alugado ou trocado, seja individual-
+mente ou em conjunto com um contrato, ativo ou passivo relacionado, independentemente da intenção da entidade de o fazer; ou
+b) Resultar de direitos contratuais ou de outros direitos legais, in-
+dependentemente desses direitos serem transferíveis ou separáveis da 
+entidade ou de outros direitos e obrigações.
+Controlo
+13 — Uma entidade controla um ativo se tiver o poder de obter be-
+nefícios económicos futuros que fluam do recurso subjacente e puder restringir o acesso de outros a esses benefícios. A capacidade de uma 
+entidade de controlar os benefícios económicos futuros de um ativo 
+intangível enraíza -se nos direitos legais que sejam de cumprimento 
+forçado por um tribunal. Na ausência de direitos legais, é mais difícil demonstrar o controlo sobre o ativo. Porém, o cumprimento legal de 
+um direito não é uma condição necessária para o controlo porque uma 
+entidade pode ser capaz de controlar os benefícios económicos futuros 
+de alguma outra maneira.
+14 — O mercado e o conhecimento técnico podem dar origem a bene-
+fícios económicos futuros. Uma entidade controla esses benefícios se, por 
+exemplo, o conhecimento estiver protegido por direitos legais tais como 
+copyrights, uma restrição de acordos de comércio (quando permitido) ou 
+por deveres legais dos empregados de manter a confidencialidade.
+15 — Uma entidade pode ter uma equipa de pessoal habilitado e 
+pode ser capaz de identificar capacidades incrementais do pessoal que conduzam a benefícios económicos futuros derivados da formação. A 
+entidade pode também esperar que o pessoal continue a pôr as suas Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20763
+capacidades ao seu dispor. Porém, geralmente uma entidade não tem 
+controlo suficiente sobre os benefícios económicos futuros provenientes 
+de uma equipa de pessoal habilitado e da formação para que estes itens 
+satisfaçam a definição de um ativo intangível. Por uma razão semelhante, 
+é improvável que uma gestão específica ou um talento técnico satisfaça 
+a definição de ativo intangível, a menos que esteja protegido por direitos 
+legais para usá -lo e obter dele os benefícios económicos futuros espera-
+dos e que também satisfaça as outras partes da definição.
+16 — Uma entidade pode ter uma carteira de clientes ou uma quota 
+de mercado e esperar que, devido aos seus esforços para criar relaciona-
+mentos e fidelizar clientes, estes continuarão a negociar com a empresa. 
+Porém, na ausência de direitos legais para proteger, ou de outras formas 
+controlar, o relacionamento com clientes ou a sua fidelidade para com a 
+entidade, esta geralmente não tem controlo suficiente sobre os benefícios 
+económicos esperados derivados do relacionamento e fidelização dos clientes para que tais itens (por exemplo, carteira de clientes, quotas de 
+mercado, relacionamento com clientes e fidelidade dos clientes) satisfa-
+çam a definição de ativos intangíveis. Na ausência de direitos legais para 
+proteger os relacionamentos com os clientes, as transações de troca dos próprios relacionamentos com os clientes ou outros semelhantes (que 
+não sejam como parte de uma concentração de atividades empresariais) 
+constituem prova de que a entidade está, não obstante, capacitada para 
+controlar os benefícios económicos futuros esperados que fluam dos 
+relacionamentos com os clientes. Dado que essas transações de troca também constituem prova de que os relacionamentos com os clientes, em si mesmos, são separáveis, esses relacionamentos com os clientes satisfazem a definição de ativo intangível.
+Benefícios económicos futuros
+17 — Os benefícios económicos futuros que fluam de um ativo in-
+tangível podem incluir réditos da venda de produtos ou serviços, pou-
+panças de custos, ou outros benefícios resultantes do uso do ativo pela 
+entidade. Por exemplo, o uso da propriedade intelectual num processo 
+de produção pode reduzir os custos de produção futuros e não aumentar 
+os réditos futuros.
+Reconhecimento e mensuração
+18 — O reconhecimento de um item como ativo intangível exige que 
+uma entidade demonstre que o item satisfaz:
+a) A definição de ativo intangível (ver parágrafos 8 a 17); e
+b) Os critérios de reconhecimento de ativos (ver parágrafos 21 a 23).
+Estes requisitos aplicam -se aos custos incorridos inicialmente para 
+adquirir ou gerar internamente um ativo intangível e aqueles incorridos 
+posteriormente para adicionar a, substituir parte de, ou dar assistência 
+ao mesmo.
+19 — Os parágrafos 25 a 32 tratam da aplicação dos critérios de 
+reconhecimento a ativos intangíveis adquiridos separadamente, e os 
+parágrafos 33 a 41 tratam da sua aplicação a ativos intangíveis adqui-
+ridos numa concentração de atividades empresariais. O parágrafo 42 
+trata da mensuração inicial dos ativos intangíveis adquiridos por meio de um subsídio de entidades públicas, os parágrafos 43 a 45 das trocas de ativos intangíveis e os parágrafos 46 a 48 do tratamento do goodwill
+gerado internamente. Os parágrafos 49 a 65 tratam do reconhecimento 
+e mensuração iniciais dos ativos intangíveis gerados internamente.
+20 — A natureza dos ativos intangíveis é tal que, em muitos casos, não 
+há adições a um tal ativo ou substituições de parte do mesmo. Em con-formidade, é provável que a maioria dos dispêndios subsequentes man-tenham os futuros benefícios económicos esperados incorporados num 
+ativo intangível existente em vez de corresponder à definição de ativo 
+intangível e aos critérios de reconhecimento nesta Norma. Além disso, é muitas vezes difícil atribuir os dispêndios subsequentes diretamente a um ativo intangível em particular em vez de à empresa como um todo. Portanto, apenas raramente os dispêndios subsequentes — dispêndios 
+incorridos após o reconhecimento inicial de um ativo intangível adquirido 
+ou após a conclusão de um ativo intangível gerado internamente — serão 
+reconhecidos na quantia escriturada de um ativo. Consistentemente com 
+o parágrafo 61, os dispêndios subsequentes com marcas, cabeçalhos, 
+títulos de publicações, listas de clientes e itens substancialmente se-
+melhantes (sejam comprados externamente ou gerados internamente) são sempre reconhecidos nos resultados como incorridos. Tal acontece 
+porque um tal dispêndio não pode ser distinguido do dispêndio para 
+desenvolver o negócio como um todo.
+21 — Um ativo intangível deve ser reconhecido se, e apenas se:
+a) For provável que os benefícios económicos futuros esperados que 
+sejam atribuíveis ao ativo fluam para a entidade; e
+b) O custo do ativo possa ser fiavelmente mensurado.22 — Uma entidade deve avaliar a probabilidade de benefícios eco-
+nómicos futuros esperados usando pressupostos razoáveis e sustentáveis 
+que representem a melhor estimativa do conjunto de condições econó-
+micas que existirão durante a vida útil do ativo.
+23 — Uma entidade usa o seu juízo de valor para avaliar o grau de 
+certeza ligado ao fluxo de benefícios económicos futuros que sejam 
+atribuíveis ao uso do ativo na base da evidência disponível no momento 
+do reconhecimento inicial, dando maior peso à evidência externa.
+24 — Um ativo intangível deve ser mensurado inicialmente pelo 
+seu custo.
+Aquisição separada
+25 — Normalmente, o preço que uma entidade paga para adquirir 
+separadamente um ativo intangível irá refletir as expectativas acerca 
+da probabilidade de que os benefícios económicos futuros esperados 
+incorporados no ativo irão fluir para a entidade. Por outras palavras, a 
+entidade espera que haja um influxo de benefícios económicos, mesmo 
+que haja incerteza quanto à tempestividade ou à quantia do influxo. As-sim, o critério de reconhecimento da probabilidade no parágrafo 21( a)
+é sempre considerado como estando satisfeito para ativos intangíveis 
+adquiridos separadamente.
+26 — Além disso, o custo de um ativo intangível adquirido sepa-
+radamente pode normalmente ser mensurado com fiabilidade. Isto é 
+particularmente assim quando a retribuição de compra for na forma de 
+dinheiro ou outros ativos monetários.
+27 — O custo de um ativo intangível adquirido separadamente com-
+preende:
+a) O seu preço de compra, incluindo os direitos de importação e 
+os impostos sobre as compras não reembolsáveis, após dedução dos 
+descontos comerciais e abatimentos; e
+b) Qualquer custo diretamente atribuível de preparação do ativo para 
+o seu uso pretendido.
+28 — Exemplos de custos diretamente atribuíveis são:
+a) Custos de benefícios dos empregados diretamente resultantes de 
+levar o ativo à sua condição de funcionamento;
+b) Honorários resultantes diretamente de levar o ativo até à sua con-
+dição de funcionamento; e
+c) Custos de testes para concluir se o ativo funciona corretamente.
+29 — Exemplos de dispêndios que não fazem parte do custo de um 
+ativo intangível são:
+a) Custos de introdução de um novo produto ou serviço (incluindo 
+custos de publicidade ou atividades promocionais);
+b) Custos de condução do negócio numa nova localização ou com uma 
+nova classe de clientes (incluindo custos de formação de pessoal); e
+c) Custos de administração e outros custos gerais.
+30 — O reconhecimento de custos na quantia escriturada de um ativo 
+intangível cessa quando o ativo estiver na condição necessária para ser 
+capaz de funcionar da forma pretendida. Assim sendo, os custos incorri-
+dos na utilização ou reinstalação de um ativo intangível não são incluídos 
+na quantia escriturada desse ativo. Por exemplo, os custos seguintes não 
+são incluídos na quantia escriturada de um ativo intangível:
+a) Os custos incorridos enquanto um ativo capaz de funcionar da 
+forma pretendida ainda esteja para ser colocado em uso; e
+b) Perdas operacionais iniciais, tais como as incorridas enquanto 
+cresce a procura da produção do ativo.
+31 — Algumas operações ocorrem em ligação com o desenvolvimento 
+de um ativo intangível, mas não são indispensáveis para colocar o ativo 
+na condição necessária para que seja capaz de funcionar da forma pre-
+tendida. Estas operações inerentes podem ocorrer antes ou durante as 
+atividades de desenvolvimento. Dado que as operações inerentes não são 
+indispensáveis para colocar um ativo na condição necessária para que seja 
+capaz de funcionar da forma pretendida, o rendimento e os gastos relacio-
+nados de operações inerentes são reconhecidos imediatamente nos resul-
+tados e incluídos nas respetivas classificações de rendimento ou gasto.
+32 — Se o pagamento de um ativo intangível for diferido para além do 
+prazo normal de crédito, o seu custo é o equivalente ao preço a dinheiro. 
+A diferença entre esta quantia e os pagamentos totais é reconhecida 
+como gasto de juros durante o período do crédito a não ser que seja 
+capitalizada de acordo com o tratamento previsto na NCRF 10 — Custos 
+de Empréstimos Obtidos.
+Aquisição como parte de uma concentração
+de atividades empresariais
+33 — De acordo com a NCRF 14 — Concentrações de Atividades 
+Empresariais, se um ativo intangível for adquirido numa concentração 20764 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+de atividades empresariais, o custo desse ativo intangível é o seu justo 
+valor à data da aquisição. O justo valor de um ativo intangível reflete as 
+expectativas do mercado relativas à probabilidade de que os benefícios 
+económicos futuros incorporados no ativo fluam para a entidade. Por 
+outras palavras, a entidade espera que haja um influxo de benefícios 
+económicos, mesmo que haja incerteza quanto à tempestividade ou à 
+quantia do influxo. Assim, o critério de reconhecimento da probabilidade 
+no parágrafo 21( a) é sempre considerado como estando satisfeito para ati-
+vos intangíveis adquiridos em concentrações de atividades empresariais.
+34 — Portanto, de acordo com esta Norma e com a NCRF 14 — Con-
+centrações de Atividades Empresariais, um adquirente reconhece na 
+data da aquisição, separadamente do goodwill,  um ativo intangível da 
+adquirida se o justo valor do ativo puder ser fiavelmente mensurado, 
+independentemente de o ativo ter sido reconhecido pela adquirida an-
+tes da concentração de atividades empresariais. Isto significa que o 
+adquirente reconhece como um ativo, separadamente do goodwill,  um 
+projeto de pesquisa e desenvolvimento em curso da adquirida caso o 
+projeto corresponda à definição de ativo intangível e o seu justo valor 
+possa ser fiavelmente mensurado. Um projeto de pesquisa e desenvol-vimento em curso de uma adquirida corresponde à definição de ativo 
+intangível quando:
+a) Corresponda à definição de ativo; e
+b) Seja identificável, i.e. separável, ou decorra de direitos contratuais 
+ou outros direitos legais.
+Mensuração do justo valor de um ativo intangível adquirido
+numa concentração de atividades empresariais
+35 — Se um ativo intangível adquirido numa concentração de ativi-
+dades empresariais for separável ou decorrer de direitos contratuais ou 
+de outros direitos legais, existe informação suficiente para fiavelmente 
+mensurar o justo valor do ativo. Quando, para as estimativas usadas 
+para mensurar o justo valor de um ativo intangível, existir uma série de possíveis desfechos com diferentes probabilidades, essa incerteza entra 
+na mensuração do justo valor do ativo.
+36 — Um ativo intangível adquirido numa concentração de atividades 
+empresariais pode ser separável, mas apenas em conjunto com um ativo 
+tangível ou intangível relacionado. Nestes casos, a adquirente reconhece 
+o ativo intangível separadamente do goodwill , mas em conjunto com 
+o item relacionado.
+37 — A adquirente pode reconhecer um grupo de ativos intangíveis 
+complementares como um ativo único desde que os ativos individuais do 
+grupo tenham vidas úteis semelhantes. Por exemplo, os termos “marca” e 
+“nome de marca” são muitas vezes usados como sinónimos para marcas 
+comerciais e outras marcas. Contudo, os primeiros são termos gerais de 
+marketing que são tipicamente usados para referir um grupo de ativos complementares tais como uma marca comercial (ou marca de serviço) 
+e o nome comercial, fórmulas, receitas e especialização tecnológica.
+38 — Os preços de cotação, num mercado ativo, proporcionam a 
+estimativa mais fiável do justo valor de um ativo intangível (ver tam-
+bém o parágrafo 76). O preço de mercado apropriado é geralmente o 
+preço corrente de oferta. Se os preços correntes de oferta não estiverem 
+disponíveis, o preço da transação semelhante mais recente pode propor-
+cionar um critério a partir do qual se pode estimar o justo valor, desde 
+que não tenha havido uma alteração significativa nas circunstâncias 
+económicas entre a data da transação e a data à qual o justo valor do 
+ativo seja estimado.
+39 — Se não existir mercado ativo para um ativo intangível, o seu 
+justo valor é a quantia que a entidade teria de pagar, à data da aquisição, 
+pelo ativo numa transação entre partes conhecedoras não relacionadas 
+e dispostas a isso, com base na melhor informação disponível. Ao de-
+terminar esta quantia, uma entidade considera o desfecho de transações 
+recentes de ativos semelhantes. Dispêndio subsequente num projeto de 
+pesquisa e desenvolvimento em curso adquirido
+40 — O dispêndio com pesquisa e desenvolvimento que:
+a) Se relacione com um projeto de pesquisa ou desenvolvimento em 
+curso adquirido separadamente ou numa concentração de atividades 
+empresariais e reconhecido como ativo intangível; e
+b) Seja incorrido após a aquisição desse projeto,
+deve ser contabilizado de acordo com os parágrafos 52 a 60.
+41 — A aplicação dos requisitos dos parágrafos 52 a 60 significa que 
+o dispêndio subsequente num projeto de pesquisa ou investigação em 
+curso adquirido separadamente ou numa concentração de atividades 
+empresariais e reconhecido como ativo intangível é:
+a) Reconhecido como um gasto quando incorrido se for dispêndio 
+de pesquisa;b) Reconhecido como um gasto quando incorrido se for dispêndio 
+de desenvolvimento que não satisfaça os critérios de reconhecimento 
+como ativo intangível do parágrafo 55; e
+c) Adicionado à quantia escriturada do projeto de pesquisa ou desen-
+volvimento em curso adquirido se for dispêndio de desenvolvimento que 
+satisfaça os critérios de reconhecimento do parágrafo 55.
+Aquisição por meio de um subsídio das entidades públicas
+42 — Em alguns casos, um ativo intangível pode ser adquirido livre 
+de encargos, ou por retribuição nominal, por meio de um subsídio de 
+uma entidade pública. Isto pode acontecer quando uma entidade pública 
+transferir ou imputar a uma entidade ativos intangíveis tais como direitos 
+de aterragem em aeroportos, licenças para operar estações de rádio ou 
+de televisão, licenças de importação ou quotas ou direitos para aceder 
+a outros recursos restritos. De acordo com a NCRF 22 — Subsídios 
+e Outros Apoios das Entidades Públicas, uma entidade pode escolher 
+reconhecer inicialmente pelo justo valor tanto o ativo intangível como o 
+subsídio. Se uma entidade escolher não reconhecer o ativo inicialmente 
+pelo justo valor, a entidade reconhece inicialmente o ativo por uma 
+quantia nominal (o outro tratamento permitido pela NCRF 22) mais 
+qualquer dispêndio que seja diretamente atribuível para preparar o ativo 
+para o seu uso pretendido.
+Troca de ativos
+43 — Um ou mais ativos intangíveis podem ser adquiridos em troca 
+de um ativo ou ativos não monetários, ou de uma combinação de ativos 
+monetários e não monetários. Esta questão refere -se simplesmente a uma 
+troca de um ativo não monetário por outro, mas também se aplica a todas 
+as trocas descritas na frase anterior. O custo de tal ativo intangível é 
+mensurado pelo justo valor a não ser que a) a transação da troca careça 
+de substância comercial ou b) nem o justo valor do ativo recebido nem 
+o justo valor do ativo cedido sejam fiavelmente mensuráveis. O ativo 
+adquirido é mensurado desta forma mesmo que uma entidade não possa 
+imediatamente desreconhecer o ativo cedido. Se o ativo adquirido não for mensurado pelo justo valor, o seu custo é mensurado pela quantia 
+escriturada do ativo cedido.
+44 — Uma entidade determina se uma transação de troca tem subs-
+tância comercial considerando a extensão em que espera que os seus 
+futuros fluxos de caixa sejam alterados como resultado da transação. 
+Uma transação de troca tem substância comercial se:
+a) A configuração (i. e. risco, tempestividade e quantia) dos fluxos 
+de caixa do ativo recebido diferir da configuração dos fluxos de caixa 
+do ativo transferido; ou
+b) O valor específico para a entidade relativo à parte das operações da 
+entidade afetada pela transação se altera como resultado da troca; e
+c) A diferença identificada na alínea a) ou na b) for significativa em 
+relação ao justo valor dos ativos trocados.
+Para a finalidade de determinar se uma transação de troca tem subs-
+tância comercial, o valor específico para a entidade relativo à parte das operações da entidade afetada pela transação deve refletir os fluxos de 
+caixa após impostos. O resultado destas análises pode ser claro sem que 
+uma entidade tenha de efetuar cálculos detalhados.
+45 — O parágrafo 21( b) especifica que uma condição para o reco-
+nhecimento de um ativo intangível é que o custo do ativo possa ser 
+fiavelmente mensurado. O justo valor de um ativo intangível para o 
+qual não existam transações de mercado comparáveis é fiavelmente 
+mensurável se a) a variabilidade no intervalo de estimativas razoáveis do 
+justo valor não for significativa para esse ativo ou b) as probabilidades 
+das várias estimativas dentro do intervalo possam ser razoavelmente 
+avaliadas e usadas para estimar o justo valor. Se uma entidade for ca-
+paz de determinar com fiabilidade o justo valor tanto do ativo recebido 
+como do ativo cedido, então o justo valor do ativo cedido é usado para 
+mensurar o custo a não ser que o justo valor do ativo recebido seja mais 
+claramente evidente.
+Goodwill  gerado internamente
+46 — O goodwill  gerado internamente não deve ser reconhecido 
+como um ativo.
+47 — Em alguns casos, é incorrido dispêndio para gerar benefícios 
+económicos futuros, mas isso não resulta na criação de um ativo in-
+tangível que satisfaça os critérios de reconhecimento desta Norma. Tal dispêndio é muitas vezes descrito como contribuindo para o goodwill
+gerado internamente. O goodwill  gerado internamente não é reconhecido 
+como ativo porque não é um recurso identificável (i. e. não é separável 
+nem resulta de direitos contratuais ou de outros direitos legais) controlado 
+pela entidade que possa ser fiavelmente mensurado pelo custo.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20765
+48 — As diferenças entre o valor de mercado de uma entidade e a 
+quantia escriturada dos seus ativos líquidos identificáveis em qualquer 
+momento podem captar uma série de fatores que afetem o valor da 
+entidade. Contudo, tais diferenças não representam o custo dos ativos intangíveis controlados pela entidade.
+Ativos intangíveis gerados internamente
+49 — Por vezes, é difícil avaliar se um ativo intangível gerado inter-
+namente se qualifica para reconhecimento por causa de problemas em:
+a) Identificar se e quando existe um ativo identificável que gere 
+benefícios económicos futuros esperados; e
+b) Determinar fiavelmente o custo do ativo. Em alguns casos, o custo 
+de gerar internamente um ativo intangível não pode ser distinguido do 
+custo de manter ou aumentar o goodwill  da entidade gerado internamente 
+ou do decorrer operacional do dia -a -dia.
+Por isso, além de se conformar com os requisitos gerais do reco-
+nhecimento e mensuração inicial de um ativo intangível, uma entidade 
+aplica os requisitos e orientação dos parágrafos 50 a 65 a todos os ativos 
+intangíveis gerados internamente.
+50 — Para avaliar se um ativo intangível gerado internamente satisfaz 
+os critérios de reconhecimento, uma entidade classifica a formação do 
+ativo em:
+a) Uma fase de pesquisa; e
+b) Uma fase de desenvolvimento.
+Se bem que os termos “pesquisa” e “desenvolvimento” estejam de-
+finidos, os termos “fase de pesquisa” e “fase de desenvolvimento” têm um sentido mais amplo para a finalidade desta Norma.
+51 — Se uma entidade não puder distinguir a fase de pesquisa da fase 
+de desenvolvimento num projeto interno para criar um ativo intangível, a 
+entidade trata o dispêndio nesse projeto como se fosse incorrido somente 
+na fase da pesquisa.
+Fase de pesquisa
+52 — Nenhum ativo intangível proveniente de pesquisa (ou da fase 
+de pesquisa de um projeto interno) deve ser reconhecido. O dispêndio com pesquisa (ou da fase de pesquisa de um projeto interno) deve ser reconhecido como um gasto quando for incorrido.
+53 — Na fase de pesquisa de um projeto interno, uma entidade não 
+pode demonstrar que existe um ativo intangível que irá gerar benefícios 
+económicos futuros prováveis. Por isso, este dispêndio é reconhecido como um gasto quando for incorrido.
+54 — Exemplos de atividades de pesquisa são:
+a) Atividades visando a obtenção de novos conhecimentos;
+b) A procura de, avaliação e seleção final de, aplicações das desco-
+bertas de pesquisa ou de outros conhecimentos;
+c) A procura de alternativas para materiais, aparelhos, produtos, pro-
+cessos, sistemas ou serviços; e
+d) A formulação, conceção, avaliação e seleção final de possíveis 
+alternativas de materiais, aparelhos, produtos, processos, sistemas ou 
+serviços novos ou melhorados.
+Fase de desenvolvimento
+55 — Um ativo intangível proveniente de desenvolvimento (ou da fase 
+de desenvolvimento de um projeto interno) deve ser reconhecido se, e 
+apenas se, uma entidade puder demonstrar tudo o que se segue:
+a) A viabilidade técnica de concluir o ativo intangível a fim de que o 
+mesmo esteja disponível para uso ou venda;
+b) A sua intenção de concluir o ativo intangível e usá -lo ou vendê -lo;
+c) A sua capacidade de usar ou vender o ativo intangível;
+d) A forma como o ativo intangível gerará prováveis benefícios eco-
+nómicos futuros. Entre outras coisas, a entidade pode demonstrar a 
+existência de um mercado para a produção do ativo intangível ou para 
+o próprio ativo intangível ou, se for para ser usado internamente, a 
+utilidade do ativo intangível;
+e) A disponibilidade de adequados recursos técnicos, financeiros 
+e outros para concluir o desenvolvimento e usar ou vender o ativo 
+intangível; e
+f) A sua capacidade para mensurar fiavelmente o dispêndio atribuível 
+ao ativo intangível durante a sua fase de desenvolvimento.
+56 — Na fase de desenvolvimento de um projeto interno, uma entidade 
+pode, nalguns casos, identificar um ativo intangível e demonstrar que 
+o ativo gerará prováveis benefícios económicos futuros. Tal acontece porque a fase de desenvolvimento de um projeto é mais avançada do 
+que a fase de pesquisa.
+57 — Exemplos das atividades de desenvolvimento são:
+a) A conceção, construção e teste de protótipos e modelos de pré-
+-produção ou de pré -uso;
+b) A conceção de ferramentas, utensílios, moldes e suportes envol-
+vendo nova tecnologia;
+c) A conceção, construção e operação de uma fábrica piloto que não 
+seja de uma escala económica exequível para produção comercial; e
+d) A conceção, construção e teste de uma alternativa escolhida para 
+materiais, aparelhos, produtos, processos, sistemas ou serviços novos 
+ou melhorados.
+58 — Para demonstrar como um ativo intangível gerará benefícios 
+económicos futuros prováveis, uma entidade avalia os futuros benefí-
+cios económicos a serem recebidos do ativo usando os princípios da 
+NCRF 12 — Imparidade de Ativos. Se o ativo gerar benefícios econó-
+micos apenas em combinação com outros ativos, a entidade aplica o 
+conceito de unidades geradoras de caixa tal como definido na NCRF 12.
+59 — A disponibilidade de recursos para concluir, usar e obter os 
+benefícios de um ativo intangível pode ser demonstrada, por exemplo, 
+por um plano empresarial que mostre os recursos técnicos, financeiros 
+e outros necessários e a capacidade da entidade para assegurar esses 
+recursos. Em alguns casos, uma entidade demonstra a disponibilidade 
+de financiamento externo pela obtenção de uma indicação do mutuante 
+da sua vontade de financiar o plano.
+60 — Os sistemas de custeio de uma entidade podem muitas vezes 
+mensurar com fiabilidade o custo de gerar internamente um ativo in-
+tangível, tais como os ordenados e outros dispêndios incorridos para 
+assegurar copyrights ou licenças ou para desenvolver software de com-
+putadores.
+61 — As marcas, cabeçalhos, títulos de publicações, listas de clientes 
+e itens substancialmente semelhantes gerados internamente não devem ser reconhecidos como ativos intangíveis.
+62 — Dispêndios com marcas, cabeçalhos, títulos de publicações, 
+listas de clientes e itens semelhantes em substância gerados interna-
+mente não podem ser distinguidos do custo de desenvolver a empresa 
+no seu todo. Por isso, tais itens não são reconhecidos como ativos 
+intangíveis.
+Custo de um ativo intangível gerado internamente
+63 — O custo de um ativo intangível gerado internamente para a 
+finalidade do parágrafo 24 é a soma dos dispêndios incorridos desde 
+a data em que o ativo intangível primeiramente satisfaz os critérios de reconhecimento dos parágrafos 21, 22 e 55. O parágrafo 69 proíbe a 
+reposição como ativo de dispêndio reconhecido como um gasto antes 
+da data em que o ativo intangível primeiramente satisfaz os critérios de 
+reconhecimento referidos.
+Exemplo ilustrativo do parágrafo 64
+Uma entidade está a desenvolver um novo processo de produção. 
+Durante 2005, os dispêndios incorridos foram 1000 unidades monetárias 
+(UM), das quais 900 UM foram incorridas antes de 1 de dezembro de 
+2005 e 100 UM entre 1 de dezembro de 2005 e 31 de dezembro de 2005. 
+A entidade é capaz de demonstrar que, em 1 de dezembro de 2005, o 
+processo de produção satisfazia os critérios de reconhecimento como 
+um ativo intangível. A quantia recuperável do know -how  incorporado no 
+processo (incluindo os exfluxos de caixa futuros para concluir o processo 
+antes de ele estar disponível para uso) é estimada em 500 UM.
+No fim de 2005, o processo de produção é reconhecido como um 
+ativo intangível por um custo de 100 UM (dispêndio incorrido desde 
+a data em que os critérios de reconhecimento foram satisfeitos, isto é, 
+1 de dezembro de 2005). O dispêndio de 900 UM incorrido antes de 1 de 
+dezembro de 2005 foi reconhecido como um gasto porque os critérios 
+de reconhecimento não foram satisfeitos até 1 de dezembro de 2005. 
+Este dispêndio não faz parte do processo de produção reconhecido no 
+balanço.
+Durante 2006, o dispêndio incorrido foi de 2.000 UM. No fim de 2006, 
+a quantia recuperável de know -how  incorporado no processo (incluindo 
+os exfluxos de caixa futuros para concluir o processo antes de estar 
+disponível para uso) é estimado em 1.900 UM.
+No fim de 2006, o custo de processo de produção é de 2.100 UM (um 
+dispêndio de 100 UM reconhecido no fim de 2005 mais dispêndio de 
+2.000 UM reconhecido em 2006). A entidade reconhece uma perda por imparidade de 200 UM para ajustar a quantia escriturada do processo antes da perda por imparidade (2.100 UM) à sua quantia recuperável 
+(1.900 UM). Esta perda por imparidade será revertida num período 
+subsequente se os requisitos da NCRF 12 — Imparidade de Ativos para 
+a reversão de uma perda por imparidade forem satisfeitos.20766 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+64 — O custo de um ativo intangível gerado internamente compreende 
+todos os custos diretamente atribuíveis necessários para criar, produzir 
+e preparar o ativo para ser capaz de funcionar da forma pretendida. 
+Exemplos de custos diretamente atribuíveis são:
+a) Os custos dos materiais e serviços usados ou consumidos ao gerar 
+o ativo intangível;
+b) Os custos dos benefícios dos empregados associados à formação 
+do ativo intangível;
+c) As taxas de registo de um direito legal; e
+d) A amortização de patentes e licenças que sejam usadas para gerar 
+o ativo intangível.
+A NCRF 10 — Custos de Empréstimos Obtidos especifica os critérios 
+para o reconhecimento do juro como um elemento do custo de um ativo 
+intangível gerado internamente.
+65 — Não são, porém, componentes do custo de um ativo intangível 
+gerado internamente:
+a) Os dispêndios com vendas, gastos administrativos e outros gastos 
+gerais a menos que estes dispêndios possam ser diretamente atribuídos à preparação do ativo para uso;
+b) Ineficiências identificadas e perdas operacionais iniciais incorridas 
+antes de o ativo atingir o desempenho planeado; e
+c) Dispêndios com a formação do pessoal para utilizar o ativo.
+Reconhecimento de um gasto
+66 — O dispêndio com um item intangível deve ser reconhecido como 
+um gasto quando for incorrido a menos que:
+a) Faça parte do custo de um ativo intangível que satisfaça os critérios 
+de reconhecimento (ver parágrafos 18 a 65); ou
+b) O item seja adquirido numa concentração de atividades empre-
+sariais e não possa ser reconhecido como um ativo intangível. Neste 
+caso, o dispêndio deve fazer parte da quantia atribuída ao goodwill
+à data da aquisição (ver a NCRF 14 — Concentrações de Atividades 
+Empresariais).
+67 — Em alguns casos, o dispêndio é incorrido para proporcionar 
+benefícios económicos futuros a uma entidade, mas nenhum ativo in-
+tangível ou outro ativo é adquirido ou criado que possa ser reconhecido. 
+Nestes casos, o dispêndio é reconhecido como um gasto quando for 
+incorrido. Por exemplo, exceto quando fizer parte do custo de uma 
+concentração de atividades empresariais, o dispêndio com pesquisa é reconhecido como um gasto quando for incorrido (ver o parágrafo 52). 
+Outros exemplos de dispêndios que sejam reconhecidos como um gasto 
+quando forem incorridos incluem:
+a) Dispêndios com atividades de arranque (i.e. custos de arranque), a 
+não ser que estes dispêndios estejam incluídos no custo de um item de 
+ativo fixo tangível de acordo com a NCRF 7 — Ativos Fixos Tangíveis. 
+Os custos de arranque podem consistir em custos de estabelecimento 
+tais como os custos legais ou de secretariado incorridos no estabeleci-
+mento de uma entidade legal, dispêndios para abrir novas instalações 
+ou negócio (i.e. custos pré -abertura) ou dispêndios para iniciar novas 
+unidades operacionais ou lançar novos produtos ou processos (i. e. 
+custos pré -operacionais);
+b) Dispêndios com atividades de formação;
+c) Dispêndios com atividades de publicidade e promocionais (in-
+cluindo catálogos de venda por correspondência); e
+d) Dispêndios com a mudança de local ou reorganização de uma 
+entidade no seu todo ou em parte.
+68 — O parágrafo 66 não exclui o reconhecimento de um pré-pa-
+gamento como um ativo quando o pagamento pela entrega de bens ou 
+serviços tenha sido feito antes da entrega de bens ou da prestação de 
+serviços.
+Gastos passados a não serem reconhecidos como um ativo
+69 — O dispêndio com um item intangível que tenha sido inicialmente 
+reconhecido como um gasto não deve ser reconhecido como parte do 
+custo de um ativo intangível em data posterior.
+Mensuração após reconhecimento
+70 — Uma entidade deve escolher ou o modelo de custo do pa-
+rágrafo 72 ou o modelo de revalorização do parágrafo 73 como sua 
+política contabilística. Se um ativo intangível for contabilizado usando 
+o modelo de revalorização, todos os outros ativos da sua classe devem também ser contabilizados usando o mesmo modelo, a não ser que não haja mercado ativo para esses ativos.71 — Uma classe de ativos intangíveis é um agrupamento de ativos 
+de natureza e uso semelhantes nas operações de uma entidade. Os itens 
+de uma classe de ativos intangíveis são simultaneamente revalorizados 
+para evitar revalorizações seletivas de ativos e o relato de quantias nas demonstrações financeiras que representem uma mistura de custos e de 
+valores em datas diferentes.
+Modelo do custo
+72 — Após o reconhecimento inicial, um ativo intangível deve ser 
+escriturado pelo seu custo menos qualquer amortização acumulada e 
+quaisquer perdas por imparidade acumuladas.
+Modelo de revalorização
+73 — Após o reconhecimento inicial, um ativo intangível deve ser 
+escriturado por uma quantia revalorizada, que seja o seu justo valor à data 
+da revalorização menos qualquer amortização acumulada subsequente 
+e quaisquer perdas por imparidade acumuladas subsequentes. Para a 
+finalidade de revalorizações segundo esta Norma, o justo valor deve 
+ser determinado com referência a um mercado ativo. As revalorizações 
+devem ser feitas com tal regularidade que na data do balanço a quantia escriturada do ativo não difira materialmente do seu justo valor.
+74 — O modelo de revalorização não permite:
+a) A revalorização de ativos intangíveis que não tenham sido previa-
+mente reconhecidos como ativos; ou
+b) O reconhecimento inicial de ativos intangíveis por quantias que 
+não sejam o custo.
+75 — O modelo de revalorização é aplicado depois de um ativo ter 
+sido inicialmente reconhecido pelo seu custo. Porém, se apenas parte do 
+custo de um ativo intangível for reconhecido como um ativo porque o 
+ativo só satisfez os critérios de reconhecimento a meio do seu processo 
+de fabrico (ver parágrafo 65), o modelo de revalorização pode ser apli-
+cado ao total desse ativo. Além disso, o modelo de revalorização pode 
+ser aplicado a um ativo intangível que tenha sido recebido por meio de 
+um subsídio de uma entidade pública e reconhecido por uma quantia nominal (ver parágrafo 42).
+76 — Não é vulgar que exista um mercado ativo com as caracterís-
+ticas descritas no parágrafo 8 para um ativo intangível, se bem que isto possa acontecer. Por exemplo, em algumas jurisdições, pode existir um 
+mercado ativo para licenças de táxis livremente transferíveis, licenças 
+de pesca ou quotas de produção. Contudo, pode não existir um mercado 
+ativo para marcas, cabeçalhos de jornais, direitos de editar músicas e filmes, patentes ou marcas comerciais, porque cada um de tais ativos é único. Além disso, se bem que ativos intangíveis sejam comprados e 
+vendidos, os contratos são negociados entre compradores e vendedores 
+individuais, sendo as transações relativamente pouco frequentes. Por 
+estas razões, o preço pago por um ativo pode não proporcionar evidência 
+suficiente do justo valor de um outro. Além disso, os preços não estão 
+muitas vezes disponíveis publicamente.
+77 — A frequência de revalorizações depende da volatilidade dos 
+justos valores dos ativos intangíveis que estão a ser revalorizados. Se 
+o justo valor de um ativo revalorizado diferir materialmente da sua 
+quantia escriturada, é necessário uma revalorização adicional. Alguns 
+ativos intangíveis podem sofrer movimentos significativos e voláteis 
+no justo valor necessitando, por conseguinte, de revalorizações anuais. 
+Tais frequentes revalorizações são desnecessárias para ativos intangíveis 
+com apenas movimentos insignificantes no justo valor.
+78 — Se um ativo intangível for revalorizado, qualquer amortização 
+acumulada à data da revalorização é ou:
+a) Reexpressa proporcionalmente com a alteração na quantia bruta 
+escriturada do ativo de forma a que a quantia escriturada do ativo após a revalorização iguale a sua quantia revalorizada; ou
+b) Eliminada contra a quantia bruta escriturada do ativo e a quantia 
+líquida reexpressa como a quantia revalorizada do ativo.
+79 — Se um ativo intangível numa classe de ativos intangíveis reva-
+lorizados não puder ser revalorizado porque não há qualquer mercado ativo para esse ativo, o ativo deve ser escriturado pelo seu custo menos qualquer amortização e perdas por imparidade acumuladas.
+80 — Se o justo valor de um ativo intangível revalorizado já não 
+puder ser determinado com referência a um mercado ativo, a quantia escriturada do ativo deve ser a sua quantia revalorizada à data da úl-
+tima revalorização com referência ao mercado ativo menos qualquer 
+amortização acumulada subsequente e quaisquer perdas por imparidade 
+acumuladas subsequentes.
+81 — O facto de já não existir um mercado ativo para um ativo intan-
+gível revalorizado pode indicar que o ativo pode estar com imparidade Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20767
+e que ele necessita de ser testado de acordo com a NCRF 12 — Impa-
+ridade de Ativos.
+82 — Se o justo valor do ativo puder ser determinado com referência 
+a um mercado ativo numa data de mensuração subsequente, o modelo de revalorização é aplicado a partir dessa data.
+83 — Se a quantia escriturada de um ativo intangível for aumentada 
+como resultado de uma revalorização, o aumento deve ser creditado 
+diretamente ao capital próprio com o título de excedente de revalori-zação. Contudo, o aumento deve ser reconhecido nos resultados até ao 
+ponto em que reverta um decréscimo de revalorização do mesmo ativo previamente reconhecido nos resultados.
+84 — Se a quantia escriturada de um ativo intangível for diminuída 
+como resultado de uma revalorização, a diminuição deve ser reconhecida 
+nos resultados. Contudo, a diminuição deve ser debitada diretamente ao 
+capital próprio com o título de excedente de revalorização até ao ponto 
+de qualquer saldo credor no excedente de revalorização com respeito a esse ativo.
+85 — O excedente de revalorização acumulado incluído no capital 
+próprio só pode ser transferido diretamente para resultados transitados quando o excedente for realizado. O excedente total pode ser realizado 
+pela retirada de uso ou pela alienação do ativo. Porém, algum do exce-
+dente pode ser realizado logo que o ativo seja usado pela entidade; em tal 
+caso, a quantia do excedente realizado é a diferença entre a amortização 
+baseada na quantia escriturada valorizada do ativo e a amortização que 
+teria sido reconhecida baseada no custo histórico do ativo. A transferência 
+do excedente de revalorização para resultados transitados não é feita 
+através da demonstração dos resultados.
+Vida útil
+86 — Uma entidade deve avaliar se a vida útil de um ativo intangível 
+é ou finita ou indefinida e, se for finita, a duração de, ou o número de 
+unidades de produção ou de unidades similares constituintes dessa vida 
+útil. Um ativo intangível deve ser visto pela entidade como tendo uma vida útil indefinida quando, com base numa análise de todos os fatores 
+relevantes, não houver limite previsível para o período durante o qual se 
+espera que o ativo gere influxos de caixa líquidos para a entidade.
+87 — A contabilização de um ativo intangível baseia -se na sua vida 
+útil. Um ativo intangível com uma vida útil finita é amortizado nos 
+termos dos parágrafos 95 a 104, e um ativo intangível com uma vida útil indefinida é amortizado nos termos do parágrafo 105.
+88 — Muitos fatores são considerados na determinação da vida útil 
+de um ativo intangível, incluindo:
+a) O uso esperado do ativo por parte da entidade e se o ativo puder 
+ser eficientemente gerido por uma outra equipa de gestão;
+b) Os ciclos de vida típicos para o ativo e a informação pública sobre 
+estimativas de vida útil de ativos semelhantes que sejam usados de 
+forma semelhante;
+c) Obsolescência técnica, tecnológica, comercial ou de outro tipo;
+d) A estabilidade do setor em que o ativo opera e alterações na procura 
+do mercado para os produtos ou serviços produzidos pelo ativo;
+e) Ações esperadas dos concorrentes ou potenciais concorrentes;
+f) O nível de dispêndio de manutenção exigido para obter os benefí-
+cios económicos futuros esperados do ativo e a capacidade e intenção 
+da entidade para atingir tal nível;
+g) O período de controlo sobre o ativo e limites legais ou semelhantes 
+sobre o uso do ativo, tais como as datas de extinção de locações rela-
+cionadas, e datas do termo do período de concessão estabelecido nos 
+Acordos de Concessão de Serviços; e
+h) Se a vida útil do ativo está dependente da vida útil de outros ativos 
+da entidade.
+89 — O termo “indefinida” não significa “infinita”. A vida útil de 
+um ativo intangível reflete apenas o nível de dispêndio de manutenção futuro exigido para manter o ativo no seu padrão de desempenho ava-
+liado no momento da estimativa da vida útil do ativo, e a capacidade e 
+intenção da entidade para atingir tal nível. Uma conclusão de que a vida 
+útil de um ativo intangível é indefinida não deve depender do dispêndio 
+futuro planeado para além do exigido para manter o ativo nesse padrão de desempenho.
+90 — Dada a história de rápidas alterações na tecnologia, o software 
+de computadores e muitos outros ativos intangíveis são suscetíveis de obsolescência tecnológica. Por isso, é provável que a sua vida útil seja 
+curta.
+91 — A vida útil de um ativo intangível pode ser muito longa ou 
+mesmo indefinida. A incerteza justifica estimar a vida útil de um ativo 
+intangível numa base prudente, mas isso não justifica escolher uma vida 
+que seja irrealisticamente curta.
+92 — A vida útil de um ativo intangível que resulte de direitos con-
+tratuais ou de outros direitos legais não deve exceder o período dos direitos contratuais ou de outros direitos legais, mas pode ser mais curta 
+dependendo do período durante o qual a entidade espera usar o ativo. Se 
+os direitos contratuais ou outros direitos legais forem transmitidos por 
+um prazo limitado que possa ser renovado, a vida útil do ativo intangível 
+deve incluir o(s) período(s) de renovação apenas se existir evidência que 
+suporte a renovação pela entidade sem um custo significativo.
+93 — Podem existir tanto fatores legais como económicos que in-
+fluenciem a vida útil de um ativo intangível. Os fatores económicos 
+determinam o período durante o qual os benefícios económicos futuros 
+serão recebidos pela entidade. Os fatores legais podem restringir o 
+período durante o qual a entidade controla o acesso a esses benefícios. 
+A vida útil é o mais curto dos períodos determinados por estes fatores.
+94 — A existência dos seguintes fatores, entre outros, indica que uma 
+entidade deveria ser capaz de renovar os direitos contratuais ou outros direitos legais sem um custo significativo:
+a) Há evidência, possivelmente baseada na experiência, de que os 
+direitos contratuais ou outros direitos legais serão renovados. Se a re-
+novação depender do consentimento de terceiros, isto inclui evidência 
+de que os terceiros darão o seu consentimento;
+b) Há evidência de que quaisquer condições necessárias para obter a 
+renovação serão satisfeitas; e
+c) O custo da renovação para a entidade não é significativo quando 
+comparado com os benefícios económicos futuros que se espera que 
+fluam para a entidade a partir da renovação.
+Ativos intangíveis com vidas úteis finitas
+Período de amortização e método de amortização
+95 — A quantia depreciável de um ativo intangível com uma vida útil 
+finita deve ser imputada numa base sistemática durante a sua vida útil. A 
+amortização deve começar quando o ativo estiver disponível para uso, 
+i.e. quando estiver na localização e condição necessárias para que seja 
+capaz de operar da forma pretendida. A amortização deve cessar na data 
+que ocorrer mais cedo entre a data em que o ativo for classificado como 
+detido para venda (ou incluído num grupo de alienação que seja classifi-
+cado como detido para venda) de acordo com a NCRF 8 — Ativos não 
+Correntes Detidos para Venda e Unidades Operacionais Descontinuadas 
+e a data em que o ativo for desreconhecido. O método de amortização 
+usado deve refletir o modelo pelo qual se espera que os futuros benefícios 
+económicos do ativo sejam consumidos pela entidade. Se não for possível 
+determinar fiavelmente esse modelo, deve usar -se o método da linha 
+reta. O custo de amortização em cada período deve ser reconhecido nos 
+resultados a menos que esta ou outra Norma permita ou exija incluí -lo
+na quantia escriturada de um outro ativo.
+96 — Pode ser usada uma variedade de métodos de amortização 
+para imputar a quantia depreciável de um ativo numa base sistemática 
+durante a sua vida útil. Estes métodos incluem o método da linha reta, o 
+método degressivo e o método da unidade de produção. O método usado 
+é selecionado na base do modelo de consumo esperado dos futuros bene-
+fícios económicos incorporados no ativo e é aplicado consistentemente 
+de período a período, a não ser que ocorra uma alteração no modelo de consumo esperado desses futuros benefícios económicos.
+97 — A amortização é normalmente reconhecida nos resultados. 
+Contudo, por vezes, os futuros benefícios económicos incorporados num 
+ativo são absorvidos pela produção de outros ativos. Neste caso, o custo 
+de amortização constitui parte do custo do outro ativo e é incluído na sua 
+quantia escriturada. Por exemplo, a amortização de ativos intangíveis 
+usados num processo de produção é incluída na quantia escriturada dos 
+inventários (ver NCRF 18 — Inventários).
+Valor residual
+98 — O valor residual de um ativo intangível com uma vida útil finita 
+deve ser assumido como sendo zero a menos que:
+a) Haja um compromisso de um terceiro de comprar o ativo no final 
+da sua vida útil; ou
+b) Haja um mercado ativo para o ativo e:
+i) O valor residual possa ser determinado com referência a esse mer-
+cado; e
+ii) Seja provável que tal mercado exista no final da sua vida útil.
+99 — A quantia depreciável de um ativo com uma vida útil finita é 
+determinada após dedução do seu valor residual. Um valor residual que 
+não seja zero implica que uma entidade espera alienar o ativo intangível 
+antes do fim da sua vida económica.
+100 — Uma estimativa do valor residual de um ativo baseia -se na 
+quantia recuperável resultante da alienação usando os preços prevalecen-
+tes à data da estimativa para a venda de um ativo semelhante que tenha 20768 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+atingido o final da sua vida útil e que tenha funcionado em condições 
+semelhantes àquelas em que o ativo será utilizado. O valor residual é 
+revisto pelo menos no final de cada ano financeiro. De acordo com a 
+NCRF 4 — Políticas Contabilísticas, Alterações nas Estimativas Conta-
+bilísticas e Erros, uma alteração no valor residual do ativo é contabilizada 
+como alteração numa estimativa contabilística.
+101 — O valor residual de um ativo intangível pode aumentar até 
+uma quantia igual ou superior à quantia escriturada do ativo. Se assim 
+for, o débito de amortização do ativo é zero a menos que, e até que, o seu valor residual diminua posteriormente para uma quantia abaixo da quantia escriturada do ativo.
+Revisão do período de amortização e do método de amortização
+102 — O período de amortização e o método de amortização para um 
+ativo intangível com uma vida útil finita devem ser revistos pelo menos 
+no final de cada ano financeiro. Se a vida útil esperada de um ativo for diferente das estimativas anteriores, o período de amortização deve ser alterado em conformidade. Se tiver havido uma alteração no modelo de consumo esperado dos futuros benefícios económicos incorporados no ativo, o método de amortização deve ser modificado para refletir o modelo alterado. Tais alterações devem ser contabilizadas como altera-
+ções em estimativas contabilísticas de acordo com a NCRF 4 — Políticas 
+Contabilísticas, Alterações nas Estimativas Contabilísticas e Erros.
+103 — Durante a vida de um ativo intangível, pode tornar -se evidente 
+que a estimativa da vida útil é inapropriada. Por exemplo, o reconhe-cimento de uma perda por imparidade pode indicar que o período de amortização deve ser alterado.
+104 — Com o decorrer do tempo, o modelo de benefícios económicos 
+futuros que são esperados que fluam para uma entidade provenientes 
+de um ativo intangível pode alterar -se. Por exemplo, pode tornar -se 
+evidente que um método de amortização de saldo decrescente seja 
+apropriado e não um método de linha reta. Um outro exemplo é se o uso dos direitos representados por uma licença é diferido dependendo de ação sobre outros componentes do plano de negócio. Neste caso, os 
+benefícios económicos que fluem do ativo só podem vir a ser recebidos 
+em períodos mais tardios.
+Ativos intangíveis com vidas úteis indefinidas
+105 — Um ativo intangível com uma vida útil indefinida deve ser 
+amortizado num período máximo de 10 anos, aplicando -se -lhe, com as necessárias adaptações, o disposto nos parágrafos 95 a 104.
+Revisão da avaliação da vida útil
+106 — A vida útil de um ativo intangível que esteja a ser amorti-
+zado nos termos do parágrafo 105 deve ser revista a cada período para 
+determinar se os acontecimentos e circunstâncias continuam a apoiar uma avaliação de vida útil indefinida para esse ativo. Se não apoiarem, 
+a alteração na avaliação de vida útil de indefinida para finita deve ser 
+contabilizada como alteração numa estimativa contabilística de acordo 
+com a NCRF 4 — Políticas Contabilísticas, Alterações nas Estimativas 
+Contabilísticas e Erros.
+Recuperabilidade da quantia escriturada — perdas
+por imparidade
+107 — Para determinar se um ativo intangível está com imparidade, 
+uma entidade aplica a NCRF 12 — Imparidade de Ativos. Esta Norma 
+explica quando e como uma entidade revê a quantia escriturada dos seus 
+ativos, como determina a quantia recuperável de um ativo e quando 
+reconhece ou reverte uma perda por imparidade.
+Retiradas de uso e alienações
+108 — Um ativo intangível deve ser desreconhecido:
+a) No momento da alienação; ou
+b) Quando não se esperam futuros benefícios económicos do seu 
+uso ou alienação.
+109 — O ganho ou perda decorrente do desreconhecimento de um 
+ativo intangível deve ser determinado como a diferença entre os pro-ventos líquidos da alienação, se os houver, e a quantia escriturada do ativo. Deve ser reconhecido nos resultados quando o ativo for desreco-nhecido (a menos que a NCRF 9 — Locações o exija de outra forma numa venda e relocação).
+110 — A alienação de um ativo intangível pode ocorrer numa va-
+riedade de formas, incluindo a própria venda ou doação. Ao determi-
+nar a data da alienação desse ativo, uma entidade aplica os critérios da NCRF 20 — Rédito para reconhecer o rédito da venda de bens. A 
+NCRF 9 — Locações aplica -se à alienação por venda e relocação.
+111 — Se de acordo com o princípio de reconhecimento do pará-
+grafo 21 uma entidade reconhecer na quantia escriturada de um ativo o 
+custo de uma substituição de parte de um ativo intangível, então ela des-
+reconhece a quantia escriturada da parte substituída. Se não for praticável 
+que uma entidade determine a quantia escriturada da parte substituída, ela 
+pode usar o custo da substituição como indicação de qual o custo da parte 
+substituída no momento em que foi adquirida ou gerada internamente.
+112 — A retribuição recebível pela alienação de um ativo intangível é 
+reconhecida inicialmente pelo seu justo valor. Se o pagamento do ativo 
+intangível for diferido, a retribuição recebida é reconhecida inicialmente 
+pelo equivalente ao preço a dinheiro. A diferença entre a quantia no-minal da retribuição e o equivalente ao preço a dinheiro é reconhecida como rédito de juros de acordo com NCRF 20 — Rédito refletindo o rendimento efetivo sobre a conta a receber.
+113 — A amortização de um ativo intangível não cessa quando o ativo 
+intangível já não for usado, a não ser que o ativo tenha sido totalmente amortizado ou esteja classificado como detido para venda (ou incluído 
+num grupo de alienação que esteja classificado como detido para venda), 
+de acordo com a NCRF 8 — Ativos Não Correntes Detidos Para Venda e Unidades Operacionais Descontinuadas.
+Data de eficácia
+114 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+115 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam 
+comparáveis.
+116 — Esta Norma substitui a NCRF 6 — Ativos Intangíveis, cons-
+tante do Aviso n.º 15655/2009, publicado no Diário da República, 
+2.ª série, n.º 173, de 7 de setembro de 2009.

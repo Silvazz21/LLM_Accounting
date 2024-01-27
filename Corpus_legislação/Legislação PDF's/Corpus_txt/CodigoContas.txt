@@ -1,0 +1,687 @@
+Diário da República, 1.ª série — N.º 142 — 23 de julho de 2015  4959
+1 MEIOS FINANCEIROS LÍQUIDOS 2 CONTAS A RECEBER E A PAGAR
+24 Estado e outros entes públicos
+25 Financiamentos obtidos26 Acionistas/sócios
+26 Fundadores/patrocinadores/
+doadores/associados/membros(para as ESNL)
+27 Outras contas a receber e a 
+pagar
+28 Diferimentos29 Provisões
+3 INVENTÁRIOS E ATIVOS 
+BIOLÓGICOS * 
+ou INVENTÁRIOS (para as ME)4 INVESTIMENTOS
+31 Compras 41 Investimentos financeiros
+32 Mercadorias 42 Propriedades de investimento
+33 Matérias -primas, subsidiárias e 
+de consumo42 … (para as ME)
+43 Ativos fixos tangíveis44 Ativos intangíveis45 Investimentos em curso34 Produtos acabados e intermé-
+dios
+35 Subprodutos, desperdícios, re-
+síduos e refugos
+36 Produtos e trabalhos em curso46 Ativos não correntes detidos 
+para venda (conta inexistente 
+para as ME)
+37 Ativos biológicos (conta ine-
+xistente para as ME)
+38 Reclassificação e regularização 
+de inventários e ativos biológi-
+cos
+38 Reclassificação e regularização 
+de inventários (para as ME)
+39 Adiantamentos por conta de 
+compras
+5 CAPITAL, RESERV AS E RESULTADOS 
+TRANSITADOS ou FUNDOS
+PATRIMONIAIS (para as ESNL)6 GASTOS
+51 Capital subscrito
+51 Fundos (para as ESNL)61 Custo das mercadorias vendidas 
+e das matérias consumidas7 RENDIMENTOS 8 RESULTADOS
+71 Vendas 81 Resultado líquido do período
+72 Prestações de serviços … …
+73 Variações nos inventários da 
+produção89 Dividendos antecipados
+74 Trabalhos para a própria enti-
+dade
+75 Subsídios à exploração75 Subsídios, doações e legados à 
+exploração (para as ESNL)76 Reversões
+77 Ganhos por aumentos de justo 
+valor (conta inexistente para 
+as ME)78 Outros rendimentos e ganhos
+79 Juros e outros rendimentos si-
+milares
+2 — Código de Contas 5 CAPITAL, RESERV AS E RESULTADOS 
+TRANSITADOS ou FUNDOS
+PATRIMONIAIS (para as ESNL)6 GASTOS
+52 Ações (quotas) próprias
+52 Excedentes técnicos (para as 
+ESNL)62 Fornecimentos e serviços ex-
+ternos
+63 Gastos com o pessoal
+53 Outros instrumentos de capital 
+próprio64 Gastos de depreciação e de 
+amortização
+54 Prémios de emissão 65 Perdas por imparidade55 Reservas56 Resultados transitados57 Ajustamentos em ativos finan-
+ceiros
+(conta inexistente para as ME)66 Perdas por reduções de justo 
+valor (conta inexistente para 
+as ME)
+67 Provisões do período68 Outros gastos e perdas
+58 Excedentes de revalorização 
+de ativos fixos tangíveis e in-
+tangíveis69 Gastos e perdas de financia-
+mento
+59 Outras variações no capital 
+próprio
+59 Outras variações nos fundos 
+patrimoniais (para as ESNL)
+BaseAjustamentos ao Código de Contas
+para as ESNLAjustamentos ao Código
+de Contas para as ME
+1 MEIOS FINANCEIROS LÍQUIDOS *
+11 Caixa 12 Depósitos à ordem
+13 Outros depósitos bancários
+14 Outros instrumentos financeiros * 14 Outros
+141 Derivados  - - - - - - -
+1411 Potencialmente favoráveis  - - - - - - -
+1412 Potencialmente desfavoráveis  - - - - - - -
+142 Instrumentos financeiros detidos para nego-
+ciação - - - - - - -
+1421 Ativos financeiros  - - - - - - -
+1422 Passivos financeiros  - - - - - - -
+143 Outros ativos e passivos financeiros  - - - - - - -
+1431 Outros ativos financeiros  - - - - - - -
+1432 Outros passivos financeiros  - - - - - - -
+2 CONTAS A RECEBER E A PAGAR *4960 Diário da República, 1.ª série — N.º 142 — 23 de julho de 2015 
+BaseAjustamentos ao Código de Contas
+para as ESNLAjustamentos ao Código
+de Contas para as ME
+21 Clientes * 21 Clientes e utentes
+211 Clientes c/c 211 Clientes e utentes c/c2111 Clientes gerais 2111 Clientes gerais  - - - - - - -
+2112 Clientes — empresa -mãe 2112 Clientes — entidade -mãe  - - - - - - -
+2113 Clientes — empresas subsidiárias 2113 Clientes — entidades subsidiárias  - - - - - - -2114 Clientes — empresas associadas 2114 Clientes — entidades associadas  - - - - - - -
+2115 Clientes — empreendimentos conjuntos 2115 Clientes — empreendimentos conjuntos  - - - - - - -
+2116 Clientes — outras partes relacionadas 2116 Clientes — outras partes relacionadas  - - - - - - -
+2117 Utentes  - - - - - - -
+ … …  … …
+212 Clientes — títulos a receber 212 Clientes e utentes — títulos a receber
+2121 Clientes gerais 2121 Clientes gerais  - - - - - - -2122 Clientes — empresa -mãe 2122 Clientes — entidade -mãe  - - - - - - -
+2123 Clientes — empresas subsidiárias 2123 Clientes — entidades subsidiárias  - - - - - - -
+2124 Clientes — empresas associadas 2124 Clientes — entidades associadas  - - - - - - -
+2125 Clientes — empreendimentos conjuntos 2125 Clientes — empreendimentos conjuntos  - - - - - - -
+2126 Clientes — outras partes relacionadas 2126 Clientes — outras partes relacionadas  - - - - - - -
+2127 Utentes  - - - - - - -
+... … ... …218 Adiantamentos de clientes * 218 Adiantamentos de clientes e utentes
+219 Perdas por imparidade acumuladas * 219 Perdas por imparidade acumuladas
+22 Fornecedores *
+221 Fornecedores c/c
+2211 Fornecedores gerais  - - - - - - -
+2212 Fornecedores — empresa -mãe  - - - - - - -
+2213 Fornecedores — empresas subsidiárias  - - - - - - -
+2214 Fornecedores — empresas associadas  - - - - - - -
+2215 Fornecedores — empreendimentos conjun-
+tos - - - - - - -
+2216 Fornecedores — outras partes relacionadas  - - - - - - -
+... …
+222 Fornecedores — títulos a pagar
+2221 Fornecedores gerais  - - - - - - -
+2222 Fornecedores — empresa -mãe  - - - - - - -
+2223 Fornecedores — empresas subsidiárias  - - - - - - -
+2224 Fornecedores — empresas associadas  - - - - - - -
+2225 Fornecedores — empreendimentos conjun-
+tos - - - - - - -
+2226 Fornecedores — outras partes relacionadas  - - - - - - -
+... …
+225 Faturas em receção e conferência *
+... …
+228 Adiantamentos a fornecedores *229 Perdas por imparidade acumuladas *
+23 Pessoal
+231 Remunerações a pagar *2311 Aos órgãos sociais
+2312 Ao pessoalDiário da República, 1.ª série — N.º 142 — 23 de julho de 2015  4961
+BaseAjustamentos ao Código de Contas
+para as ESNLAjustamentos ao Código
+de Contas para as ME
+232 Adiantamentos
+ 2321 Aos órgãos sociais 2322 Ao pessoal
+ … …
+237 Cauções  - - - - - - -
+2371 Dos órgãos sociais  - - - - - - -
+2372 Do pessoal  - - - - - - -
+238 Outras operações2381 Com os órgãos sociais
+2382 Com o pessoal
+239 Perdas por imparidade acumuladas *
+24 Estado e outros entes públicos *
+241 Imposto sobre o rendimento *
+242 Retenção de impostos sobre rendimentos *
+243 Imposto sobre o valor acrescentado (IV A) *2431 IV A — Suportado
+2432 IV A — Dedutível
+2433 IV A — Liquidado
+2434 IV A — Regularizações
+2435 IV A — Apuramento
+2436 IV A — A pagar
+2437 IV A — A recuperar
+2438 IV A — Reembolsos pedidos
+2439 IV A — Liquidações oficiosas
+244 Outros impostos
+245 Contribuições para a Segurança Social
+246 Tributos das autarquias locais
+... … 
+248 Outras tributações
+25 Financiamentos obtidos
+251 Instituições de crédito e sociedades financei-
+ras
+2511 Empréstimos bancários
+2512 Descobertos bancários2513 Locações financeiras
+......
+252 Mercado de valores mobiliários  - - - - - - -
+2521 Empréstimos por obrigações *  - - - - - - -
+......  - - - - - - -
+253 Participantes de capital  - - - - - - -
+2531 Empresa -mãe — Suprimentos e outros mú-
+tuos - - - - - - -
+2532 Outros participantes — Suprimentos e outros 
+mútuos - - - - - - -
+......  - - - - - - -
+254 Subsidiárias, associadas e empreendimentos 
+conjuntos - - - - - - -
+255 Instituidores (empréstimos de fundadores e 
+beneméritos) * - - - - - - -4962 Diário da República, 1.ª série — N.º 142 — 23 de julho de 2015 
+BaseAjustamentos ao Código de Contas
+para as ESNLAjustamentos ao Código
+de Contas para as ME
+ … …  - - - - - - -
+ … …  - - - - - - -
+258 Outros financiadores 258 Outros financiadores *26 Acionistas/sócios
+26 Fundadores/patrocinadores/doadores/associa-
+dos/membros*
+261 Acionistas c/ subscrição * 261 Fundadores/associados/membros — Em curso 
+* - - - - - - -
+2611 …  - - - - - - -
+2612 …  - - - - - - -
+262 Quotas não liberadas * 262 Doadores — Em curso263 Adiantamentos por conta de lucros 263 Patrocinadores264 Resultados atribuídos 264 Quotas265 Lucros disponíveis 265 Resultados disponíveis
+266 Empréstimos concedidos — empresa -mãe
+266 Financiamentos concedidos — Fundador/do-
+ador - - - - - - -
+ …...  …...
+268 Outras operações 268 Outras operações
+2681 Beneficiários das mutualidades — Prestações 
+a pagar - - - - - - -
+2682 Beneficiários das mutualidades — Capitais 
+vencidos a pagar - - - - - - -
+2683 Beneficiários das mutualidades — Rendas 
+vitalícias a pagar - - - - - - -
+2684 …  - - - - - - -
+2685 Beneficiários das mutualidades — Melhorias 
+de benefícios - - - - - - -
+2686 Beneficiários das mutualidades — Subven-
+ções - - - - - - -
+269 Perdas por imparidade acumuladas * 269 Perdas por imparidade acumuladas
+27 Outras contas a receber e a pagar
+271 Fornecedores de investimentos *
+2711 Fornecedores de investimentos — contas 
+gerais
+2712 Facturas em recepção e conferência *
+2713 Adiantamentos a fornecedores de investi-
+mentos *
+272 Devedores e credores por acréscimos (perio-
+dização económica)*
+2721 Devedores por acréscimos de rendimentos2722 Credores por acréscimos de gastos
+273 Benefícios pós -emprego *  - - - - - - -
+274 Impostos diferidos *  - - - - - - -
+2741 Ativos por impostos diferidos  - - - - - - -
+2742 Passivos por impostos diferidos  - - - - - - -
+275 Credores por subscrições não liberadas *  - - - - - - -
+276 Adiantamentos por conta de vendas *
+... … 
+278 Outros devedores e credores
+279 Perdas por imparidade acumuladas *28 Diferimentos *281 Gastos a reconhecerDiário da República, 1.ª série — N.º 142 — 23 de julho de 2015  4963
+BaseAjustamentos ao Código de Contas
+para as ESNLAjustamentos ao Código
+de Contas para as ME
+282 Rendimentos a reconhecer
+29 Provisões *
+291 Impostos292 Garantias a clientes
+293 Processos judiciais em curso
+294 Acidentes de trabalho e doenças profissio-
+nais
+295 Matérias ambientais  - - - - - - -
+296 Contratos onerosos  - - - - - - -
+297 Reestruturação  - - - - - - -
+298 Outras provisões 298 Provisões específicas do setor *
+299 Outras provisões  - - - - - - -
+3 INVENTÁRIOS E ATIVOS BIOLÓGICOS * 3 INVENTÁRIOS *
+31 Compras
+311 Mercadorias312 Matérias -primas, subsidiárias e de consumo
+313 Ativos biológicos  - - - - - - -
+ … …
+317 Devoluções de compras
+318 Descontos e abatimentos em compras
+32 Mercadorias
+......325 Mercadorias em trânsito
+326 Mercadorias em poder de terceiros
+......329 Perdas por imparidade acumuladas
+33 Matérias -primas, subsidiárias e de consumo
+331 Matérias -primas
+332 Matérias subsidiárias
+333 Embalagens
+334 Materiais diversos335 Matérias em trânsito
+......
+339 Perdas por imparidade acumuladas34 Produtos acabados e intermédios
+......
+346 Produtos em poder de terceiros
+......
+349 Perdas por imparidade acumuladas
+35 Subprodutos, desperdícios, resíduos e refugos
+351 Subprodutos352 Desperdícios, resíduos e refugos
+......
+359 Perdas por imparidade acumuladas36 Produtos e trabalhos em curso
+37 Ativos biológicos  - - - - - - -
+371 Consumíveis  - - - - - - -4964 Diário da República, 1.ª série — N.º 142 — 23 de julho de 2015 
+BaseAjustamentos ao Código de Contas
+para as ESNLAjustamentos ao Código
+de Contas para as ME
+3711 Animais  - - - - - - -
+3712 Plantas  - - - - - - -
+372 De produção  - - - - - - -
+3721 Animais  - - - - - - -
+3722 Plantas  - - - - - - -
+ … …38 Reclassificação e regularização de inventários 
+e ativos biológicos38 Reclassificação e regularização de inven-
+tários
+382 Mercadorias
+383 Matérias -primas, subsidiárias e de consumo
+384 Produtos acabados e intermédios
+385 Subprodutos, desperdícios, resíduos e refu-
+gos
+386 Produtos e trabalhos em curso
+387 Ativos biológicos *  - - - - - - -
+39 Adiantamentos por conta de compras *
+4 INVESTIMENTOS *
+41 Investimentos financeiros *
+411 Investimentos em subsidiárias  - - - - - - -
+4111 Participações de capital — método da equi-
+valência patrimonial - - - - - - -
+4112 Participações de capital — outros métodos  - - - - - - -
+4113 Empréstimos concedidos  - - - - - - -
+......  - - - - - - -
+412 Investimentos em associadas  - - - - - - -
+4121 Participações de capital — método da equi-
+valência patrimonial - - - - - - -
+4122 Participações de capital — outros métodos  - - - - - - -
+4123 Empréstimos concedidos  - - - - - - -
+......  - - - - - - -
+413 Investimentos em entidades conjuntamente 
+controladas - - - - - - -
+4131 Participações de capital — método da equi-
+valência patrimonial - - - - - - -
+4132 Participações de capital — outros métodos  - - - - - - -
+4133 Empréstimos concedidos  - - - - - - -
+......  - - - - - - -
+414 Investimentos noutras empresas4141 Participações de capital
+4142 Empréstimos concedidos
+......
+415 Outros investimentos financeiros  - - - - - - -
+4151 Detidos até à maturidade  - - - - - - -
+ … …  - - - - - - -
+4158 Outros  - - - - - - -
+......   - - - - - - -
+419 Perdas por imparidade acumuladas *
+42 Propriedades de investimento  - - - - - - -
+421 Terrenos e recursos naturais  - - - - - - -Diário da República, 1.ª série — N.º 142 — 23 de julho de 2015  4965
+BaseAjustamentos ao Código de Contas
+para as ESNLAjustamentos ao Código
+de Contas para as ME
+422 Edifícios e outras construções  - - - - - - -
+ … …  - - - - - - -
+426 Outras propriedades de investimento  - - - - - - - … …  - - - - - - -
+428 Depreciações acumuladas  - - - - - - -
+429 Perdas por imparidade acumuladas *  - - - - - - -43 Ativos fixos tangíveis
+431 Terrenos e recursos naturais 431 Bens do domínio público *
+… …  - - - - - - -
+4319 Perdas por imparidade acumuladas  - - - - - - -
+432 Edifícios e outras construções
+432 Bens do património histórico e artístico e 
+cultural *
+4321 Bens imóveis  - - - - - - -
+4322 Arquivos  - - - - - - -4323 Bibliotecas  - - - - - - -
+4324 Museus  - - - - - - -
+4325 Bens móveis  - - - - - - -
+… …  - - - - - - -4329 Perdas por imparidade acumuladas  - - - - - - -
+433 Equipamento básico 433 Outros ativos fixos tangíveis
+4331 Terrenos e recursos naturais  - - - - - - -4332 Edifícios e outras construções  - - - - - - -
+4333 Equipamento básico  - - - - - - -
+4334 Equipamento de transporte  - - - - - - -
+4335 Equipamento administrativo  - - - - - - -
+4336 Equipamentos biológicos  - - - - - - -
+4337 Outros ativos fixos tangíveis  - - - - - - -
+4338 Depreciações acumuladas  - - - - - - -
+4339 Perdas por imparidade acumuladas  - - - - - - -
+434 Equipamento de transporte435 Equipamento administrativo436 Equipamentos biológicos *437 Outros ativos fixos tangíveis438 Depreciações acumuladas
+439 Perdas por imparidade acumuladas *  - - - - - - -
+44 Ativos intangíveis441 Goodwill 441 Bens do domínio público 441 …..442 Projetos de desenvolvimento * 442 Outros ativos intangíveis
+4421 Goodwill  - - - - - - -4422 Projetos de desenvolvimento  - - - - - - -4423 Programas de computador  - - - - - - -
+4424 Propriedade industrial  - - - - - - -
+… …  - - - - - - -4426 Outros ativos intangíveis  - - - - - - -… …  - - - - - - -4428 Amortizações acumuladas  - - - - - - -4429 Perdas por imparidade acumuladas  - - - - - - -4966 Diário da República, 1.ª série — N.º 142 — 23 de julho de 2015 
+BaseAjustamentos ao Código de Contas
+para as ESNLAjustamentos ao Código
+de Contas para as ME
+443 Programas de computador
+444 Propriedade industrial
+......446 Outros ativos intangíveis
+ … …
+448 Amortizações acumuladas
+449 Perdas por imparidade acumuladas *  - - - - - - -45 Investimentos em curso
+451 Investimentos financeiros em curso
+452 Propriedades de investimento em curso  - - - - - - -
+453 Ativos fixos tangíveis em curso
+454 Ativos intangíveis em curso … …
+455 Adiantamentos por conta de investimentos * 455 Adiantamentos por conta do património his-
+tórico, artístico e cultural
+ … …  … …459 Perdas por imparidade acumuladas *  - - - - - - -
+46 Ativos não correntes detidos para venda *  - - - - - - -
+ … …  - - - - - - -
+469 Perdas por imparidade acumuladas *  - - - - - - -
+5 CAPITAL, RESERV AS E RESULTADOS 
+TRANSITADOS *5 FUNDOS PATRIMONIAIS
+51 Capital subscrito 51 Fundos *
+52 Ações (quotas) próprias * 52 Excedentes técnicos *
+521 Valor nominal 
+522 Descontos e prémios 
+... …
+53 Outros instrumentos de capital próprio*
+…54 Prémios de emissão
+…
+55 Reservas 
+551 Reservas legais
+552 Outras reservas
+… …56 Resultados transitados57 Ajustamentos em ativos financeiros *  - - - - - - -571 Relacionados com o método da equivalência 
+patrimonial - - - - - - -
+5711 Ajustamentos de transição *  - - - - - - -
+5712 Lucros não atribuídos *  - - - - - - -
+5713 Decorrentes de outras variações nos capitais 
+próprios das participadas * - - - - - - -
+ … …  - - - - - - -
+579 Outros  - - - - - - -
+58 Excedentes de revalorização de ativos fixos 
+tangíveis e intangíveis *58 Excedentes de revalorização de ativos fixos 
+tangíveis *
+581 Reavaliações decorrentes de diplomas legais5811 Antes de imposto sobre o rendimento  - - - - - - -5812 Impostos diferidos  - - - - - - -Diário da República, 1.ª série — N.º 142 — 23 de julho de 2015  4967
+BaseAjustamentos ao Código de Contas
+para as ESNLAjustamentos ao Código
+de Contas para as ME
+589 Outros excedentes
+ 5891 Antes de imposto sobre o rendimento  - - - - - - -
+ 5892 Impostos diferidos  - - - - - - -
+ … …..  - - - - - - -
+59 Outras variações no capital próprio 59 Outras variações nos fundos patrimoniais *
+591 Diferenças de conversão de demonstrações 
+financeiras * - - - - - - -
+592 Ajustamentos por impostos diferidos  - - - - - - -
+593 Subsídios *5931 Subsídios atribuídos5932 Ajustamentos em subsídios594 Doações … …  … …599 Outras6 GASTOS *
+61 Custo dos inventários vendidos e das matérias 
+consumidas
+611 Mercadorias612 Matérias -primas, subsidiárias e de consumo613 Ativos biológicos (compras)*  - - - - - - -
+614 Materiais de consumo  - - - - - - -6141 Material desportivo  - - - - - - -6142 Medicamentos e artigos de saúde  - - - - - - -
+6143 Material de representação e propaganda  - - - - - - -
+6144 …  - - - - - - -
+62 Fornecimentos e serviços externos
+621 Subcontratos622 Serviços especializados6221 Trabalhos especializados  - - - - - - -
+6222 Publicidade e propaganda  - - - - - - -
+6223 Vigilância e segurança  - - - - - - -
+6224 Honorários  - - - - - - -
+6225 Comissões  - - - - - - -
+6226 Conservação e reparação  - - - - - - -
+ … …  - - - - - - -
+6228 Outros  - - - - - - -
+623 Materiais6231 Ferramentas e utensílios de desgaste rápido  - - - - - - -6232 Livros e documentação técnica  - - - - - - -
+6233 Material de escritório  - - - - - - -
+6234 Artigos para oferta  - - - - - - -
+…  - - - - - - -
+6238 Outros  - - - - - - -
+624 Energia e fluidos6241 Eletricidade  - - - - - - -
+6242 Combustíveis  - - - - - - -
+6243 Água  - - - - - - -4968 Diário da República, 1.ª série — N.º 142 — 23 de julho de 2015 
+BaseAjustamentos ao Código de Contas
+para as ESNLAjustamentos ao Código
+de Contas para as ME
+…  - - - - - - -
+6248 Outros  - - - - - - -
+625 Deslocações, estadas e transportes
+6251 Deslocações e estadas  - - - - - - -
+6252 Transportes de pessoal  - - - - - - -
+6253 Transportes de mercadorias  - - - - - - -
+…  - - - - - - -
+6258 Outros  - - - - - - -
+626 Serviços diversos
+6261 Rendas e alugueres  - - - - - - -
+6262 Comunicação  - - - - - - -
+6263 Seguros  - - - - - - -
+6264 Royalties  - - - - - - -
+6265 Contencioso e notariado  - - - - - - -
+6266 Despesas de representação  - - - - - - -
+6267 Limpeza, higiene e conforto  - - - - - - -
+6268 Outros serviços  - - - - - - -
+63 Gastos com o pessoal
+631 Remunerações dos órgãos sociais
+632 Remunerações do pessoal633 Benefícios pós -emprego  - - - - - - -
+6331 Prémios para pensões *  - - - - - - -
+6332 Outros benefícios  - - - - - - -
+634 Indemnizações
+635 Encargos sobre remunerações
+636 Seguros de acidentes no trabalho e doenças 
+profissionais
+637 Gastos de ação social
+638 Outros gastos com o pessoal
+64 Gastos de depreciação e de amortização641 Propriedades de investimento  - - - - - - -
+642 Ativos fixos tangíveis
+643 Ativos intangíveis.
+65 Perdas por imparidade
+651 Em dívidas a receber
+ 6511 Clientes
+ 6512 Outros devedores
+652 Em inventários653 Em investimentos financeiros
+654 Em propriedades de investimento  - - - - - - -
+655 Em ativos fixos tangíveis  - - - - - - -
+656 Em ativos intangíveis  - - - - - - -
+657 Em investimentos em curso  - - - - - - -
+658 Em ativos não correntes detidos para venda  - - - - - - -66 Perdas por reduções de justo valor  - - - - - - -
+661 Em instrumentos financeiros  - - - - - - -
+662 Em investimentos financeiros  - - - - - - -Diário da República, 1.ª série — N.º 142 — 23 de julho de 2015  4969
+BaseAjustamentos ao Código de Contas
+para as ESNLAjustamentos ao Código
+de Contas para as ME
+663 Em propriedades de investimento  - - - - - - -
+664 Em ativos biológicos  - - - - - - -
+67 Provisões do período *
+671 Impostos
+672 Garantias a clientes673 Processos judiciais em curso
+674 Acidentes no trabalho e doenças profissio-
+nais
+675 Matérias ambientais  - - - - - - -
+676 Contratos onerosos  - - - - - - -
+677 Reestruturação  - - - - - - -
+678 Outras provisões 678 Provisões específicas do sector *
+679 Outras provisões  - - - - - - -
+68 Outros gastos 
+681 Impostos
+6811
+6812 Impostos indiretos:
+6813 Taxas
+682 Descontos de pronto pagamento concedidos
+683 Dívidas incobráveis *
+684 Perdas em inventários *
+6841 Sinistros
+6842 Quebras
+ … …
+6848 Outras perdas
+685 Gastos em subsidiárias, associadas e empre-
+endimentos conjuntos - - - - - - -
+6851 Cobertura de prejuízos  - - - - - - -
+6852 Aplicação do método da equivalência pa-
+trimonial * - - - - - - -
+6853 Alienações  - - - - - - -
+ … …  - - - - - - -
+6858 Outros gastos  - - - - - - -
+686 Gastos nos restantes investimentos financei-
+ros *
+6861 Cobertura de prejuízos
+6862 Alienações6863 Diferenças de câmbio desfavoráveis * … …6868 Outros gastos 687 Gastos em investimentos não financeiros
+6871 Alienações
+6872 Sinistros
+6873 Abates6874 Gastos em propriedades de investimento  - - - - - - - … …6878 Outras gastos 688 Outros6881 Correções relativas a períodos anteriores4970 Diário da República, 1.ª série — N.º 142 — 23 de julho de 2015 
+BaseAjustamentos ao Código de Contas
+para as ESNLAjustamentos ao Código
+de Contas para as ME
+6882 Donativos
+6883 Quotizações6884 Ofertas e amostras de inventários
+6885 Insuficiência da estimativa para impostos6886 Perdas em instrumentos financeiros  - - - - - - -
+6887 Diferenças de câmbio desfavoráveis *
+6888 Outros não especificados
+689 Gastos com apoios financeiros concedidos a 
+associados ou utentes * - - - - - - -
+6891 Subsídios, donativos, bolsas de estudo  - - - - - - -
+6892 Prestações a associados das mutualidades  - - - - - - -
+6893 Capitais vencidos — associados das mu-
+tualidades - - - - - - -
+6894 Prestações dos regimes profissionais com-
+plementares - - - - - - -
+6895 Rendas vitalícias — associados das mu-
+tualidades - - - - - - -
+6896 Prestações pecuniárias de cuidados de 
+saúde - - - - - - -
+…  - - - - - - -
+6898 Outros gastos inerentes a associados  - - - - - - -
+ … …  - - - - - - -
+69 Gastos de financiamento691 Juros suportados
+6911 Juros de financiamentos obtidos … …
+6918 Outros juros
+692 Diferenças de câmbio desfavoráveis6921 Relativas a financiamentos obtidos
+ … …
+6928 Outras … …
+698 Outros gastos de financiamento6981 Relativos a financiamentos obtidos
+ … …6988 Outros
+7 RENDIMENTOS *
+71 Vendas *711 Mercadorias
+712 Produtos acabados e intermédios
+713 Subprodutos, desperdícios, resíduos e refu-
+gos
+714 Ativos biológicos  - - - - - - -
+...... 715 Materiais de consumo
+7151 Material desportivo  - - - - - - -7152 Medicamentos e artigos de saúde  - - - - - - -7153 Material de representação e propaganda  - - - - - - -
+…  - - - - - - - … …  - - - - - - -Diário da República, 1.ª série — N.º 142 — 23 de julho de 2015  4971
+BaseAjustamentos ao Código de Contas
+para as ESNLAjustamentos ao Código
+de Contas para as ME
+716 IV A das vendas com imposto incluído
+717 Devoluções de vendas
+718 Descontos e abatimentos em vendas
+72 Prestações de serviços *721 Serviço A 721 Quotas dos utilizadores722 Serviço B 722 Quotizações e joias
+723 Promoções para captação de recursos  - - - - - - -724 Rendimentos de patrocinadores e colabora-
+ções - - - - - - -
+ … …  - - - - - - -
+... … 
+725 Serviços secundários
+726 IV A dos serviços com imposto incluído
+... … 
+728 Descontos e abatimentos73 Variações nos inventários da produção731 Produtos acabados e intermédios
+732 Subprodutos, desperdícios, resíduos e refu-
+gos
+733 Produtos e trabalhos em curso734 Ativos biológicos  - - - - - - -
+74 Trabalhos para a própria entidade741 Ativos fixos tangíveis742 Ativos intangíveis743 Propriedades de investimento  - - - - - - -
+744 Ativos por gastos diferidos
+ … …
+75 Subsídios à exploração * 75 Subsídios, doações e legados à exploração *
+751 Subsídios das entidades públicas 751 Subsídios das entidades públicas
+752 Subsídios de outras entidades 752 Subsídios de outras entidades
+753 Doações e heranças  - - - - - - -
+754 Legados  - - - - - - -… …  - - - - - - -
+76 Reversões761 De depreciações e de amortizações7611 Propriedades de investimento  - - - - - - -
+7612 Ativos fixos tangíveis
+7613 Ativos intangíveis
+762 De perdas por imparidade
+7621 Em dívidas a receber
+76211 Clientes
+76212 Outros devedores7622 Em inventários7623 Em investimentos financeiros7624 Em propriedades de investimento  - - - - - - -7625 Em ativos fixos tangíveis  - - - - - - -
+7626 Em ativos intangíveis  - - - - - - -4972 Diário da República, 1.ª série — N.º 142 — 23 de julho de 2015 
+BaseAjustamentos ao Código de Contas
+para as ESNLAjustamentos ao Código
+de Contas para as ME
+7627 Em investimentos em curso  - - - - - - -
+7628 Em ativos não correntes detidos para venda  - - - - - - -
+763 De provisões7631 Impostos7632 Garantias a clientes7633 Processos judiciais em curso
+7634 Acidentes no trabalho e doenças profissio-
+nais
+7635 Matérias ambientais  - - - - - - -
+7636 Contratos onerosos  - - - - - - -
+7637 Reestruturação  - - - - - - -
+7638 Outras provisões 7638 Específicas  - - - - - - -
+7639 Outras provisões  - - - - - - -
+ … …  - - - - - - -
+77 Ganhos por aumentos de justo valor  - - - - - - -771 Em instrumentos financeiros  - - - - - - -
+772 Em investimentos financeiros  - - - - - - -
+773 Em propriedades de investimento  - - - - - - -
+774 Em ativos biológicos  - - - - - - -
+78 Outros rendimentos 
+781 Rendimentos suplementares7811 Serviços sociais  - - - - - - -
+7812 Aluguer de equipamento  - - - - - - -
+7813 Estudos, projetos e assistência tecnológica  - - - - - - -
+7814 Royalties  - - - - - - -
+7815 Desempenho de cargos sociais noutras em-
+presas - - - - - - -
+7816 Outros rendimentos suplementares  - - - - - - -
+782 Descontos de pronto pagamento obtidos783 Recuperação de dívidas a receber784 Ganhos em inventários7841 Sinistros7842 Sobras
+…
+7848 Outros ganhos
+785 Rendimentos em subsidiárias, associadas e 
+empreendimentos conjuntos - - - - - - -
+7851 Aplicação do método da equivalência pa-
+trimonial * - - - - - - -
+7852 Alienações  - - - - - - -
+ … …  - - - - - - -
+7858 Outros rendimentos  - - - - - - -
+786 Rendimentos nos restantes ativos financeiros7861 Diferenças de câmbio favoráveis7862 Alienações … …7868 Outros rendimentos 787 Rendimentos em investimentos não financei-
+rosDiário da República, 1.ª série — N.º 142 — 23 de julho de 2015  4973
+BaseAjustamentos ao Código de Contas
+para as ESNLAjustamentos ao Código
+de Contas para as ME
+7871 Alienações
+7872 Sinistros
+7873 Rendas e outros rendimentos em propriedades 
+de investimento - - - - - - -
+ … …
+7878 Outros rendimentos 
+788 Outros
+7881 Correções relativas a períodos anteriores
+7882 Excesso da estimativa para impostos7883 Imputação de subsídios para investimentos
+7884 Ganhos em outros instrumentos financeiros  - - - - - - -7885 Restituição de impostos
+ … …
+7887 Diferenças de câmbio favoráveis *7888 Outros não especificados
+79 Juros, dividendos e outros rendimentos simi-
+lares
+791 Juros obtidos
+7911 De depósitos
+7912 De outras aplicações de meios financeiros 
+líquidos - - - - - - -
+7913 De financiamentos concedidos a associadas 
+e empreendimentos conjuntos - - - - - - -
+7914 De financiamentos concedidos a subsidiá-
+rias - - - - - - -
+7915 De financiamentos obtidos
+ … …7918 De outros financiamentos concedidos 7918 Outros 
+792 Dividendos obtidos
+7921 De aplicações de meios financeiros líqui-
+dos - - - - - - -
+7922 De associadas e empreendimentos conjun-
+tos - - - - - - -
+7923 De subsidiárias  - - - - - - -
+… …  - - - - - - -
+7928 Outras  - - - - - - -
+793 Diferenças de câmbio favoráveis * … … …
+798 Outros rendimentos similares
+… …
+8 RESULTADOS *81 Resultado líquido do período
+811 Resultado antes de impostos *
+812 Imposto sobre o rendimento do período
+8121 Imposto estimado para o período *
+8122 Imposto diferido  - - - - - - -
+… …
+818 Resultado líquido … …89 Dividendos antecipados

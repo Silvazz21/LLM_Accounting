@@ -1,0 +1,180 @@
+Norma Contabilística e de Relato Financeiro 16
+Exploração e Avaliação de Recursos Minerais
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro 
+é o de prescrever o tratamento da exploração e avaliação de recursos minerais tal como definido na presente Norma.
+2 — Em particular, a Norma exige:
+a) Melhorias limitadas a práticas contabilísticas existentes relaciona-
+das com dispêndios de exploração e avaliação;
+b) Que as entidades que reconheçam ativos de exploração e avaliação 
+apreciem esses ativos quanto a imparidade de acordo com esta Norma 
+e mensurem qualquer imparidade de acordo com a NCRF 12 — Impa-
+ridade de Ativos;
+Âmbito
+3 — Uma entidade deve aplicar esta Norma aos dispêndios de explo-
+ração e avaliação em que incorra.
+4 — A Norma não se aplica ao tratamento de outros aspetos con-
+tabilísticos de entidades que desenvolvam operações de exploração e 
+avaliação de recursos minerais.
+Uma entidade não deve aplicar esta Norma a dispêndios incorridos:
+a) Antes da exploração e avaliação de recursos minerais, tais como 
+dispêndios incorridos antes de a entidade ter obtido os direitos legais de explorar uma área específica; e
+b) Depois de serem demonstráveis a exequibilidade técnica e viabi-
+lidade comercial da extração de um recurso mineral.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20801
+Definições
+5 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Ativos de exploração e avaliação: são dispêndios de exploração e 
+avaliação reconhecidos como ativos de acordo com a política contabi-lística da entidade.
+Dispêndios de exploração e avaliação: são dispêndios incorridos por 
+uma entidade em ligação com a exploração e avaliação de recursos 
+minerais antes que a exequibilidade técnica e viabilidade comercial da 
+extração de um recurso mineral seja demonstrável.
+Exploração e avaliação de recursos minerais: são a pesquisa de recur-
+sos minerais, incluindo minérios, petróleo, gás natural e recursos não 
+regenerativos semelhantes depois de a entidade ter obtido os direitos le-
+gais de explorar numa área específica, bem como a determinação da exe-
+quibilidade técnica e viabilidade comercial de extrair o recurso mineral.
+Segmento operacional: é uma componente de uma entidade:
+a) Que desenvolve atividades de negócio de que pode obter réditos 
+e incorrer em gastos (incluindo réditos e gastos relacionados com tran-
+sações com outros componentes da mesma entidade);
+b) Cujos resultados operacionais são regularmente revistos pelo prin-
+cipal responsável pela tomada de decisões operacionais da entidade 
+para efeitos da tomada de decisões sobre a imputação de recursos ao 
+segmento e da avaliação do seu desempenho; e
+c) Relativamente à qual esteja disponível informação financeira distinta.
+Reconhecimento de ativos de exploração e avaliação
+Dispensa temporária do parágrafo 10 da NCRF 4
+6 — Quando desenvolver as suas políticas contabilísticas, uma en-
+tidade ao reconhecer ativos de exploração e avaliação deve aplicar o 
+parágrafo 9 da NCRF 4 — Políticas Contabilísticas, Alterações nas 
+Estimativas Contabilísticas e Erros.
+7 — É exigido que o órgão de gestão considere o parágrafo 10 da 
+NCRF 4 que especifica fontes de requisitos e orientação autorizados, 
+ao desenvolver uma política contabilística para um item se nenhuma 
+NCRF se aplicar especificamente a esse item. Sujeito aos parágrafos 9 e 
+10 adiante, esta Norma dispensa uma entidade de aplicar esse parágrafo 
+às suas políticas contabilísticas para o reconhecimento e mensuração de 
+ativos de exploração e avaliação.
+Mensuração de ativos de exploração e avaliação
+Mensuração no reconhecimento
+8 — Os ativos de exploração e avaliação devem ser mensurados 
+pelo custo.
+Elementos do custo de ativos de exploração e avaliação
+9 — Uma entidade deve determinar uma política que especifique que 
+dispêndios são reconhecidos como ativos de exploração e avaliação e 
+aplicar essa política consistentemente. Em consequência, uma entidade 
+considera até que ponto o dispêndio pode ser associado à descoberta de 
+recursos minerais específicos. O que se segue são exemplos de dispêndios 
+que podem ser incluídos na mensuração inicial de ativos de exploração 
+e avaliação (a lista não é exaustiva):
+a) Aquisição de direitos de exploração;
+b) Estudos topográficos, geológicos, geoquímicos e geofísicos;
+c) Perfuração exploratória;
+d) Valas;
+e) Amostragem; e
+f) Atividades relacionadas com a avaliação da exequibilidade técnica 
+e viabilidade comercial da extração de um recurso mineral.
+10 — Os dispêndios relacionados com o desenvolvimento de recur-
+sos minerais não devem ser reconhecidos como ativos de exploração 
+e avaliação. A Estrutura conceptual e a NCRF 6 — Ativos Intangíveis 
+proporcionam orientação sobre o reconhecimento de ativos resultantes 
+de desenvolvimento.
+11 — De acordo com a NCRF 21 — Provisões, Passivos Contingentes 
+e Ativos Contingentes, uma entidade reconhece quaisquer obrigações de remoção e restauro que sejam incorridas durante um determinado 
+período como consequência de ter levado a cabo a exploração e avaliação 
+de recursos minerais.
+Mensuração após reconhecimento
+12 — Após o reconhecimento, uma entidade deve aplicar o modelo 
+de custo ou o modelo de revalorização aos ativos de exploração e ava-liação. Se o modelo de revalorização for aplicado (ou o modelo da 
+NCRF 7 — Ativos Fixos Tangíveis ou o modelo da NCRF 6), ele deve 
+ser consistente com a classificação dos ativos (ver parágrafo 15).
+Alterações nas políticas contabilísticas
+13 — Uma entidade pode alterar as suas políticas contabilísticas 
+para dispêndios de exploração e avaliação se a alteração tornar as 
+demonstrações financeiras mais relevantes para as necessidades de 
+tomada de decisões económicas dos utentes e não menos fiáveis, ou 
+mais fiáveis e não menos relevantes para essas necessidades. Uma 
+entidade deve ajuizar a relevância e a fiabilidade usando os critérios 
+da NCRF 4.
+14 — Para justificar a alteração das suas políticas contabilísticas para 
+dispêndios de exploração e avaliação, uma entidade deve demonstrar que 
+a alteração leva as suas demonstrações financeiras a satisfazerem mais aproximadamente os critérios da NCRF 4, mas a alteração não precisa 
+de alcançar total conformidade com esses critérios.
+Apresentação
+Classificação de ativos de exploração e avaliação
+15 — Uma entidade deve classificar os ativos de exploração e avalia-
+ção como tangíveis ou intangíveis de acordo com a natureza dos ativos 
+adquiridos e aplicar a classificação consistentemente.
+16 — Alguns ativos de exploração e avaliação são tratados como 
+intangíveis (por exemplo, direitos de perfuração), enquanto outros são tangíveis (por exemplo, veículos e plataformas de perfuração). Até ao 
+ponto em que um ativo tangível seja consumido no desenvolvimento 
+de um ativo intangível, a quantia que reflete esse consumo faz parte 
+do custo do ativo intangível. Contudo, o uso de um ativo tangível para 
+desenvolver um ativo intangível não transforma um ativo tangível num ativo intangível.
+Reclassificação de ativos de exploração e avaliação
+17 — Um ativo de exploração e avaliação deve deixar de ser classifi-
+cado como tal quando a exequibilidade técnica e viabilidade comercial de 
+extração de um recurso mineral for demonstrável. Os ativos de explora-
+ção e avaliação devem ser avaliados quanto a imparidade, e reconhecida 
+qualquer perda por imparidade, antes da reclassificação.
+Imparidade
+Reconhecimento e mensuração
+18 — Os ativos de exploração e avaliação devem ser avaliados quanto 
+a imparidade quando os factos e circunstâncias sugerirem que a quantia 
+escriturada de um ativo de exploração e avaliação pode exceder a sua 
+quantia recuperável. Quando os factos e circunstâncias sugerirem que a quantia escriturada excede a quantia recuperável, uma entidade deve 
+mensurar e apresentar imparidade de ativos, de acordo com a NCRF 12, 
+exceto quanto ao estabelecido no parágrafo 21.
+19 — Apenas para as finalidades dos ativos de exploração e avaliação, 
+quando for identificado um ativo de exploração e avaliação que possa 
+estar com imparidade deve ser aplicado o parágrafo 20 desta Norma 
+em vez dos parágrafos 5 a 8 da NCRF 12. O parágrafo 20 usa o termo “ativos” mas aplica -se igualmente a ativos de exploração e avaliação 
+separados ou a uma unidade geradora de caixa.
+20 — Um ou mais dos seguintes factos e circunstâncias indica que 
+uma entidade deve testar os ativos de exploração e avaliação quanto a 
+imparidade (a lista não é exaustiva):
+a) O período em que a entidade tem o direito de explorar na área 
+específica expirou durante o período ou vai expirar no futuro próximo, 
+e não se espera que seja renovado;
+b) Não estão orçamentados nem planeados dispêndios substanciais 
+relativos a posterior exploração e avaliação de recursos minerais na 
+área específica;
+c) A exploração e avaliação de recursos minerais na área específica 
+não levaram à descoberta de quantidades comercialmente viáveis de 
+recursos minerais e a entidade decidiu descontinuar essas atividades 
+na área específica; ou
+d) Existem suficientes dados para indicar que, embora um desenvol-
+vimento na área específica seja provável que resulte, é improvável que 
+a quantia escriturada do ativo de exploração e avaliação seja recuperada 20802 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+na totalidade como consequência de um desenvolvimento bem -sucedido
+ou por venda.
+Em qualquer caso, ou em casos semelhantes, a entidade deve efe-
+tuar um teste de imparidade de acordo com a NCRF 12. Qualquer 
+perda por imparidade é reconhecida como um gasto de acordo com 
+a NCRF 12.
+Especificar o nível em que os ativos de exploração e avaliação
+são avaliados quanto a imparidade
+21 — Uma entidade deve determinar uma política contabilística 
+para a imputação de ativos de exploração e avaliação a unidades 
+geradoras de caixa ou grupos de unidades geradoras de caixa com a 
+finalidade de avaliar esses ativos quanto a imparidade. Cada unidade 
+geradora de caixa ou grupo de unidades a que um ativo de exploração 
+e avaliação seja imputado não deve ser maior do que um segmento operacional.
+22 — O nível identificado pela entidade para a finalidade de testar 
+ativos de exploração e avaliação quanto a imparidade pode compreender 
+uma ou mais unidades geradoras de caixa.
+Data de eficácia
+23 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+24 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam 
+comparáveis.
+25 — Esta Norma substitui a NCRF 16 — Exploração e Avaliação 
+de Recursos Minerais, constante do Aviso n.º 15655/2009, publi-
+cado no Diário da República,  2.ª série, n.º 173, de 7 de setembro 
+de 2009.

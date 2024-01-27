@@ -1,0 +1,840 @@
+Aviso n.º 8255/2015
+Pelo Despacho n.º 261/2015 -XIX do Senhor Secretário de Estado dos 
+Assuntos Fiscais, de 16 de julho de 2015, foi homologada a seguinte 
+Norma Contabilística para Microentidades do Sistema de Normalização 
+Contabilística, aprovado pelo Decreto -Lei n.º 158/2009, de 13 de julho, 
+alterado pelo Decreto -Lei n.º 98/2015, de 2 de junho:
+Norma Contabilística para Microentidades
+1 — Objetivo
+1.1 — Esta Norma Contabilística tem como objetivo estabelecer 
+os aspetos de reconhecimento e mensuração, tidos como os requisitos 
+contabilísticos aplicáveis às microentidades tal como são definidas 
+pelo n.º 1 do artigo 9.º do Decreto -Lei n.º 158/2009, de 13 de julho, na 
+redação dada pelo Decreto -Lei n.º 98/2015, de 2 de junho.
+2 — Âmbito e conceitos
+2.1 — Esta Norma deve ser aplicada pelas entidades que cumpram os 
+requisitos para serem classificadas como microentidades, desde que não 
+optem pela aplicação da Norma Contabilística e de Relato Financeiro 
+para Pequenas Entidades (NCRF -PE) ou das Normas Contabilísticas e de Relato Financeiro (NCRF).
+2.2 — Esta Norma acolhe os conceitos, definições e procedimentos 
+contabilísticos de aceitação generalizada em Portugal, tal como enun-ciados no Sistema de Normalização Contabilística (SNC), tendo como base de referência a correspondente Estrutura Conceptual. Os termos e expressões utilizados nesta norma correspondem aos constantes das NCRF, cuja compilação em glossário é disponibilizada no sitio internet da Comissão de Normalização Contabilística, exceto se de outra forma 
+for especificamente estabelecido.
+3 — Considerações gerais sobre reconhecimento
+3.1 — Como referido no ponto 1.1, a presente norma tem como obje-
+tivo estabelecer os aspetos de reconhecimento e mensuração aplicáveis às 
+microentidades. Dada a estrutura da norma, considerou -se útil a inclusão 
+na mesma de um conjunto de disposições relativas a reconhecimento 
+que nela são recorrentemente utilizadas.
+3.2 — Reconhecimento é o processo de incorporar no balanço e na 
+demonstração dos resultados um item que satisfaça a definição de um elemento e satisfaça os critérios de reconhecimento descritos na pre-sente norma. A falha do reconhecimento de tais itens não é retificada pela divulgação das políticas contabilísticas usadas nem por notas ou material explicativo.
+3.3 — Um ativo é reconhecido no balanço quando for provável que 
+os benefícios económicos futuros fluam para a entidade e o ativo tenha um custo ou um valor que possa ser mensurado com fiabilidade.
+3.4 — Um passivo é reconhecido no balanço quando for provável 
+que um exfluxo de recursos incorporando benefícios económicos resulte 
+da liquidação de uma obrigação presente e que a quantia pela qual a liquidação tenha lugar possa ser mensurada com fiabilidade.
+3.5 — Um rendimento é reconhecido na demonstração dos resultados 
+quando tenha surgido um aumento de benefícios económicos futuros 
+relacionados com um aumento num ativo ou com uma diminuição de um 
+passivo e que possa ser quantificado com fiabilidade. Isto significa, com 
+efeito, que o reconhecimento dos rendimentos ocorre simultaneamente Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20743
+com o reconhecimento de aumentos em ativos ou com diminuições em 
+passivos (por exemplo, o aumento líquido em ativos provenientes de uma 
+venda de bens ou de serviços ou a diminuição em passivos provenientes 
+do perdão de uma dívida a pagar).
+3.6 — Os gastos são reconhecidos na demonstração dos resultados 
+quando tenha surgido uma diminuição dos benefícios económicos futuros 
+relacionados com uma diminuição num ativo ou com um aumento de um 
+passivo e que possam ser mensurados com fiabilidade. O reconhecimento 
+de gastos ocorre simultaneamente com o reconhecimento de um aumento 
+de passivos ou de uma diminuição de ativos (por exemplo, o acréscimo de direitos dos empregados ou a depreciação de equipamento).
+4 — Estrutura e conteúdo das demonstrações financeiras
+4.1 — As demonstrações financeiras devem ser identificadas clara-
+mente e distinguidas de outra informação publicada no mesmo docu-
+mento.
+4.2 — A informação seguinte deve ser mostrada de forma proemi-
+nente e repetida quando for necessário para a devida compreensão da 
+informação apresentada:
+a) O nome da entidade que relata ou outros meios de identificação, e 
+qualquer alteração nessa informação desde a data do balanço anterior;
+b) A data do balanço ou o período abrangido pelas demonstrações 
+financeiras, conforme o que for apropriado para esse componente das demonstrações financeiras; e
+c) O nível de arredondamento usado na apresentação de quantias nas 
+demonstrações financeiras.
+4.3 — As demonstrações financeiras devem ser apresentadas pelo 
+menos anualmente.
+Balanço
+Distinção corrente/não corrente
+4.4 — Uma entidade deve apresentar ativos correntes e não correntes, 
+e passivos correntes e não correntes, como classificações separadas no 
+balanço.
+Ativos correntes
+4.5 — Um ativo deve ser classificado como corrente quando satisfizer 
+qualquer dos seguintes critérios:
+a) Espera -se que seja realizado, ou pretende -se que seja vendido ou 
+consumido, no decurso normal do ciclo operacional da entidade;
+b) Esteja detido essencialmente para a finalidade de ser negociado;
+c) Espera -se que seja realizado num período até doze meses após a 
+data do balanço; ou
+d) É caixa ou equivalente de caixa, a menos que lhe seja limitada a 
+troca ou sejam usados para liquidar um passivo durante pelo menos doze 
+meses após a data do balanço.
+Todos os outros ativos devem ser classificados como não correntes.
+4.6 — Esta Norma usa o termo não corrente para incluir ativos tangí-
+veis, intangíveis e financeiros cuja natureza seja de longo prazo.
+4.7 — O ciclo operacional de uma entidade é o tempo entre a aquisição 
+de ativos para processamento e sua realização em caixa ou seus equiva-
+lentes. Quando o ciclo operacional normal da entidade não for claramente 
+identificável, pressupõe -se que a sua duração seja de doze meses.
+Passivos correntes
+4.8 — Um passivo deve ser classificado como corrente quando sa-
+tisfizer qualquer um dos seguintes critérios:
+a) Se espere que seja liquidado durante o ciclo operacional normal 
+da entidade;
+b) Esteja detido essencialmente para a finalidade de ser negociado;
+c) Deva ser liquidado num período até doze meses após a data do 
+balanço; ou
+d) A entidade não tenha um direito incondicional de diferir a liquidação 
+do passivo durante pelo menos doze meses após a data do balanço.
+Todos os outros passivos devem ser classificados como não cor-
+rentes.
+4.9 — Alguns passivos correntes, tais como dívidas a pagar comerciais 
+e alguns acréscimos de gastos relativos a empregados e outros gastos 
+operacionais, são parte do capital circulante usado no ciclo operacional 
+normal da entidade. Tais itens operacionais são classificados como 
+passivos correntes mesmo que estejam para ser liquidados a mais de doze meses após a data do balanço. O mesmo ciclo operacional normal aplica -se à classificação dos ativos e passivos de uma entidade. Quando 
+o ciclo operacional normal da entidade não for claramente identificável, 
+pressupõe -se que a sua duração seja de doze meses.
+4.10 — Uma entidade classifica os seus passivos financeiros como 
+correntes quando a sua liquidação estiver prevista para um período até doze meses após a data do balanço, mesmo que:
+a) O prazo original tenha sido por um período superior a doze meses; e
+b) Um acordo de refinanciamento, ou de reescalonamento de pagamen-
+tos, numa base de longo prazo seja completado após a data do balanço 
+e antes das demonstrações financeiras serem autorizadas para emissão.
+Informação a ser apresentada no balanço
+4.11 — A informação mínima a apresentar no balanço consta do res-
+petivo modelo publicado em Portaria, no qual se contempla, também, 
+a informação adicional/complementar a fornecer. Excecionalmente 
+podem ser apresentadas no balanço linhas de itens adicionais, quando 
+tal apresentação for relevante para uma melhor compreensão da posição 
+financeira da entidade. Sempre que, em simultâneo para todas as datas 
+de relato incluídas no balanço, não existam quantias a apresentar, as 
+correspondentes linhas deverão ser removidas.
+Demonstração dos resultados
+Resultados do período
+4.12 — Todos os itens de rendimentos e de gastos reconhecidos num 
+período devem ser incluídos nos resultados a menos que um outro ca-pítulo o exija de outro modo.
+Informação a ser apresentada na demonstração dos resultados
+4.13 — A informação mínima a apresentar na demonstração dos 
+resultados consta do respetivo modelo publicado em Portaria. Exce-
+cionalmente podem ser apresentadas na demonstração dos resultados 
+linhas de itens adicionais, quando tal apresentação for relevante para uma 
+melhor compreensão do desempenho financeiro da entidade. Sempre que, 
+em simultâneo para todas as datas de relato incluídas na demonstração 
+dos resultados, não existam quantias a apresentar, as correspondentes linhas deverão ser removidas.
+4.14 — Uma entidade não deve apresentar itens de rendimento e de 
+gasto como itens extraordinários na demonstração dos resultados.
+4.15 — Os itens a apresentar na demonstração dos resultados deverão 
+basear -se numa classificação que atenda à sua natureza.
+5 — Adoção pela primeira vez da NC -ME
+5.1 — As alterações de políticas contabilísticas decorrentes da adoção 
+pela primeira vez da presente norma devem ser aplicadas prospetiva-
+mente.
+5.2 — Consequentemente, no balanço de abertura relativo à primeira 
+aplicação a entidade deve:
+a) Manter reconhecidos pela quantia escriturada todos os ativos e 
+passivos cujo reconhecimento continue a ser exigido por esta norma;
+b) Reconhecer todos os ativos e passivos cujo reconhecimento passe 
+a ser exigido por esta norma, sendo a respetiva mensuração efetuada nos 
+termos nela previstos, não sendo contudo permitida, em caso algum, a 
+utilização da base de mensuração do justo valor à data da transição;
+c) Não reconhecer itens como ativos ou passivos se a presente norma 
+não permitir esse reconhecimento; e
+d) Efetuar as reclassificações pertinentes.
+5.3 — Quaisquer quantias relativas a diferenças de transição devem 
+ser reconhecidas no capital próprio.
+5.4 — Caso uma entidade dê conta de erros cometidos segundo o 
+referencial contabilístico anterior, os ajustamentos exigidos nos pará-grafos anteriores, devem distinguir entre a correção desses erros e as alterações às políticas contabilísticas.
+6 — Políticas contabilísticas, alterações
+nas estimativas contabilísticas e erros
+Seleção e aplicação de políticas contabilísticas
+6.1 — A política ou políticas contabilísticas a aplicar a determinado 
+item será a que decorrer do capítulo que especificamente tratar da tran-sação, outro acontecimento ou condição.
+6.2 — Na ausência de uma disposição desta Norma que se aplique 
+especificamente a uma transação, outro acontecimento ou condição, o 20744  Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+órgão de gestão fará juízos de valor no desenvolvimento e aplicação de 
+uma política contabilística que resulte em informação que seja:
+a) Relevante para a tomada de decisões económicas por parte dos 
+utentes;
+b) Fiável, de tal modo que as demonstrações financeiras:
+i) Representem fielmente a posição financeira e o desempenho fi-
+nanceiro da entidade;
+ii) Reflitam a substância económica de transações, outros aconteci-
+mentos e condições e não meramente a forma legal;
+iii) Sejam neutras, isto é, que estejam isentas de enviesamentos;
+iv) Sejam prudentes; e
+v) Sejam completas em todos os aspetos materiais.
+6.3 — Ao fazer os juízos de valor descritos no parágrafo 6.2, o ór-
+gão de gestão deve ponderar a aplicabilidade das seguintes fontes, por 
+ordem indicada:
+a) Os requisitos e a orientação desta Norma que tratam de assuntos 
+semelhantes e relacionados; e
+b) As definições e os critérios de reconhecimento e mensuração para 
+ativos, passivos, rendimentos e gastos constantes da Estrutura Con-
+ceptual.
+Consistência de políticas contabilísticas
+6.4 — Uma entidade deve selecionar e aplicar as suas políticas con-
+sistentemente para transações semelhantes, outros acontecimentos e 
+condições, a menos que determinado capítulo desta Norma especifica-
+mente exija ou permita a categorização de itens para os quais possam ser 
+apropriadas diferentes políticas. Se um outro capítulo exigir ou permitir 
+tal categorização, uma política contabilística deve ser selecionada e 
+aplicada consistentemente a cada categoria.
+Alterações nas políticas contabilísticas
+6.5 — Uma entidade deve alterar uma política contabilística apenas 
+se a alteração:
+a) For exigida por uma Norma ou Norma Interpretativa; ou
+b) Resultar no facto de as demonstrações financeiras proporcionarem 
+informação fiável e mais relevante sobre os efeitos das transações, outros 
+acontecimentos ou condições, na posição financeira e no desempenho 
+financeiro da entidade.
+Alterações nas estimativas contabilísticas e erros
+6.6 — O efeito de uma alteração numa estimativa contabilística, 
+que não seja uma alteração à qual se aplique o parágrafo 6.7, deve ser 
+reconhecido prospetivamente incluindo -o nos resultados do:
+a) Período de alteração, se a alteração afetar apenas esse período; ou
+b) Período de alteração e períodos futuros, se a alteração afetar ambas 
+as situações.
+6.7 — Até ao ponto em que uma alteração numa estimativa contabi-
+lística dá origem a alterações em ativos e passivos, ou se relacione com um item do capital próprio, ela deve ser reconhecida pelo ajustamento 
+da quantia escriturada do item de capital próprio, ativo ou passivo 
+relacionado no período da alteração.
+6.8 — A correção de um erro material de um período anterior é excluída 
+dos resultados do período em que o erro é detetado, sendo efetuada direta-mente em resultados transitados.
+7 — Ativos fixos tangíveis
+Reconhecimento
+7.1 — O custo de um item de ativo fixo tangível deve ser reconhecido 
+como ativo se, e apenas se, cumprir as condições de reconhecimento 
+definidas no capítulo 3 desta Norma e desde que se trate de um item que 
+seja detido para uso na produção ou fornecimento de bens ou serviços, 
+para arrendamento a outros, ou para fins administrativos e se espera que 
+seja usado durante mais do que um período.
+7.2 — As designadas propriedades de investimento (terrenos e edi-
+fícios), bem como os ativos biológicos de produção, são reconhecidos como ativos fixos tangíveis. Os animais ou plantas vivos detidos pela entidade e que não se enquadrem na atividade agrícola integram a sub-categoria de equipamentos biológicos.
+Na rubrica “terrenos e edifícios” devem figurar os direitos imobiliários 
+e outros direitos similares tal como são legalmente definidos.7.3 — Sobressalentes e equipamentos de serviço são geralmente 
+escriturados como inventários e reconhecidos nos resultados quando 
+consumidos. Porém, os sobressalentes principais e equipamento de 
+reserva classificam -se como ativos fixos tangíveis quando uma entidade 
+espera usá -los durante mais do que um período. Da mesma forma, se 
+os sobressalentes e os equipamentos de serviço puderem ser utilizados em ligação com um item do ativo fixo tangível, eles são contabilizados 
+como ativo fixo tangível.
+7.4 — Podem ser considerados no ativo por uma só quantidade e 
+quantia fixa, os itens que, no seu conjunto, satisfaçam simultaneamente 
+as seguintes condições:
+a) Sejam renovados frequentemente;
+b) Representem, bem a bem, uma quantia imaterial para a entidade; e
+c) Tenham uma vida útil não superior a três anos.
+7.5 — Partes de alguns itens do ativo fixo tangível poderão necessitar 
+de substituições a intervalos regulares. Uma entidade deve reconhecer 
+na quantia escriturada de um item do ativo fixo tangível o custo da peça 
+de substituição desse item quando o custo for incorrido, se os critérios 
+de reconhecimento forem cumpridos. A quantia escriturada das peças 
+que são substituídas é desreconhecida de acordo com as disposições de desreconhecimento deste capítulo.
+Mensuração
+7.6 — Um item do ativo fixo tangível que seja classificado para 
+reconhecimento como um ativo deve ser inicialmente mensurado pelo 
+seu custo e subsequentemente pelo seu custo deduzido de qualquer 
+depreciação acumulada.
+7.7 — O custo de um item do ativo fixo tangível compreende:
+a) O seu preço de compra, incluindo os direitos de importação e os 
+impostos de compra não reembolsáveis, após dedução dos descontos 
+e abatimentos; e
+b) Quaisquer custos diretamente atribuíveis para desenvolver e/ou 
+colocar o ativo na localização e condição necessárias para o mesmo ser 
+capaz de funcionar da forma pretendida;
+7.8 — Exemplos de custos que não são custos de um item do ativo 
+fixo tangível são:
+a) Custos de abertura de novas instalações;
+b) Custos de introdução de um novo produto ou serviço (incluindo 
+custos de publicidade ou atividades promocionais);
+c) Custos de condução do negócio numa nova localização ou com uma 
+nova classe de clientes (incluindo custos de formação de pessoal); e
+d) Custos de administração e outros custos gerais.
+Depreciação
+7.9 — Atento o disposto no parágrafo 7.5, cada parte de um item do 
+ativo fixo tangível com um custo que seja significativo em relação ao custo total do item deve ser depreciada separadamente.
+7.10 — O gasto de depreciação em cada período deve ser reconhecido 
+nos resultados a menos que seja incluído na quantia escriturada de um outro ativo.
+Quantia depreciável e período de depreciação
+7.11 — A quantia depreciável de um ativo deve ser imputada numa 
+base sistemática durante a sua vida útil.
+7.12 — A depreciação de um ativo começa quando este esteja dispo-
+nível para uso, i.e. quando estiver na localização e condição necessárias 
+para que seja capaz de operar na forma pretendida. A depreciação de um 
+ativo cessa na data em que o ativo for desreconhecido.
+7.13 — Na determinação da vida útil de um ativo uma entidade deve 
+ponderar o uso esperado do ativo, o desgaste normal esperado, a ob-
+solescência técnica ou comercial e limites legais ou semelhantes no 
+seu uso.
+Método de depreciação
+7.14 — O método de depreciação é o método da linha reta.
+Desreconhecimento
+7.15 — A quantia escriturada de um item do ativo fixo tangível deve 
+ser desreconhecida:
+a) No momento da alienação; ou
+b) Quando não se espere futuros benefícios económicos do seu uso 
+ou alienação.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20745
+7.16 — O ganho ou perda decorrente do desreconhecimento de um 
+item do ativo fixo tangível deve ser incluído nos resultados quando o item for desreconhecido. Os ganhos não devem ser classificados como rédito.
+7.17 — Aquando da data de alienação de um item do ativo fixo tangí-
+vel uma entidade deve aplicar os critérios referidos no capítulo 12 desta 
+Norma para reconhecimento do rédito.
+7.18 — O ganho ou perda decorrente do desreconhecimento de um 
+item do ativo fixo tangível deve ser determinado como a diferença entre 
+os proventos líquidos da alienação, se os houver, e a quantia escriturada 
+do item.
+8 — Ativos intangíveis
+8.1 — Os critérios estabelecidos no capítulo relativo a ativos fixos 
+tangíveis aplicam -se aos ativos intangíveis, incluindo os de caráter 
+ambiental, sem prejuízo dos parágrafos seguintes.
+Reconhecimento
+8.2 — Um ativo intangível deve ser reconhecido se, e apenas se, for 
+identificável, e cumprir as condições de reconhecimento definidas no capitulo 3 desta Norma, desde que se trate de um ativo não monetário, 
+identificável e sem substância física, que se espera que seja usado durante 
+mais do que um período.
+8.3 — Um ativo intangível é identificável se:
+a) For separável, isto é capaz de ser separado ou dividido da entidade 
+e vendido, transferido, licenciado, alugado ou trocado, seja individual-
+mente ou em conjunto com um contrato, ativo ou passivo relacionado, 
+independentemente da intenção da entidade de o fazer; ou
+b) Resultar de direitos contratuais ou de outros direitos legais, in-
+dependentemente desses direitos serem transferíveis ou separáveis da 
+entidade ou de outros direitos e obrigações.
+Mensuração
+8.4 — Um ativo intangível deve ser mensurado pelo seu custo, o 
+qual deve ser determinado como preconizado para os ativos fixos tan-
+gíveis.
+Ativos intangíveis gerados internamente — seleção 
+de política contabilística
+8.5 — A criação de um ativo intangível gerado internamente, que 
+não seja goodwill, envolve uma fase de pesquisa e uma fase de desen-
+volvimento.
+8.6 — Não deve ser reconhecido nenhum ativo intangível prove-
+niente de pesquisa, ou da fase de pesquisa de um projeto interno, sendo 
+os correspondentes dispêndios reconhecidos como um gasto quando 
+forem incorridos.
+Dispêndios de caráter ambiental
+8.7 — Os dispêndios de caráter ambiental incorridos para evitar ou 
+reduzir danos futuros, ou para preservar recursos, apenas podem ser 
+qualificados para reconhecimento como ativos, se se destinarem a ser-
+vir de maneira durável a atividade da entidade e se, além disso, estiver satisfeita uma das seguintes condições:
+a) Os gastos relacionarem -se com benefícios económicos que se 
+espera venham a fluir para a entidade e que permitam prolongar a vida, 
+aumentar a capacidade ou melhorar a segurança ou eficiência de outros ativos detidos pela entidade (para além do seu nível de eficiência deter-minado originalmente); ou
+b) Os gastos permitirem reduzir ou evitar uma contaminação ambiental 
+suscetível de ocorrer em resultado das futuras atividades da entidade.
+8.8 — Podem existir direitos ou outros elementos de natureza seme-
+lhante adquiridos por motivos associados ao impacto das atividades da 
+entidade sobre o ambiente (por exemplo, patentes, licenças, autorização 
+de poluição e direitos de emissão). Se tiverem sido adquiridos a título 
+oneroso, e, além disso, satisfizerem os critérios necessários ao seu reco-
+nhecimento como ativo, tal como estabelecido no parágrafo 8.7., devem 
+ser capitalizados e amortizados sistematicamente ao longo das suas vidas 
+económicas úteis esperadas. Caso não satisfaçam esses critérios, devem 
+ser imputados a resultados.
+Reconhecimento como um gasto
+8.9 — Os dispêndios com itens intangíveis, incluindo os dispêndios 
+de caráter ambiental, devem ser reconhecidos como gastos quando 
+incorridos, a menos que façam parte do custo de um ativo intangível que satisfaça os critérios de reconhecimento referidos nos parágrafos 
+anteriores.
+8.10 — Os dispêndios de caráter ambiental relacionados com danos 
+que ocorreram num período anterior não podem qualificar -se como 
+ajustamentos de exercícios anteriores mas devem pelo contrário ser 
+registados como gastos no período corrente.
+8.11 — Uma entidade reconhecerá como gasto os seguintes itens, os 
+quais nunca deverão ser reconhecidos como ativo:
+a) As marcas, cabeçalhos, títulos de publicações, listas de clientes e 
+itens substancialmente semelhantes gerados internamente;
+b) Dispêndio com atividades de arranque, a não ser que este dispêndio 
+esteja incluído no custo de um item de ativo fixo tangível de acordo com 
+o capítulo 7 desta Norma. Os custos de arranque podem consistir em 
+custos de estabelecimento tais como os custos legais ou de secretariado 
+incorridos no estabelecimento de uma entidade legal, dispêndios para 
+abrir novas instalações ou negócio ou dispêndios para iniciar novas 
+unidades operacionais ou lançar novos produtos ou processos;
+c) Dispêndios com atividades de formação; e
+d) Dispêndios com atividades de publicidade e promocionais (in-
+cluindo catálogos de venda por correspondência);
+e) Dispêndios com a mudança de local ou reorganização de uma 
+entidade no seu todo ou em parte.
+8.12 — O dispêndio com um item intangível que tenha sido inicial-
+mente reconhecido como um gasto não deve ser reconhecido como parte 
+do custo de um ativo intangível em data posterior.
+Vida útil
+8.13 — Uma entidade deve avaliar se a vida útil de um ativo intan-
+gível é finita ou indefinida e, se for finita, a duração de, ou o número 
+de produção ou de unidades similares constituintes, dessa vida útil. Um ativo intangível tem uma vida útil indefinida quando, com base numa análise de todos os fatores relevantes, não houver limite previsível para 
+o período durante o qual se espera que o ativo gere influxos de caixa 
+líquidos para a entidade.
+8.14 — A vida útil de um ativo intangível que resulte de direitos 
+contratuais ou de outros direitos legais não deve exceder o período dos 
+direitos contratuais ou de outros direitos legais, mas pode ser mais curta 
+dependendo do período durante o qual a entidade espera usar o ativo. Se 
+os direitos contratuais ou outros direitos legais forem transmitidos por 
+um prazo limitado que possa ser renovado, a vida útil do ativo intangível 
+deve incluir o(s) período(s) de renovação apenas se existir evidência que 
+suporte a renovação pela entidade sem um custo significativo.
+Ativos intangíveis com vidas úteis finitas
+Período de amortização e método de amortização
+8.15 — A quantia amortizável de um ativo intangível com uma vida 
+útil finita deve ser imputada numa base sistemática durante a sua vida 
+útil, tal como o previsto para os ativos fixos tangíveis. A amortização deve cessar na data em que o ativo for desreconhecido.
+Valor residual
+8.16 — O valor residual de um ativo intangível com uma vida útil 
+finita deve ser assumido como sendo zero a menos que:
+a) Haja um compromisso de um terceiro de comprar o ativo no final 
+da sua vida útil; ou
+b) Haja um mercado ativo para o ativo e:
+i) O valor residual possa ser determinado com referência a esse mer-
+cado; e
+ii) Seja provável que tal mercado exista no final da sua vida útil.
+Ativos intangíveis com vidas úteis indefinidas
+8.17 — Um ativo intangível com uma vida útil indefinida deve ser 
+amortizado num período máximo de 10 anos.
+8.18 — A vida útil de um ativo intangível deve ser revista a cada pe-
+ríodo para determinar se os acontecimentos e circunstâncias continuam a apoiar uma avaliação de vida útil indefinida para esse ativo. Se não 
+apoiarem, a alteração na avaliação de vida útil de indefinida para finita 
+deve ser contabilizada como alteração numa estimativa contabilística de acordo com o capítulo 6.
+Retiradas e alienações
+8.19 — Um ativo intangível deve ser desreconhecido no momento 
+da alienação ou quando não se esperam futuros benefícios económicos do seu uso ou alienação.20746  Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+9 — Locações
+9.1 — Uma locação é classificada como locação financeira se ela 
+transferir substancialmente todos os riscos e vantagens inerentes à pro-
+priedade. Uma locação é classificada como locação operacional se ela não transferir substancialmente todos os riscos e vantagens inerentes 
+à propriedade.
+Classificação de locações
+9.2 — A classificação de uma locação como financeira ou operacional 
+depende da substância da transação e não da forma do contrato. Exemplos 
+de situações que podem normalmente conduzir a que uma locação seja 
+classificada como uma locação financeira são:
+a) A locação transfere a propriedade do ativo para o locatário no fim 
+do prazo da locação;
+b) O locatário tem a opção de comprar o ativo por um preço que se 
+espera que seja suficientemente mais baixo do que a estimativa do seu 
+valor de mercado à data em que a opção se torne exercível tal que, no 
+início da locação, seja razoavelmente certo que a opção será exercida;
+c) O prazo da locação abrange a maior parte da vida económica do 
+ativo mesmo que o título de propriedade não seja transferido;
+d) No início da locação o valor presente dos pagamentos mínimos da 
+locação ascende a pelo menos, substancialmente a estimativa do valor de mercado do ativo locado; e
+e) Os ativos locados são de uma tal natureza especializada que apenas 
+o locatário os pode usar sem que sejam feitas grandes modificações.
+9.3 — Os indicadores de situações que individualmente ou em com-
+binação podem também conduzir a que uma locação seja classificada 
+como financeira são:
+a) Se o locatário puder cancelar a locação, as perdas do locador 
+associadas ao cancelamento são suportadas pelo locatário;
+b) Os ganhos ou as perdas da flutuação no valor de mercado do re-
+sidual caem no locatário (por exemplo sob a forma de um abatimento 
+na renda que iguale a maior parte dos proventos das vendas no fim da 
+locação); e
+c) O locatário tem a capacidade de continuar a locação por um se-
+gundo período com uma renda que seja substancialmente inferior à 
+renda do mercado.
+9.4 — Os exemplos e indicadores enunciados nos parágrafos 9.2. 
+e 9.3. nem sempre são conclusivos. Se for claro com base noutras carac-
+terísticas que a locação não transfere substancialmente todos os riscos 
+e vantagens inerentes à posse, a locação é classificada como locação operacional.
+Locações nas demonstrações financeiras de locatários
+Locações financeiras — Reconhecimento inicial
+9.5 — No início do prazo de locação, os locatários devem reconhecer 
+as locações financeiras como ativos e passivos nos seus balanços por 
+quantias iguais ao valor dos pagamentos mínimos da locação, cada um determinado no início da locação. Quaisquer custos diretos iniciais do 
+locatário são adicionados à quantia reconhecida como ativo.
+Locações financeiras — Mensuração subsequente
+9.6 — Os pagamentos mínimos da locação devem ser repartidos 
+entre o encargo financeiro e a redução do passivo pendente. O encargo 
+financeiro deve ser imputado a cada período durante o prazo da locação. 
+As rendas contingentes devem ser debitadas como gastos nos períodos 
+em que foram incorridas.
+9.7 — Uma locação financeira dá origem a um gasto de depreciação 
+relativo ao ativo depreciável assim como a um gasto financeiro em cada 
+período contabilístico. A política de depreciação para os ativos locados 
+depreciáveis deve ser consistente com a dos ativos depreciáveis que 
+sejam possuídos e a depreciação reconhecida deve ser calculada nas 
+bases estabelecidas nos capítulos 7 e 8. Se não houver certeza razoável 
+de que o locatário obtenha a propriedade no fim do prazo da locação, o 
+ativo deve ser totalmente depreciado durante o prazo da locação ou da sua vida útil, o que for mais curto.
+Locações operacionais
+9.8 — Os pagamentos de uma locação operacional devem ser reconhe-
+cidos como um gasto numa base linear durante o prazo da locação.Locações operacionais nas demonstrações
+financeiras de locadores
+9.9 — Os locadores devem apresentar os ativos sujeitos a locações 
+operacionais nos seus balanços de acordo com a natureza do ativo.
+9.10 — O rendimento proveniente de locações operacionais deve ser 
+reconhecido numa base linear durante o prazo da locação.
+9.11 — Os custos, incluindo a depreciação, incorridos para se obter 
+o rendimento de locação são reconhecidos como um gasto.
+9.12 — Os custos diretos iniciais incorridos pelos locadores ao nego-
+ciar e aceitar uma locação operacional devem ser adicionados à quantia 
+escriturada do ativo locado e reconhecidos como um gasto durante o prazo da locação na mesma base do rendimento da locação.
+9.13 — A política de depreciação para ativos locados depreciáveis 
+deve ser consistente com a política de depreciação normal do locador para 
+ativos semelhantes, e a depreciação deve ser calculada de acordo com as 
+disposições referentes a ativos intangíveis e a ativos fixos tangíveis.
+9.14 — Um locador fabricante ou negociante não reconhece qualquer 
+lucro de venda ao celebrar uma locação operacional porque esta não é 
+equivalente a uma venda.
+10 — Custos de empréstimos obtidos
+10.1 — Os custos de empréstimos obtidos incluem:a) Juros de descobertos bancários e de empréstimos obtidos a curto 
+e longo prazo;
+b) Encargos financeiros com respeito a locações financeiras reconhe-
+cidas de acordo com o capítulo 9 desta Norma; e
+c) Diferenças de câmbio provenientes de empréstimos obtidos em 
+moeda estrangeira até ao ponto em que sejam vistos como um ajusta-
+mento do custo dos juros.
+10.2 — Os custos de empréstimos obtidos devem ser reconhecidos 
+como um gasto no período em que sejam incorridos.
+11 — Inventários
+Reconhecimento
+11.1 — São reconhecidos como inventários os ativos:
+a) Detidos para venda no decurso ordinário da atividade empresarial;
+b) No processo de produção para tal venda; ou
+c) Na forma de materiais ou consumíveis a serem aplicados no pro-
+cesso de produção ou na prestação de serviços.
+11.2 — Os ativos biológicos consumíveis e os produtos agrícolas são 
+reconhecidos como inventários.
+Mensuração
+11.3 — Os inventários devem ser mensurados pelo custo ou valor 
+realizável líquido, dos dois o mais baixo.
+Custo dos inventários
+11.4 — O custo dos inventários deve incluir todos os custos de com-
+pra, custos de conversão e outros custos incorridos para colocar os 
+inventários no seu local e condição atuais.
+11.5 — Os custos de compra de inventários incluem o preço de com-
+pra, direitos de importação e outros impostos (que não sejam os subse-
+quentemente recuperáveis das entidades fiscais pela entidade) e custos 
+de transporte, manuseamento e outros custos diretamente atribuíveis à aquisição de bens acabados, de materiais e de serviços. Os descontos 
+comerciais, abatimentos e outros itens semelhantes devem ser deduzidos 
+na determinação dos custos de compra.
+11.6 — O custo dos inventários de produtos acabados e de subprodutos 
+será obtido por um dos seguintes métodos: ( i) custo de produção ou 
+(ii) preço de venda deduzido da margem normal de lucro que a gestão 
+demonstre ser apropriada. O custo dos produtos e trabalhos em curso será obtido pelo mesmo método corrigido com a percentagem estimada 
+de acabamento.
+Valor realizável líquido
+11.7 — O custo dos inventários pode não ser recuperável se esses 
+inventários estiverem danificados, se se tornarem total ou parcialmente 
+obsoletos ou se os seus preços de venda tiverem diminuído. A prática de 
+reduzir o custo dos inventários  para o valor realizável líquido é consis-
+tente com o ponto de vista de que os ativos não devem ser escriturados por quantias superiores àquelas que previsivelmente resultariam da sua Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20747
+venda ou uso. O custo de reposição dos materiais ou o preço de venda de-
+duzido dos necessários custos previsíveis de acabamento e venda podem 
+ser a melhor mensuração disponível do seu valor realizável líquido.
+11.8 — Em cada período subsequente é feita uma nova avaliação do 
+valor realizável líquido. Quando as circunstâncias que anteriormente 
+resultavam em ajustamento ao valor dos inventários deixarem de existir 
+ou quando houver uma clara evidência de um aumento no valor realizável 
+líquido devido à alteração nas circunstâncias económicas, a quantia do ajustamento é revertida (isto é a reversão é limitada à quantia do ajus-tamento original) de modo a que a nova quantia escriturada seja o valor 
+mais baixo do custo e do valor realizável líquido revisto. Isto ocorre, por 
+exemplo, quando um item de inventários que é escriturado pelo valor 
+realizável líquido, porque o seu preço de venda desceu, está ainda detido 
+num período posterior e o seu preço de venda aumentou.
+Reconhecimento como gasto
+11.9 — Quando os inventários forem vendidos, a quantia escriturada 
+desses inventários deve ser reconhecida como um gasto do período 
+em que o respetivo rédito seja reconhecido. A quantia de qualquer 
+ajustamento dos inventários para o valor realizável líquido e todas 
+as perdas de inventários devem ser reconhecidas como um gasto do 
+período em que o ajustamento ou perda ocorra. A quantia de qualquer 
+reversão do ajustamento de inventários, proveniente de um aumento 
+no valor realizável líquido, deve ser reconhecida como uma redução 
+na quantia de inventários reconhecida como um gasto no período em 
+que a reversão ocorra.
+11.10 — Para os efeitos do ponto 11.9 os inventários podem ser 
+movimentados em sistema de inventário intermitente ou permanente, 
+podendo ser utilizado, como forma de custeio, o custo médio ponderado 
+ou o FIFO.
+11.11 — Alguns inventários podem ser imputados a outras contas do 
+ativo, como por exemplo, inventários usados como um componente de 
+ativos fixos tangíveis construídos para a própria entidade. Os inventários 
+imputados desta forma a um outro ativo são reconhecidos como um 
+gasto durante a vida útil desse ativo.
+12 — Rédito
+12.1 — Este capítulo respeita à contabilização do rédito proveniente 
+da venda de bens, prestação de serviços e uso por outros de ativos da entidade que produzam juros, royalties e dividendos.
+Mensuração do rédito
+12.2 — O rédito deve ser mensurado pela quantia da contraprestação 
+acordada a qual, em geral, é determinada por acordo entre a entidade 
+e o comprador ou utente do ativo, tomando em consideração a quantia 
+de quaisquer descontos comerciais e de quantidade concedidos pela 
+entidade.
+12.3 — As quantias cobradas por conta de terceiros tais como impostos 
+sobre vendas, impostos sobre bens e serviços e impostos sobre o valor acrescentado são excluídos do rédito. Num relacionamento de agência, 
+o rédito é a quantia de comissão. As quantias cobradas por conta do 
+mandante não são rédito.
+Venda de bens
+12.4 — O rédito proveniente da venda de bens deve ser reconhecido 
+quando tiverem sido satisfeitas todas as condições seguintes:
+a) A entidade tenha transferido para o comprador os riscos e vantagens 
+significativos da propriedade dos bens;
+b) A entidade não mantenha envolvimento continuado de gestão 
+com grau geralmente associado com a posse, nem o controlo efetivo 
+dos bens vendidos;
+c) A quantia do rédito possa ser fiavelmente mensurada;
+d) Seja provável que os benefícios económicos associados com a 
+transação fluam para a entidade; e
+e) Os custos incorridos ou a serem incorridos referentes à transação 
+possam ser fiavelmente mensurados.
+Prestação de serviços
+12.5 — Quando o desfecho de uma transação que envolva a prestação 
+de serviços possa ser fiavelmente estimado, o rédito associado com a 
+transação deve ser reconhecido com referência à fase de acabamento 
+da transação à data do balanço. O desfecho de uma transação pode 
+ser fiavelmente estimado quando todas as condições seguintes forem 
+satisfeitas:
+a) A quantia de rédito possa ser fiavelmente mensurada;b) Seja provável que os benefícios económicos associados à transação 
+fluam para a entidade;
+c) A fase de acabamento da transação à data do balanço possa ser 
+fiavelmente mensurada; e
+d) Os custos incorridos com a transação e os custos para concluir a 
+transação possam ser fiavelmente mensurados.
+12.6 — Quando o desfecho da transação que envolva a prestação 
+de serviços não possa ser estimado com fiabilidade, o rédito somente deve ser reconhecido na medida em que sejam recuperáveis os gastos reconhecidos.
+Juros, royalties  e dividendos
+12.7 — O rédito proveniente do uso por terceiros de ativos da entidade 
+que produzam juros, royalties  e dividendos deve ser reconhecido nas 
+bases estabelecidas no parágrafo 12.8, quando:
+a) Seja provável que os benefícios económicos associados com a 
+transação fluam para a entidade; e
+b) A quantia do rédito possa ser fiavelmente mensurada.
+12.8 — O rédito deve ser reconhecido nas seguintes bases:
+a) Os juros devem ser reconhecidos utilizando o regime do acrés-
+cimo;
+b) Os royalties devem ser reconhecidos segundo o regime do acrés-
+cimo, de acordo com a substância do acordo relevante; e
+c) Os dividendos devem ser reconhecidos quando for estabelecido o 
+direito do acionista receber o pagamento.
+13 — Provisões
+Reconhecimento
+13.1 — Só devem ser reconhecidas provisões quando cumulativa-
+mente:
+a) Uma entidade tenha uma obrigação presente (legal ou construtiva) 
+como resultado de um acontecimento passado;
+b) Seja provável que um exfluxo de recursos que incorporem benefí-
+cios económicos será necessário para liquidar a obrigação; e
+c) Possa ser feita uma estimativa fiável da quantia da obrigação.
+13.2 — Presume -se que um acontecimento passado dá origem a uma 
+obrigação presente se, tendo em conta toda a evidência disponível, for 
+mais provável do que não que tal obrigação presente exista à data do balanço.
+13.3 — O uso de estimativas é uma parte essencial da preparação 
+de demonstrações financeiras e não prejudica a sua fiabilidade. Isto é especialmente verdade no caso de provisões, que pela sua natureza são 
+mais incertas do que a maior parte de outros elementos do balanço. Uma 
+entidade pode, normalmente, fazer uma estimativa da obrigação que seja 
+suficientemente fiável para usar ao reconhecer uma provisão.
+13.4 — Uma provisão deve ser usada somente para os dispêndios 
+relativos aos quais a provisão foi originalmente reconhecida.
+13.5 — Não devem ser reconhecidas provisões para perdas operacio-
+nais futuras, uma vez que estas não satisfazem a definição de passivo 
+nem os critérios gerais de reconhecimento estabelecidos.
+Mensuração
+13.6 — A quantia reconhecida como uma provisão deve ser a quan-
+tia estimada que uma entidade racionalmente pagaria para liquidar a 
+obrigação à data do balanço ou para a transferir para uma terceira parte 
+nesse momento.
+13.7 — As provisões devem ser revistas à data de cada balanço e 
+ajustadas para refletir a melhor estimativa corrente. Se deixar de ser 
+provável que será necessário um exfluxo de recursos que incorporem 
+benefícios económicos futuros para liquidar a obrigação, a provisão 
+deve ser revertida.
+14 — Contabilização dos subsídios atribuídos
+por entidades públicas
+Reconhecimento
+14.1 — Os subsídios atribuídos por entidades públicas só devem ser 
+reconhecidos após existir segurança de que:
+a) A entidade beneficiária cumprirá as condições a eles associadas; e
+b) Os subsídios serão recebidos.20748  Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+14.2 — A maneira pela qual um subsídio é recebido não afeta o 
+método contabilístico a ser adotado com respeito ao subsídio. Por con-
+seguinte, um subsídio é contabilizado da mesma maneira, quer ele seja recebido em dinheiro, quer como redução de um passivo para com a entidade pública.
+14.3 — Um empréstimo perdoável concedido por entidades públicas 
+(subsídio a fundo perdido) é tratado como um subsídio atribuído por entidades públicas quando haja segurança razoável de que a entidade beneficiária satisfará as condições de perdão do empréstimo.
+14.4 — Os subsídios atribuídos por entidades públicas que sejam não 
+reembolsáveis e relacionados com ativos fixos tangíveis ou intangíveis 
+devem ser inicialmente reconhecidos nos capitais próprios e, subsequen-
+temente, imputados numa base sistemática como rendimentos, durante os períodos necessários para balanceá -los com os gastos relacionados 
+que se pretende que eles compensem. Considera -se que os subsídios 
+são não reembolsáveis quando exista um acordo individualizado de 
+concessão do subsídio a favor da entidade, se tenham cumprido as 
+condições estabelecidas para a sua concessão e não existam dúvidas de que os subsídios serão recebidos.
+14.5 — Os subsídios atribuídos por entidades públicas que sejam 
+reembolsáveis são contabilizados como passivos. No caso de estes 
+subsídios adquirirem a condição de não reembolsáveis, deverão passar a ter o tratamento referido no ponto 14.4.
+14.6 — Um subsídio pode ser concedido a uma entidade como forma 
+de compensar gastos ou perdas incorridos num período anterior. Se tal suceder, o subsídio é reconhecido como rendimento do período em que se tornar recebível.
+Apresentação de subsídios relacionados com ativos
+14.7 — Os subsídios atribuídos por das entidades públicas que sejam 
+não reembolsáveis e relacionados com ativos fixos tangíveis ou intan-
+gíveis, incluindo os subsídios não monetários, devem ser apresentados 
+no balanço como componente do capital próprio, e imputados como 
+rendimentos do período, na proporção das depreciações e amortizações efetuadas em cada período.
+Apresentação de subsídios relacionados com rendimentos
+14.8 — Os subsídios que são concedidos para assegurar uma rentabi-
+lidade mínima ou compensar deficits de exploração de um dado período 
+imputam -se como rendimentos desse período, salvo se se destinarem a 
+financiar deficits  de exploração de exercícios futuros, caso em que se 
+imputam aos referidos períodos. Estes subsídios devem ser apresentados 
+separadamente como tal na demonstração dos resultados.
+Reembolso de subsídios atribuídos por entidades públicas
+14.9 — Um subsídio atribuído por entidades públicas que se torne 
+reembolsável deve ser contabilizado como uma revisão de uma esti-
+mativa contabilística (ver capítulo 6 desta Norma). O reembolso de um 
+subsídio relacionado com rendimentos, ou relacionado com ativos, deve 
+ser aplicado em primeiro lugar em contrapartida de qualquer crédito 
+diferido não amortizado registado com respeito ao subsídio. Na medida 
+em que o reembolso exceda tal crédito diferido, ou quando não exista 
+crédito diferido, o reembolso deve ser reconhecido imediatamente como 
+um gasto.
+15 — Os efeitos de alterações em taxas de câmbio
+Reconhecimento inicial
+15.1 — Uma transação em moeda estrangeira é uma transação que 
+seja denominada ou exija liquidação numa moeda estrangeira, incluindo 
+transações em que:
+a) Uma entidade compra ou vende bens ou serviços cujo preço seja 
+denominado numa moeda estrangeira;
+b) Uma entidade pede emprestado ou empresta fundos quando as 
+quantias a pagar ou a receber sejam estabelecidas numa moeda estran-
+geira; ou
+c) Uma entidade, por qualquer outra forma, adquire ou aliena ativos 
+ou incorre ou liquida passivos, denominados numa moeda estrangeira.
+15.2 — Uma transação em moeda estrangeira deve ser registada, no 
+momento do reconhecimento inicial na moeda funcional, pela aplicação à 
+quantia de moeda estrangeira da taxa de câmbio entre a moeda funcional 
+e a moeda estrangeira à data da transação.Relato em datas de balanço subsequentes
+15.3 — À data de cada balanço, exceto se a taxa de câmbio estiver 
+contratualmente fixada:
+a) Os itens monetários em moeda estrangeira devem ser transpostos 
+pelo uso da taxa de fecho;
+b) Os itens não monetários que sejam mensurados em termos de custo 
+histórico numa moeda estrangeira devem ser transpostos pelo uso da 
+taxa de câmbio à data da transação.
+Reconhecimento de diferenças de câmbio
+15.4 — As diferenças de câmbio resultantes da liquidação de itens 
+monetários ou do relato de itens monetários de uma empresa a taxas 
+diferentes das que foram inicialmente registadas durante o período, ou relatadas em demonstrações financeiras anteriores, devem ser reconhe-cidas nos resultados do período em que ocorram.
+15.5 — Quando a transação é liquidada num período contabilístico 
+subsequente àquele em que ocorreu, a diferença de câmbio reconhecida 
+em cada período até à data de liquidação é determinada pela alteração nas taxas de câmbio durante cada período.
+16 — Impostos sobre o rendimento
+16.1 — O tratamento contabilístico dos impostos sobre o rendimento 
+é o método do imposto a pagar.
+16.2 — Para as finalidades deste capítulo, o termo “impostos sobre 
+o rendimento” inclui todos os impostos baseados em lucros tributáveis, 
+bem como as tributações autónomas, que sejam devidos em qualquer 
+jurisdição fiscal.
+Reconhecimento e mensuração
+16.3 — Os impostos sobre o rendimento para períodos correntes e 
+anteriores devem, na medida em que não estejam pagos, ser reconhecidos 
+como passivos. Se a quantia já paga com respeito a períodos correntes e 
+anteriores exceder a quantia devida para esses períodos, o excesso deve 
+ser reconhecido como um ativo.
+16.4 — Os passivos (ativos) por impostos sobre o rendimento dos 
+períodos correntes e anteriores devem ser mensurados pela quantia que 
+se espera que seja paga (recuperada de) às autoridades fiscais, usando as taxas fiscais (e leis fiscais) aprovadas à data do balanço.
+16.5 — As quantias de impostos sobre o rendimento relacionadas 
+com as transações correntes ou outros acontecimentos geradores de 
+imposto no período deverão ser contabilizadas como um gasto a afetar os resultados do período.
+Apresentação
+16.6 — O gasto de impostos sobre o rendimento deve ser apresentado 
+na demonstração dos resultados.
+17 — Ativos e passivos financeiros
+17.1 — Este capítulo aplica -se aos ativos e passivos financeiros de-
+correntes de relacionamentos contratuais de aquisição e venda de bens e 
+serviços e de outros direitos e obrigações relacionados com a atividade 
+económica da entidade, designadamente clientes, fornecedores, finan-
+ciamentos concedidos e obtidos, participações de capital, locações, 
+seguros e outras contas e receber e a pagar relativas à sua atividade 
+corrente, de financiamento e de investimento. Este capítulo não se 
+aplica a direitos e obrigações de natureza fiscal e parafiscal e a outros direitos e obrigações em que o Estado ou entes públicos intervêm no uso de poderes de autoridade.
+Reconhecimento e mensuração
+17.2 — Uma entidade deve reconhecer um ativo financeiro ou um 
+passivo financeiro apenas quando se torne uma parte de disposições 
+contratuais geradoras de direitos e obrigações.
+17.3 — Uma entidade deve mensurar os seus ativos e passivos fi-
+nanceiros ao custo, entendido como a quantia nominal dos direitos e 
+obrigações contratuais envolvidos. Ativos financeiros relativos a con-tas a receber e a participações de capital são mensurados ao custo de aquisição, sujeito a ajustamentos subsequentes derivadas de eventuais 
+imparidades.
+17.4 — Uma entidade deve desreconhecer um ativo financeiro (ou 
+parte de um ativo financeiro) apenas quando os direitos contratuais aos recebimentos resultantes do ativo financeiro se realizam, expiram ou são transferidos para outra entidade.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20749
+17.5 — Uma entidade deve desreconhecer um passivo financeiro (ou 
+parte de um passivo financeiro) apenas quando este se extinguir, isto é, 
+quando a obrigação estabelecida no contrato seja liquidada, cancelada ou expire.
+17.6 — Para determinar se um ativo financeiro está ou não com 
+imparidade, uma entidade deve rever a sua quantia escriturada, bem 
+como determinar a sua quantia recuperável e reconhecer (ou reverter o reconhecimento de) uma perda por imparidade, designadamente em contas a receber (por exemplo, clientes).
+17.7 — A evidência objetiva de que um ativo financeiro pode estar 
+em imparidade é usualmente mostrada, por exemplo, pelas dificuldades 
+financeiras ou quebra contratual do devedor ou do emitente, ou por 
+cotação oficial inferior ao custo de aquisição.
+18 — Benefícios dos empregados
+18.1 — Os benefíci os dos empregados aos quais este capítulo se 
+aplica são os seguintes:
+a) Benefícios de curto prazo, tais como salários, ordenados e contri-
+buições para a segurança social, licença anual paga e licença por doença 
+paga, participação nos lucros e gratificações (se pagáveis dentro de doze 
+meses a contar do final do período) e benefícios não monetários (tais 
+como cuidados médicos, alojamento, automóveis e bens ou serviços 
+gratuitos ou subsidiados) relativos aos empregados; e
+b) Benefícios de cessação de emprego.
+18.2 — Um empregado pode proporcionar serviços a uma entidade 
+numa base de tempo completo, de tempo parcial, permanente, aciden-
+tal ou temporária. Para os fins deste capítulo, os empregados incluem 
+diretores e outro pessoal de gerência.
+Reconhecimento e mensuração
+18.3 — Em termos gerais, uma entidade deve reconhecer:a) Um gasto quando consumir o benefício económico proveniente 
+do serviço proporcionado por um empregado em troca desses benefí-
+cios; e
+b) Um passivo quando um empregado tiver prestado serviços em 
+troca de benefícios a pagar no futuro, ou quando ainda não tiverem sido 
+pagos os serviços passados.
+Benefícios a curto prazo
+18.4 — Quando um empregado tenha prestado serviço a uma entidade 
+durante um período contabilístico, a entidade deve reconhecer a quan-
+tia nominal de benefícios a curto prazo que espera ser paga em troca 
+desse serviço, incluindo a retribuição relativa aos direitos adquiridos 
+referentes a férias:
+a) Como um gasto, salvo se outro capítulo da presente Norma exigir 
+ou permitir a inclusão dos benefícios no custo de um ativo; e
+b) Como um passivo (gasto acrescido), após dedução de qualquer 
+quantia já paga. Se a quantia já paga exceder a quantia nominal dos 
+benefícios, uma entidade deve reconhecer esse excesso como um ativo 
+(gasto pré -pago) na extensão de que o pré -pagamento conduzirá, por exemplo, a uma redução em futuros pagamentos ou a uma restituição 
+de dinheiro.
+Participação nos lucros e gratificações
+18.5 — Uma entidade deve reconhecer o custo esperado dos pagamen-
+tos de participação nos lucros e gratificações quando, e só quando:
+a) A entidade tenha uma obrigação presente de fazer tais pagamentos 
+em consequência de acontecimentos passados; e
+b) Possa ser feita uma estimativa fiável da obrigação.
+18.6 — Uma obrigação por participação nos lucros e gratificações 
+resulta do serviço dos empregados e não de uma transação com os 
+proprietários da entidade. Por conseguinte, uma entidade reconhece o 
+custo por essa participação nos lucros e gratificações não como uma 
+distribuição do lucro líquido mas como um gasto.
+Benefícios de cessação de emprego
+18.7 — Os benefícios de cessação de emprego não proporcionam a 
+uma entidade futuros benefícios económicos e são reconhecidos como 
+um gasto imediatamente.
+19 — Data de eficácia
+19.1 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.19.2 — Aquando da utilização desta Norma no período iniciado em 
+ou após 1 de janeiro de 2016, as entidades deverão proceder à sua 
+aplicação prospetiva e divulgar no Anexo as quantias que não sejam 
+comparáveis.
+19.3 — Esta Norma substitui a NC -ME — Norma Contabilística 
+para Microentidades, constante do Aviso n.º 6726 -A/2011, publicado no 
+Diário da República, 2.ª série, n.º 51, de 14 de março de 2011.
+20 de julho de 2015. — O Secretário -Geral do Ministério das Finan-
+ças, Rogério Manuel Aroso Peixoto Rodrigues .
+208811556 

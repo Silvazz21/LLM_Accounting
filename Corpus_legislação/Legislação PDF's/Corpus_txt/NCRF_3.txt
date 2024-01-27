@@ -1,0 +1,328 @@
+Norma Contabilística e de Relato Financeiro 3
+Adoção pela primeira vez das Normas Contabilísticas
+e de Relato Financeiro (NCRF)
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro 
+(NCRF) é assegurar que as primeiras demonstrações financeiras de uma 
+entidade de acordo com as NCRF contenham informação que:
+a) Seja transparente para os utentes e comparável em todos os períodos 
+apresentados;
+b) Proporcione um ponto de partida adequado para a contabilização 
+segundo as NCRF; e
+c) Possa ser gerada a um custo que não exceda os benefícios.
+Âmbito
+2 — Uma entidade deve aplicar esta Norma nas suas primeiras de-
+monstrações financeiras de acordo com as NCRF.
+3 — As primeiras demonstrações financeiras de uma entidade de 
+acordo com as NCRF são as primeiras demonstrações financeiras anuais 
+nas quais a entidade adota as NCRF, para o que emite uma declaração 
+explícita dessa situação.
+Definições
+4 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Balanço de abertura de acordo com as NCRF: é o balanço de uma 
+entidade (publicado ou não) à data de transição para as NCRF.
+Custo considerado: é a quantia usada como substituto para o custo 
+ou para o custo depreciado numa data determinada. Uma depreciação 
+ou amortização posterior assume que a entidade tinha inicialmente 
+reconhecido o ativo ou o passivo numa determinada data e que o seu custo era igual ao custo considerado.
+Data de transição para as NCRF: é a data de início do primeiro 
+período para o qual a entidade apresenta informação comparativa nas suas primeiras demonstrações financeiras de acordo com as NCRF.
+PCGA anteriores: correspondem à base de contabilidade que um 
+adotante pela primeira vez utilizava imediatamente antes de adotar as NCRF.
+Primeiras demonstrações financeiras de acordo com as NCRF: são 
+as primeiras demonstrações financeiras anuais em que uma entidade 
+adotou as NCRF.
+Reconhecimento e mensuração
+Balanço de abertura de acordo com as NCRF
+5 — Uma entidade deve preparar um balanço de abertura de acordo 
+com as NCRF na data de transição para as NCRF. Este é o ponto de 
+partida da sua contabilização de acordo com as NCRF.
+Políticas contabilísticas
+6 — Uma entidade deve usar as mesmas políticas contabilísticas, de 
+acordo com as NCRF, no seu balanço de abertura e em todos os períodos 
+apresentados nas suas primeiras demonstrações financeiras.
+7 — Com as exceções referidas nos parágrafos 9 a 11, uma entidade 
+deve, no seu balanço de abertura de acordo com as NCRF:
+a) Reconhecer todos os ativos e passivos cujo reconhecimento seja 
+exigido pelas NCRF;
+b) Não reconhecer itens como ativos ou passivos se as NCRF não 
+permitirem esse reconhecimento;
+c) Reclassificar itens que reconheça segundo os PCGA anteriores 
+como um tipo de ativo, passivo ou componente do capital próprio, mas 
+que são um tipo diferente de ativo, passivo ou componente do capital 
+próprio segundo as NCRF; e
+d) Aplicar as NCRF na mensuração de todos os ativos e passivos 
+reconhecidos.
+8 — As políticas contabilísticas que uma entidade usa no seu balanço 
+de abertura de acordo com as NCRF podem diferir daquelas que usou 
+para a mesma data utilizando os PCGA anteriores. Os ajustamentos 
+resultantes derivam de acontecimentos e transações anteriores à data 
+da transição para as NCRF. Por conseguinte, uma entidade deverá re-
+conhecer esses ajustamentos diretamente nos resultados transitados 
+(ou, se apropriado, noutro item do capital próprio) à data da transição 
+para as NCRF.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20755
+Exceções
+9 — Esta Norma estabelece duas categorias de exceções ao princípio 
+de que o balanço de abertura de acordo com as NCRF deve estar con-
+forme com cada uma das NCRF:
+a) Isenções de alguns requisitos de outras NCRF; e
+b) Proibições à aplicação retrospetiva de alguns aspetos de outras 
+NCRF.
+Caso um adotante pela primeira vez exerça a opção prevista no pará-
+grafo 2 da NCRF 27 — Instrumentos Financeiros, devem ser considera-
+das as respetivas isenções e proibições, relacionadas com esses instru-
+mentos financeiros, previstas nas normas internacionais de contabilidade 
+adotadas nos termos do Regulamento (CE) n.º 1606/2002.
+Isenções
+10 — Em função das situações concretas que se venham a verificar 
+nas operações de transição de cada entidade, esta pode optar pelo uso 
+de uma ou mais das isenções seguintes:
+a) Concentrações de atividades empresariais: um adotante pela pri-
+meira vez pode optar por não aplicar a NCRF 14 — Concentrações de 
+Atividades Empresariais retrospetivamente a concentrações de atividades 
+empresariais passadas (concentrações de atividades empresariais que 
+ocorreram antes da data de transição para as NCRF). Contudo, se um adotante pela primeira vez reexpressar qualquer concentração de ativi-
+dades empresariais para cumprir a NCRF 14 deve reexpressar todas as 
+concentrações de atividades empresariais posteriores e deve também 
+aplicar a NCRF 15 — Investimentos em Subsidiárias e Consolidação a 
+partir da mesma data. Uma entidade não tem de aplicar a NCRF 23 — Os 
+Efeitos de Alterações em Taxas de Câmbio retrospetivamente aos ajus-
+tamentos no justo valor e ao goodwill  resultantes de concentrações de 
+atividades empresariais ocorridas antes da data de transição para as 
+NCRF. Se a entidade não aplicar a NCRF 23 retrospetivamente a esses 
+ajustamentos no justo valor e ao goodwill,  deve tratá -los como ativos 
+e passivos da entidade em vez de os tratar como ativos e passivos 
+da adquirida. Assim, esses ajustamentos no justo valor e goodwill  ou 
+estão já expressos na moeda funcional da entidade ou são itens não 
+monetários em moeda estrangeira, que são relatados usando a taxa de 
+câmbio aplicada de acordo com os PCGA anteriores. A isenção para 
+concentrações de atividades empresariais passadas também se aplica a 
+aquisições passadas de investimentos em associadas e de interesses em 
+empreendimentos conjuntos. Além disso, a data selecionada referida 
+anteriormente aplica -se igualmente a todas estas aquisições;
+b) Justo valor ou revalorização como custo considerado: uma enti-
+dade pode optar por mensurar um item de ativo fixo tangível na data de 
+transição para as NCRF pelo seu justo valor e usar esse justo valor como 
+custo considerado nessa data. Um adotante pela primeira vez pode optar 
+por usar uma revalorização de um item de ativo fixo tangível com base 
+nos PCGA anteriores, antes ou na data de transição para as NCRF, como 
+custo considerado à data da revalorização, caso a revalorização seja, à 
+data da mesma, globalmente comparável ao: i) justo valor; ou ii) custo 
+ou custo depreciado de acordo com as NCRF, ajustado para refletir, 
+por exemplo, as alterações num índice de preços geral ou específico. 
+As opções enunciadas anteriormente estão também disponíveis para: 
+i) propriedade de investimento, caso a entidade opte por usar o modelo 
+do custo apresentado na NCRF 11 — Propriedades de Investimento; 
+eii) ativos intangíveis que satisfaçam os critérios de reconhecimento 
+enunciados na NCRF 6 — Ativos Intangíveis (incluindo mensuração 
+fiável do custo original) e os critérios enunciados na NCRF 6 para efeitos 
+de revalorização (incluindo a existência de um mercado ativo). Uma 
+entidade não deve usar estas opções para outros ativos ou passivos;
+c) Diferenças de transposição cumulativas: a NCRF 23 exige que 
+uma entidade: i) reconheça algumas diferenças de transposição num 
+componente separado do capital próprio; e ii) aquando da alienação de 
+uma unidade operacional estrangeira, reclassifique a diferença de trans-
+posição cumulativa dessa unidade operacional estrangeira (incluindo, 
+caso se aplique, ganhos e perdas em instrumentos de cobertura relacio-
+nados) do capital próprio para os resultados, como parte do ganho ou 
+perda resultante da alienação. Contudo, um adotante pela primeira vez 
+não necessita de cumprir estes requisitos relativamente às diferenças 
+de transposição cumulativas que existiam à data de transição para as NCRF. Caso um adotante pela primeira vez use esta isenção: i) as dife-
+renças de transposição cumulativas de todas as unidades operacionais estrangeiras são consideradas como sendo zero à data de transição para 
+as NCRF; e ii) o ganho ou perda resultante de uma alienação posterior 
+de qualquer unidade operacional estrangeira deve excluir as diferenças de transposição que tenham surgido antes da data de transição para as NCRF e deve incluir as diferenças de transposição posteriores;d) Instrumentos financeiros compostos: a NCRF 27 exige que uma 
+entidade divida no início os instrumentos financeiros compostos em com-
+ponentes separados do passivo e do capital próprio. Caso o componente 
+do passivo já não esteja pendente, a aplicação retrospetiva da NCRF 27 
+implica a separação em duas partes do capital próprio. A primeira parte é incluída nos resultados transitados e representa os juros cumulativos 
+acrescidos sobre o componente do passivo. A outra parte representa 
+o componente original do capital próprio. Contudo, de acordo com a presente NCRF, se o componente do passivo já não estiver pendente à data da transição para as NCRF, um adotante pela primeira vez não tem 
+de separar estas duas partes;
+e) Locações: na determinação sobre se um acordo contém uma loca-
+ção, o adotante pela primeira vez não terá de reavaliar essa determinação 
+no momento da adoção das NCRF caso essa determinação já tivesse 
+sido considerada em conformidade com os PCGA anteriores e tivesse 
+conduzido ao mesmo resultado que seria obtido caso fossem utilizadas as disposições do SNC; e
+f) Custos de empréstimos obtidos: um adotante pela primeira vez pode 
+optar por aplicar os requisitos da NCRF 10 — Custos de Empréstimos Obtidos a partir da data de transição ou a partir de uma data anterior. A partir da data em que uma entidade que aplique esta isenção começa a 
+aplicar a NCRF 10, essa entidade: a) não deve reexpressar a componente 
+dos custos de contração de empréstimos que foi objeto de capitalização de 
+acordo com os PCGA anteriores e que foi incluída no valor contabilístico 
+dos ativos nessa data; e b) deve contabilizar os custos de empréstimos 
+obtidos incorridos em ou após essa data de acordo com a NCRF 10, 
+incluindo os custos de empréstimos obtidos incorridos em ou após essa 
+data em ativos elegíveis já em construção.
+Proibições
+11 — Esta Norma proíbe a aplicação retrospetiva das seguintes ma-
+térias de outras NCRF:
+a) Desreconhecimento de ativos financeiros e passivos financeiros: 
+uma entidade deve aplicar os requisitos de desreconhecimento previstos 
+na NCRF 27 prospetivamente às transações que ocorram em ou após a 
+data de transição para as NCRF. Contudo, uma entidade pode aplicar os 
+requisitos de desreconhecimento retrospetivamente a partir de uma data 
+à escolha da entidade, desde que a informação necessária para aplicar a 
+NCRF 27 a ativos financeiros e passivos financeiros desreconhecidos como resultado de transações passadas tenha sido obtida no momento da contabilização inicial dessas transações;
+b) Contabilidade de cobertura: conforme exigido pela NCRF 27, à 
+data da transição para as NCRF, uma entidade deve: i) mensurar todos 
+os derivados pelo justo valor; e ii) eliminar todos os ganhos e perdas 
+diferidos decorrentes de derivados que tenham sido relatados de acordo 
+com os PCGA anteriores como se fossem ativos ou passivos. Uma 
+entidade não deve refletir no seu balanço de abertura de acordo com as 
+NCRF um relacionamento de cobertura de um tipo que não se qualifique 
+para contabilidade de cobertura de acordo com a NCRF 27. Contudo, 
+se uma entidade designar uma posição líquida como um item coberto nos termos dos PCGA anteriores, poderá designar um item individual 
+dentro dessa posição líquida como um item coberto nos termos das 
+NCRF, desde que não o faça após a data de transição para as NCRF. Se, 
+antes da data da transição para as NCRF, uma entidade tivesse designado 
+uma transação como uma cobertura mas a cobertura não satisfizesse 
+as condições da contabilidade de cobertura da NCRF 27, a entidade 
+deve aplicar os parágrafos 40 e 44 da NCRF 27 para descontinuar a 
+contabilidade de cobertura. As transações celebradas antes da data de transição para as NCRF não devem ser retrospetivamente designadas 
+como coberturas;
+c) Estimativas: as estimativas de uma entidade segundo as NCRF, à 
+data da transição para as NCRF, devem ser consistentes com as esti-mativas feitas para a mesma data segundo os PCGA anteriores (depois 
+dos ajustamentos para refletir qualquer diferença nas políticas con-
+tabilísticas), salvo se existir prova objetiva de que essas estimativas 
+estavam erradas;
+d) Interesses que não controlam: Um adotante pela primeira vez deve 
+aplicar os seguintes requisitos da NCRF 15 prospetivamente a partir da 
+data de transição para as NCRF:
+i) O requisito do parágrafo 22 da NCRF 15 de que os resultados são 
+atribuídos aos detentores de capital da empresa -mãe e aos interesses 
+que não controlam;
+ii) Os requisitos dos parágrafos 24 e 25 da NCRF 15 relativos à con-
+tabilização de alterações no interesse de propriedade da empresa -mãe numa subsidiária que não resultem numa perda de controlo; e
+iii) Os requisitos nos parágrafos 28 e 29 da NCRF 15 relativos à 
+contabilização de uma perda de controlo sobre uma subsidiária e os 
+requisitos relacionados previstos no parágrafo 9 da NCRF 8.20756 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+Contudo, se um adotante pela primeira vez optar por aplicar a NCRF 14 
+retrospetivamente a concentrações de atividades empresariais passadas, 
+deve também aplicar a NCRF 15 de acordo com o parágrafo 10( a)
+desta NCRF; e
+e) Empréstimos de entidades públicas: um adotante pela primeira vez 
+deve aplicar os requisitos da NCRF 27 e da NCRF 22 — Subsídios e 
+Outros Apoios das Entidades Públicas prospetivamente aos empréstimos 
+de entidades públicas existentes à data de transição para as NCRF e 
+não deve reconhecer o benefício correspondente a esses empréstimos 
+de entidades públicas a uma taxa de juro inferior à do mercado como subsídios de entidades públicas. Contudo, uma entidade pode aplicar retrospetivamente os requisitos da NCRF 27 e da NCRF 22 a qualquer empréstimo de entidades públicas anterior à data de transição para as 
+NCRF, desde que as informações necessárias para o fazer tenham sido 
+obtidas no momento da contabilização inicial desse empréstimo.
+Apresentação e divulgações
+12 — Esta Norma não contempla isenções relativamente aos requisitos 
+de apresentação e divulgação constantes de outras NCRF e do Anexo.
+Informação comparativa
+13 — As primeiras demonstrações financeiras de acordo com as NCRF 
+de uma entidade devem incluir, pelo menos, um ano de informação 
+comparativa segundo as NCRF.
+Explicação sobre a transição para as NCRF
+14 — Uma entidade deve explicar de que forma a transição dos PCGA 
+anteriores para as NCRF afetou o relato da sua posição financeira, do 
+seu desempenho financeiro e dos seus fluxos de caixa. Para tanto, as 
+primeiras demonstrações financeiras de acordo com as NCRF de uma 
+entidade devem incluir:
+a) A reconciliação do seu capital próprio relatado segundo os PCGA 
+anteriores com o seu capital próprio de acordo com as NCRF para as 
+duas datas seguintes:
+i) A data de transição para as NCRF; e
+ii) O final do último período apresentado nas mais recentes demons-
+trações financeiras anuais da entidade, elaboradas de acordo com os 
+PCGA anteriores;
+b) A reconciliação do resultado relatado segundo os PCGA anteriores, 
+relativo ao último período nas demonstrações financeiras anuais mais 
+recentes da entidade. O ponto de partida para essa reconciliação deve 
+ser o resultado de acordo com os PCGA anteriores do mesmo período; e
+c) Caso se tenham reconhecido ou revertido quaisquer perdas por 
+imparidade pela primeira vez ao preparar o balanço de abertura de acordo 
+com as NCRF, a entidade deve apresentar as divulgações relacionadas 
+com a NCRF 12 — Imparidade de Ativos que seriam exigidas se a 
+entidade tivesse reconhecido essas perdas por imparidade ou reversões 
+no período que começa na data de transição para as NCRF.
+15 — Caso uma entidade apresente uma demonstração de fluxos de 
+caixa segundo os PCGA anteriores, deve também explicar os ajusta-
+mentos materiais na demonstração de fluxos de caixa.
+16 — Caso uma entidade dê conta de erros cometidos segundo os 
+PCGA anteriores, as reconciliações exigidas nos parágrafos 14( a) e 14( b)
+devem distinguir entre a correção desses erros e as alterações às políticas 
+contabilísticas.
+17 — A NCRF 4 — Politicas Contabilísticas, Alterações em Esti-
+mativas Contabilísticas e Erros não se aplica às alterações nas políticas 
+contabilísticas efetuadas por uma entidade quando adota as NCRF ou às 
+alterações nessas políticas até que a entidade apresente as suas primeiras 
+demonstrações financeiras de acordo com as NCRF. Por essa razão, os 
+requisitos da NCRF 4 relativos às alterações das políticas contabilísticas 
+não se aplicam às primeiras demonstrações financeiras de uma entidade 
+de acordo com as NCRF.
+18 — Se uma entidade não apresentou demonstrações financeiras 
+relativas aos períodos anteriores, as suas primeiras demonstrações fi-
+nanceiras de acordo com as NCRF devem divulgar esse facto.
+Data de eficácia
+19 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+20 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam 
+comparáveis.
+21 — Esta Norma substitui a NCRF 3 Adoção pela Primeira Vez 
+das NCRF, constante do Aviso n.º 15655/2009, publicado no Diário da 
+República, 2.ª série, n.º 173, de 7 de setembro de 2009.
+Apêndice
+Indicações sobre a preparação do balanço de abertura
+de acordo com as NCRF
+1 — Ao preparar o balanço de abertura de acordo com as NCRF, 
+uma entidade deve ter em atenção as seguintes quatro regras, exceto 
+nos casos em que esta Norma permita exceções ou proíba aplicação 
+retrospetiva:
+a) Reconhecimento de todos os ativos e passivos, nos termos em que 
+tal seja requerido pelas NCRF;
+b) Desreconhecimento de ativos ou passivos que, nos termos das 
+NCRF não sejam de reconhecer como tal;
+c) Reclassificação de itens que eram reconhecidos como determinado 
+tipo de ativo, passivo ou capital próprio no âmbito dos PCGA anteriores, 
+mas que devem ser reconhecidos como um tipo diferente de acordo 
+com as NCRF;
+d) Mensuração de todos os ativos e passivos reconhecidos, de acordo 
+com os princípios estabelecidos nas NCRF.
+Reconhecimento
+2 — É expectável que, de acordo com as NCRF, muitas entidades 
+reconheçam ativos e passivos que não eram reconhecidos como tal 
+segundo os PCGA anteriores. Algumas áreas em que tal pode ocorrer 
+são, por exemplo:
+a) Ativos intangíveis adquiridos;
+b) Ativos e passivos relacionados com locações financeiras;
+c) Exploração e avaliação de recursos minerais;
+d) Ativos biológicos;
+e) Provisões para garantias a clientes, reestruturação e matérias am-
+bientais;
+f) Instrumentos financeiros; e
+g) Benefícios dos empregados.
+Desreconhecimento
+3 — Exemplos de ativos ou passivos que, sendo como tal reconhecidos 
+segundo os PCGA anteriores, não o são de acordo com as NCRF, podem 
+ocorrer, por exemplo, nas seguintes áreas:
+a) Intangíveis gerados internamente;
+b) Despesas de investigação; e
+c) Contratos de construção.
+Reclassificação
+4 — Ativos e passivos que podem ter de ser reclassificados referir-
+-se -ão, por exemplo, a:
+a) Ativos detidos para venda;
+b) Unidades operacionais descontinuadas;
+c) Investimentos em subsidiárias, associadas e empreendimentos 
+conjuntos;
+d) Ativos biológicos; e
+e) Subsídios e apoios das entidades públicas.
+Mensuração
+5 — Poderão ter de ser mensurados segundo critérios diferentes itens 
+relacionados, designadamente, com:
+a)Goodwill;
+b) Ativos e passivos relacionados com locações financeiras;
+c) Propriedades de investimento;
+d) Imparidade de ativos;
+e) Exploração e avaliação de recursos minerais;
+f) Ativos biológicos;
+g) Contratos de construção;
+h) Provisões para garantias a clientes, reestruturação e matérias am-
+bientais;
+i) Instrumentos financeiros; e
+j) Benefícios dos empregados.

@@ -1,0 +1,483 @@
+20818 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+Norma Contabilística e de Relato Financeiro 23
+Os Efeitos de Alterações em Taxas de Câmbio
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro é 
+o de prescrever como se devem incluir transações em moeda estrangeira 
+e unidades operacionais estrangeiras nas demonstrações financeiras de 
+uma entidade e como se deve transpor demonstrações financeiras para uma moeda de apresentação.
+Uma entidade pode levar a efeito atividades no estrangeiro de duas 
+maneiras:
+a) Pode ter transações em moeda estrangeira, ou
+b) Pode ter unidades operacionais no estrangeiro.
+Além disso, uma entidade pode apresentar as suas demonstrações 
+financeiras numa moeda estrangeira.
+2 — As principais questões prendem -se com a(s) taxa(s) de câmbio 
+a usar e com o relato dos efeitos das alterações nas taxas de câmbio nas demonstrações financeiras.
+Âmbito
+3 — Esta Norma deve ser aplicada:
+a) Na contabilização de transações e saldos em moedas estrangeiras;
+b) Na transposição das demonstrações financeiras de unidades opera-
+cionais estrangeiras que sejam incluídas nas demonstrações financeiras 
+da entidade pela consolidação integral, pela consolidação proporcional ou pelo método de equivalência patrimonial; e
+c) Na transposição dos resultados e da posição financeira de uma 
+entidade para a moeda de apresentação.
+4 — Além disso, esta Norma aplica -se, também, quando uma entidade 
+transpõe quantias relacionadas com derivados da sua moeda funcional 
+para a sua moeda de apresentação.
+5 — Esta Norma aplica -se à apresentação das demonstrações financei-
+ras de uma entidade numa moeda estrangeira e estabelece os requisitos 
+para que as demonstrações financeiras resultantes sejam descritas como 
+estando em conformidade com as Normas Contabilísticas e de Relato 
+Financeiro. Esta Norma não trata da apresentação numa demonstração de 
+fluxos de caixa provenientes de transações numa moeda estrangeira e da 
+transposição de fluxos de caixa de uma unidade operacional estrangeira 
+(ver NCRF 2 — Demonstração de Fluxos de Caixa).
+6 — Esta Norma não se aplica à contabilidade de cobertura de itens 
+em moeda estrangeira, incluindo a cobertura de um investimento líquido 
+numa unidade operacional estrangeira, nem a transações e saldos de 
+derivados. Orientação adicional sobre esta matéria é proporcionada pela 
+NCRF 27 — Instrumentos Financeiros.
+Definições
+7 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Diferença de câmbio: é a diferença resultante da transposição de um 
+determinado número de unidades de uma moeda para outra moeda a 
+diferentes taxas de câmbio. Grupo: é constituído por uma empresa -mãe
+e todas as suas subsidiárias.
+Investimento líquido numa unidade operacional estrangeira: é a quan-
+tia relativa ao interesse da entidade que relata nos ativos líquidos dessa unidade operacional.
+Itens monetários: são unidades monetárias detidas e ativos e passivos 
+a receber ou a pagar num número fixado ou determinável de unidades monetárias.
+Justo valor: é a quantia pela qual um ativo pode ser trocado ou um 
+passivo liquidado, entre partes conhecedoras e dispostas a isso, numa 
+transação em que não exista relacionamento entre elas.
+Moeda de apresentação: é a moeda na qual as demonstrações finan-
+ceiras são apresentadas.
+Moeda estrangeira: é uma moeda que não seja a moeda funcional 
+da entidade.
+Moeda funcional: é a moeda do ambiente económico principal no 
+qual a entidade opera.
+Taxa de câmbio: é o rácio de troca de duas moedas.
+Taxa de câmbio à vista: é a taxa de câmbio para entrega imediata 
+de moeda.
+Taxa de fecho: é a taxa de câmbio à vista à data do balanço.Unidade operacional estrangeira: é uma subsidiária, associada, em-
+preendimento conjunto ou sucursal da entidade que relata, cujas ativi-dades sejam baseadas ou conduzidas num país que não seja o país da 
+entidade que relata.
+Elaboração das definições
+Moeda funcional
+8 — O ambiente económico principal no qual uma entidade opera 
+é normalmente aquele em que a entidade gera e gasta dinheiro. Uma 
+entidade considera os seguintes fatores ao determinar a sua moeda 
+funcional:
+a) A moeda:
+i) Que influencia principalmente os preços de venda dos bens e ser-
+viços (muitas vezes, esta será a moeda na qual os preços de venda dos seus bens e serviços serão denominados e liquidados); e
+ii) Do país cujas forças competitivas e regulamentos determinam 
+principalmente os preços de venda dos seus bens e serviços; e
+b) A moeda que influencia principalmente a mão -de -obra, o material e 
+outros custos do fornecimento de bens e serviços (esta será muitas vezes 
+a moeda na qual estes custos serão denominados e liquidados).
+9 — Os seguintes fatores podem também proporcionar evidência 
+relativamente à moeda funcional de uma entidade:
+a) A moeda na qual são gerados os fundos provenientes de atividades 
+de financiamento (i. e. a emissão de instrumentos de dívida e de capital 
+próprio); e
+b) A moeda na qual os recebimentos relativos a atividades operacionais 
+são normalmente retidos.
+10 — Os seguintes aspetos adicionais são considerados ao determinar 
+a moeda funcional de uma unidade operacional estrangeira e se a sua 
+moeda funcional é a mesma que a da entidade que relata (a entidade que relata, neste contexto, é a entidade que tem a unidade operacional estrangeira como subsidiária, sucursal, associada ou empreendimento 
+conjunto):
+a) As atividades de uma unidade operacional estrangeira são realizadas 
+como extensão da entidade que relata, em vez de serem realizadas com 
+um grau significativo de autonomia. Um exemplo da primeira situação é 
+quando a unidade operacional estrangeira apenas vende bens importados 
+da entidade que relata e remete os proventos para esta. Um exemplo 
+da segunda situação é quando a unidade operacional acumula caixa e outros itens monetários, incorre em gastos, gera rendimento e obtém empréstimos, todos substancialmente na sua moeda local;
+b) As transações com a entidade que relata são uma proporção alta 
+(ou baixa) das atividades da unidade operacional estrangeira;
+c) Os fluxos de caixa das atividades da unidade operacional estrangeira 
+afetam diretamente os fluxos de caixa da entidade que relata e estão 
+facilmente disponíveis para serem remetidos à mesma; e
+d) Os fluxos de caixa resultantes das atividades da unidade operacional 
+estrangeira são suficientes para servir o cumprimento da dívida existente 
+e normalmente esperada sem que sejam disponibilizados fundos pela 
+entidade que relata.
+11 — Quando os indicadores atrás apresentados forem mistos e a 
+moeda funcional não for óbvia, o órgão de gestão usa o seu juízo de 
+valor para determinar a moeda funcional que mais fidedignamente 
+representa os efeitos económicos das transações, acontecimentos e 
+condições subjacentes. Como parte desta abordagem, o órgão de gestão 
+dá prioridade aos indicadores do parágrafo 8 antes de considerar os indi-
+cadores dos parágrafos 9 e 10, que foram concebidos para proporcionar evidência adicional de suporte para determinar a moeda funcional de uma entidade.
+12 — A moeda funcional de uma entidade reflete as transações, 
+acontecimentos e condições subjacentes que sejam relevantes para a 
+mesma. Em conformidade, uma vez determinada, a moeda funcional 
+não é alterada a não ser que ocorra uma alteração nessas transações, 
+acontecimentos e condições subjacentes.
+13 — Se a moeda funcional for a moeda de uma economia hiperinfla-
+cionária, as demonstrações financeiras da entidade não são reexpressas em conformidade com a presente Norma.
+Investimento líquido numa unidade operacional estrangeira
+14 — Uma entidade pode ter um item monetário que seja recebível 
+de ou pagável a uma unidade operacional estrangeira. Um item cuja 
+liquidação não esteja planeada nem seja provável que ocorra num futuro 
+previsível faz parte, em substância, do investimento líquido da entidade 
+nessa unidade operacional estrangeira, sendo contabilizado em confor-Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20819
+midade com os parágrafos 30 e 31. Tais itens monetários podem incluir 
+contas a receber ou empréstimos de longo prazo. Não incluem contas a 
+receber comerciais nem contas a pagar comerciais.
+Itens monetários
+15 — A característica essencial de um item monetário é a existência 
+de um direito de receber (ou uma obrigação de entregar) um número 
+fixo ou determinável de unidades monetárias. Os exemplos incluem: 
+pensões e outros benefícios de empregados a serem pagos em nume-rário; provisões que devem ser liquidadas em numerário; e dividendos em numerário que sejam reconhecidos como um passivo. Da mesma 
+forma, um contrato para receber (ou entregar) um número variável dos 
+instrumentos de capital próprio da entidade ou uma quantidade variável 
+de ativos dos quais o justo valor a receber (ou a entregar) equivale a 
+um número fixo ou determinável de unidades monetárias é um item 
+monetário. Pelo contrário, a característica essencial de um item não 
+monetário é a ausência de um direito de receber (ou de uma obrigação 
+de entregar) um número fixo ou determinável de unidades monetárias. 
+Os exemplos incluem: quantias pré -pagas de bens e serviços (por exem-
+plo, a renda pré -paga); goodwill ; ativos intangíveis; inventários; ativos 
+fixos tangíveis; e provisões que devam ser liquidadas pela entrega de um ativo não monetário.
+Resumo da abordagem exigida por esta norma
+16 — Ao preparar demonstrações financeiras, cada entidade — seja 
+uma entidade autónoma, uma entidade com unidades operacionais estran-
+geiras (como uma empresa -mãe) ou uma unidade operacional estrangeira 
+(como uma subsidiária ou uma sucursal) — determina a sua moeda fun-
+cional em conformidade com os parágrafos 8 a 13. A entidade transpõe 
+os itens de moeda estrangeira para a sua moeda funcional e relata os efeitos dessa transposição de acordo com os parágrafos 20 a 36.
+17 — Muitas entidades que relatam compreendem um número de 
+entidades individuais (por exemplo, um grupo é composto por uma 
+empresa -mãe e uma ou mais subsidiárias). Vários tipos de entidades, sejam membros de um grupo, ou de outro, podem ter investimentos em 
+associadas ou empreendimentos conjuntos. Também podem ter sucursais. 
+É necessário que os resultados e a posição financeira de cada entidade 
+individual incluída na entidade que relata sejam transpostos para a 
+moeda na qual a entidade que relata apresenta as suas demonstrações 
+financeiras. Esta Norma permite que a moeda de apresentação de uma 
+entidade que relata seja qualquer moeda (ou moedas). Os resultados e a 
+posição financeira de qualquer entidade individual da entidade que relata 
+e cuja moeda funcional difira da moeda de apresentação são transpostos 
+de acordo com os parágrafos 36 a 51.
+18 — Esta Norma também permite que uma entidade autónoma que 
+prepare demonstrações financeiras de acordo com a NCRF 15 — Investi-
+mentos em Subsidiárias e Consolidação apresente as suas demonstrações 
+financeiras em qualquer moeda (ou moedas). Se a moeda de apresentação 
+da entidade diferir da sua moeda funcional, os seus resultados e posição 
+financeira também são transpostos para a moeda de apresentação de 
+acordo com os parágrafos 36 a 52.
+Relato de transações em moeda estrangeira
+na moeda funcional
+Reconhecimento inicial
+19 — Uma transação em moeda estrangeira é uma transação que seja 
+denominada ou exija liquidação numa moeda estrangeira, incluindo 
+transações que resultem de quando uma entidade:
+a) Compra ou vende bens ou serviços cujo preço seja denominado 
+numa moeda estrangeira;
+b) Pede emprestado ou empresta fundos quando as quantias a pagar 
+ou a receber sejam estabelecidas numa moeda estrangeira; ou
+c) Por qualquer forma adquire ou aliena ativos ou incorre ou liquida 
+passivos, denominados numa moeda estrangeira.
+20 — Uma transação em moeda estrangeira deve ser registada, no 
+momento do reconhecimento inicial na moeda funcional, pela aplicação à 
+quantia de moeda estrangeira da taxa de câmbio entre a moeda funcional 
+e a moeda estrangeira à data da transação.
+21 — A data de uma transação é a data na qual a transação se qualifica 
+inicialmente para reconhecimento de acordo com as Normas Contabilís-
+ticas e de Relato Financeiro. Por razões práticas, é muitas vezes usada 
+uma taxa que se aproxime da taxa real à data da transação; por exemplo, 
+pode ser usada uma taxa média para uma semana ou um mês para todas 
+as transações em cada moeda estrangeira que ocorram durante esse período. Porém, se as taxas de câmbio variarem significativamente, o 
+uso da taxa média de um período não é apropriado.
+Relato em datas de balanço subsequentes
+22 — À data de cada balanço:a) Os itens monetários em moeda estrangeira devem ser transpostos 
+pelo uso da taxa de fecho;
+b) Os itens não monetários que sejam mensurados em termos de custo 
+histórico numa moeda estrangeira devem ser transpostos pelo uso da 
+taxa de câmbio à data da transação;
+c) Os itens não monetários que sejam mensurados pelo justo valor 
+numa moeda estrangeira devem ser transpostos utilizando as taxas de câmbio da data em que o justo valor foi determinado.
+23 — A quantia escriturada de um item é determinada de acordo 
+com as Normas Contabilísticas e de Relato Financeiro relevantes. Por 
+exemplo, os ativos fixos tangíveis podem ser mensurados pelo justo 
+valor ou pelo custo histórico de acordo com a NCRF 7 — Ativos Fixos 
+Tangíveis. Quer a quantia escriturada seja determinada na base do custo 
+histórico ou na base do justo valor, se a quantia for determinada numa moeda estrangeira, ela deve ser transposta para a moeda funcional de 
+acordo com esta Norma.
+24 — A quantia escriturada de alguns itens é determinada pela com-
+paração de duas ou mais quantias. Por exemplo, a quantia escriturada 
+de inventários é a menor entre custo e o valor realizável líquido de 
+acordo com a NCRF 18 — Inventários. Da mesma forma, de acordo 
+com a NCRF 12 — Imparidade de Ativos, a quantia escriturada de 
+um ativo para o qual exista a indicação de imparidade é a menor entre 
+a sua quantia escriturada antes de considerar as possíveis perdas por 
+imparidade e a sua quantia recuperável. Quando um tal ativo é não 
+monetário e é mensurado numa moeda estrangeira, a quantia escriturada 
+é determinada comparando:
+a) O custo ou quantia escriturada, conforme apropriado, transposto 
+à taxa de câmbio na data em que a quantia foi determinada (i. e. a 
+taxa à data da transação para um item mensurado em termos de custo 
+histórico); e
+b) O valor realizável líquido ou quantia recuperável, conforme apro-
+priado, transposto à taxa de câmbio na data em que o valor foi determi-nado (por exemplo, a taxa de fecho à data do balanço).
+Esta comparação pode resultar numa perda por imparidade na moeda 
+funcional mas não na moeda estrangeira, ou vice -versa.
+25 — Quando estão disponíveis várias taxas de câmbio, a taxa usada é 
+aquela pela qual os futuros fluxos de caixa representados pela transação 
+ou saldo poderiam ter sido liquidados se esses fluxos de caixa tivessem 
+ocorrido na data da mensuração. Se a convertibilidade entre duas moedas 
+estiver temporariamente suspensa, a taxa usada é a primeira taxa sub-sequente pela qual os câmbios podem ser efetuados.
+Reconhecimento de diferenças de câmbio
+26 — As diferenças de câmbio resultantes da liquidação de itens 
+monetários ou do relato de itens monetários de uma empresa a taxas 
+diferentes das que foram inicialmente registadas durante o período ou 
+relatadas em demonstrações financeiras anteriores devem ser reco-
+nhecidas nos resultados do período em que ocorram, exceto quanto ao descrito no parágrafo 30.
+27 — Quando itens monetários resultam de uma transação em moeda 
+estrangeira e ocorre uma alteração na taxa de câmbio, entre a data da 
+transação e a data da liquidação, o resultado é uma diferença de câmbio. 
+Quando a transação é liquidada dentro do mesmo período contabilístico 
+em que ocorreu, toda a diferença de câmbio é reconhecida nesse perí-odo. Porém, quando a transação é liquidada num período contabilístico 
+subsequente, a diferença de câmbio reconhecida em cada período até 
+à data de liquidação é determinada pela alteração nas taxas de câmbio durante cada período.
+28 — Quando um ganho ou uma perda num item não monetário 
+é reconhecido diretamente no capital próprio, qualquer diferença de 
+câmbio incluída nesse ganho ou perda deve ser reconhecida diretamente 
+no capital próprio. Quando um ganho ou uma perda com um item não 
+monetário é reconhecido nos resultados, qualquer diferença de câmbio 
+incluída nesse ganho ou perda deve ser reconhecida nos resultados.
+29 — Outras Normas exigem que alguns ganhos ou perdas se-
+jam reconhecidos diretamente no capital próprio. Por exemplo, a 
+NCRF 7 — Ativos Fixos Tangíveis exige que alguns ganhos ou perdas 
+resultantes de uma revalorização de ativos fixos tangíveis sejam reconhe-
+cidos diretamente no capital próprio. Quando um tal ativo é mensurado numa moeda estrangeira, o parágrafo 22( c) desta Norma exige que a 
+quantia revalorizada seja transposta usando a taxa à data em que o valor 20820 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+é determinado, resultando numa diferença de câmbio que também é 
+reconhecida no capital próprio.
+30 — As diferenças de câmbio resultantes de um item monetário que 
+faça parte do investimento líquido numa unidade operacional estrangeira 
+de uma entidade que relata (ver parágrafo 14) devem ser reconhecidas 
+nos resultados, nas demonstrações financeiras da entidade que relata 
+ou nas demonstrações financeiras da unidade operacional estrangeira, 
+conforme apropriado. Nas demonstrações financeiras que incluam a 
+unidade operacional estrangeira e a entidade que relata (por exemplo, as 
+demonstrações financeiras consolidadas quando a unidade operacional 
+estrangeira for uma subsidiária), essas diferenças de câmbio devem ser 
+reconhecidas inicialmente num componente separado de capital próprio 
+e reconhecidas nos resultados aquando da alienação do investimento 
+líquido de acordo com o parágrafo 46.
+31 — Quando um item monetário faz parte do investimento líquido 
+numa unidade operacional estrangeira de uma entidade que relata e 
+está denominado na moeda funcional da entidade que relata, surge 
+uma diferença de câmbio nas demonstrações financeiras individuais da 
+unidade operacional estrangeira. Da mesma forma, se esse item estiver 
+denominado na moeda funcional da unidade operacional estrangeira, 
+surge uma diferença de câmbio nas demonstrações financeiras separadas 
+da entidade que relata. Essas diferenças de câmbio são reclassificadas num componente separado de capital próprio nas demonstrações finan-
+ceiras que incluem a unidade operacional estrangeira e a entidade que 
+relata (i. e. as demonstrações financeiras nas quais a unidade operacional 
+estrangeira está integral ou proporcionalmente consolidada, ou conta-bilizada usando o método da equivalência patrimonial). Contudo, um 
+item monetário que faça parte do investimento líquido numa unidade 
+operacional estrangeira de uma entidade que relata pode ser denominado 
+numa moeda diferente da moeda funcional tanto da entidade que relata como da unidade operacional estrangeira. As diferenças de câmbio que 
+resultam da transposição do item monetário para as moedas funcionais da 
+entidade que relata e da unidade operacional estrangeira não são reclas-
+sificadas no componente separado de capital próprio nas demonstrações 
+financeiras que incluem a unidade operacional estrangeira e a entidade 
+que relata (i. e. mantêm -se reconhecidas nos resultados).
+32 — Quando uma entidade mantiver os seus livros e registos numa 
+moeda diferente da sua moeda funcional, no momento em que a entidade 
+preparar as suas demonstrações financeiras, todas as quantias são trans-
+postas para a moeda funcional de acordo com os parágrafos 19 a 25. Isto 
+resulta nas mesmas quantias na moeda funcional que teriam ocorrido se 
+os itens tivessem sido registados inicialmente na moeda funcional. Por exemplo, os itens monetários são transpostos para a moeda funcional 
+usando a taxa de fecho, e os itens não monetários que são mensurados 
+numa base do custo histórico são transpostos usando a taxa de câmbio 
+à data da transação que resultou no seu reconhecimento.
+Alterações na moeda funcional
+33 — Quando ocorrer uma alteração na moeda funcional de uma 
+entidade, a entidade deve aplicar os procedimentos de transposição 
+aplicáveis à nova moeda funcional prospetivamente a partir a data da 
+alteração.
+34 — Conforme referido no parágrafo 12, a moeda funcional de uma 
+entidade reflete as transações, acontecimentos e condições subjacentes que sejam relevantes para a entidade. Em conformidade, uma vez de-
+terminada a moeda funcional, ela só pode ser alterada se ocorrer uma 
+alteração nessas transações, acontecimentos e condições subjacentes. 
+Por exemplo, uma alteração na moeda que influencia principalmente 
+os preços de venda dos bens e serviços pode levar a uma alteração na 
+moeda funcional de uma entidade.
+35 — O efeito de uma alteração na moeda funcional é contabilizado 
+prospetivamente. Por outras palavras, uma entidade transpõe todos os 
+itens para a nova moeda funcional usando a taxa de câmbio à data da 
+alteração. As quantias transpostas resultantes para itens não monetá-
+rios são tratadas como o seu custo histórico. As diferenças de câmbio 
+resultantes da transposição de uma unidade operacional estrangeira 
+anteriormente classificada no capital próprio de acordo com os pará-
+grafos 30 e 37( c) não são reconhecidas nos resultados até à alienação 
+da unidade operacional.
+Uso de uma moeda de apresentação diferente
+da moeda funcional
+Transposição para a moeda de apresentação
+36 — Uma entidade pode apresentar as suas demonstrações finan-
+ceiras em qualquer moeda (ou moedas). Se a moeda de apresentação 
+diferir da moeda funcional da entidade, ela transpõe os seus resultados e 
+posição financeira para a moeda de apresentação. Por exemplo, quando 
+um grupo tiver entidades individuais com diferentes moedas funcio-nais, os resultados e posição financeira de cada entidade são expressos numa moeda comum para que seja possível apresentar demonstrações 
+financeiras consolidadas.
+37 — Os resultados e posição financeira de uma entidade cuja moeda 
+funcional não seja a moeda de uma economia hiperinflacionária devem 
+ser transpostos para uma moeda de apresentação diferente usando os 
+seguintes procedimentos:
+a) Os ativos e passivos de cada balanço apresentado (i. e. incluindo 
+comparativos) devem ser transpostos à taxa de fecho na data desse 
+balanço;
+b) Os rendimentos e gastos de cada demonstração dos resultados 
+(i. e. incluindo comparativos) devem ser transpostos às taxas de câmbio 
+nas datas das transações; e
+c) Todas as diferenças de câmbio resultantes devem ser reconhecidas 
+como um componente separado de capital próprio.
+38 — Por razões práticas, é muitas vezes usada uma taxa que se 
+aproxime das taxas de câmbio à data das transações, por exemplo, uma 
+taxa média do período, para transpor os itens de rendimentos e de gastos. 
+Porém, se as taxas de câmbio variarem significativamente, o uso da taxa 
+média de um período não é apropriado.
+39 — As diferenças de câmbio referidas no parágrafo 37( c) resultam:
+a) Da transposição de rendimentos e gastos às taxas de câmbio nas 
+datas das transações e de ativos e passivos à taxa de fecho;
+b) Da transposição dos ativos líquidos de abertura a uma taxa de fecho 
+que difira da taxa de fecho anterior.
+Estas diferenças de câmbio não são reconhecidas nos resultados 
+porque as alterações nas taxas de câmbio têm pouco ou nenhum efeito 
+sobre os fluxos de caixa presentes e futuros das operações. A quantia 
+cumulativa das diferenças de câmbio é apresentada num componente 
+separado de capital próprio até à alienação da unidade operacional 
+estrangeira. Quando as diferenças de câmbio se relacionam com uma 
+unidade operacional estrangeira que esteja consolidada mas não to-
+talmente detida, as diferenças de câmbio acumuladas resultantes da 
+transposição e atribuíveis a interesses que não controlam são imputa-das a, e reconhecidas como parte de, interesses que não controlam no balanço consolidado.
+40 — Os resultados e posição financeira de uma entidade cuja moeda 
+funcional seja a moeda de uma economia hiperinflacionária devem 
+ser transpostos para uma moeda de apresentação diferente usando os seguintes procedimentos:
+a) Todas as quantias (i. e. ativos, passivos, itens de capital próprio, 
+rendimento e gastos, incluindo comparativos) devem ser transpostas à 
+taxa de fecho na data do balanço mais recente, exceto que
+b) Quando as quantias são transpostas para a moeda de uma economia 
+não hiperinflacionária, as quantias comparativas devem ser aquelas que 
+tenham sido apresentadas como quantias do ano corrente nas demons-
+trações financeiras relevantes do ano anterior (i. e. não ajustadas para 
+alterações subsequentes no nível de preço ou alterações subsequentes 
+nas taxas de câmbio).
+41 — Quando a moeda funcional de uma entidade é a moeda de uma 
+economia hiperinflacionária, a entidade deve reexpressar as suas demons-
+trações financeiras antes de aplicar o método de transposição definido 
+no parágrafo 40, exceto no caso de quantias comparativas que sejam 
+transpostas para uma moeda de uma economia não hiperinflacionária [ver 
+parágrafo 40( b)]. Quando a economia deixar de ser hiperinflacionária 
+e a entidade já não reexpressar as suas demonstrações financeiras de 
+acordo com o procedimento antes referido, ela deve usar como custos 
+históricos para a transposição para a moeda de apresentação as quan-tias reexpressas ao nível de preço à data em que a entidade cessou de 
+reexpressar as suas demonstrações financeiras.
+Transposição de uma unidade operacional estrangeira
+42 — Os parágrafos 43 a 45, além dos parágrafos 36 a 41, aplicam -se
+quando os resultados e a posição financeira de uma unidade operacional 
+estrangeira são transpostos para uma moeda de apresentação a fim de 
+que a unidade operacional estrangeira possa ser incluída, nas demons-
+trações financeiras da entidade que relata, pela consolidação integral ou 
+proporcional ou pelo método de equivalência patrimonial.
+43 — A incorporação dos resultados e da posição financeira de uma 
+unidade operacional estrangeira com os da entidade que relata segue 
+os procedimentos normais de consolidação, tais como a eliminação 
+de saldos intragrupo e de transações intragrupo de uma subsidiária 
+(ver NCRF 15 — Investimentos em Subsidiárias e Consolidação e 
+NCRF 13 — Interesses em Empreendimentos Conjuntos e Investi-
+mentos em Associadas). Contudo, um ativo (ou passivo) monetário 
+intragrupo, seja de curto, ou longo prazo, não pode ser eliminado contra Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20821
+o correspondente passivo (ou ativo) intragrupo sem que sejam mostrados 
+os resultados das flutuações da moeda nas demonstrações financeiras 
+consolidadas. Isto resulta do facto de o item monetário representar um 
+compromisso para converter uma moeda noutra e expor a entidade que relata a um ganho ou perda através das flutuações cambiais. Em con-
+formidade, nas demonstrações financeiras consolidadas da entidade que 
+relata, tal diferença de câmbio continua a ser reconhecida nos resultados 
+ou, se derivar das circunstâncias descritas no parágrafo 30, é classificada 
+como capital próprio até à alienação da unidade operacional estrangeira.
+44 — Quando as demonstrações financeiras de uma unidade opera-
+cional estrangeira se referem a uma data diferente da data da entidade 
+que relata, a unidade operacional estrangeira prepara muitas vezes 
+demonstrações adicionais da mesma data que a data das demonstra-
+ções financeiras da entidade que relata. Quando tal não se verificar, a 
+NCRF 15 — Investimentos em Subsidiárias e Consolidação permite 
+o uso de uma data de relato diferente desde que a diferença não seja superior a três meses e os ajustamentos sejam feitos para os efeitos de 
+qualquer transação significativa ou outros acontecimentos que ocorram 
+entre as diferentes datas. Em tal caso, os ativos e passivos da unidade 
+operacional estrangeira são transpostos à taxa de câmbio na data do 
+balanço da unidade operacional estrangeira. Os ajustamentos são feitos para alterações significativas nas taxas de câmbio até à data do balanço 
+da entidade que relata de acordo com a NCRF 15. A mesma abordagem é 
+usada na aplicação do método de equivalência patrimonial a associadas e 
+empreendimentos conjuntos e na aplicação da consolidação proporcional 
+a empreendimentos conjuntos de acordo com a NCRF 13 — Interesses em Empreendimentos Conjuntos e Investimentos em Associadas.
+45 — Qualquer goodwill  proveniente da aquisição de uma unidade 
+operacional estrangeira e quaisquer ajustamentos do justo valor nas 
+quantias escrituradas de ativos e passivos provenientes da aquisição dessa 
+unidade operacional estrangeira serão tratados como ativos e passivos 
+da unidade operacional estrangeira. Desse modo, serão expressos na 
+moeda funcional da unidade operacional estrangeira e serão transpostos 
+à taxa de fecho de acordo com os parágrafos 37 e 40.
+Alienação total ou parcial de uma unidade operacional estrangeira
+46 — Com a alienação de uma unidade operacional estrangeira, a 
+quantia cumulativa das diferenças de câmbio relacionadas com essa 
+unidade operacional estrangeira, reconhecida num componente separado 
+do capital próprio, deve ser reclassificada para os resultados (como 
+ajustamento de reclassificação) quando o ganho ou a perda resultante 
+da alienação for reconhecido.
+47 — Além da alienação do interesse total de uma entidade numa 
+unidade operacional estrangeira, os seguintes elementos são contabiliza-
+dos como alienações mesmo que a entidade retenha um interesse numa ex -subsidiária, associada ou entidade conjuntamente controlada:
+a) A perda de controlo numa subsidiária que inclua uma unidade 
+operacional estrangeira;
+b) A perda de influência significativa numa associada que inclua uma 
+unidade operacional estrangeira;
+c) A perda do controlo conjunto sobre uma entidade conjuntamente 
+controlada que inclua uma unidade operacional estrangeira.
+48 — Na alienação de uma subsidiária que inclua uma unidade ope-
+racional estrangeira, a quantia acumulada das diferenças de câmbio 
+relacionadas com a unidade operacional estrangeira que tenham sido 
+atribuídas aos interesses que não controlam deve ser desreconhecida 
+mas não deve ser reclassificada nos resultados.
+49 — Na alienação parcial de uma subsidiária que inclua uma unidade 
+operacional estrangeira, a entidade deve reatribuir a parte proporcional 
+da quantia acumulada das diferenças de câmbio reconhecida em outro 
+rendimento integral aos interesses que não controlam nessa unidade 
+operacional estrangeira. Em qualquer outra alienação parcial de uma 
+unidade operacional estrangeira, a entidade deve reclassificar nos resul-
+tados apenas a parte proporcional da quantia acumulada das diferenças de câmbio reconhecidas em outro rendimento integral.
+50 — Uma alienação parcial do interesse numa unidade operacional 
+estrangeira é qualquer redução no interesse de propriedade de uma 
+entidade numa entidade operacional estrangeira, exceto as reduções 
+indicadas no parágrafo 47 que sejam contabilizadas como alienações.
+51 — Uma entidade pode alienar total ou parcialmente os seus in-
+teresses numa unidade operacional estrangeira pela venda, pela liqui-
+dação, pelo reembolso do capital por ações ou pelo abandono de parte 
+ou da totalidade dessa entidade. Uma redução da quantia escriturada 
+de uma unidade operacional estrangeira, quer devido às suas próprias perdas, quer por causa de uma imparidade reconhecida pelo investidor, não constitui uma alienação parcial. Em conformidade, nenhuma parte 
+do ganho ou perda cambial diferido é reconhecida nos resultados no 
+momento da redução.Efeitos fiscais de todas as diferenças de câmbio
+52 — Os ganhos e perdas com transações em moeda estrangeira 
+e as diferenças de câmbio resultantes da transposição dos resulta-
+dos e da posição financeira de uma entidade (incluindo uma unidade 
+operacional estrangeira) para outra moeda podem ter efeitos fiscais. 
+A NCRF 25 — Impostos sobre o Rendimento aplica -se a estes efeitos 
+fiscais.
+Data de eficácia
+53 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+54 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam 
+comparáveis.
+55 — Esta Norma substitui a NCRF 23 — Efeitos de Alterações em 
+Taxas de Câmbio, constante do Aviso n.º 15655/2009, publicado no 
+Diário da República,  2.ª série, n.º 173, de 7 de setembro de 2009.

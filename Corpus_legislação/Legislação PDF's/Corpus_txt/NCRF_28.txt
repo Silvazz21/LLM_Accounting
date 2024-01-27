@@ -1,0 +1,1347 @@
+Norma Contabilística e de Relato Financeiro 28
+Benefícios dos Empregados
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro é o 
+de prescrever a contabilização dos benefícios dos empregados. A Norma 
+exige que uma entidade reconheça:
+a) Um passivo quando um empregado tiver prestado serviços em troca 
+de benefícios dos empregados a serem pagos no futuro; eb) Um gasto quando a entidade consumir o benefício económico 
+proveniente do serviço proporcionado por um empregado em troca dos 
+benefícios dos empregados.
+Âmbito
+2 — Esta Norma deve ser aplicada por um empregador na contabili-
+zação dos benefícios dos empregados.
+3 — Os benefícios dos empregados aos quais esta Norma se aplica 
+incluem aqueles proporcionados:
+a) Segundo planos formais ou outros acordos formais entre uma 
+entidade e empregados individuais, grupos de empregados ou seus 
+representantes;
+b) Segundo requisitos legais, ou através de acordos sectoriais, pelos 
+quais se exige às entidades para contribuírem para planos nacionais, 
+estatais, sectoriais ou outros multiempregador; ou
+c) Pelas práticas informais que deem origem a uma obrigação cons-
+trutiva. Práticas informais dão origem a uma obrigação construtiva 
+quando a entidade não tiver alternativa realista senão pagar benefícios 
+aos empregados. É exemplo de uma obrigação construtiva quando uma 
+alteração nas práticas informais da entidade causasse um dano inaceitável 
+no seu relacionamento com os empregados.
+4 — Os benefícios dos empregados incluem:
+a) Benefícios a curto prazo dos empregados, tais como salários, 
+ordenados e contribuições para a segurança social, licença anual paga 
+e licença por doença paga, participação nos lucros e bónus (se pagáveis 
+dentro de doze meses após o final do período) e benefícios não mone-
+tários (tais como cuidados médicos, habitação, automóveis e bens ou 
+serviços gratuitos ou subsidiados) relativos aos empregados correntes;
+b) Benefícios pós -emprego tais como pensões, outros benefícios de 
+reforma, seguro de vida pós -emprego e cuidados médicos pós -emprego;
+c) Outros benefícios a longo prazo dos empregados, incluindo licença 
+por serviço prolongado ou licença sabática, jubilação ou outros benefí-
+cios por serviço prolongado, benefícios de invalidez a longo prazo e, se 
+não forem pagáveis completamente dentro de doze meses após o final do 
+período, a participação nos lucros, bónus e remunerações diferidas;
+d) Benefícios de cessação de emprego; e
+e) Benefícios de remuneração em capital próprio.
+5 — Os benefícios dos empregados incluem os benefícios propor-
+cionados quer a empregados quer aos seus dependentes e podem ser 
+liquidados por pagamentos (ou o fornecimento de bens e serviços) feitos 
+quer diretamente aos empregados, aos seus cônjuges, filhos ou outros 
+dependentes quer a outros, tais como empresas de seguros.
+6 — Um empregado pode proporcionar serviços a uma entidade numa 
+base de tempo completo, de tempo parcial, permanente, eventual ou 
+temporária. Para os fins desta Norma, os empregados incluem diretores e outro pessoal de gerência.
+7 — Esta Norma não trata do relato dos planos de benefícios dos 
+empregados.
+Definições
+8 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Ativos detidos por um fundo de benefícios a longo prazo dos emprega-
+dos: são ativos (que não sejam instrumentos financeiros não transferíveis 
+emitidos pela entidade que relata) que:
+a) Sejam detidos por uma entidade (o fundo) que esteja legalmente 
+separada da entidade que relata e exista unicamente para pagar ou 
+financiar os benefícios dos empregados; e
+b) Estejam disponíveis para ser unicamente usados para pagar ou 
+financiar os benefícios dos empregados, não estejam disponíveis para 
+os credores da própria entidade que relata (mesmo em falência), e não 
+possam ser devolvidos à entidade que relata, salvo se:
+i) Os restantes ativos do fundo sejam suficientes para satisfazer todas 
+as respetivas obrigações de benefícios dos empregados do plano ou da 
+entidade que relata; ou
+ii) Os ativos sejam devolvidos à entidade que relata para a reembolsar 
+relativamente a benefícios dos empregados já pagos.
+Ativos do plano: compreendem:
+a) Ativos detidos por um fundo de benefícios a longo prazo dos 
+empregados; e
+b) Apólices de seguros elegíveis.20836 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+Apólice de seguro elegível: é uma apólice de seguro emitida por uma 
+seguradora que não seja uma parte relacionada da entidade que relata, 
+se o produto da apólice:
+a) Só puder ser usado para pagar ou financiar benefícios dos empre-
+gados segundo um plano de benefícios definidos;
+b) Não estejam disponíveis para os credores da própria entidade 
+que relata (mesmo em falência) e não possam ser pagos à entidade que 
+relata, a menos que:
+i) O produto represente ativos excedentários que não sejam necessários 
+para a apólice satisfazer todas as respetivas obrigações de benefícios 
+dos empregados; ou
+ii) O produto seja devolvido à entidade que relata para a reembolsar 
+de benefícios dos empregados já pagos.
+Benefícios a curto prazo dos empregados: são os benefícios dos em-
+pregados (que não sejam benefícios de cessação de emprego e benefícios 
+de compensação em capital próprio) que se vençam na totalidade dentro 
+de doze meses após o final do período em que os empregados prestem 
+o respetivo serviço.
+Benefícios adquiridos pelos empregados: são benefícios dos empre-
+gados que não estejam condicionados ao futuro.
+Benefícios de remuneração em capital próprio: são benefícios dos 
+empregados pelos quais:
+a) Os empregados têm direito a receber instrumentos financeiros de 
+capital próprio emitidos pela entidade (ou pela sua empresa mãe); ou
+b) A quantia da obrigação da entidade para com os empregados de-
+pende do preço futuro de instrumentos financeiros de capital próprio emitidos pela entidade.
+Benefícios dos empregados: são todas as formas de remuneração dadas 
+por uma entidade em troca do serviço prestado pelos empregados.
+Benefícios por cessação de emprego ( terminus ): são benefícios dos 
+empregados pagáveis em consequência de:
+a) A decisão de uma entidade cessar o emprego de um empregado 
+antes da data normal da reforma; ou de
+b) A decisão de um empregado de aceitar a saída voluntária em troca 
+desses benefícios.
+Benefícios pós -emprego: são benefícios dos empregados (que não 
+sejam benefícios de cessação de emprego e benefícios de compensação 
+em capital próprio) que sejam pagáveis após a conclusão do emprego.
+Custo do serviço inclui:
+a) Custo do serviço corrente, que é o aumento no valor presente de 
+uma obrigação de benefícios definidos resultante do serviço do empre-gado no período corrente;
+b) Custo do serviço passado, que é a variação do valor presente 
+da obrigação de benefícios definidos pelo serviço do empregado em 
+períodos anteriores, resultante de uma alteração do plano (introdução, 
+revogação ou alteração de um plano de benefícios definidos) ou de um 
+corte (uma redução significativa, por parte da entidade, do número de 
+empregados abrangidos pelo plano); e
+c) Qualquer ganho ou perda aquando da liquidação.
+Ganhos e perdas atuariais: são variações do valor presente da obri-
+gação de benefícios definidos resultantes de:
+a) Ajustamentos de experiência (os efeitos de diferenças entre os 
+anteriores pressupostos atuariais e aquilo que realmente ocorreu); e
+b) Os efeitos de alterações nos pressupostos atuariais.
+Juro líquido sobre o passivo (ativo) líquido de benefícios definidos: 
+é a variação, durante o período, do passivo (ativo) líquido de benefícios 
+definidos que resulta da passagem do tempo.
+Justo valor: é a quantia pela qual um ativo pode ser trocado ou um 
+passivo liquidado, entre partes conhecedoras e dispostas a isso, numa 
+transação em que não exista relacionamento entre elas.
+Limite máximo dos ativos: é o valor presente de eventuais benefícios 
+económicos disponíveis na forma de restituições do plano ou de reduções 
+em futuras contribuições para o plano.
+Outros benefícios a longo prazo dos empregados: são benefícios dos 
+empregados (que não sejam benefícios pós -emprego, benefícios de 
+cessação de emprego e benefícios de remuneração em capital próprio) 
+que não se vençam na totalidade dentro de doze meses após o final do período em que os empregados prestam o respetivo serviço.
+Passivo (ativo) líquido de benefícios definidos: é o défice ou exce-
+dente, ajustado em função de qualquer efeito da limitação de um ativo líquido de benefícios definidos ao limite máximo dos ativos.
+O défice ou excedente é:
+a) Valor presente da obrigação de benefícios definidos, menosb) Justo valor dos ativos do plano (caso existam).
+Planos de benefícios definidos: são planos de benefícios pós -emprego
+que não sejam planos de contribuição definida.
+Planos de benefícios pós -emprego: são acordos formais ou informais 
+pelos quais uma entidade proporciona benefícios pós -emprego a um ou 
+mais empregados.
+Planos de contribuição definida: são planos de benefícios pós -emprego 
+pelos quais uma entidade paga contribuições fixadas a uma entidade 
+separada (um fundo) e não terá obrigação legal ou construtiva de pagar contribuições adicionais se o fundo não detiver ativos suficientes para 
+pagar todos os benefícios dos empregados relativos ao serviço dos 
+empregados no período corrente e em períodos anteriores.
+Planos de remuneração em capital próprio: são acordos formais ou 
+informais pelos quais uma entidade proporciona benefícios de remune-
+ração em capital próprio para um ou mais empregados.
+Planos multiempregador: são planos de contribuição definida (que 
+não sejam planos estatais) ou planos de benefícios definidos (que não sejam planos estatais) que:
+a) Ponham em conjunto ativos contribuídos por várias entidades que 
+não estejam sob controlo comum; e
+b) Usem esses ativos para proporcionar benefícios aos empregados 
+de mais de uma entidade, na base de que os níveis de contribuições e 
+de benefícios são determinados não olhando à identidade da entidade 
+que emprega os empregados em questão.
+Remensuração do passivo (ativo) líquido de benefícios definidos 
+inclui:
+a) Ganhos e perdas atuariais;
+b) Retorno dos ativos do plano, excluindo as quantias incluídas no juro 
+líquido sobre o passivo (ativo) líquido de benefícios definidos; e
+c) Qualquer variação do efeito do limite máximo de ativos, excluindo 
+as quantias incluídas no juro líquido sobre o passivo (ativo) líquido de 
+benefícios definidos.
+Retorno dos ativos do plano: é o juro, dividendos e outro rédito 
+proveniente dos ativos do plano, juntamente com ganhos ou perdas nos ativos do plano realizados e não realizados, menos:
+a) Quaisquer custos de gestão dos ativos do plano; e
+b) Qualquer imposto a pagar pelo próprio plano, com exceção dos 
+impostos incluídos nos pressupostos atuariais usados para mensurar o 
+valor presente da obrigação de benefícios definidos.
+Valor presente de uma obrigação de benefícios definidos: é o valor 
+presente, sem a dedução de quaisquer ativos do plano, dos pagamentos 
+futuros esperados necessários para liquidar a obrigação resultante do serviço do empregado nos períodos corrente e anteriores.
+Benefícios a curto prazo dos empregados
+9 — Os benefícios a curto prazo dos empregados incluem itens tais 
+como:
+a) Salários, ordenados e contribuições para a segurança social;
+b) Ausências permitidas a curto prazo (tais como licença anual paga e 
+licença por doença paga) em que se espera que as faltas ocorram dentro 
+de doze meses após o final do período em que os empregados prestam 
+o respetivo serviço;
+c) Participação nos lucros e bónus pagáveis dentro de doze meses 
+após o final do período em que os empregados prestam o respetivo 
+serviço; e
+d) Benefícios não monetários (tais como cuidados médicos, habi-
+tação, automóvel e bens ou serviços gratuitos ou subsidiados) para os 
+empregados correntes.
+10 — Uma entidade não precisa de reclassificar um benefício a curto 
+prazo dos empregados se as suas previsões quanto à data de liquidação 
+se alterarem temporariamente. Todavia, se as características do benefício 
+se alterarem (por exemplo, quando um benefício não acumulável passa a ser um benefício acumulável) ou se a alteração das previsões quanto à data de liquidação não for temporária, a entidade deve considerar se 
+o benefício ainda corresponde à definição de benefício a curto prazo 
+dos empregados.
+Reconhecimento e mensuração
+Todos os benefícios a curto prazo dos empregados
+11 — Quando um empregado tenha prestado serviço a uma entidade 
+durante um período contabilístico, a entidade deve reconhecer a quantia Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20837
+não descontada de benefícios a curto prazo dos empregados que espera 
+pagar em troca desse serviço:
+a) Como um passivo (acréscimo de gasto), após dedução de qualquer 
+quantia já paga. Se a quantia já paga exceder a quantia não descontada 
+dos benefícios, uma entidade deve reconhecer esse excesso como um 
+ativo (gasto antecipado) na extensão de que o pré -pagamento conduzirá, 
+por exemplo, a uma redução em futuros pagamentos ou a uma restituição 
+de dinheiro; e
+b) Como um gasto, salvo se outra Norma Contabilística e de Relato 
+Financeiro exigir ou permitir a inclusão dos benefícios no custo de um 
+ativo (ver, por exemplo, NCRF 18 — Inventários e a NCRF 7 — Ativos 
+Fixos Tangíveis).
+Os parágrafos 12, 15 e 18 explicam como uma entidade deve aplicar 
+este requisito a benefícios a curto prazo dos empregados na forma de 
+ausências permitidas e de planos de participações nos lucros e de bónus.
+Ausências remuneradas a curto prazo
+12 — Uma entidade deve reconhecer o custo esperado de benefícios a 
+curto prazo dos empregados na forma de ausências remuneradas segundo 
+o parágrafo 11 como segue:
+a) No caso de ausências remuneradas acumuláveis quando os empre-
+gados prestam serviço que aumente o seu direito a ausências permitidas 
+futuras; e
+b) No caso de ausências remuneradas não acumuláveis, quando as 
+faltas ocorram.
+13 — Uma entidade pode remunerar empregados por ausência por 
+variadas razões incluindo férias, doença e incapacidade a curto prazo, parentalidade, serviço dos tribunais e serviço militar. O direito a ausên-
+cias permitidas subdivide -se em duas categorias:
+a) Acumuláveis; e
+b) Não acumuláveis.
+14 — Ausências remuneradas não gozadas acumuláveis são as que 
+sejam reportáveis e possam ser usadas em períodos futuros se o direito 
+do período corrente não for usado totalmente. As ausências remuneradas 
+não gozadas acumuláveis podem ser ou adquiridas (por outras palavras, 
+os empregados têm direito a um pagamento em dinheiro quanto ao di-reito não utilizado ao saírem da entidade) ou não adquiridas (quando os 
+empregados não têm direito a um pagamento a dinheiro pelo direito não 
+utilizado ao saírem). Surge uma obrigação à medida que os empregados 
+prestam serviço que aumente o seu direito a ausências remuneradas 
+futuras. A obrigação existe, e é reconhecida mesmo se as ausências 
+remuneradas não gozadas forem não adquiridas, embora a possibilidade 
+de os empregados poderem sair antes de utilizarem direito acumulado não adquirido afete a mensuração dessa obrigação.
+15 — Uma entidade deve mensurar o custo esperado de ausências 
+remuneradas não gozadas acumuláveis como a quantia adicional que 
+a entidade espera pagar em consequência do direito não utilizado que 
+tenha acumulado à data do balanço.
+16 — O método especificado no parágrafo anterior mensura a obriga-
+ção como a quantia dos pagamentos adicionais que se espera que surjam 
+exclusivamente do facto de o benefício acumular. Em muitos casos pode 
+não necessitar de fazer cálculos pormenorizados para estimar que não 
+existe obrigação material quanto às ausências remuneradas não utiliza-
+das. Por exemplo uma obrigação de licença por doença só é provável ser 
+material se existir o entendimento formal ou informal de que a licença 
+por doença paga e não utilizada pode ser tomada como férias pagas.
+17 — As ausências remuneradas não acumuláveis não se transportam: 
+elas ficam perdidas se o direito do período corrente não for totalmente 
+usado e não dão aos empregados o direito de um pagamento a dinheiro 
+por direitos não utilizados quando saírem da entidade. Isto é, normal-
+mente o caso dos pagamentos por doença (na medida em que os direitos 
+passados não utilizados não aumentam os direitos futuros), licença por 
+parentalidade ou ausências remuneradas por serviço nos tribunais ou 
+serviço militar. Uma entidade não reconhece passivo nem gasto até 
+ao momento da falta, porque o serviço do empregado não aumenta a 
+quantia do benefício.
+Planos de participação nos lucros e de bónus
+18 — Uma entidade deve reconhecer o custo esperado dos pagamentos 
+de participação nos lucros e bónus segundo o parágrafo 11 quando, e 
+só quando:
+a) A entidade tenha uma obrigação presente legal ou construtiva de 
+fazer tais pagamentos em consequência de acontecimentos passados; e
+b) Possa ser feita uma estimativa fiável da obrigação.Existe uma obrigação presente quando, e só quando, a entidade não 
+tem alternativa realista senão a de fazer os pagamentos.
+19 — Segundo alguns planos de participação nos lucros, os emprega-
+dos só recebem uma parte do lucro se permanecerem na entidade durante 
+um período especificado. Tais planos criam uma obrigação construtiva à 
+medida que os empregados prestam serviço que aumenta a quantia a ser 
+paga se permanecerem ao serviço até ao final do período especificado. 
+A mensuração de tais obrigações construtivas reflete a possibilidade 
+de alguns empregados poderem sair sem receberem pagamentos de 
+participação nos lucros.
+20 — Uma entidade pode não ter obrigação legal de pagar uma gra-
+tificação. Não obstante, em alguns casos, uma entidade tem a prática de pagar bónus. Em tais casos, a entidade tem uma obrigação constru-tiva porque não tem alternativa realista senão de pagar a gratificação. 
+A mensuração da obrigação construtiva deve refletir a possibilidade de 
+alguns empregados poderem sair sem receberem a gratificação.
+21 — Uma entidade pode fazer uma estimativa fiável da sua obrigação 
+legal ou construtiva segundo um plano de participação nos lucros ou de bónus quando, e só quando:
+a) Os termos formais do plano contenham uma fórmula para deter-
+minar a quantia do benefício;
+b) A entidade determine as quantias a serem pagas antes das demons-
+trações financeiras serem aprovadas para emissão; ou
+c) A prática passada dê evidência clara da quantia da obrigação cons-
+trutiva da entidade.
+22 — Uma obrigação segundo planos de participação nos lucros e de 
+bónus resulta do serviço dos empregados e não de uma transação com 
+os proprietários da entidade. Por conseguinte, uma entidade reconhece 
+o custo de planos de participação nos lucros e de bónus não como uma 
+distribuição do lucro líquido mas como um gasto.
+23 — Se os pagamentos de participação nos lucros e de bónus não 
+se vencerem totalmente dentro de doze meses após o final do período 
+em que os empregados prestam o respetivo serviço, esses pagamentos 
+são benefícios a longo prazo dos empregados.
+Benefícios pós -emprego: distinção entre planos de contribuição 
+definida e planos de benefícios definidos
+24 — Os benefícios pós -emprego incluem por exemplo:
+a) Benefícios de reforma, tais como pensões; e
+b) Outros benefícios pós -emprego, tais como seguros de vida pós-em-
+prego e cuidados médicos pós -emprego.
+Os acordos pelos quais uma entidade proporciona benefícios pós-
+-emprego são planos de benefícios pós -emprego. Uma entidade aplica 
+esta Norma a todos os acordos que envolvam o estabelecimento de uma 
+entidade separada para receber as contribuições e pagar os benefícios.
+25 — Os planos de benefício pós -emprego classificam -se como planos 
+de contribuição definida ou como planos de benefícios definidos, depen-
+dendo da substância económica do plano que resulte dos seus principais 
+termos e condições. Pelos planos de contribuição definida:
+a) A obrigação legal ou construtiva da entidade é limitada à quantia 
+que ela aceita contribuir para o fundo) Assim, a quantia dos benefícios 
+pós -emprego recebidos pelo empregado é determinada pela quantia 
+de contribuições pagas por uma entidade (e, se for o caso, também 
+pelo empregado) para um plano de benefícios pós -emprego ou para 
+uma entidade de seguros, juntamente com os retornos do investimento provenientes das contribuições; e
+b) Em consequência, o risco atuarial (que os benefícios possam vir 
+a ser inferiores aos esperados) e o risco de investimento (que os ativos 
+investidos possam vir a ser insuficientes para satisfazer os benefícios 
+esperados) recaem no empregado.
+26 — São exemplos de casos em que uma obrigação de uma entidade 
+não é limitada à quantia que concorda contribuir para o fundo quando a 
+entidade tenha uma obrigação legal ou construtiva por meio de:
+a) Uma fórmula de benefícios do plano que não esteja exclusivamente 
+ligada à quantia das contribuições;
+b) Uma garantia, seja indiretamente através de um plano ou direta-
+mente, seja através de um retorno especificado nas contribuições; ou
+c) Aquelas práticas informais que dão origem a uma obrigação cons-
+trutiva. Por exemplo, pode surgir uma obrigação construtiva quando 
+uma entidade tem um passado de benefícios crescentes para antigos 
+empregados para se manter a par com a inflação mesmo quando não 
+existe obrigação legal de o fazer.
+27 — Pelos planos de benefícios definidos:
+a) A obrigação da entidade é a de proporcionar os benefícios acordados 
+com os empregados correntes e antigos; e20838 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+b) O risco atuarial e o risco de investimento recaem, na substância, 
+na entidade. Se a experiência atuarial ou de investimento forem piores que o esperado, a obrigação da entidade pode ser aumentada.
+Planos multiempregador
+28 — Uma entidade deve classificar um plano multiempregador como 
+um plano de contribuição definida ou como um plano de benefícios 
+definidos segundo os termos do plano (incluindo qualquer obrigação 
+construtiva que vá para além dos termos formais). Sempre que um plano 
+multiempregador for um plano de benefícios definidos, uma entidade 
+deve contabilizar a sua parte proporcional da obrigação de benefícios definidos, dos ativos do plano e do custo associado ao plano da mesma 
+forma como qualquer outro plano de benefícios definidos.
+29 — Quando não estiver disponível informação suficiente para uti-
+lizar a contabilização de benefícios definidos de um plano multiempre-
+gador que seja um plano de benefícios definidos, uma entidade deve 
+contabilizar o plano como se fosse um plano de contribuição definida.
+30 — Um exemplo de um plano multiempregador de benefícios de-
+finidos é um em que:
+a) O plano é financiado numa base «pay as you go»  tal que: as con-
+tribuições são fixadas ao nível que se espera ser suficiente para pagar 
+os benefícios que se vençam num mesmo período; e os benefícios 
+futuros obtidos durante o período corrente serão pagos de futuras con-tribuições; e
+b) Os benefícios dos empregados são determinados pela duração 
+do seu serviço e as entidades participantes não têm meio realista de 
+se retirarem do plano sem pagarem uma contribuição pelos benefícios 
+obtidos pelos empregados até à data da retirada.
+Tal plano cria risco atuarial para a entidade: se o custo final dos 
+benefícios já ganhos à data do balanço for maior do que o esperado, a 
+entidade terá de ou aumentar as suas contribuições ou de persuadir os 
+empregados a aceitar uma redução dos benefícios.
+Planos Estatais
+31 — Uma entidade deve contabilizar um plano estatal da mesma 
+maneira que um plano multiempregador (ver parágrafos 28 e 29).
+32 — Os planos estatais são estabelecidos pela legislação para cobrir 
+todas as entidades (ou todas as entidades numa particular categoria, por 
+exemplo um setor especifico) e são operados por um governo nacional 
+ou local ou por outra organização (por exemplo, uma agência autónoma 
+criada especificamente para esta finalidade) que não está sujeita a con-
+trolo ou influência pela entidade que relata. Alguns planos estabelecidos 
+por uma entidade proporcionam não só benefícios obrigatórios que são 
+substitutos dos benefícios que de outra forma seriam cobertos por um 
+plano estatal bem como benefícios voluntários adicionais. Tais planos 
+não são planos estatais.
+33 — Muitos planos estatais são contribuídos numa base de “pay
+as you go” : as contribuições são fixadas a um nível que se espera ser 
+suficiente para pagar os benefícios requeridos que se vençam no mesmo 
+período; benefícios futuros obtidos durante o período corrente serão 
+pagos com contribuições futuras. Contudo, na maioria dos planos esta-
+tais, a entidade não tem obrigação legal ou construtiva de pagar esses 
+futuros benefícios: a sua única obrigação é a de pagar as contribuições à medida que se vencem e se a entidade deixar de empregar membros 
+do plano estatal, não terá obrigação de pagar os benefícios obtidos pelos 
+seus próprios empregados em anos anteriores. Por esta razão, os planos 
+estatais são normalmente planos de contribuição definida. Porém, em 
+casos raros quando um plano estatal for um plano de benefícios definidos, 
+uma entidade aplica o tratamento prescrito nos parágrafos 28 e 29.
+Benefícios segurados
+34 — Uma entidade pode pagar prémios de seguro para contribuir para 
+o fundo de um plano de benefícios pós -emprego. A entidade deve tratar 
+tal plano como um plano de contribuição definida salvo se a entidade 
+venha a ter (quer diretamente, quer indiretamente através do plano) uma 
+obrigação legal ou construtiva de:
+a) Pagar os benefícios dos empregados diretamente quando se ven-
+cem; ou
+b) Pagar contribuições adicionais se o segurador não pagar todos os 
+benefícios futuros do empregado relativos ao serviço do empregado no período corrente e em anteriores.
+Se a entidade retiver tal obrigação legal ou construtiva, a entidade 
+deve tratar o plano como um plano de benefícios definidos.
+35 — Os benefícios segurados por um contrato de seguro não preci-
+sam de ter um relacionamento direto ou automático com a obrigação da entidade quanto aos benefícios dos empregados. Os planos de benefícios 
+pós -emprego que envolvam contratos de seguro estão sujeitos à mesma 
+distinção entre contabilização e contribuição para o fundo como outros 
+planos com fundo.
+36 — Quando uma entidade financia uma obrigação de benefícios pós-
+-emprego ao contribuir para uma apólice de seguro pela qual a entidade 
+(quer diretamente quer indiretamente através do plano, através dum 
+mecanismo de fixação de futuros prémios quer através de um relacio-
+namento de parte relacionada com o segurador) retém uma obrigação 
+legal ou construtiva, o pagamento dos prémios não corresponde a um 
+acordo de contribuição definida. Em consequência a entidade:
+a) Contabiliza uma apólice de seguro elegível como um ativo de 
+plano; e
+b) Reconhece outras apólices de seguro como direitos de reembolso.
+37 — Quando uma apólice de seguro estiver no nome de um es-
+pecificado participante do plano ou de um grupo de participantes do 
+plano e a entidade não tiver qualquer obrigação legal ou construtiva 
+para cobrir qualquer perda na apólice, a entidade não tem obrigação de 
+pagar benefícios aos empregados e o segurador tem a responsabilidade 
+exclusiva de pagar os benefícios. Pagamento de prémios fixados segundo 
+tais contratos é, em substância, a liquidação da obrigação de benefícios 
+dos empregados e não um investimento para satisfazer a obrigação. 
+Consequentemente, a entidade deixa de ter um ativo ou um passivo. 
+Portanto, a entidade trata tais pagamentos como contribuições para um 
+plano de contribuição definida.
+Benefícios pós -emprego: planos de contribuição definida
+38 — A contabilização dos planos de contribuição definida é linear 
+porque a obrigação da entidade que relata relativamente a cada período é 
+determinada pelas quantias a serem contribuídas relativas a esse período. 
+Consequentemente, não são necessários pressupostos atuariais para men-
+surar a obrigação ou o gasto e não há possibilidade de qualquer ganho 
+ou perda atuarial. Além disso, as obrigações são mensuradas numa base 
+não descontada, exceto quando não se vençam completamente dentro 
+de doze meses após o final do período em que os empregados prestam 
+o respetivo serviço.
+Reconhecimento e mensuração
+39 — Quando um empregado tiver prestado serviço a uma entidade 
+durante um período, a entidade deve reconhecer a contribuição a pagar para um plano de contribuição definida em troca desse serviço:
+a) Como um passivo (gasto acrescido), após dedução de qualquer 
+contribuição já paga. Se a contribuição já paga exceder a contribuição 
+devida relativo ao serviço antes da data de balanço, uma entidade deve 
+reconhecer esse excesso como um ativo (gasto antecipado) na medida 
+em que o pré -pagamento conduzirá, por exemplo a uma redução em 
+futuros pagamentos ou numa restituição de dinheiro; e
+b) Como um gasto, salvo se outra Norma Contabilística e de Relato 
+Financeiro exigir ou permitir a inclusão da contribuição no custo de um ativo (ver, por exemplo, a NCRF 18 e a NCRF 7).
+40 — Quando as contribuições para um plano de contribuição definida 
+não se vençam completamente dentro de doze meses após o final do 
+período em que os empregados prestam o respetivo serviço, elas devem 
+ser descontadas usando a taxa de desconto especificada no parágrafo 69.
+Benefícios pós -emprego: planos de benefícios definidos
+41 — A contabilização dos planos de benefícios definidos é complexa 
+porque são necessários pressupostos atuariais para mensurar a obrigação 
+e o gasto e existe a possibilidade de ganhos e perdas atuariais. Além 
+disso, as obrigações são mensuradas numa base descontada porque 
+elas podem ser liquidadas muitos anos após os empregados prestarem 
+o respetivo serviço.
+Reconhecimento e mensuração
+42 — Os planos de benefícios definidos podem não ter financiamento 
+constituído, ou podem ser total ou parcialmente financiados pelas con-
+tribuições de uma entidade, e algumas vezes dos seus empregados, para 
+uma entidade, ou fundo, legalmente separada da entidade que relata e 
+a partir da qual são pagos os benefícios dos empregados. O pagamento 
+dos benefícios financiados quando se vencem depende não somente 
+da posição financeira e do desempenho dos investimentos do fundo 
+mas também da capacidade e vontade da entidade para suprir qualquer carência dos ativos do fundo. Portanto, a entidade está, em substância, 
+a assumir os riscos atuariais e de investimento associados ao plano. Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20839
+Consequentemente, o gasto reconhecido relativo a um plano de benefí-
+cios definidos não é necessariamente a quantia da contribuição devida relativa ao período.
+43 — A contabilização por uma entidade dos planos de benefícios 
+definidos envolve os seguintes passos:
+a) Determinar o défice ou excedente. Isso implica:
+i) Usar uma técnica atuarial, o método da unidade de crédito projetada, 
+para fazer uma estimativa fiável do custo final que representa para a en-
+tidade o benefício que os empregados obtiveram em troca do seu serviço 
+no período em curso e em períodos anteriores (ver parágrafos 53 -55). 
+Isto exige que uma entidade determine quanto benefício é atribuível 
+aos períodos atual e anteriores (ver parágrafos 56 -60) e faça estimativas 
+(pressupostos atuariais) de variáveis demográficas (tais como a rotação 
+dos empregados e a mortalidade) e de variáveis financeiras (tais como 
+os futuros aumentos nos ordenados e nos custos médicos) que afetarão 
+o custo do benefício (ver parágrafos 61 -84);
+ii) Descontar esse benefício de modo a determinar o valor presente 
+da obrigação de benefícios definidos e do custo do serviço corrente (ver 
+parágrafos 53 -55 e 69 -72);
+iii) Deduzir o justo valor de quaisquer ativos do plano (ver parágra-
+fos 99 -101) do valor presente da obrigação de benefícios definidos;
+b) Determinar a quantia do passivo (ativo) líquido de benefícios 
+definidos, que corresponde ao défice ou excedente determinado em 
+conformidade com a alínea a), ajustado em função do eventual efeito de 
+limitação de um ativo líquido de benefícios definidos ao limite máximo 
+dos ativos (ver parágrafo 50);
+c) Determinar as quantias a reconhecer nos resultados:
+i) Custo do serviço corrente (ver parágrafos 56 -60);
+ii) Qualquer custo passado do serviço e perdas ou ganhos aquando 
+da liquidação (ver parágrafos 85 -98);
+iii) Juro líquido sobre o passivo (ativo) líquidos de benefícios definidos 
+(ver parágrafos 109 -112);
+d) Determinar a remensuração do passivo (ativo) líquido de benefícios 
+definidos, a reconhecer diretamente no capital próprio, incluindo:
+i) Os ganhos e perdas atuariais (ver parágrafos 114 e 115);
+ii) O retorno dos ativos do plano, excluindo as quantias incluídas 
+no juro líquido sobre o passivo (ativo) líquido de benefícios definidos 
+(ver parágrafo 116); e
+iii) Qualquer variação do efeito do limite máximo dos ativos (ver 
+parágrafo 50), excluindo as quantias incluídas no juro líquido sobre o 
+passivo (ativo) líquido de benefícios definidos.
+Quando uma entidade tiver mais de um plano de benefícios definidos, 
+aplica estes procedimentos separadamente a cada um dos planos que 
+seja material.
+44 — Uma entidade deve determinar o passivo (ativo) líquido de 
+benefícios definidos com suficiente regularidade a fim de que as quantias 
+reconhecidas nas demonstrações financeiras não difiram materialmente 
+das quantias que seriam determinadas no fim do período de relato.
+45 — Esta Norma encoraja, mas não exige, que uma entidade envolva 
+um atuário qualificado na mensuração de todas as obrigações materiais 
+de benefícios pós -emprego. Por razões práticas, uma entidade pode pedir 
+a um atuário qualificado que leve a efeito uma avaliação pormenorizada 
+da obrigação antes do fim do período de relato. Contudo, os resultados dessa avaliação são atualizados no seguimento de quaisquer transações 
+materiais e outras alterações materiais nas circunstâncias (incluindo 
+alterações nos preços de mercado e nas taxas de juro) até ao fim do 
+período de relato.
+46 — Nalguns casos, as estimativas, as médias e as simplificações 
+de cálculo podem proporcionar uma aproximação credível dos cálculos 
+pormenorizados ilustrados nesta Norma.
+Contabilização da obrigação construtiva
+47 — Uma entidade deve contabilizar não somente a sua obrigação 
+legal segundo os termos formais de um plano de benefícios definidos, mas também qualquer obrigação construtiva que decorra das práticas 
+informais da entidade. As práticas informais dão origem a uma obrigação 
+construtiva quando a entidade não tiver outra alternativa realista senão a de pagar os benefícios dos empregados. São exemplo de uma obriga-
+ção construtiva os casos em que uma alteração nas práticas informais 
+da entidade causaria um dano inaceitável no seu relacionamento com 
+os empregados.
+48 — Os termos formais de um plano de benefícios definidos podem 
+permitir que uma entidade dê por terminada a sua obrigação prevista 
+no plano. Contudo, costuma ser muito difícil para uma entidade dar 
+por terminada a sua obrigação prevista no plano (sem pagamento) se os empregados são para ser mantidos. Portanto, na falta de prova em 
+contrário, a contabilização dos benefícios pós -emprego pressupõe que 
+uma entidade que esteja atualmente a prometer tais benefícios continuará 
+a fazê -lo durante a vida de trabalho restante dos empregados.
+Balanço
+49 — Uma entidade deve reconhecer o passivo (ativo) líquido de 
+benefícios definidos no balanço.
+50 — Sempre que uma entidade tenha um excedente num plano 
+de benefícios definidos, deve mensurar o ativo líquido de benefícios 
+definidos como o mais baixo dos seguintes valores:
+a) O excedente no plano de benefícios definidos; e
+b) O limite máximo de ativos, determinado usando a taxa de desconto 
+especificada no parágrafo 69.
+51 — Um ativo líquido de benefícios definidos pode surgir quando 
+um plano de benefícios definidos tenha sido financiado em excesso ou 
+quando tiverem ocorrido ganhos atuariais. Uma entidade reconhece um 
+ativo líquido de benefícios definidos em tais casos, porque:
+a) A entidade controla um recurso, que é a capacidade de usar o 
+excedente para gerar benefícios futuros;
+b) Esse controlo é o resultado de acontecimentos passados (contribui-
+ções pagas pela entidade e serviço prestado pelo empregado); e
+c) Estão disponíveis benefícios económicos futuros para a entidade na 
+forma de uma redução em contribuições futuras ou de uma restituição 
+de dinheiro, quer diretamente para a entidade quer indiretamente para 
+outro plano em défice. O limite máximo de ativos é o valor presente 
+desses benefícios futuros.
+Reconhecimento e mensuração: valor presente das obrigações
+de benefícios definidos e custo do serviço corrente
+52 — O custo final de um plano de benefícios definidos pode ser 
+influenciado por muitas variáveis, tais como ordenados finais, rotação 
+dos empregados e mortalidade, contribuições dos empregados e evolução 
+dos custos médicos. O custo final do plano é incerto e esta incerteza 
+persistirá provavelmente durante um longo período de tempo. A fim de 
+mensurar o valor presente das obrigações de benefícios pós -emprego e 
+o respetivo custo de serviço corrente é necessário:
+a) Aplicar um método de avaliação atuarial (ver parágrafos 53 -55);
+b) Atribuir benefício aos períodos de serviço (ver parágrafos 56 -60); e
+c) Fazer pressupostos atuariais (ver parágrafos 61 -84).
+Método de avaliação atuarial
+53 — Uma entidade deve usar o método da unidade de crédito proje-
+tada para determinar o valor presente das suas obrigações de benefícios definidos e respetivo custo do serviço corrente e, quando aplicável, o 
+custo do serviço passado.
+54 — O método da unidade de crédito projetada (também conhecido 
+como método de benefícios acrescidos pro rata  dos serviços ou como 
+método benefício/anos de serviço) vê cada período de serviço como 
+dando origem a uma unidade adicional de direito ao benefício (ver pa-
+rágrafos 56 -60) e mensura cada unidade separadamente para construir 
+a obrigação final (ver parágrafos 61 -84).
+55 — Uma entidade desconta a totalidade de uma obrigação de benefí-
+cios pós -emprego, mesmo que seja de esperar que parte dessa obrigação 
+seja liquidada até doze meses após o período de relato.
+Atribuição do benefício aos períodos de serviço
+56 — Na determinação do valor presente das suas obrigações de 
+benefícios definidos, do respetivo custo do serviço corrente e, quando 
+aplicável, do custo do serviço passado, uma entidade deve atribuir o 
+benefício aos períodos de serviço de acordo com a fórmula de benefícios 
+do plano. Porém, se o serviço de um empregado nos anos mais recentes 
+conduzir a um nível materialmente mais elevado de benefícios do que 
+em anos mais antigos, uma entidade deve atribuir o benefício numa 
+base de linha reta desde:
+a) A data em que o serviço do empregado dá lugar pela primeira 
+vez a benefícios segundo o plano (quer os benefícios estejam ou não 
+condicionados por serviço futuro), até
+b) À data em que o futuro serviço de um empregado não dará lugar 
+a uma quantia material de benefícios adicionais segundo o plano, para 
+além dos provenientes de novos aumentos de ordenado.
+57 — O método da unidade de crédito projetada exige que uma en-
+tidade atribua benefício ao período corrente (a fim de determinar o 20840 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+custo do serviço corrente) e aos períodos em curso e anteriores (a fim 
+de determinar o valor presente das obrigações de benefícios definidos). Uma entidade atribui benefício aos períodos em que surge a obrigação 
+de proporcionar benefícios pós -emprego. Essa obrigação vai surgindo à 
+medida que os empregados prestam serviços em compensação de bene-
+fícios pós -emprego que a entidade espera pagar em futuros períodos de relato. As técnicas atuariais permitem que uma entidade mensure essa obrigação com fiabilidade suficiente para justificar o reconhecimento 
+de um passivo.
+58 — O serviço do empregado dá origem a uma obrigação segundo 
+um plano de benefícios definidos mesmo que os benefícios estejam 
+condicionados a um futuro emprego (por outras palavras, não estejam adquiridos). O serviço dos empregados antes da data de aquisição do 
+direito ao benefício dá origem a uma obrigação construtiva porque 
+no fim de cada período de relato sucessivo se reduz a quantidade de serviço futuro que um empregado tem de prestar antes de ter direito ao benefício. Ao mensurar a sua obrigação de benefícios definidos, uma 
+entidade considera a probabilidade de que alguns empregados possam 
+não satisfazer quaisquer requisitos de aquisição do direito ao benefício. 
+De forma semelhante, embora determinados benefícios pós -emprego, por 
+exemplo médicos, apenas se tornem pagáveis se ocorrer um aconteci-
+mento especificado quando o empregado já não está empregado, cria -se 
+uma obrigação quando o empregado presta serviço que lhe proporcionará 
+direito ao benefício se ocorrer o acontecimento especificado. A probabi-
+lidade de que o acontecimento especificado ocorra afeta a mensuração da obrigação, mas não determina se a obrigação existe ou não.
+59 — A obrigação aumenta até à data em que o serviço adicional 
+prestado pelo empregado deixe de dar lugar a uma quantia material de benefícios futuros. Portanto, todo o benefício é atribuído aos períodos 
+que terminem em ou antes dessa data. O benefício é atribuído a perío-
+dos contabilísticos individuais segundo a forma de benefício do plano. Porém, se o serviço do empregado em anos posteriores conduzir a um 
+nível materialmente mais elevado de benefício do que nos anos iniciais, 
+uma entidade atribui o benefício numa base de linha reta até à data em que o serviço adicional do empregado deixe de dar lugar a uma quantia 
+material de benefícios futuros. Isto deve -se a que o serviço do empre-
+gado durante a totalidade do período dará em última análise lugar a um benefício a esse nível mais alto.
+60 — Quando a quantia de um benefício é uma proporção constante 
+do ordenado final relativo a cada ano de serviço, os aumentos futuros dos ordenados afetarão a quantia necessária para liquidar a obrigação 
+que existe relativamente ao serviço antes do fim do período de relato, 
+mas não criam uma obrigação adicional. Portanto:
+a) Para efeitos do parágrafo 56  b), os aumentos de ordenado não 
+conduzem a benefícios adicionais, embora a quantia dos benefícios seja 
+dependente do ordenado final; e
+b) A quantia do benefício atribuído a cada período é uma proporção 
+constante do ordenado ao qual o benefício está ligado.
+Pressupostos atuariais
+61 — Os pressupostos atuariais devem ser neutros e mutuamente 
+compatíveis.
+62 — Os pressupostos atuariais são as melhores estimativas da en-
+tidade das variáveis que determinarão o custo final de proporcionar 
+benefícios pós -emprego. Os pressupostos atuariais compreendem:
+a) Pressupostos demográficos acerca das características futuras dos 
+atuais e antigos empregados (e seus dependentes) que sejam elegíveis 
+para os benefícios. Os pressupostos demográficos tratam matérias como:
+i) A mortalidade (ver parágrafos 67 e 68);
+ii) As taxas de rotação, de incapacidade e de reforma antecipada dos 
+empregados;
+iii) A proporção dos membros do plano com dependentes que serão 
+elegíveis para os benefícios;
+iv) A proporção dos membros do plano que irão escolher cada opção 
+de pagamento disponível nos termos do plano; e
+v) As taxas de utilização dos planos médicos;
+b) Pressupostos financeiros, que tratam matérias como:
+i) A taxa de desconto (ver parágrafos 69 -72);
+ii) Os níveis de benefícios, excluindo quaisquer custos dos benefícios a 
+suportar pelos empregados, e os ordenados futuros (ver parágrafos 73 -81);
+iii) No caso de benefícios médicos, os custos médicos futuros, in-
+cluindo os custos de tratamento dos pagamentos (ou seja, os custos 
+que serão incorridos no processamento e resolução dos pedidos de 
+pagamento, incluindo honorários de advogados e peritos) (ver pará-
+grafos 82 -84); eiv) Os impostos a pagar pelo plano sobre as contribuições relativas 
+a serviços anteriores à data de relato ou sobre benefícios decorrentes desses serviços.
+63 — Os pressupostos atuariais são neutros se não forem nem impru-
+dentes nem excessivamente conservadores.
+64 — Os pressupostos atuariais são mutuamente compatíveis se re-
+fletirem os relacionamentos económicos entre fatores como a inflação, 
+as taxas de aumento dos ordenados e as taxas de desconto. Por exemplo, 
+todos os pressupostos que dependem de um dado nível de inflação (tais 
+como pressupostos sobre taxas de juro e aumentos de ordenados e de 
+benefícios) em qualquer dado período futuro pressupõem o mesmo nível 
+de inflação nesse período.
+65 — Uma entidade determina a taxa de desconto e outros pressu-
+postos financeiros em termos nominais (declarados), salvo se forem 
+mais credíveis estimativas em termos reais (ajustadas pela inflação), 
+por exemplo, numa economia hiperinflacionária ou quando o benefício 
+está indexado e existe um mercado ativo de obrigações indexadas da 
+mesma moeda e prazo.
+66 — Os pressupostos financeiros devem basear -se nas expectativas 
+de mercado, no fim do período de relato, relativamente ao período 
+durante o qual as obrigações deverão ser liquidadas.
+Pressupostos atuariais: mortalidade
+67 — Uma entidade deve determinar os seus pressupostos de morta-
+lidade com base na sua melhor estimativa da mortalidade dos membros 
+do plano durante e após o emprego.
+68 — Para calcular o custo final do benefício, a entidade tem em con-
+sideração as variações previstas da mortalidade, por exemplo alterando 
+as tabelas de mortalidade -padrão com estimativas quanto à melhoria das 
+taxas de mortalidade.
+Pressupostos atuariais: taxa de desconto
+69 — A taxa usada para descontar as obrigações de benefícios pós-
+-emprego (financiadas ou não financiadas) deve ser determinada por 
+referência aos rendimentos de mercado no fim do período de relato 
+para obrigações de alta qualidade de empresas. Nos países em que não 
+haja um mercado estabelecido dessas obrigações, devem ser usados os 
+rendimentos de mercado (no fim do período de relato) para as obrigações 
+estatais. A moeda e o prazo das obrigações de empresas ou das obrigações 
+estatais devem ser consistentes com a moeda e o prazo esperados das 
+obrigações de benefícios pós -emprego.
+70 — Um pressuposto atuarial que tem um efeito material é a taxa de 
+desconto. A taxa de desconto reflete o valor temporal do dinheiro mas 
+não o risco atuarial ou de investimento. Além disso, a taxa de desconto 
+não reflete o risco de crédito específico da entidade suportado pelos 
+seus credores, nem o risco de que a experiência futura possa diferir dos 
+pressupostos atuariais.
+71 — A taxa de desconto reflete o calendário estimado dos pagamen-
+tos de benefícios. Na prática, uma entidade consegue muitas vezes esse 
+objetivo aplicando uma única taxa de desconto média ponderada que 
+reflita o calendário e a quantia estimada dos pagamentos de benefícios 
+e a moeda em que os benefícios vão ser pagos.
+72 — Nalguns casos, não existe um mercado estabelecido para obri-
+gações com uma maturidade suficientemente longa para corresponder 
+com a maturidade estimada de todos os pagamentos de benefício. Em 
+tais casos, uma entidade usa taxas de mercado correntes com o prazo 
+apropriado para descontar pagamentos a prazos mais curtos, e estima a 
+taxa de desconto para vencimentos mais longos extrapolando taxas de mercado correntes ao longo da curva de rendimentos. O valor presente 
+total de uma obrigação de benefícios definidos não deverá ser particu-
+larmente sensível à taxa de desconto aplicada à porção dos benefícios 
+pagável para além da maturidade final das obrigações de empresas ou 
+das obrigações estatais disponíveis.
+Pressupostos atuariais: ordenados, benefícios e custos médicos
+73 — Uma entidade deve mensurar as suas obrigações de benefícios 
+definidos numa base que reflita:
+a) Os benefícios estabelecidos nos termos do plano (ou que resultem 
+de qualquer obrigação construtiva que vá para além desses termos) no 
+fim do período de relato;
+b) Quaisquer aumentos estimados dos ordenados futuros que afetem 
+os benefícios a pagar;
+c) O efeito de qualquer limite na participação do empregador no custo 
+dos benefícios futuros;
+d) As contribuições dos empregados ou de partes terceiras que redu-
+zam o custo final que esses benefícios representam para a entidade; eDiário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20841
+e) Alterações futuras estimadas no nível de quaisquer benefícios esta-
+tais que afetem os benefícios pagáveis segundo um plano de benefícios 
+definidos, se, e só se:
+i) Essas alterações forem decretadas antes do fim do período de 
+relato; ou
+ii) Os dados históricos, ou outra evidência credível, indicarem que 
+esses benefícios estatais se alterarão de forma previsível, por exemplo 
+em linha com alterações futuras nos níveis gerais de preços ou dos 
+ordenados.
+74 — Os pressupostos atuariais refletem alterações em benefícios 
+futuros que estejam estabelecidas nos termos formais do plano (ou de 
+uma obrigação construtiva que vá para além desses termos) no fim do 
+período de relato. Este é o caso quando, por exemplo:
+a) A entidade tem um passado histórico de benefícios crescentes, por 
+exemplo para mitigar os efeitos da inflação, e não existe indicação de 
+que esta prática se alterará no futuro;
+b) A entidade é obrigada, seja pelos termos formais de um plano 
+(ou de uma obrigação construtiva que vá para além desses termos) ou 
+pela legislação, a usar qualquer excedente do plano em benefício dos 
+participantes do plano [ver parágrafo 94  c)]; ou
+c) Os benefícios variam em função de objetivos de desempenho ou de 
+outros critérios. Por exemplo, os termos do plano podem estabelecer que 
+serão pagos benefícios reduzidos ou exigidas contribuições adicionais 
+aos empregados se os ativos do plano forem insuficientes. A mensura-
+ção da obrigação reflete a melhor estimativa do efeito do objetivo de 
+desempenho ou de outros critérios.
+75 — Os pressupostos atuariais não refletem alterações em benefícios 
+futuros que não estejam estabelecidas nos termos formais do plano 
+(ou de uma obrigação construtiva) no fim do período de relato. Tais 
+alterações resultarão em:
+a) Custo do serviço passado, na medida em que alterem benefícios 
+relativos ao serviço antes da alteração; e
+b) Custo do serviço corrente para os períodos após a alteração, na me-
+dida em que alterem benefícios relativos a serviços após a alteração.
+76 — As estimativas de aumentos de ordenados futuros tomam em 
+conta a inflação, a experiência, as promoções e outros fatores relevantes, 
+tais como a oferta e procura no mercado de emprego.
+77 — Alguns planos de benefícios definidos limitam as contribuições 
+exigidas a uma entidade. O custo final dos benefícios tem em conta o 
+efeito de um tal limite das contribuições. O efeito de um limite das con-
+tribuições é determinado ao longo do mais curto dos seguintes períodos:
+a) Duração estimada da entidade; e
+b) Duração estimada do plano.
+78 — Alguns planos de benefícios definidos exigem que os emprega-
+dos ou partes terceiras contribuam para o custo do plano. As contribui-
+ções dos empregados reduzem o custo dos benefícios para a entidade. 
+Uma entidade examina se as contribuições de partes terceiras reduzem 
+o custo dos benefícios para a entidade, ou constituem um direito de 
+reembolso conforme descrito no parágrafo 102. As contribuições dos 
+empregados ou de partes terceiras encontram -se estabelecidas nos ter-mos formais do plano (ou resultam de uma obrigação construtiva que 
+vá para além desses termos), ou são discricionárias. As contribuições discricionárias dos empregados ou de partes terceiras reduzem o custo 
+do serviço após o pagamento dessas contribuições para o plano.
+79 — As contribuições dos empregados ou de partes terceiras es-
+tabelecidas nos termos formais do plano reduzem o custo do serviço 
+(se estiverem associadas ao serviço) ou reduzem a remensuração do 
+passivo (ativo) líquido de benefícios definidos (p. ex.: se forem ne-
+cessárias contribuições para reduzir o défice resultante de perdas dos ativos do plano ou de perdas atuariais). As contribuições dos emprega-
+dos ou de partes terceiras que digam respeito a serviços são atribuídas 
+aos períodos de serviço como benefício negativo, de acordo com o 
+parágrafo 56 (ou seja, o benefício líquido é atribuído de acordo com 
+esse parágrafo).
+80 — As alterações das contribuições dos empregados ou de partes 
+terceiras que digam respeito a serviços resultam em:
+a) Custo do serviço corrente e passado (se as alterações das contribui-
+ções dos empregados não estiverem estabelecidas nos termos formais de 
+um plano e não resultarem de uma obrigação construtiva); e
+b) Ganhos e perdas atuariais (se as alterações das contribuições dos 
+empregados estiverem estabelecidas nos termos formais de um plano ou resultarem de uma obrigação construtiva).
+81 — Alguns benefícios pós -emprego estão ligados a variáveis tais 
+como o nível de benefícios das reformas estatais ou dos cuidados médicos estatais. A mensuração de tais benefícios reflete a melhor estimativa 
+de tais variáveis, com base em dados históricos e outros elementos 
+credíveis.
+82 — Os pressupostos acerca de custos médicos devem tomar em 
+conta as alterações futuras estimadas no custo dos serviços médicos, 
+resultantes não só da inflação como de alterações específicas nos custos 
+médicos.
+83 — A mensuração de benefícios médicos pós -emprego exige pres-
+supostos acerca do nível e da frequência de futuros pedidos de paga-
+mento e do custo de satisfazer esses pedidos. Uma entidade estima 
+os custos médicos futuros com base em dados históricos acerca da 
+própria experiência da entidade, suplementada sempre que necessário por dados históricos de outras entidades, de empresas de seguros, de 
+fornecedores de serviços médicos ou de outras fontes. As estimativas dos 
+custos médicos futuros consideram o efeito dos avanços tecnológicos, das alterações na utilização dos cuidados de saúde ou dos modelos de 
+prestação desses cuidados e das alterações nas condições de saúde dos participantes do plano.
+84 — O nível e a frequência dos pedidos de pagamento são particular-
+mente sensíveis à idade, às condições de saúde e sexo dos empregados 
+(e dos seus dependentes) e podem ser sensíveis a outros fatores, tais 
+como a localização geográfica. Por conseguinte, os dados históricos 
+são ajustados na medida em que o conjunto demográfico da população seja diferente do da população usada como base para esses dados. São 
+também ajustados sempre que existam indícios credíveis de que as 
+tendências históricas não continuarão a verificar -se.
+Custo do serviço passado e ganhos e perdas
+aquando da liquidação
+85 — Antes de determinar o custo do serviço passado, ou um ganho 
+ou perda aquando da liquidação, uma entidade deve reavaliar o passivo 
+(ativo) líquido de benefícios definidos usando o justo valor atual dos 
+ativos do plano e pressupostos atuariais atuais (incluindo as taxas de juro de mercado correntes e outros preços de mercado correntes) que 
+sejam reflexo dos benefícios oferecidos pelo plano antes da sua alteração, 
+cancelamento antecipado ou liquidação.
+86 — Uma entidade não precisa de distinguir entre o custo do serviço 
+passado resultante de uma alteração ou de um cancelamento antecipado 
+do plano e um ganho ou perda aquando da liquidação, se essas transa-ções ocorrerem em conjunto. Em certos casos, uma alteração do plano 
+ocorre antes da liquidação, nomeadamente quando uma entidade altera 
+os benefícios de um plano e liquida os benefícios alterados mais tarde. 
+Nesses casos, a entidade reconhece o custo do serviço passado antes de qualquer ganho ou perda aquando da liquidação.
+87 — Ocorre uma liquidação juntamente com uma alteração do plano 
+ou com um cancelamento antecipado se um plano for terminado de 
+forma tal que a obrigação é liquidada e o plano deixa de existir. Porém, 
+o término de um plano não é uma liquidação se o plano for substituído 
+por um novo plano que ofereça benefícios que, em substância, sejam idênticos.
+Custo do serviço passado
+88 — O custo do serviço passado é a variação do valor presente da 
+obrigação de benefícios definidos resultante de uma alteração ou do 
+cancelamento antecipado do plano.
+89 — Uma entidade deve reconhecer o custo do serviço passado como 
+um gasto na mais antiga das seguintes datas:
+a) Quando ocorre a alteração ou o cancelamento antecipado do plano;
+b) Quando a entidade reconhece os custos de reestruturação relacio-
+nados (ver NCRF 21) ou os benefícios de cessação (ver parágrafo 124).
+90 — Uma alteração do plano ocorre quando uma entidade introduz 
+ou retira um plano de benefícios definidos ou altera os benefícios a pagar 
+ao abrigo de um plano de benefícios definidos existente.
+91 — Um cancelamento antecipado ocorre quando uma entidade reduz 
+significativamente o número de empregados cobertos por um plano. Um 
+cancelamento antecipado pode decorrer de um evento isolado, como 
+o encerramento de uma fábrica, a interrupção de uma operação ou a 
+cessação ou suspensão de um plano.
+92 — O custo do serviço passado pode ser positivo (quando os bene-
+fícios são introduzidos ou modificados de tal forma que o valor presente 
+da obrigação de benefício definido aumente) ou negativo (quando os 
+benefícios existentes são modificados de tal forma que o valor presente da obrigação de benefício definido diminua).
+93 — Quando uma entidade reduz os benefícios a pagar segundo um 
+plano de benefícios definidos existente e, ao mesmo tempo, aumenta 
+outros benefícios a pagar segundo o plano para os mesmos empregados, 
+a entidade trata a alteração como uma alteração líquida única.20842 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+94 — O custo do serviço passado exclui:
+a) O efeito de diferenças entre os aumentos de ordenados reais e os 
+anteriormente pressupostos na obrigação de pagar benefícios relativos ao serviço em anos anteriores (não há custo do serviço passado porque 
+os pressupostos atuariais contemplam ordenados projetados);
+b) As estimativas por defeito e por excesso de aumentos discricioná-
+rios das pensões quando uma entidade tem uma obrigação construtiva 
+de conceder tais aumentos (não há custo do serviço passado porque os 
+pressupostos atuariais têm em conta tais aumentos);
+c) As estimativas de melhorias de benefícios que resultem de ganhos 
+atuariais ou do retorno dos ativos do plano que já foram reconhecidos 
+nas demonstrações financeiras se a entidade estiver obrigada, quer pelos 
+termos formais de um plano (ou por uma obrigação construtiva que vá 
+para além desses termos) quer pela legislação, a usar qualquer excedente 
+no plano em benefício dos seus participantes, mesmo se o aumento dos 
+benefícios não tiver ainda sido formalmente concedido (não há custo do 
+serviço passado porque o aumento resultante da obrigação é uma perda atuarial, ver parágrafo 74); e
+d) O aumento de benefícios adquiridos (ou seja, benefícios não con-
+dicionados a futuro emprego, ver parágrafo 58) quando, na ausência de 
+benefícios novos ou melhorados, os empregados satisfaçam os requi-sitos de aquisição do direito (não há custo do serviço passado porque 
+a entidade reconheceu o custo estimado dos benefícios como custo do serviço corrente à medida que o serviço foi sendo prestado).
+Ganhos e perdas aquando da liquidação
+95 — O ganho ou perda aquando de uma liquidação é a diferença entre:
+a) O valor presente da obrigação de benefícios definidos a liquidar, 
+conforme determinado à data da liquidação; e
+b) O preço da liquidação, incluindo quaisquer ativos do plano trans-
+feridos e quaisquer pagamentos efetuados diretamente pela entidade no 
+âmbito da liquidação.
+96 — Uma entidade deve reconhecer um ganho ou perda aquando da 
+liquidação de um plano de benefícios definidos na data em que ocorrer 
+a liquidação.
+97 — Ocorre uma liquidação quando uma entidade celebra uma tran-
+sação que elimina todas as futuras obrigações legais ou construtivas rela-
+tivamente a parte ou a todos os benefícios proporcionados por um plano 
+de benefícios definidos (com exceção de um pagamento de benefícios feito a, ou a favor de, empregados de acordo com os termos do plano e incluído nos pressupostos atuariais). Considera -se uma liquidação, por 
+exemplo, uma transferência pontual de obrigações significativas do 
+empregador segundo o plano para uma empresa de seguros através da aquisição de uma apólice de seguros; não se considera uma liquidação um pagamento único em dinheiro feito, nos termos do plano, aos par-
+ticipantes do plano, em troca dos seus direitos a receber determinados 
+benefícios pós -emprego.
+98 — Em alguns casos, uma entidade adquire uma apólice de seguros 
+para financiar alguns ou todos os benefícios dos empregados relativos ao 
+serviço dos empregados nos períodos corrente e anteriores. A aquisição 
+de tal apólice não é uma liquidação se a entidade mantiver uma obrigação 
+legal ou construtiva (ver parágrafo 34) de efetuar pagamentos adicionais 
+se o segurador não pagar os benefícios dos empregados especificados na 
+apólice de seguros. Os parágrafos 102 -105 tratam do reconhecimento e mensuração dos direitos de reembolso de acordo com as apólices de seguros que não sejam ativos do plano.
+Reconhecimento e mensuração: ativos do plano
+Justo valor dos ativos do plano
+99 — O justo valor de quaisquer ativos do plano é deduzido do valor 
+presente da obrigação de benefícios definidos aquando da determinação 
+do défice ou do excedente. Quando não estiver disponível um preço de 
+mercado, o justo valor dos ativos do plano é estimado, por exemplo 
+descontando os fluxos de caixa futuros esperados usando uma taxa de 
+desconto que seja reflexo não só do risco associado aos ativos do plano como da maturidade ou data de alienação esperada desses ativos (ou, 
+se não tiverem maturidade, ao período esperado até à liquidação da 
+respetiva obrigação).
+100 — Os ativos do plano excluem contribuições não pagas devidas 
+ao fundo de financiamento pela entidade que relata, bem como quaisquer 
+instrumentos financeiros não transferíveis emitidos pela entidade e deti-
+dos pelo fundo. Os ativos do plano são reduzidos de quaisquer passivos 
+do fundo que não se relacionem com os benefícios dos empregados, por 
+exemplo valores a pagar, comerciais ou outros, e passivos resultantes de instrumentos financeiros derivados.
+101 — Quando os ativos do plano incluírem apólices de seguro elegí-
+veis que correspondam exatamente à quantia e ao calendário de alguns ou de todos os benefícios a pagar segundo o plano, o justo valor dessas 
+apólices de seguro é considerado equivalente ao valor presente das 
+respetivas obrigações (sob reserva de qualquer redução necessária se 
+as quantias a receber segundo as apólices de seguro não forem recupe-
+ráveis na totalidade).
+Reembolsos
+102 — Quando, e só quando, for virtualmente certo que uma outra 
+parte reembolsará alguns ou todas as despesas necessárias para liquidar 
+uma obrigação de benefícios definidos, uma entidade deve:
+a) Reconhecer o seu direito ao reembolso como um ativo separado. 
+A entidade deve mensurar o ativo pelo justo valor;
+b) Desagregar e reconhecer as variações no justo valor do seu direito 
+ao reembolso da mesma maneira que as variações no justo valor dos ativos do plano (ver parágrafos 110 e 111). Os componentes do custo 
+dos benefícios definidos reconhecido de acordo com o parágrafo 106 
+podem ser reconhecidos líquidos das quantias relativas às variações na 
+quantia escriturada do direito ao reembolso.
+103 — Por vezes, uma entidade está em condições de pedir que uma 
+outra parte, tal como uma seguradora, pague parte ou a totalidade das 
+despesas necessárias para liquidar uma obrigação de benefícios definidos. 
+As apólices de seguros elegíveis, como definidas no parágrafo 8, são 
+ativos do plano. Uma entidade contabiliza as apólices de seguros elegí-
+veis da mesma maneira que os outros ativos do plano e o parágrafo 102 
+não se aplica (ver parágrafos 34 -37 e 101).
+104 — Quando uma apólice de seguro detida por uma entidade não 
+for uma apólice de seguro elegível, não é um ativo do plano. Nesses 
+casos, aplica -se o parágrafo 102: a entidade reconhece o seu direito ao 
+reembolso de acordo com a apólice de seguro como um ativo separado 
+e não como uma dedução ao determinar o défice ou excedente do be-
+nefício definido.
+105 — Se o direito ao reembolso decorrer de uma apólice de seguros 
+que corresponda exatamente à quantia e à data de todos ou de alguns dos 
+benefícios a pagar segundo um plano de benefícios definidos, o justo 
+valor do direito ao reembolso é considerado equivalente ao valor presente 
+da respetiva obrigação (sob reserva de qualquer redução necessária se o reembolso não for recuperável na totalidade).
+Componentes do custo dos benefícios definidos
+106 — Uma entidade deve reconhecer os componentes do custo dos 
+benefícios definidos como se segue, salvo na medida em que outra NCRF 
+exija ou permita a sua inclusão no custo de um ativo:
+a) O custo do serviço (ver parágrafos 52 -98) nos resultados;
+b) O juro líquido sobre o passivo (ativo) líquido de benefícios defi-
+nidos (ver parágrafos 109 -112) nos resultados; e
+c) A remensuração do passivo (ativo) líquido de benefícios definidos 
+(ver parágrafos 113 -116) diretamente no capital próprio.
+107 — Outras NCRF exigem a inclusão de determinados custos de 
+benefícios dos empregados no custo dos ativos, tais como inventários ou 
+ativos fixos tangíveis (ver NCRF 18 — Inventários e a NCRF 7 — Ativos 
+Fixos Tangíveis). Quaisquer custos de benefícios pós -emprego incluídos 
+no custo de tais ativos incluem a proporção apropriada dos componentes 
+enumerados no parágrafo 106.
+108 — A remensuração do passivo (ativo) líquido de benefícios de-
+finidos reconhecida diretamente no capital próprio não deve ser reclas-
+sificada nos resultados em períodos subsequentes. Contudo, a entidade 
+pode transferir essas quantias reconhecidas diretamente no capital próprio 
+dentro do âmbito do capital próprio.
+Juro líquido sobre o passivo (ativo) líquido de benefícios definidos
+109 — O juro líquido sobre o passivo (ativo) líquido de benefícios 
+definidos obtém -se multiplicando o passivo (ativo) líquido de benefícios 
+definidos pela taxa de desconto especificada no parágrafo 69, ambos 
+determinados no início do período de relato anual, tendo em conta 
+qualquer variação do passivo (ativo) líquido de benefícios definidos 
+durante o período em consequência do pagamento de contribuições e 
+benefícios.
+110 — O juro líquido sobre o passivo (ativo) líquido de benefícios 
+definidos pode ser considerado como incluindo os juros recebidos so-
+bre os ativos do plano, os juros pagos sobre a obrigação de benefícios 
+definidos e os juros referentes ao efeito do limite máximo de ativos 
+referido no parágrafo 50.
+111 — Os juros recebidos sobre os ativos do plano são um componente 
+do retorno dos ativos do plano e obtêm -se multiplicando o justo valor dos ativos do plano pela taxa de desconto especificada no parágrafo 69, Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20843
+ambos determinados no início do período de relato anual, tendo em conta 
+qualquer variação do passivo (ativo) líquido de benefícios definidos 
+durante o período em consequência do pagamento de contribuições e 
+benefícios. A diferença entre os juros recebidos sobre os ativos do plano 
+e o retorno dos ativos do plano é incluída na remensuração do passivo 
+(ativo) líquido de benefícios definidos.
+112 — Os juros referentes ao efeito do limite máximo de ativos fazem 
+parte da variação total do efeito do limite máximo de ativos e obtêm -se 
+multiplicando o efeito do limite máximo de ativos pela taxa de desconto 
+especificada no parágrafo 69, ambos determinados no início do período 
+de relato anual. A diferença entre esse valor e a variação total do efeito do 
+limite máximo de ativos é incluída na remensuração do passivo (ativo) 
+líquido de benefícios definidos.
+Remensuração do passivo (ativo) líquido de benefícios definidos
+113 — A remensuração do passivo (ativo) líquido de benefícios de-
+finidos inclui:
+a) Os ganhos e perdas atuariais (ver parágrafos 114 e 115);
+b) O retorno dos ativos do plano (ver parágrafo 116), excluindo as 
+quantias incluídas no juro líquido sobre o passivo (ativo) líquido de 
+benefícios definidos (ver parágrafo 111); e
+c) Qualquer variação do efeito do limite máximo de ativos, excluindo 
+as quantias incluídas no juro líquido sobre o passivo (ativo) líquido de 
+benefícios definidos (ver parágrafo 112).
+114 — Os ganhos e perdas atuariais resultam de aumentos ou dimi-
+nuições no valor presente de uma obrigação de benefícios definidos em 
+consequência de alterações nos pressupostos atuariais e de ajustamentos 
+de experiência. As causas de ganhos e perdas atuariais incluem, por 
+exemplo:
+a) Taxas inesperadamente altas ou baixas de rotação dos emprega-
+dos, de reformas antecipadas ou de mortalidade ou de aumentos em 
+ordenados, em benefícios (se os termos formais ou construtivos de 
+um plano proporcionarem aumentos de benefícios inflacionários) ou 
+custos médicos;
+b) O efeito de alterações nos pressupostos relativos às opções de 
+pagamento dos benefícios;
+c) O efeito de alterações nas estimativas da futura rotação dos em-
+pregados, das reformas antecipadas ou da mortalidade ou dos aumentos 
+em ordenados, em benefícios (se os termos formais ou construtivos de 
+um plano proporcionarem aumentos de benefícios inflacionários) ou 
+custos médicos; e
+d) O efeito de alterações na taxa de desconto.
+115 — Os ganhos e perdas atuariais não incluem as alterações do 
+valor presente da obrigação de benefícios definidos que resultem da 
+introdução, alteração, cancelamento antecipado ou liquidação do plano 
+de benefícios definidos, ou de alterações dos benefícios a pagar ao abrigo 
+do plano de benefícios definidos. Essas alterações resultam em custos de 
+serviços passados ou em ganhos ou perdas aquando da liquidação.
+116 — Para determinar o retorno dos ativos do plano, a entidade deduz 
+os custos de gestão dos ativos do plano e quaisquer impostos a pagar 
+pelo próprio plano que não sejam impostos incluídos nos pressupostos 
+atuariais usados para mensurar a obrigação de benefícios definidos 
+(parágrafo 62). Os outros custos administrativos não são deduzidos do retorno dos ativos do plano.
+Apresentação
+Compensação
+117 — Uma entidade deve compensar um ativo relativo a um plano 
+com um passivo relativo a outro plano quando, e só quando, a entidade:
+a) Tiver um direito legalmente executável de usar um excedente de 
+um plano para liquidar obrigações do outro plano; e
+b) Pretender liquidar as obrigações numa base líquida ou realizar o 
+excedente de um plano e liquidar a sua obrigação de acordo com o outro 
+plano em simultâneo.
+Componentes do custo dos benefícios definidos
+118 — O parágrafo 106 exige que uma entidade reconheça o custo 
+do serviço e o juro líquido sobre o passivo (ativo) líquido de benefícios definidos nos resultados. Esta Norma não especifica de que modo uma entidade deve apresentar o custo do serviço corrente e o juro líquido sobre o passivo (ativo) líquido do benefício definido.Outros benefícios a longo prazo dos empregados
+119 — Outros benefícios a longo prazo dos empregados incluem, 
+por exemplo:
+a) Ausências permitidas de longo prazo tais como licença por serviços 
+duradouros ou sabática;
+b) Benefícios de jubilação ou por outro serviço duradouro;
+c) Benefícios a longo prazo de incapacidade;
+d) Participação nos lucros e bónus pagáveis doze meses ou mais após 
+o fim do período no qual os empregados prestam o respetivo serviço; e
+e) Remunerações diferidas pagas doze meses ou mais após o fim do 
+período no qual seja obtida.
+120 — A mensuração de outros benefícios a longo prazo dos em-
+pregados não é geralmente sujeita ao mesmo grau de incerteza que a 
+mensuração de benefícios pós -emprego. Por estas razões, esta Norma 
+exige um método simplificado de contabilização para outros benefícios 
+a longo prazo dos empregados. Contrariamente à contabilização exigida 
+para os benefícios pós -emprego, este método não reconhece a remen-suração diretamente no capital próprio.
+Reconhecimento e mensuração
+121 — A quantia reconhecida como um passivo relativa a outros 
+benefícios a longo prazo dos empregados deve ser o total líquido das 
+seguintes quantias:
+a) O valor presente da obrigação de benefícios definidos à data do 
+balanço;
+b) Menos o justo valor à data do balanço dos ativos do plano (se os 
+houver) dos quais as obrigações devem ser liquidadas diretamente.
+122 — Para outros benefícios a longo prazo dos empregados, uma 
+entidade deve reconhecer o total líquido das seguintes quantias como gasto ou rendimento, exceto na medida em que outra NCRF exija ou permita a sua inclusão no custo de um ativo:
+a) Custo dos serviços;
+b) Custo de juros;
+c) Remensuração do passivo (ativo) líquido dos outros benefícios a 
+longo prazo;
+d) Ganhos e perdas atuariais, que devem ser todos imediatamente 
+reconhecidos;
+e) Custo do serviço passado, que deve ser todo imediatamente re-
+conhecido; e
+f) Efeito de quaisquer cortes ou liquidações.
+123 — Uma forma de outros benefícios a longo prazo dos empregados 
+é o benefício de incapacidade de longo prazo. Se o nível do benefício 
+depende da duração do serviço, uma obrigação surge quando o serviço 
+é prestado. A mensuração dessa obrigação reflete a probabilidade desse 
+pagamento ser obrigatório e a duração do tempo durante o qual se espera 
+que o pagamento seja feito. Se o nível do benefício for o mesmo para 
+qualquer empregado inválido independentemente dos anos de serviço, 
+o custo esperado desses benefícios é reconhecido quando ocorre um 
+acontecimento que cause uma incapacidade de longo prazo.
+Benefícios de cessação de emprego
+124 — Esta Norma trata de benefícios de cessação de emprego em 
+separado de outros benefícios dos empregados devido a que o aconte-
+cimento que dá origem a uma obrigação é a cessação em vez do serviço do empregado.
+Reconhecimento
+125 — Uma entidade deve reconhecer um passivo e um gasto relativo 
+aos benefícios de cessação de emprego na mais antiga das seguintes 
+datas:
+a) Quando a entidade já não pode retirar a oferta de tais benefícios; e
+b) Quando a entidade reconhece os custos de uma reestruturação 
+que se inscreve no âmbito da NCRF 21 e que implica o pagamento de 
+benefícios de cessação de emprego.
+126 — No caso dos benefícios de cessação pagáveis em consequên-
+cia da decisão de uma entidade cessar o emprego de um empregado, a entidade deixa de poder retirar a oferta a partir do momento em que comunica aos empregados visados um plano de cessação que cumpra todos os seguintes critérios:
+a) As medidas necessárias para executar o plano tornam improvável 
+que o plano venha a sofrer alterações significativas;20844 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+b) O plano identifica o número de empregados cujo emprego se 
+pretende cessar, as respetivas categorias profissionais ou funções e a 
+sua localização (mas o plano não tem de identificar cada empregado 
+individual), bem como a data de execução prevista;
+c) O plano estipula os benefícios de cessação que os empregados irão 
+receber com um grau de detalhe suficiente para permitir aos empregados 
+determinar o tipo e a quantia dos benefícios que irão receber quando o 
+seu emprego cessar.
+127 — Quando uma entidade reconheça benefícios de cessação, a 
+entidade pode também ter necessidade de contabilizar um corte de 
+benefícios de reforma ou outros benefícios dos empregados.
+Mensuração
+128 — Uma entidade deve mensurar os benefícios de cessação de 
+emprego no reconhecimento inicial, e deve mensurar e reconhecer 
+as alterações subsequentes de acordo com a natureza do benefício do 
+empregado, mas se os benefícios de cessação forem um alargamento 
+dos benefícios pós -emprego, a entidade deve aplicar os requisitos dos 
+benefícios pós -emprego. Caso contrário:
+a) Se for de esperar que os benefícios de cessação sejam liquidados 
+na totalidade até doze meses após o fim do período de relato anual em 
+que o benefício de cessação é reconhecido, a entidade deve aplicar os 
+requisitos dos benefícios a curto prazo dos empregados;
+b) Se não for de esperar que os benefícios de cessação sejam liquidados 
+na totalidade até doze meses após o fim do período de relato anual em 
+que o benefício de cessação é reconhecido, a entidade deve aplicar os 
+requisitos dos outros benefícios a longo prazo dos empregados.
+Uma vez que os benefícios de cessação não são concedidos em troca 
+de um serviço, os parágrafos 56 a 60 relativos à atribuição do benefício 
+aos períodos de serviço não se aplicam.
+Data de eficácia
+129 — Uma entidade deve aplicar esta Norma a partir do primeiro 
+período que se inicie em ou após 1 de janeiro de 2016.
+130 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam 
+comparáveis.
+131 — Esta Norma substitui a NCRF — 28 Benefícios dos Empre-
+gados, constante do Aviso n.º 15655/2009, publicado no Diário da 
+República, 2.ª série, n.º 173, de 7 de setembro de 2009.
+Apêndice
+Exemplo ilustrativo dos parágrafos 15 e 16
+Uma entidade tem 100 empregados, cada um dos quais tem direito 
+a cinco dias úteis de baixa por doença paga em cada ano. As baixas 
+por doença não utilizadas podem ser reportadas durante um ano de 
+calendário. As baixas por doença são retiradas em primeiro lugar do direito do ano em curso e em seguida de qualquer saldo reportado do ano anterior (uma base LIFO). Em 31 de dezembro de 20X1, o direito não utilizado médio é de dois dias por empregado. A entidade espera, 
+com base na experiência passada que se mantenha, que 92 empregados 
+não tirarão mais de cinco dias de baixa por doença paga em 20X2 e 
+que os restantes oito empregados tirarão uma média de seis dias e 
+meio cada um.
+A entidade espera pagar um adicional de 12 dias de baixa por doença 
+em consequência do direito não utilizado acumulado em 31 de dezembro 
+de 20X1 (um dia e meio cada, para oito empregados). Por conseguinte, 
+a entidade reconhece um passivo igual ao pagamento de 12 dias de 
+baixa por doença.
+Exemplo ilustrativo do parágrafo 19
+Um plano de participação nos lucros exige que uma entidade pague 
+uma proporção especificada do seu lucro anual aos empregados que a serviram durante o ano. Se nenhum dos empregados sair durante o ano, o total dos pagamentos de participação nos lucros será de 3 % do lucro. A entidade estima que a rotação de pessoal reduzirá os pagamentos a 2,5 % do lucro. A entidade reconhece um passivo e um gasto de 2,5 % do lucro.Exemplo ilustrativo do parágrafo 54
+Um benefício de quantia única é pagável na cessação de serviço e igual 
+a 1 % do ordenado final por cada ano de serviço. O ordenado no ano 1 
+é de 10 000 UM e presume -se um aumento anual de 7 % (composto). 
+A taxa de desconto utilizada é de 10 % ao ano. A tabela que se segue mostra como a obrigação se constitui para um empregado cuja saída está prevista no final do ano 5, pressupondo que não há alterações nos 
+pressupostos atuariais. Por razões de simplificação, este exemplo ignora 
+o ajustamento adicional necessário para refletir a probabilidade de o 
+empregado deixar a entidade mais cedo ou mais tarde do que o previsto. 
+Ano1
+UM2
+UM3
+UM4
+UM5
+UM
+Benefício atribuído a      
+Anos anteriores . . . . . . . . . . . . . . . . . 0 131 262 393 524 
+Ano em curso (1 % do ordenado final) 131 131 131 131 131 
+Anos em curso e anteriores . . . . . . . . 131 262 393 524 655 
+Obrigação inicial . . . . . . . . . . . . . . . . . .  - 89 196 324 476 
+Juro a 10 %   . . . . . . . . . . . . . . . . . . . . . .  - 9 20 33 48 Custo do serviço corrente. . . . . . . . . . . . 89 98 108 119 131 
+Obrigação final   . . . . . . . . . . . . . . . . . . . 89 196 324 476 655 
+ Notas
+1 — A obrigação inicial é o valor presente do benefício atribuído a 
+anos anteriores.
+2 — O custo do serviço corrente é o valor presente do benefício 
+atribuído ao ano em curso.
+3 — A obrigação final é o valor presente do benefício atribuído aos 
+anos em curso e anteriores.
+Exemplos ilustrativos do parágrafo 57
+1 — Um plano de benefícios definidos proporciona um benefício de 
+quantia única de 100 UM pagável no momento da reforma por cada ano 
+de serviço. É atribuído um benefício de 100 UM a cada ano. O custo do 
+serviço corrente tem o valor presente de 100 UM. O valor presente da 
+obrigação de benefício definido é o valor presente de 100 UM, multi-
+plicado pelo número de anos de serviço até ao fim do período de relato. 
+Se o benefício for pagável imediatamente quando o empregado deixa a entidade, o custo do serviço corrente e o valor presente da obrigação 
+de benefício definido refletem a data em que se prevê a saída do empre-
+gado. Assim, devido ao efeito de desconto, essas quantias são inferiores 
+às quantias que seriam determinadas se o empregado saísse no fim do período de relato.
+2 — Um plano proporciona uma pensão mensal de 0,2 % do ordenado 
+final por cada ano de serviço. A pensão é pagável a partir dos 65 anos. 
+É atribuído a cada ano de serviço um benefício igual ao valor presente, 
+à data prevista de reforma, de uma pensão mensal de 0,2 % do ordenado 
+final estimado, pagável a partir da data prevista de reforma e até à data prevista de morte. O custo do serviço corrente é o valor presente desse 
+benefício. O valor presente da obrigação de benefício definido é o valor 
+presente dos pagamentos mensais da pensão de 0,2 % do ordenado final, 
+multiplicado pelo número de anos de serviço até ao fim do período de relato. O custo do serviço corrente e o valor presente da obrigação de 
+benefício definido são descontados porque os pagamentos da pensão 
+só começam aos 65 anos.
+Exemplos ilustrativos do parágrafo 58
+1 — Um plano paga um benefício de 100 UM por cada ano de ser-
+viço. Os benefícios adquirem -se após 10 anos de serviço. É atribuído 
+um benefício de 100 UM a cada ano. Em cada um dos dez primeiros 
+anos o custo do serviço corrente e o valor presente da obrigação refle-
+tem a probabilidade de que o empregado possa não completar 10 anos 
+de serviço.
+2 — Um plano paga um benefício de 100 UM por cada ano de serviço, 
+excluindo o serviço antes dos 25 anos de idade. Os benefícios adquirem-
+-se imediatamente. Nenhum benefício é atribuído ao serviço antes dos 
+25 anos porque o serviço antes dessa data não dá lugar a benefícios 
+(condicionados ou não condicionados). É atribuído um benefício de 
+100 UM a cada ano subsequente.
+Exemplos ilustrativos do parágrafo 59
+1 — Um plano paga um benefício de quantia única de 1 000 UM que 
+se adquire após 10 anos de serviço. O plano não prevê qualquer bene-
+fício adicional para o serviço subsequente. Um benefício de 100 UM Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20845
+(1 000 UM a dividir por dez) é atribuído a cada um dos primeiros 10 anos. 
+O custo do serviço corrente em cada um dos 10 primeiros anos reflete 
+a probabilidade de que o empregado não complete 10 anos de serviço. Nenhum benefício é atribuído a anos subsequentes.
+2 — Um plano paga um benefício de reforma de quantia única de 
+2 000 UM a todos os empregados que ainda estejam empregados aos 55 anos após vinte anos de serviço, ou que ainda estejam empregados 
+aos 65, independentemente da duração do seu serviço. Para os empre-
+gados que sejam admitidos antes dos 35, o serviço começa a dar lugar aos benefícios segundo o plano aos 35 anos (um empregado pode sair 
+com 30 anos e regressar aos 33 sem efeito na quantia ou calendário 
+dos benefícios). Esses benefícios estão condicionados a serviço futuro. O serviço para além dos 55 também não dará lugar a uma quantia ma-
+terial de benefícios futuros. Para estes empregados, a entidade atribui 
+um benefício de 100 UM (2 000 UM a dividir por 20) a cada ano entre os 35 e os 55 anos de idade. Para os empregados que sejam admitidos entre os 35 e os 45 anos, o serviço para além de 20 anos não dará lugar 
+a qualquer quantia material de benefícios adicionais. Para esses empre-gados, a entidade atribui um benefício de 100 (2 000 a dividir por 20) a 
+cada um dos primeiros 20 anos. Para um empregado que seja admitido 
+aos 55, o serviço para além de 10 anos não dará lugar a qualquer quantia 
+material de benefícios futuros. Para este empregado, a entidade atribui um benefício de 200 UM (2 000 UM a dividir por 10) a cada um dos 
+10 primeiros anos. Para todos os empregados, o custo do serviço cor-
+rente e o valor presente da obrigação refletem a probabilidade de que o empregado possa não completar o necessário período de serviço.
+3 — Um plano médico pós -emprego reembolsa 40 % dos custos 
+médicos pós -emprego de um empregado se o mesmo sair depois de 
+mais de dez e menos de vinte anos de serviço e 50 % desses custos se o 
+empregado sair após vinte ou mais anos de serviço. Segundo a fórmula de 
+benefícios do plano, a entidade atribui 4 % do valor presente dos custos médicos esperados (40 % a dividir por dez) a cada um dos primeiros 
+10 anos e 1 % (10 % a dividir por 10) a cada um dos segundos 10 anos. 
+O custo do serviço corrente em cada ano reflete a probabilidade de que o empregado possa não completar o período de serviço necessário para obter parte ou a totalidade dos benefícios. Para os empregados que se 
+espera venham a sair passados menos de dez anos, nenhum benefício 
+é atribuído.
+4 — Um plano médico pós -emprego reembolsa 10 % dos custos 
+médicos pós -emprego de um empregado se um empregado sair depois de mais de dez e menos de vinte anos de serviço e 50 % desses custos 
+se o empregado sair após vinte ou mais anos de serviço. O serviço em 
+anos posteriores conduzirá a um nível de benefícios materialmente 
+mais elevado do que em anos recentes. Portanto, para os empregados 
+que se espera venham a sair após vinte ou mais anos, a entidade atribui 
+o benefício numa base de linha reta segundo o parágrafo 57. O serviço 
+para além de vinte anos não dará lugar a qualquer quantia material 
+de benefícios futuros. Portanto, o benefício atribuído a cada um dos 
+primeiros vinte anos é de 2,5 % do valor presente dos custos médicos 
+esperados (50 % a dividir por vinte). Para os empregados que se espere 
+venham a sair entre os dez e vinte anos, o benefício atribuído a cada um 
+dos primeiros 10 anos é de 1 % do valor presente dos custos médicos 
+esperados. Para estes empregados, nenhum benefício é atribuído ao 
+serviço entre o final do décimo ano e a data estimada de saída. Para os empregados que se espera venham a sair passados menos de dez anos, 
+nenhum benefício é atribuído.
+Exemplo ilustrativo do parágrafo 60
+Os empregados têm direito a um benefício de 3 % do ordenado final 
+por cada ano de serviço antes dos 55 anos. O benefício de 3 % do or-
+denado final estimado é atribuído a cada ano até aos 55. Esta é a data 
+em que o serviço adicional prestado pelo empregado não dará lugar a 
+qualquer quantia material de benefícios adicionais segundo o plano. 
+Nenhum benefício é atribuído ao serviço após essa idade.
+Exemplo ilustrativo dos parágrafos 124 -128
+Contexto
+Na sequência de uma aquisição recente, uma entidade planeia encer-
+rar uma fábrica dentro de dez meses e, nessa altura, cessar o emprego 
+de todos os empregados remanescentes dessa fábrica. Uma vez que a 
+entidade necessita das competências dos empregados da fábrica para 
+terminar alguns contratos, anuncia um plano de cessação nos seguintes termos. Cada empregado que permanecer na empresa e prestar serviço 
+até ao encerramento da fábrica receberá, à data da cessação do emprego, 
+um pagamento em dinheiro de 30 000 UM. Os empregados que saírem antes do encerramento da fábrica receberão 10 000 UM. A fábrica tem 120 empregados. À data em que anuncia o plano, a entidade espera que 20 dos empregados saiam antes do encerramento da fábrica. Assim, o total dos fluxos de saída de caixa previstos nos termos do plano ascende 
+a 3 200 000 UM (ou seja, 20 × 10 000 UM + 100 × 30 000 UM). Con-
+forme exigido no parágrafo 160, a entidade contabiliza os benefícios concedidos em troca da cessação de emprego como benefícios de ces-
+sação e contabiliza os benefícios concedidos em troca de serviços como 
+benefícios a curto prazo dos empregados.
+Benefícios de cessação de emprego
+O benefício concedido em troca da cessação de emprego é de 
+10 000 UM. Esta é a quantia que uma entidade teria de pagar pela ces-
+sação do emprego, independentemente de os empregados continuarem a 
+prestar serviço até ao encerramento da fábrica ou saírem antes do encer-
+ramento. Ainda que os empregados possam sair antes do encerramento, a 
+cessação do emprego de todos os empregados é consequência da decisão 
+tomada pela entidade de encerrar a fábrica e de cessar o seu emprego 
+(ou seja, todos os empregados cessarão o emprego quando a fábrica 
+encerrar). Por isso, a entidade reconhece um passivo de 1 200 000 UM 
+(isto é, 120 × 10 000 UM) relativo aos benefícios de cessação concedidos 
+de acordo com o plano de benefícios dos empregados, à data em que o 
+plano de cessação é anunciado ou à data em que a entidade reconhece 
+os custos de reestruturação associados ao encerramento da fábrica, 
+consoante o que ocorrer primeiro.
+Benefícios concedidos em troca de serviço
+Os benefícios adicionais que os empregados receberão se presta-
+rem serviço durante o período completo de dez meses são concedi-
+dos em troca dos serviços prestados durante esse período. A entidade 
+contabiliza -os como benefícios a curto prazo dos empregados, porque 
+espera liquidá -los até doze meses após o fim do período de relato anual. 
+Neste exemplo, não se exige o desconto, pelo que é reconhecido um 
+gasto de 200 000 UM (isto é, 2 000 000 UM ÷ 10) em cada mês durante 
+o período de serviço de dez meses, com um aumento correspondente da 
+quantia escriturada do passivo.

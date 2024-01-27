@@ -1,0 +1,151 @@
+Norma Contabilística e de Relato Financeiro 24
+Acontecimentos Após a Data do Balanço
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro 
+é o de estabelecer quando uma entidade deve ajustar as suas demons-trações financeiras quanto a acontecimentos após a data do balanço e 
+os princípios gerais de divulgação de acontecimentos após a data do 
+balanço. A Norma também exige que uma entidade não deve preparar 
+as suas demonstrações financeiras numa base de continuidade se os 
+acontecimentos após a data do balanço indicarem que o pressuposto da continuidade não é apropriado.
+Âmbito
+2 — Esta Norma deve ser aplicada na contabilização de acontecimen-
+tos após a data do balanço.
+Definições
+3 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Acontecimentos após a data do balanço: são aqueles acontecimen-
+tos, favoráveis e desfavoráveis, que ocorram entre a data do balanço 
+e a data em que as demonstrações financeiras forem autorizadas para emissão, pelo órgão de gestão. Podem ser identificados dois tipos de 
+acontecimentos:
+a) Aqueles que proporcionem prova de condições que existiam à 
+data do balanço (acontecimentos após a data do balanço que dão lugar 
+a ajustamentos); e
+b) Aqueles que sejam indicativos de condições que surgiram após a 
+data do balanço (acontecimentos após a data do balanço que não dão lugar a ajustamentos).
+Incluem -se aqui os acontecimentos que ocorram após o anúncio pú-
+blico de resultados ou de outra informação financeira selecionada.
+Data de autorização para emissão das demonstrações financeiras: 
+é a data a partir da qual as demonstrações financeiras aprovadas pelo órgão de gestão se disponibilizam para conhecimento de terceiros ou, 
+se aplicável, dum conselho de supervisão (constituído unicamente por 
+não executivos).
+4 — O processo de autorização da emissão de demonstrações fi-
+nanceiras variará consoante a natureza, a organização da entidade e as 
+exigências legais a que a mesma está submetida. É importante para os 
+utentes saber quando é que as demonstrações financeiras foram autori-
+zadas para emissão, porque as demonstrações financeiras não refletem 
+acontecimentos após essa data.
+Reconhecimento e mensuração
+Acontecimentos após a data do balanço
+que dão lugar a ajustamentos
+5 — Uma entidade deve ajustar as quantias reconhecidas nas suas 
+demonstrações financeiras para refletir os acontecimentos após a data 
+do balanço que dão lugar a ajustamentos.20822 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+6 — Exemplos de acontecimentos ocorridos após a data do balanço 
+que dão lugar a ajustamentos e que exigem que uma entidade ajuste 
+as quantias reconhecidas nas suas demonstrações financeiras, ou que 
+reconheça itens que não foram anteriormente reconhecidos, são:
+a) A resolução, após a data do balanço, de um caso judicial que con-
+firma que a entidade tinha uma obrigação presente à data do balanço. 
+A entidade ajusta qualquer provisão anteriormente reconhecida relacio-
+nada com este caso judicial de acordo com a NCRF 21 — Provisões, Passivos Contingentes e Ativos Contingentes ou reconhece uma nova 
+provisão. A entidade não pode divulgar meramente um passivo con-
+tingente porque a resolução proporciona provas adicionais que seriam consideradas de acordo com a NCRF 21;
+b) A receção de informação após a data do balanço que indique que um 
+ativo estava em imparidade à data do balanço, ou que a quantia da perda 
+por imparidade anteriormente reconhecida para esse ativo necessita de ser 
+ajustada, tal como ocorre, designadamente, nas seguintes situações:
+i) A falência de um cliente que ocorre após a data do balanço confirma, 
+normalmente, que existia uma perda por imparidade à data do balanço 
+numa conta a receber comercial e que a entidade necessita de ajustar a 
+respetiva quantia escriturada; e
+ii) A venda de inventários após a data do balanço pode dar evidência 
+acerca do valor realizável líquido à data do balanço;
+c) A determinação, após a data do balanço, do custo de ativos compra-
+dos, ou os proventos de ativos vendidos, antes da data do balanço;
+d) A determinação, após a data do balanço, da quantia de participa-
+ção no lucro ou de pagamentos de bónus, caso a entidade tivesse uma 
+obrigação presente legal ou construtiva à data do balanço de fazer tais 
+pagamentos em consequência de acontecimentos antes dessa data (ver supletivamente a NCRF 28 — Benefícios dos Empregados);
+e) A descoberta de fraudes ou erros que mostrem que as demonstrações 
+financeiras estão incorretas.
+7 — Nalguns casos, uma entidade necessita de atualizar as divulga-
+ções nas suas demonstrações financeiras para refletir as informações 
+recebidas após a data do balanço, mesmo quando as informações não 
+afetam as quantias que a entidade reconhece nas suas demonstrações 
+financeiras. Um exemplo da necessidade de atualizar divulgações é 
+quando fica disponível evidência após a data do balanço acerca de um 
+passivo contingente que existia à data do balanço. Além de considerar se 
+deve, ou não, reconhecer ou alterar uma provisão segundo a NCRF 21, 
+uma entidade atualiza as suas divulgações acerca do passivo contingente 
+à luz dessa evidência.
+Acontecimentos após a data do balanço
+que não dão lugar a ajustamentos
+8 — Uma entidade não deve ajustar as quantias reconhecidas nas suas 
+demonstrações financeiras para refletir os acontecimentos após a data 
+do balanço que não dão lugar a ajustamentos.
+9 — Exemplos de acontecimentos após a data do balanço que não dão 
+lugar a ajustamentos e que dão lugar a divulgação são:
+a) Um declínio no justo valor dos investimentos entre a data do 
+balanço e a data em que foi autorizada a emissão das demonstrações 
+financeiras. O declínio no justo valor não está normalmente ligado ao estado dos investimentos, à data do balanço, mas reflete circunstâncias 
+que surgiram posteriormente. Portanto, uma entidade não ajusta as 
+quantias reconhecidas nas suas demonstrações financeiras relativas aos 
+investimentos. De forma semelhante, a entidade não atualiza as quantias 
+divulgadas relativas aos investimentos à data do balanço, embora possa 
+necessitar de dar divulgações adicionais;
+b) Uma importante concentração de atividades empresariais após a 
+data do balanço ou a alienação de uma importante subsidiária;
+c) O anúncio de um plano para descontinuar uma unidade operacional;
+d) Importantes compras de ativos, classificação de ativos como detidos 
+para venda de acordo com a NCRF 8 — Ativos Não Correntes Detidos 
+para Venda e Unidades Operacionais Descontinuadas, outras alienações 
+de ativos, ou expropriação de ativos importantes pelo Governo;
+e) A destruição por um incêndio de uma importante instalação de 
+produção;
+f) O anúncio ou início do processo de uma reestruturação importante;
+g) Importantes transações de ações ordinárias e de potenciais transa-
+ções de ações ordinárias;
+h) Alterações anormalmente grandes em preços de ativos ou taxas 
+de câmbio;
+i) Alterações nas taxas fiscais ou leis fiscais aprovadas ou anunciadas, 
+que tenham um efeito significativo nos ativos e passivos por impostos 
+correntes e diferidos;
+j) A celebração de compromissos significativos ou passivos contin-
+gentes, por exemplo, pela emissão de garantias significativas; ek) O início de litígios importantes que provenham unicamente de 
+acontecimentos que ocorreram após a data do balanço.
+Dividendos
+10 — Se uma entidade declara dividendos aos detentores de investi-
+mentos de capital próprio após a data do balanço, a entidade não deve reconhecer esses dividendos como um passivo à data do balanço.
+11 — Se os dividendos forem declarados após a data do balanço mas 
+antes das demonstrações financeiras terem sido autorizadas para emissão, 
+os dividendos não são reconhecidos como um passivo à data do balanço 
+porque não existe qualquer obrigação nessa altura. Tais dividendos são divulgados nas notas às demonstrações financeiras.
+Continuidade
+12 — Uma entidade não deve preparar as suas demonstrações finan-
+ceiras numa base de continuidade se o órgão de gestão determinar, após 
+a data do balanço, que pretende liquidar a entidade ou cessar de negociar, 
+ou que não tenha alternativa realista a não ser fazer isso.
+13 — A deterioração nos resultados operacionais e da posição finan-
+ceira após a data do balanço pode indicar a necessidade de considerar 
+se ainda é, ou não, apropriado o pressuposto da continuidade. Se o 
+pressuposto da continuidade deixar de ser apropriado, o efeito é tão 
+profundo que esta Norma exige uma alteração fundamental no regime contabilístico, em vez de um ajustamento nas quantias reconhecidas no âmbito do regime contabilístico original.
+14 — As Bases para a Apresentação de Demonstrações Financeiras 
+(BADF) especificam as divulgações exigidas se:
+a) As demonstrações financeiras não forem preparadas numa base 
+de continuidade; ou
+b) O órgão de gestão estiver ciente de incertezas materiais relacionadas 
+com acontecimentos ou condições que possam lançar dúvida signifi-
+cativa na capacidade da entidade para prosseguir em continuidade. Os 
+acontecimentos ou condições que exijam divulgação podem surgir após 
+a data do balanço.
+Data de eficácia
+15 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+16 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam comparáveis.
+17 — Esta Norma substitui a NCRF — 24 Acontecimentos após a 
+Data do Balanço, constante do Aviso n.º 15655/2009, publicado no 
+Diário da República,  2.ª série, n.º 173, de 7 de setembro de 2009.

@@ -1,0 +1,538 @@
+Norma Contabilística e de Relato Financeiro 26
+Matérias Ambientais
+Esta Norma Contabilística e de Relato Financeiro adota a Reco-
+mendação da Comissão Europeia de 30 de maio de 2001 respeitante 
+ao reconhecimento, mensuração e divulgação de matérias ambientais 
+nas demonstrações financeiras e no relatório de gestão das sociedades, 
+publicada no Jornal Oficial das Comunidades Europeias de 13 de junho 
+de 2001.
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro é o 
+de prescrever os critérios para o reconhecimento e mensuração relativos 
+aos dispêndios de caráter ambiental, aos passivos e riscos ambientais e 
+aos ativos com eles relacionados resultantes de transações e aconteci-mentos que afetem, ou sejam suscetíveis de afetar, a posição financeira 
+e os resultados da entidade relatada.
+2 — Esta Norma identifica também o tipo de informação ambiental 
+que é apropriado divulgar, relativamente à atitude da entidade face às 
+matérias ambientais e ao comportamento ambiental da entidade, na 
+medida em que possam ter consequências para a sua posição financeira.
+Âmbito
+3 — Esta Norma deve ser aplicada às informações a prestar nas de-
+monstrações financeiras e no relatório de gestão das entidades no que diz 
+respeito a matérias ambientais, devendo os critérios de reconhecimento 
+e mensuração ser aplicados de forma consistente a todas as entidades que sejam objeto de consolidação.
+4 — Contudo, esta Norma não se aplica a relatórios com fins espe-
+cíficos, como, por exemplo, os relatórios ambientais, exceto quando se 
+considere adequado articular as demonstrações financeiras e os relatórios 
+de gestão com os relatórios ambientais separados com vista a assegurar a coerência das informações neles contidas.
+Definições
+Definições de caráter genérico
+5 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Acontecimento que cria obrigações: é um acontecimento que cria uma 
+obrigação legal ou construtiva, que faça com que uma entidade não tenha 
+nenhuma alternativa realista senão liquidar essa obrigação.
+Ativo contingente: é um possível ativo proveniente de acontecimentos 
+passados e cuja existência somente será confirmada pela ocorrência ou 
+não de um ou mais acontecimentos futuros incertos não totalmente sob o controlo da entidade.
+Contrato oneroso: é um contrato em que os custos não evitáveis de 
+satisfazer as obrigações do contrato excedem os benefícios económicos 
+que se espera sejam recebidos ao abrigo do mesmo.
+Custos de alienação: são custos incrementais diretamente atribuíveis 
+à alienação de um ativo, grupo para alienação ou unidade geradora de 
+caixa, excluindo gastos de financiamento e gastos de impostos sobre o rendimento.
+Obrigação construtiva: é uma obrigação que decorre das ações de 
+uma entidade em que:
+a) Por via de um modelo estabelecido de práticas passadas, de políticas 
+publicadas ou de uma declaração atual suficientemente específica, a 20828 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+entidade tenha indicado a outras partes que aceitará certas responsa-
+bilidades; e
+b) Em consequência, a entidade tenha criado uma expectativa válida 
+nessas outras partes de que cumprirá com essas responsabilidades.
+Obrigação legal: é uma obrigação que deriva de:
+a) Um contrato (através dos seus termos explícitos ou implícitos);
+b) Legislação; ou
+c) Outras disposições legais.
+Passivo: é uma obrigação presente da entidade proveniente de acon-
+tecimentos passados, cuja liquidação se espera que resulte num exfluxo 
+de recursos da entidade que incorporem benefícios económicos.
+Passivo contingente: é:
+a) Uma obrigação possível que provenha de acontecimentos passados 
+e cuja existência somente será confirmada pela ocorrência ou não de um 
+ou mais acontecimentos futuros incertos não totalmente sob controlo 
+da entidade; ou
+b) Uma obrigação presente que decorra de acontecimentos passados 
+mas que não é reconhecida porque:
+i) Não é provável que um exfluxo de recursos incorporando benefícios 
+económicos seja exigido para liquidar a obrigação; ou
+ii) A quantia da obrigação não pode ser mensurada com suficiente 
+fiabilidade
+Perda por imparidade: é o excedente da quantia escriturada de um 
+ativo, ou de uma unidade geradora de caixa, em relação à sua quantia 
+recuperável.
+Preço de venda líquido: é a quantia a obter da venda de um ativo numa 
+transação entre partes conhecedoras e interessadas, independentes entre 
+si, menos os custos com a alienação.
+Provisão: é um passivo de tempestividade ou quantia incertos.
+Quantia escriturada: é a quantia pela qual um ativo é reconhecido no 
+balanço, após a dedução de qualquer depreciação/amortização acumulada 
+e de perdas por imparidade acumuladas inerentes.
+Quantia recuperável: é a quantia mais alta entre o justo valor de um 
+ativo ou unidade geradora de caixa menos os custos de alienação e o 
+seu valor de uso.
+Reestruturação: é um programa planeado e controlado pelo órgão de 
+gestão e que altera materialmente:
+a) O âmbito de um negócio empreendido por uma entidade; ou
+b) A maneira como o negócio é conduzido.
+Valor de uso: é o valor presente dos fluxos de caixa futuros estimados, 
+que se espera obter do uso continuado de um ativo ou unidade geradora 
+de caixa e da sua alienação no fim da sua vida útil.
+Definições de caráter específico
+6 — O termo ambiente refere -se ao meio físico natural, incluindo o 
+ar, a água, a terra, a flora, a fauna e os recursos não renováveis como, 
+por exemplo, os combustíveis fósseis e os minerais.
+7 — Os dispêndios de caráter ambiental incluem os custos das medi-
+das tomadas por uma entidade ou, em seu nome, por outras entidades, para evitar, reduzir ou reparar danos de caráter ambiental decorrentes das suas atividades. Estes custos incluem, entre outros, a eliminação de resíduos ou as iniciativas destinadas a evitar a sua formação, a proteção 
+dos solos e das águas superficiais e subterrâneas, a preservação do ar 
+puro e das condições climáticas, a redução do ruído e a proteção da 
+biodiversidade e da paisagem.
+Incluem -se igualmente no conceito de dispêndios de caráter ambiental 
+os custos adicionais identificáveis cujo objetivo principal consista em 
+evitar, reduzir ou reparar danos de caráter ambiental.
+8 — Caso não seja possível separar a quantia dos custos adicionais de 
+caráter ambiental relativamente a outros custos nos quais possam estar 
+integrados, pode fazer -se uma estimativa para a sua mensuração, na 
+condição de a quantia obtida satisfazer o requisito de ter como objetivo principal a prevenção, a redução ou a reparação de danos ambientais.
+9 — Os custos incorridos suscetíveis de produzir efeitos benéficos 
+para o ambiente, mas cujo objetivo principal consista em dar resposta a 
+outras necessidades, como por exemplo um aumento da rendibilidade, a 
+sanidade e a segurança nos locais de trabalho, a segurança na utilização 
+dos produtos da entidade ou a eficiência produtiva, devem ser excluídos 
+do conceito de dispêndios de caráter ambiental.
+10 — Os dispêndios incorridos em consequência de multas ou outras 
+penalidades, pelo não cumprimento da regulamentação ambiental, bem 
+como as indemnizações a terceiros em consequência de perdas ou danos 
+provocados por poluição ambiental no passado, são também excluídos do conceito de dispêndios de caráter ambiental, embora sujeitos a di-vulgação. Apesar de se relacionarem com os efeitos das atividades da 
+entidade sobre o ambiente, estes dispêndios não evitam, reduzem ou 
+reparam danos ambientais.
+11 — O Serviço Estatístico da União Europeia (Eurostat) elaborou 
+uma série de definições pormenorizadas de dispêndios por domínio 
+ambiental, que estão incluídas nos documentos de aplicação do Regu-lamento (CE, Euratom) n.º 58/97 do Conselho, relativo às estatísticas 
+estruturais das entidades. Essas definições, conforme Apêndice, que estão 
+sujeitas a uma atualização periódica, constituem a base para os requisitos 
+em matéria de informações estatísticas sobre os dispêndios de proteção ambiental na União Europeia. Recomenda -se que as entidades, ao uti-
+lizar a definição específica estabelecida nos parágrafos 7 a 9, tenham 
+em conta estas definições pormenorizadas, para as divulgações sobre 
+os dispêndios de caráter ambiental, na medida em que sejam coerentes 
+com os critérios de reconhecimento e mensuração estabelecidos nos 
+parágrafos 12 a 46.
+Reconhecimento
+Reconhecimento de passivos de caráter ambiental
+12 — Reconhece -se um passivo de caráter ambiental quando seja 
+provável que uma saída de recursos incorporando benefícios económicos 
+resulte da liquidação de uma obrigação presente de caráter ambiental, 
+que tenha surgido em consequência de acontecimentos passados e se 
+a quantia pela qual se fará essa liquidação puder ser mensurada de 
+forma fiável.
+A natureza desta obrigação deve ser claramente definida e pode ser 
+de dois tipos:
+a) Legal ou contratual, se a entidade tiver uma obrigação legal ou 
+contratual de evitar, reduzir ou reparar danos ambientais; ou
+b) Construtiva, se resultar da própria atuação da entidade, quando esta 
+se tiver comprometido a evitar, reduzir ou reparar danos ambientais e não 
+puder deixar de o fazer em virtude de, em consequência de declarações 
+públicas sobre a sua estratégia ou as suas intenções, ou de um padrão de 
+comportamento por ela estabelecido no passado, a entidade tiver dado 
+a entender a terceiros que aceita a responsabilidade de evitar, reduzir 
+ou reparar danos ambientais.
+13 — As práticas passadas ou correntes do setor apenas podem dar 
+origem a uma obrigação construtiva para a entidade na medida em que o 
+órgão de gestão não possa deixar de agir, ou seja, apenas ocorrerá quando 
+a entidade tiver aceitado a responsabilidade de evitar, reduzir ou reparar 
+danos ambientais através de uma declaração específica publicada ou 
+através de um padrão de comportamento estabelecido no passado.
+14 — Os danos ambientais que possam relacionar -se com a enti-
+dade, ou que possam ter sido por ela causados, mas relativamente aos 
+quais não exista qualquer obrigação legal, contratual ou construtiva 
+de reparação, não podem ser qualificados como passivos de caráter 
+ambiental nas demonstrações financeiras da entidade, de acordo com 
+os parágrafos 12 e 13. Este facto não prejudica a aplicação dos critérios 
+estabelecidos nos parágrafos 17 e 18 relativos a passivos contingentes 
+de carácter ambiental.
+15 — Reconhece -se um passivo de caráter ambiental quando possa 
+ser efetuada uma estimativa fiável dos custos decorrentes da obrigação 
+subjacente. Caso exista, à data do balanço, uma obrigação cuja natureza 
+esteja claramente definida e seja suscetível de originar uma saída de 
+recursos incorporando benefícios económicos, mas de quantia ou data 
+incerta, deve reconhecer -se uma provisão, desde que possa fazer -se uma 
+estimativa fiável da quantia dessa obrigação. Incertezas quanto à data ou 
+à quantia podem estar associadas, por exemplo, à evolução das tecnolo-
+gias de depuração e à extensão e natureza da depuração exigida.
+16 — Nos casos, raros, em que não seja possível uma estimativa fiável 
+dos custos, não deverá reconhecer -se esse passivo. Deverá considerar -se 
+que existe um passivo contingente, tal como referido no parágrafo 17.
+Passivos contingentes de caráter ambiental
+17 — Os passivos contingentes não devem ser reconhecidos no ba-
+lanço. Se existir uma possibilidade, menos que provável, de que um 
+dano ambiental deva ser reparado no futuro, mas essa obrigação esteja 
+ainda dependente da ocorrência de um acontecimento incerto, deve 
+divulgar -se um passivo contingente no anexo.
+18 — Se for remota a possibilidade da entidade ter de incorrer num 
+dispêndio de caráter ambiental ou se tal dispêndio não for materialmente 
+relevante, não é necessário divulgar qualquer passivo contingente.
+Compensação de passivos e reembolsos esperados
+19 — Caso a entidade preveja que alguns ou todos os dispêndios 
+relacionados com um passivo de caráter ambiental sejam reembolsáveis Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20829
+por uma outra parte, esse reembolso apenas será reconhecido quando 
+seja virtualmente certo que será recebido caso a entidade liquide tal 
+obrigação.
+20 — Um reembolso esperado de um terceiro não deverá ser com-
+pensado com um passivo de caráter ambiental. Deverá ser evidenciado 
+separadamente como um ativo no balanço, por uma quantia que não 
+exceda a quantia da correspondente provisão. Apenas poderá ser utili-zado como compensação de um passivo de caráter ambiental quando 
+existir um direito legal a essa compensação e a entidade tiver a intenção 
+de o usar.
+Quando com base nestas disposições for apropriado efetuar tal com-
+pensação deve divulgar -se no anexo a quantia total do passivo, bem 
+como a do reembolso esperado.
+21 — Os proventos esperados da alienação de ativos, ainda que rela-
+cionados com matérias de natureza ambiental, não deverão ser utilizados 
+para compensar passivos de caráter ambiental, nem tidos em considera-
+ção ao calcular uma provisão, mesmo que essa alienação esperada esteja 
+intimamente ligada ao acontecimento que dá origem à provisão.
+22 — Normalmente a entidade é responsável pela totalidade do pas-
+sivo de caráter ambiental. Caso contrário, apenas a parte imputável à entidade deverá ser inscrita como passivo de caráter ambiental.
+Reconhecimento dos dispêndios de caráter ambiental
+23 — Os dispêndios de caráter ambiental devem ser reconhecidos 
+como gastos no período em que são incorridos, a menos que satisfa-
+çam os critérios necessários para serem reconhecidos como um ativo, 
+estabelecidos no parágrafo 25.
+24 — Os dispêndios de caráter ambiental relacionados com danos que 
+ocorreram num período anterior não podem qualificar -se como ajusta-mentos de períodos anteriores mas devem pelo contrário ser registados 
+como gastos no período corrente.
+Capitalização dos dispêndios de caráter ambiental
+25 — Os dispêndios de caráter ambiental podem ser capitalizados 
+caso tenham sido incorridos para evitar ou reduzir danos futuros ou para 
+preservar recursos, proporcionem benefícios económicos no futuro e 
+satisfaçam as condições para reconhecimento como ativo.
+26 — Os dispêndios de caráter ambiental incorridos para evitar ou 
+reduzir danos futuros, ou para preservar recursos, apenas podem ser 
+qualificados para reconhecimento como ativos, se se destinarem a ser-vir de maneira durável a atividade da entidade e se, além disso, estiver satisfeita uma das seguintes condições:
+a) Os custos relacionarem -se com benefícios económicos que se 
+espera venham a fluir para a entidade e que permitam prolongar a vida, 
+aumentar a capacidade ou melhorar a segurança ou eficiência de outros ativos detidos pela entidade (para além do seu nível de eficiência deter-minado originalmente); ou
+b) Os custos permitirem reduzir ou evitar uma contaminação ambiental 
+suscetível de ocorrer em resultado das futuras atividades da entidade.
+27 — Se os critérios que permitem o reconhecimento como ativo, 
+estabelecidos nos parágrafos 25 e 26, não estiverem satisfeitos, os dispên-
+dios de caráter ambiental devem ser registados como gastos do período, 
+quando incorridos. Se esses critérios forem satisfeitos, os dispêndios 
+de caráter ambiental devem ser capitalizados e amortizados no período 
+corrente e durante um período futuro apropriado, ou seja, de forma 
+sistemática ao longo da sua vida útil.
+28 — Os dispêndios de caráter ambiental não devem ser capitaliza-
+dos, mas sim, imputados a resultados caso não proporcionem benefí-cios económicos futuros. Esta situação ocorre quando os dispêndios de caráter ambiental respeitarem a atividades passadas ou correntes e ao restauro das condições ambientais no estado em que se encontravam 
+antes da contaminação (por exemplo, tratamento de resíduos, custos de 
+depuração relacionados com atividades operacionais, reparação de danos 
+verificados em períodos anteriores, dispêndios ambientais de natureza 
+administrativa ou auditorias ambientais).
+29 — Certos elementos, tais como instalações fabris e maquinaria, 
+podem ser adquiridos por razões ambientais, como por exemplo insta-lações técnicas de controlo ou prevenção da poluição adquiridas para 
+dar cumprimento às leis ou regulamentos ambientais. Caso satisfaçam 
+os critérios necessários ao reconhecimento como ativo, estabelecidos nos parágrafos 25 e 26, devem ser capitalizados.
+30 — Existem certos casos em que do próprio dispêndio de caráter 
+ambiental não resultam quaisquer benefícios económicos futuros es-
+perados, mas sim, benefícios futuros provenientes de outro ativo que é 
+utilizado na atividade operacional da entidade. Quando o dispêndio de caráter ambiental que seja reconhecido como ativo, se relaciona com outro ativo existente, deve ser considerado como parte integrante desse ativo, não devendo ser reconhecido separadamente.31 — Podem existir direitos ou outros elementos de natureza seme-
+lhante adquiridos por motivos associados ao impacto das atividades da 
+entidade sobre o ambiente (por exemplo, patentes, licenças, autorização 
+de poluição e direitos de emissão). Se tiverem sido adquiridos a título 
+oneroso, e, além disso, satisfizerem os critérios necessários ao seu reco-
+nhecimento como ativo, tal como estabelecido nos parágrafos 25 e 26, devem ser capitalizados e amortizados sistematicamente ao longo das suas vidas úteis. Caso não satisfaçam esses critérios, devem ser impu-
+tados a resultados.
+Imparidade de ativos
+32 — Certos desenvolvimentos ou fatores de natureza ambiental, 
+como por exemplo o caso de contaminação de um local, podem dar 
+origem a imparidade de ativos já existentes. Deve ser efetuado um 
+ajustamento (perda por imparidade) caso a quantia recuperável pelo 
+uso do ativo se tenha tornado inferior à sua quantia escriturada. Essa 
+situação deve ser considerada como permanente.
+A quantia desse ajustamento deverá ser imputada a resultados do 
+período.
+As provisões para passivos de carácter ambiental, tal como definidas 
+no parágrafo 15, não podem ser utilizadas para compensar o valor dos 
+ativos.
+33 — Caso, nos termos do estabelecido no parágrafo 30, os dispêndios 
+de caráter ambiental sejam reconhecidos como parte integrante de um 
+outro ativo, esse ativo conjunto deverá, em cada data de referência do 
+balanço, ser submetido ao teste de recuperabilidade e, quando apropriado, 
+reduzido à sua quantia recuperável.
+34 — Caso a quantia escriturada de um ativo já inclua perda de be-
+nefícios económicos por razões de caráter ambiental, os dispêndios 
+subsequentes necessários para restabelecer os benefícios económicos 
+futuros ao seu padrão original de eficiência poderão ser capitalizados, 
+na medida em que a quantia escriturada resultante não exceda a quantia recuperável do ativo.
+Mensuração
+Mensuração dos passivos ambientais
+35 — Um passivo ambiental é reconhecido quando puder ser feita 
+uma estimativa fiável dos dispêndios para liquidar a obrigação.
+36 — A quantia desse passivo deve ser a melhor estimativa do dispên-
+dio exigido para liquidar a obrigação presente à data do balanço, com 
+base na situação existente e tendo em conta a evolução futura da técnica 
+e da legislação, na medida em que seja provável a sua ocorrência.
+37 — Deve ser feita uma estimativa da quantia total do passivo, 
+independentemente da data em que a atividade cesse ou da data em que esse passivo deva ser liquidado.
+38 — Ao estimar a quantia de um passivo ambiental, devem aplicar -se
+as regras a seguir indicadas:
+a) Se a mensuração de um passivo implicar a possibilidade de dife-
+rentes quantias, deverá ser considerada a melhor estimativa, nos termos 
+do parágrafo 36; e
+b) Nos casos, extremamente raros, em que não é possível determinar 
+a melhor estimativa do passivo com fiabilidade suficiente, esse passivo deve ser considerado como um passivo contingente, devendo por con-
+seguinte ser divulgado no anexo, bem como as razões pelas quais não possa ser feita uma estimativa fiável.
+39 — Para se mensurar a quantia de um passivo ambiental há que ter 
+ainda em consideração o seguinte:
+a) Dispêndios incrementais diretos do esforço de reparação;
+b) Remunerações e prestações pagas aos trabalhadores, que se espera 
+venham a dedicar uma parte significativa do seu tempo de trabalho 
+diretamente ao processo de restauração;
+c) Obrigações de controlo após reparação dos danos; e
+d) Progresso tecnológico na medida em que seja provável que as 
+autoridades públicas recomendem a utilização de novas tecnologias.
+Provisões para restauro de locais contaminados e desmantelamento
+40 — Os dispêndios relacionados com o restauro de locais, remoção 
+dos desperdícios acumulados, paragem ou remoção de ativos, em que 
+a entidade seja obrigada a incorrer, deverão ser reconhecidos de acordo 
+com os critérios estabelecidos nos parágrafos 12 a 16. Caso sejam satis-
+feitos esses critérios, a obrigação de incorrer em dispêndios no futuro 
+deverá ser contabilizada como um passivo de caráter ambiental.
+41 — Nos termos do estabelecido no parágrafo 37, esse passivo am-
+biental associado ao restauro de locais, à remoção ou ao encerramento 
+de instalações, deverá ser reconhecido na data em que tiver início a 20830 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+atividade da entidade e, consequentemente, surgir a obrigação. O reco-
+nhecimento desse passivo não deverá ser retardado até ao momento do termo da atividade ou do encerramento do local. Caso seja reconhecido este passivo, o dispêndio estimado é incluído como parte do custo do 
+ativo relacionado que deve ser desmantelado e removido. Este dispêndio 
+capitalizado é então amortizado como parte da quantia depreciável do 
+ativo relacionado. Caso surjam danos suplementares no decurso das 
+operações, a obrigação de a entidade os reparar surge no momento em que esses danos ambientais ocorrem.
+Desconto dos passivos ambientais de longo prazo
+42 — Quando o efeito do valor temporal do dinheiro for material, os 
+passivos ambientais que não sejam liquidados num futuro próximo são mensurados pelo seu valor presente.
+43 — Os dispêndios que se espera sejam incorridos deverão basear -se 
+num plano de depuração e/ou reparação dos danos causados pela con-
+taminação, específico para o local em causa. As quantias e o calendário 
+dos pagamentos a efetuar deverão basear -se em informações objetivas 
+e verificáveis.
+44 — Os fluxos de caixa estimados e não descontados deverão consis-
+tir nas quantias que se espera pagar nas diferentes datas de vencimento 
+(incluindo estimativas da inflação) e deverão ser calculados utilizando os 
+pressupostos explícitos decorrentes do plano de depuração e/ou do plano 
+de reparação, de tal forma que qualquer pessoa conhecedora possa rever 
+esses cálculos e conciliá -los com os fluxos de caixa esperados.
+45 — A aplicação do método do valor presente deve ser efetuada 
+de forma consistente. Todos os ativos relacionados com a recuperação de uma parte ou da totalidade de um passivo mensurado com base no 
+método do desconto, deverão também ser descontados. Além disso, 
+se os passivos forem mensurados com recurso ao desconto, a quantia 
+recuperável dos ativos deverá também ser mensurada com base em 
+fluxos de caixa descontados.
+46 — A mensuração pelo valor presente exige a determinação de 
+uma taxa de desconto tal como estabelecida na NCRF 21, bem como 
+informações sobre os fatores que podem afetar a data e a quantia dos 
+fluxos de caixa esperados. Além disso, a quantia do passivo deverá 
+ser revista anualmente e ajustada em função de qualquer alteração dos 
+pressupostos.
+Apresentação e divulgações
+47 — As matérias ambientais devem ser objeto de divulgação na 
+medida em que sejam materialmente relevantes para avaliação do de-
+sempenho ou da posição financeira da entidade.
+Divulgações no relatório de gestão
+48 — Quando, em conformidade com o disposto no artigo 66.º do 
+Código das Sociedades Comerciais, certas matérias ambientais forem 
+relevantes para o desempenho e posição financeira da entidade ou para o 
+seu desenvolvimento, o relatório de gestão incluirá uma descrição dessas 
+matérias, bem como da resposta da entidade às mesmas matérias. Essas 
+informações devem incluir uma análise objetiva da evolução e situação 
+das atividades da entidade, na medida em que sejam suscetíveis de serem 
+diretamente afetadas por matérias ambientais. Para esse efeito serão de efetuar as seguintes divulgações:
+a) A política e os programas que tenham sido adotados pela entidade 
+relativamente às medidas de proteção ambiental, especialmente no que 
+diz respeito à prevenção da poluição. É importante que os utentes do 
+relatório de gestão possam verificar em que medida a proteção ambiental 
+é parte integrante das políticas e atividades da entidade. Se for caso 
+disso, pode incluir -se uma referência à adoção do sistema de proteção do 
+ambiente, bem como à obrigação de respeitar um determinado conjunto 
+de normas ou certificações associadas;
+b) A extensão em que tenham sido implementadas ou estejam em 
+curso de implementação medidas de proteção ambiental, em virtude 
+da legislação atual ou para antecipar uma futura alteração legislativa, 
+já proposta;
+c) As melhorias efetuadas em áreas -chave da proteção ambiental. 
+Esta informação é especialmente útil na medida em que pormenorize, de 
+forma objetiva e transparente, o desempenho da entidade relativamente a 
+um determinado objetivo quantificado (por exemplo, emissões nos cinco 
+anos precedentes) e as razões pelas quais se verificam eventualmente 
+desvios significativos;
+d) Sempre que adequado e relevante, tendo em conta a natureza e a 
+dimensão das atividades da entidade e os tipos de problemas ambientais 
+associados a essa atividade, informações sobre o seu desempenho am-
+biental, tais como, consumo de energia, consumo de matérias -primas, consumo de água, emissões, remoção de resíduos.Estas informações poderão ser fornecidas através de indicadores 
+de ecoeficiência e, quando relevante, discriminadas por segmento de 
+negócio. É especialmente importante fornecer dados quantitativos, em 
+termos absolutos, para as emissões e para o consumo de energia, água 
+e matérias, no período de referência, em conjunto com dados compa-
+rativos respeitantes ao período de referência anterior. Estes números 
+deverão ser expressos, de preferência, em unidades físicas e não em 
+termos monetários; no entanto, para uma melhor compreensão do seu 
+significado relativo e da sua evolução, os números em termos monetários 
+podem ser relacionados com as quantias evidenciadas no balanço ou na demonstração dos resultados;
+e) Se a entidade emitir um relatório ambiental separado, que contenha 
+informações mais pormenorizadas ou informação ambiental adicional 
+quantitativa ou qualitativa, deve ser feita uma referência a esse relatório. 
+Se esse relatório ambiental contiver as informações mencionadas na 
+alínea d), pode também fazer -se uma descrição resumida desse relatório 
+e indicar -se que podem ser consultadas outras informações relevantes 
+no relatório ambiental. As informações prestadas no relatório ambiental 
+separado deverão ser consistentes com quaisquer informações conexas 
+publicadas no relatório de gestão e nas demonstrações financeiras da 
+entidade. Se o relatório ambiental tiver sido sujeito a um processo de 
+verificação externa, tal facto deve também ser mencionado no relatório 
+de gestão. É importante informar os utentes do relatório de gestão sobre 
+se o relatório ambiental contém ou não informação objetiva, verificável 
+externamente.
+O âmbito e a delimitação da entidade relatada devem ser, preferen-
+cialmente, os mesmos no relatório de gestão e no relatório ambiental 
+separado. Caso contrário, o âmbito e a delimitação devem ser claramente 
+explicitadas no relatório ambiental, por forma que possa identificar -se 
+em que medida correspondem à entidade que elabora o relatório de 
+gestão. Além disso, a data e período de referência do relatório ambiental 
+separado devem também, de preferência, coincidir com os do relatório 
+de gestão.
+Data de eficácia
+49 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+50 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam comparáveis.
+51 — Esta Norma substitui a NCRF 26 — Matérias Ambientais, 
+constante do Aviso n.º 15655/2009, publicado no Diário da República, 
+2.ª série, n.º 173, de 7 de setembro de 2009.
+Apêndice
+Direitos de Emissão de Gases com Efeito de Estufa
+Contabilização das Licenças de Emissão
+1 — O presente apêndice, que não faz parte da Norma, visa aclarar a 
+forma de contabilização das operações relativas aos Direitos de Emissão 
+de Gases com Efeito de Estufa, por parte de um participante de um plano 
+que seja operacional. Consequentemente, as indicações constantes neste 
+apêndice não se aplicam aos critérios de reconhecimento, mensuração e 
+divulgação a adotar por corretores ou empresas intermediárias a quem 
+não tenham sido atribuídas licenças de emissão de gases com efeito 
+de estufa.
+2 — Face à legislação sobre os direitos de emissão de gases com efeito 
+de estufa são atribuídas às entidades licenças de emissão de gases com 
+efeito de estufa, sob determinados requisitos.
+3 — A questão que se coloca é como reconhecer, mensurar e divulgar 
+as operações relativas aos direitos de emissão de gases com efeito de 
+estufa por parte de um participante de um plano que seja operacional.
+4 — A matéria em causa é transversal à presente norma e às 
+NCRF 6 — Ativos Intangíveis, NCRF 22 — Subsídios e Outros Apoios 
+das Entidades Públicas e NCRF 21 — Provisões, Passivos Contingentes 
+e Ativos Contingentes. Assim:
+5 — Uma entidade deve reconhecer como ativo intangível as licenças 
+de emissão de gases com efeito de estufa, quer tenham sido atribuídas gratuitamente, quer tenham sido adquiridas no mercado.
+6 — Em contrapartida do reconhecimento das licenças atribuídas 
+gratuitamente será reconhecido um subsídio.
+7 — A emissão de gases com efeito de estufa deve ser reconhecida 
+como gasto.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20831
+8 — Em contrapartida do reconhecimento da emissão de gases com 
+efeito de estufa deve ser reconhecida a respetiva amortização do ativo intangível.
+9 — As emissões de gases com efeito de estufa acima das licenças 
+detidas devem ser reconhecidas como uma responsabilidade nos termos 
+da NCRF 21.
+10 — No reconhecimento inicial, as licenças de emissão de gases 
+com efeito de estufa, quer atribuídas a título gratuito, quer adquiridas 
+a título oneroso, devem ser mensuradas ao justo valor, que se presume 
+coincidir com o custo de aquisição quando adquiridas a título oneroso, 
+tal como preconizado no parágrafo 42 da NCRF 6 e no parágrafo 22 
+da NCRF 22.
+11 — A emissão de gases com efeito de estufa deve ser mensurada ao 
+custo das licenças detidas, segundo a fórmula de custeio FIFO. No caso de a entidade emitir gases com efeito de estufa sem ser detentora das 
+respetivas licenças, a mensuração deve ser feita pela melhor estimativa de preço para a sua obtenção.
+12 — Atendendo à especificidade da emissão de gases com efeito de 
+estufa, as divulgações a efetuar devem ser compiladas em nota própria do anexo.
+Anexo
+Exemplo ilustrativo
+A1. A entidade supervisora atribuiu licenças de emissão de gases com 
+efeito de estufa à entidade A, a título gratuito. Estas licenças permitem 
+que a entidade A emita 100 toneladas de CO2 e cada tonelada está a ser 
+transacionada no mercado a 1 unidade monetária (u.m.).
+A2. Estas licenças devem ser reconhecidas como ativo intangível por 
+contrapartida de subsídios pelo respetivo justo valor.
+Débito: Ativos intangíveis — Licenças de emissão — 100 u.m.
+Crédito: Outras variações no capital próprio — Subsídios — 100 u.m.
+A3. A entidade A admite que no período possa vir a emitir um maior 
+volume de CO2, pelo que decidiu adquirir no mercado novas licenças de 
+emissão, correspondentes a 90 toneladas de CO2, pelo preço de 2 u.m. 
+por tonelada:
+Débito: Ativos intangíveis — Licenças de emissão — 180 u.m.
+Crédito: Depósitos à ordem — 180 u.m.
+A4. Durante o período, a sociedade emitiu 160 T de CO2:
+a) Pelo reconhecimento dos gastos inerentes à emissão de CO2:
+Débito: Gastos de depreciação e de amortização — Ativos intangí-
+veis — Licenças de emissão — 220 u.m.
+Crédito: Ativos intangíveis — Amortizações acumuladas — Licenças 
+de emissão — 220 u.m.
+(FIFO: 100 T x 1 u.m. + 60 T x 2 u.m.)
+b) Pela imputação do subsídio:
+Débito: Outras variações no capital próprio — Subsídios — 100 u.m.
+Crédito: Outros rendimentos — Imputação de subsídios para inves-
+timentos — Licenças de emissão — 100 u.m.
+A5. Ainda durante o período, a sociedade alienou licenças correspon-
+dentes a 30 T de CO2, que admitia não ter necessidade de utilizar, ao 
+preço unitário de 2,5 u.m.:
+Débito: Depósitos à ordem — 75 u.m.
+Crédito: Ativos intangíveis — Licenças de emissão — 60 u.m.
+Outros rendimentos — Rendimentos em investimentos não financei-
+ros — alienações — 15 u.m.
+A6. Abate das licenças (comprovação) junto da entidade supervisora:
+Débito: Ativos intangíveis — Amortizações acumuladas — Licenças 
+de emissão — 220 u.m.
+Crédito: Ativos intangíveis — Licenças de emissão — 220 u.m.
+A7. Se, ao invés de ter emitido 160 T de CO2, a entidade tivesse 
+emitido 220 T de CO2, no pressuposto de não ter existido a venda re-
+ferida em A5, os registos correspondentes a A4 e A6 passariam a ser 
+os seguintes:
+a) Pelo reconhecimento dos gastos inerentes à emissão de CO2, cor-
+respondentes a licenças detidas:
+Débito: Gastos de depreciação e de amortização — Ativos intangí-
+veis — Licenças de emissão — 280 u.mCrédito: Ativos intangíveis — Amortizações acumuladas — Licenças 
+de emissão — 280 u.m.
+(100 T x 1 u.m. + 90 T x 2 u.m.)
+b) Pela imputação do subsídio:
+Débito: Outras variações no capital próprio — Subsídios — 100 u.m.
+Crédito: Outros rendimentos — Imputação de subsídios para inves-
+timentos — Licenças de emissão — 100 u.m.
+c) Pelo reconhecimento dos gastos inerentes à emissão de CO2, corres-
+pondentes a licenças ainda não detidas, cuja melhor estimativa de preço 
+para a sua obtenção é de 3,5 u.m./T:
+Débito: Provisões do período — Licenças de emissão — 105 u.m
+Crédito: Provisões — Licenças de emissão — 105 u.m.
+d) Pelo reconhecimento da coima por emissão de CO2 a “descoberto” 
+cuja melhor estimativa é de 25 u.m.:
+Débito: Provisões do período — Penalizações por falta de licenças 
+de emissão — 25 u.m
+Crédito: Provisões — Penalizações por falta de Licenças de emis-
+são — 25 u.m.
+A8. No período seguinte a entidade adquiriu as licenças de emissão de 
+gases com efeito de estufa em falta, ao preço de 4 u.m./T, tendo entregue 
+todas as licenças inerentes às suas emissões à entidade supervisora.
+a) Pela aquisição:
+Débito: Ativos intangíveis — Licenças de emissão — 120 u.m.
+Crédito: Depósitos à ordem — 120 u.m.
+b) Abate das licenças (comprovação) junto da entidade supervisora:
+Débito: Ativos intangíveis — Amortizações acumuladas — Licenças 
+de emissão — 280 u.m.
+Provisões — Licenças de emissão — 105 u.m.
+Outros gastos — Insuficiência de estimativa da provisão — 15 u.m.
+Crédito: Ativos intangíveis — Licenças de emissão — 400 u.m.

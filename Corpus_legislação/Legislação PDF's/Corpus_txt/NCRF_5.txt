@@ -1,0 +1,253 @@
+Norma Contabilística e de Relato Financeiro 5
+Divulgações de Partes Relacionadas
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro 
+é o de prescrever que, nas demonstrações financeiras de uma entidade, 
+se incluam as divulgações necessárias para chamar a atenção para a 
+possibilidade de que a sua posição financeira e resultados possam ter sido afetados pela existência de partes relacionadas e por transações e saldos pendentes, incluindo compromissos com as mesmas.
+Âmbito
+2 — Esta Norma deve ser aplicada ao:
+a) Identificar relacionamentos e transações com partes relacionadas;
+b) Identificar saldos pendentes, incluindo compromissos entre uma 
+entidade e as suas partes relacionadas;
+c) Identificar as circunstâncias em que é exigida a divulgação dos 
+itens das alíneas a) e b); e
+d) Determinar as divulgações a fazer relativamente a esses itens.
+3 — Esta Norma exige a divulgação de relacionamentos, transações e 
+saldos pendentes, incluindo compromissos, com partes relacionadas nas 
+demonstrações financeiras individuais e nas demonstrações financeiras 
+consolidadas. As transações e saldos pendentes com partes relacionadas 
+intragrupo são eliminados na preparação das demonstrações financeiras 
+consolidadas do grupo.20760 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+Finalidade das divulgações de partes relacionadas
+4 — Os relacionamentos com partes relacionadas são uma carac-
+terística normal do comércio e negócios. Por exemplo, as entidades 
+realizam frequentemente parte das suas atividades através de subsidi-
+árias, empreendimentos conjuntos e associadas. Nestas circunstâncias, a capacidade da entidade afetar as políticas financeiras e operacionais 
+da investida decorre da presença de controlo, controlo conjunto ou 
+influência significativa.
+5 — Um relacionamento com partes relacionadas pode ter um efeito 
+nos resultados e na posição financeira de uma entidade. As partes re-lacionadas podem efetuar transações que partes não relacionadas não realizariam. Por exemplo, uma entidade que venda bens à sua empresa--mãe pelo custo poderá não vender nesses termos a outro cliente. Além 
+disso, as transações entre partes relacionadas podem não ser feitas pelas 
+mesmas quantias que entre partes não relacionadas.
+6 — Os resultados e a posição financeira de uma entidade podem ser 
+afetados por um relacionamento com partes relacionadas mesmo que 
+não ocorram transações entre si. A mera existência do relacionamento 
+pode ser suficiente para afetar as transações da entidade com outras 
+partes. Por exemplo, uma subsidiária pode cessar relações com um 
+parceiro comercial fora do grupo aquando da aquisição pela empresa-
+-mãe de uma outra subsidiária que se dedique à mesma atividade que 
+o parceiro comercial alheio ao grupo. Outro exemplo poderá ocorrer 
+quando uma das partes relacionadas se abstiver de agir por causa da 
+influência significativa exercida pela outra parte (uma subsidiária pode 
+ser instruída pela sua empresa -mãe a não se dedicar a atividades de 
+pesquisa e desenvolvimento).
+7 — Por estas razões, o conhecimento de transações, saldos pendentes 
+incluindo compromissos e relacionamentos com partes relacionadas 
+pode afetar as avaliações das operações de uma entidade por parte dos 
+utentes de demonstrações financeiras, incluindo avaliações dos riscos 
+e de oportunidades que se deparem à entidade.
+Definições
+8 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Controlo: é o poder de gerir as políticas financeiras e operacionais de 
+uma entidade ou de uma atividade económica a fim de obter benefícios da mesma.
+Controlo conjunto: é a partilha de controlo, acordada contratual-
+mente, de uma atividade económica, e existe apenas quando as decisões 
+estratégicas financeiras e operacionais relacionadas com a atividade 
+exigem o consentimento unânime das partes que partilham o controlo (os empreendedores).
+Influência significativa: é o poder de participar nas decisões das 
+políticas financeira e operacional da investida ou de uma atividade 
+económica mas que não é controlo nem controlo conjunto sobre essas políticas. A influência significativa pode ser obtida por posse de ações, 
+estatuto ou acordo.
+Membros íntimos da família de um indivíduo: são aqueles membros 
+da família que se espera que influenciem, ou sejam influenciados por 
+esse indivíduo nos seus negócios com a entidade. Podem incluir:
+a) O cônjuge ou pessoa com análoga relação de afetividade e os 
+filhos do indivíduo;
+b) Filhos do cônjuge ou de pessoa com análoga relação de afetividade; e
+c) Dependentes do indivíduo, do cônjuge ou de pessoa com análoga 
+relação de afetividade.
+Parte relacionada: uma parte está relacionada com uma entidade se:
+a) Direta, ou indiretamente através de um ou mais intermediários, 
+a parte:
+i) Controlar, for controlada por ou estiver sob o controlo comum da 
+entidade (isto inclui relacionamentos entre empresas -mãe e subsidiárias 
+e entre subsidiárias da mesma empresa -mãe);
+ii) Tiver um interesse na entidade que lhe confira influência signifi-
+cativa sobre a mesma; ou
+iii) Tiver um controlo conjunto sobre a entidade;
+b) A parte for uma associada ou um empreendimento conjunto em 
+que a entidade seja um empreendedor (ver NCRF 13 — Interesses em Empreendimentos Conjuntos e Investimentos em Associadas);
+c) A parte for membro do pessoal chave da gestão da entidade ou da 
+sua empresa -mãe;
+d) A parte for membro íntimo da família de qualquer indivíduo referido 
+nas alíneas a) ou c);
+e) A parte for uma entidade sobre a qual qualquer indivíduo referido 
+nas alíneas c) ou d) exerce controlo, controlo conjunto ou influência significativa, ou que possui, direta ou indiretamente um significativo 
+poder de voto; ou
+f) A parte for um plano de benefícios pós -emprego para benefício dos 
+empregados da entidade, ou de qualquer entidade que seja uma parte 
+relacionada dessa entidade.
+Pessoal chave de gestão: são as pessoas que têm autoridade e res-
+ponsabilidade pelo planeamento, direção e controlo das atividades da 
+entidade, direta ou indiretamente, incluindo qualquer administrador 
+(executivo ou outro) dessa entidade.
+Remuneração: inclui todos os benefícios dos empregados Os bene-
+fícios dos empregados são todas as formas de retribuição paga, a pagar ou proporcionada pela entidade, ou em nome da entidade, em troca de serviços prestados à entidade. Também inclui as retribuições pagas em nome da empresa -mãe da entidade com respeito aos serviços prestados à entidade. A remuneração inclui:
+a) Benefícios a curto prazo de empregados no ativo, tais como ordena-
+dos, salários e contribuições para a segurança social, licença anual paga 
+e pagamento de baixa por doença, participação nos lucros e bónus (se 
+pagáveis num período de doze meses após o fim do período) e benefícios 
+não monetários (tais como cuidados médicos, habitação, automóveis e 
+bens ou serviços gratuitos ou subsidiados);
+b) Benefícios pós -emprego tais como pensões, outros benefícios de 
+reforma, seguro de vida pós -emprego e cuidados médicos pós -emprego;
+c) Outros benefícios a longo prazo dos empregados, incluindo licença 
+por anos de serviço ou licença sabática, jubilação ou outros benefícios 
+por anos de serviço, benefícios de invalidez de longo prazo e, se não 
+forem pagáveis na totalidade num período de doze meses após o final do 
+período, participação nos lucros, bónus e remuneração diferida;
+d) Benefícios de cessação de emprego; e
+e) Benefícios de remuneração em capital próprio.
+Transação com partes relacionadas: é uma transferência de recursos, 
+serviços ou obrigações entre partes relacionadas, independentemente 
+de haver ou não um débito de preço.
+9 — Ao considerar cada possível relacionamento com partes relacio-
+nadas, deve prestar -se atenção para a substância do relacionamento e 
+não meramente para a forma legal.
+10 — No contexto desta Norma, não são necessariamente partes 
+relacionadas as seguintes:
+a) Duas entidades simplesmente por terem um administrador ou 
+outro membro do pessoal chave da gestão em comum, não obstante as 
+alíneas c) e e) da definição de “parte relacionada”.
+b) Dois empreendedores simplesmente por partilharem o controlo 
+conjunto sobre um empreendimento conjunto.
+c) As seguintes entidades:
+i) Entidades que proporcionam financiamentos;
+ii) Sindicatos;
+iii) Empresas de serviços públicos; e
+iv) Departamentos e agências de administrações públicas que não 
+exercem controlo, controlo conjunto ou influência significativa sobre a 
+entidade que relata, simplesmente em virtude dos seus negócios normais 
+com uma entidade (embora possam afetar a liberdade de ação de uma 
+entidade ou participar no seu processo de tomada de decisões); e
+d) Um cliente, fornecedor, franchisador, distribuidor ou agente geral 
+com quem uma entidade transacione um volume significativo de negó-cios meramente em virtude da dependência económica resultante.
+11 — Na definição de uma parte relacionada, tanto os associados 
+como os empreendimentos conjuntos incluem as respetivas subsidiárias. 
+Assim, por exemplo, uma subsidiária de uma associada e um investidor 
+que disponha de uma influência significativa sobre essa associada são partes relacionadas entre si.
+Divulgações
+12 — Os relacionamentos entre empresas -mãe e subsidiárias devem 
+ser divulgados independentemente de ter havido ou não transações 
+entre essas partes relacionadas. Uma entidade deve divulgar o nome 
+da empresa -mãe imediata e, se for diferente, o nome da empresa -mãe 
+controladora final. Se nem a empresa -mãe imediata da entidade nem a 
+empresa -mãe controladora final produzirem demonstrações financeiras 
+disponíveis para uso público, deve também ser divulgado o nome da 
+empresa -mãe intermédia superior seguinte que as produza.
+13 — Uma entidade deve divulgar a remuneração do pessoal chave 
+da gestão no total e para cada uma das seguintes categorias:
+a) Benefícios a curto prazo dos empregados;
+b) Benefícios pós -emprego;Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20761
+c) Outros benefícios a longo prazo;
+d) Benefícios de cessação de emprego; e
+e) Benefícios de remuneração em capital próprio.
+14 — Se tiver havido transações entre partes relacionadas, uma enti-
+dade deve divulgar a natureza do relacionamento com as partes relacio-
+nadas, assim como informação sobre as transações e saldos pendentes, 
+incluindo compromissos necessária para a compreensão do potencial 
+efeito do relacionamento nas demonstrações financeiras. No mínimo, 
+as divulgações devem incluir:
+a) A quantia das transações;
+b) A quantia dos saldos pendentes, incluindo compromissos;
+c) Ajustamentos de dívidas de cobrança duvidosa relacionados com 
+a quantia dos saldos pendentes; e
+d) Os gastos reconhecidos durante o período a respeito de dívidas 
+incobráveis ou de cobrança duvidosa de partes relacionadas.
+15 — As divulgações exigidas no parágrafo 14 devem ser feitas se-
+paradamente para cada uma das seguintes categorias:
+a) Empresa -mãe;
+b) Entidades com controlo conjunto ou influência significativa sobre 
+a entidade;
+c) Subsidiárias;
+d) Associadas;
+e) Empreendimentos conjuntos nos quais a entidade seja um em-
+preendedor;
+f) Pessoal chave da gestão da entidade ou da respetiva entidade -mãe; e
+g) Outras partes relacionadas.
+16 — Seguem -se exemplos de transações que são divulgadas se forem 
+feitas com uma parte relacionada:
+a) Compras ou vendas de bens (acabados ou não acabados);
+b) Compras ou vendas de propriedades e outros ativos;
+c) Prestação ou receção de serviços;
+d) Locações;
+e) Transferências de pesquisa e desenvolvimento;
+f) Transferências segundo acordos de licenças;
+g) Transferências segundo acordos financeiros (incluindo empréstimos 
+e contribuições de capital em dinheiro ou em espécie);
+h) Prestação de qualquer tipo de garantia;
+i) Liquidação de passivos em nome da entidade ou pela entidade em 
+nome de outra parte; e
+j) Compromissos no sentido de fazer algo se um determinado evento 
+ocorrer ou não ocorrer no futuro, nomeadamente contratos executórios 
+(reconhecidos e não reconhecidos).
+17 — A participação de uma empresa -mãe ou subsidiária num plano 
+de benefícios definidos que partilha riscos entre entidades de grupo é 
+uma transação entre partes relacionadas.
+18 — As divulgações de que as transações com partes relacionadas 
+foram feitas em termos equivalentes aos que prevalecem nas transações 
+em que não existe relacionamento entre as partes são feitas apenas se esses termos puderem ser comprovados.
+19 — Os itens de natureza semelhante podem ser divulgados agrega-
+damente, exceto quando divulgações separadas forem necessárias para 
+a compreensão dos efeitos das transações com partes relacionadas nas 
+demonstrações financeiras da entidade.
+Entidades ligadas a administrações públicas
+20 — Uma entidade que relata está isenta dos requisitos de divulga-
+ção do parágrafo 15 no que respeita às transações e saldos pendentes, 
+incluindo compromissos, com as seguintes partes relacionadas:
+a) Uma administração pública que controle, controle conjuntamente 
+ou tenha influência significativa sobre a entidade que relata; e
+b) Outra entidade que seja parte relacionada pelo facto de a mesma 
+administração pública controlar, controlar conjuntamente ou ter in-
+fluência significativa tanto sobre a entidade que relata quanto sobre 
+essa outra entidade.
+21 — Se uma entidade que relata aplicar a isenção prevista no pará-
+grafo 20, deve divulgar os seguintes elementos no que respeita às tran-
+sações e aos respetivos saldos pendentes referidos nesse parágrafo:
+a) Nome da administração pública e natureza da sua relação com a 
+entidade que relata (isto é, controlo, controlo conjunto ou influência 
+significativa);
+b) A seguinte informação, com um grau de pormenor suficiente para 
+permitir aos utentes das demonstrações financeiras da entidade a com-preensão dos efeitos das transações com a parte relacionada nessas 
+demonstrações financeiras:
+i) Natureza e quantia de cada transação individualmente significativa; e
+ii) Em relação a outras transações que sejam no seu conjunto mas não 
+individualmente significativas, uma indicação qualitativa ou quantita-
+tiva da respetiva dimensão. Os tipos de transação em causa incluem as 
+transações referidas no parágrafo 16.
+22 — Ao utilizar o seu julgamento para decidir do nível de pormenor 
+a divulgar em conformidade com os requisitos do parágrafo 21( b), a 
+entidade que relata deve tomar em consideração o grau de proximidade 
+com a parte relacionada e outros fatores relevantes para a determinação 
+do nível de relevância das transações, verificando nomeadamente se são:
+a) Significativas em termos de dimensão;
+b) Conduzidas em condições que não são as condições de mercado;
+c) Distintas das operações comerciais normais, como a aquisição ou 
+alienação de empresas;
+d) Divulgadas a autoridades de regulação ou de supervisão;
+e) Comunicadas à gerência de topo; e
+f) Sujeitas a aprovação pelos acionistas.
+Data de eficácia
+23 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+24 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam 
+comparáveis.
+25 — Esta Norma substitui a NCRF — 5 Divulgações de Partes Re-
+lacionadas, constante do Aviso n.º 15655/2009, publicado no Diário da 
+República, 2.ª série, n.º 173, de 7 de setembro de 2009.

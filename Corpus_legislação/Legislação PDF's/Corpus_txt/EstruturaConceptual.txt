@@ -1,0 +1,969 @@
+Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20735
+PARTE C
+ PRESIDÊNCIA DO CONSELHO DE MINISTROS
+Gabinete do Ministro da Presidência 
+e dos Assuntos Parlamentares
+Despacho n.º 8259/2015
+Cancelamento do Estatuto de Utilidade Pública
+O Instituto de Educação Médica, pessoa coletiva n.º 503071021, 
+com sede em Lisboa, obteve o estatuto de utilidade pública ao abrigo 
+do Decreto -Lei n.º 460/77, de 7 de novembro, através do Despacho 
+n.º 832/2012, publicado no Diário da República,  2.ª série, n.º 11, de 
+16 de janeiro de 2013.
+Considerando a informação n.º DAJD/533/2015 constante do pro-
+cesso administrativo n.º 102/UP/2011 instruído na Secretaria -Geral da 
+Presidência do Conselho de Ministros, no uso dos poderes que me foram 
+delegados pelo Primeiro -Ministro através do Despacho n.º 6990/2013, de 
+21 de maio de 2013, publicado no Diário da República,  2.ª série, n.º 104, 
+de 30 de maio de 2013, e ao abrigo da alínea b) do n.º 1 do artigo 13.º 
+do Decreto -Lei n.º 460/77 de 7 de novembro, determino a cessação dos efeitos da referida declaração de utilidade pública.
+10 de julho de 2015. — O Ministro da Presidência e dos Assuntos 
+Parlamentares, Luís Maria de Barros Serra Marques Guedes .
+208804817 
+ Despacho n.º 8260/2015
+Extinção de fundação
+No uso dos poderes que me foram delegados pelo Primeiro -Ministro 
+através do Despacho n.º 6990/2013, de 21 de maio de 2013, publicado no Diário da República, 2.ª série, n.º 104, de 30 de maio de 2013, nos 
+termos da alínea a) do n.º 2 do artigo 192.º do Código Civil e da alínea a) 
+do n.º 2 do artigo 35.º da Lei -Quadro das Fundações, aprovada pela 
+Lei n.º 24/2012, de 9 de julho, e com os fundamentos constantes da 
+informação DAJD/659/2015 que faz parte integrante do processo admi-
+nistrativo n.º 12/FUND/2015 -SGPCM, declaro a extinção da Fundação 
+D. Bosco – Projecto Vida,  pessoa coletiva n.º 507389565.
+10 de julho de 2015. — O Ministro da Presidência e dos Assuntos 
+Parlamentares, Luís Maria de Barros Serra Marques Guedes .
+208805019 
+ MINISTÉRIO DAS FINANÇAS
+Secretaria-Geral
+Aviso n.º 8254/2015
+Pelo Despacho n.º 264/2015 -XIX do Senhor Secretário de Estado dos 
+Assuntos Fiscais, de 16 de julho de 2015, foi homologada a seguinte Es-
+trutura Conceptual do Sistema de Normalização Contabilística, aprovado 
+pelo Decreto -Lei n.º 158/2009, de 13 de julho, alterado pelo Decreto -Lei 
+n.º 98/2015, de 2 de junho:
+Sistema de Normalização Contabilística
+Estrutura Conceptual (EC)
+Este documento tem por base a Estrutura Conceptual do IASB, cons-
+tante do Anexo 5 das “Observações relativas a certas disposições do 
+Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conse-
+lho, de 19 de julho”, publicado pela Comissão Europeia em novembro de 2003.
+Prefácio
+1 — As demonstrações financeiras preparadas com o propósito de 
+proporcionar informação que seja útil na tomada de decisões económicas 
+devem responder às necessidades comuns da maior parte dos utentes.Com efeito, todos os utentes tomam decisões económicas, nomea-
+damente para:
+a) Decidir quando comprar, deter ou vender um investimento em 
+capital próprio;
+b) Avaliar o zelo ou a responsabilidade do órgão de gestão;
+c) Avaliar a capacidade de a entidade pagar e proporcionar outros 
+benefícios aos seus empregados;
+d) Avaliar a segurança das quantias emprestadas à entidade;
+e) Determinar as políticas fiscais;
+f) Determinar os lucros e dividendos distribuíveis;
+g) Preparar e usar as estatísticas sobre o rendimento nacional; ou 
+h) Regular as atividades das entidades.
+As demonstrações financeiras são, a maior parte das vezes, preparadas 
+de acordo com um modelo de contabilidade baseado no custo histórico 
+recuperável e no conceito da manutenção do capital financeiro nominal. 
+Isto não significa que outros modelos e conceitos não pudessem ser 
+mais apropriados, a fim de ir ao encontro do objetivo de proporcionar 
+informações específicas.
+Introdução
+Finalidade
+2 — Esta Estrutura estabelece conceitos que estão subjacentes à 
+preparação e apresentação das demonstrações financeiras para utentes 
+externos, seja pelas entidades que preparam um conjunto completo de 
+demonstrações financeiras, seja pelas pequenas entidades. O propósito 
+desta Estrutura Conceptual é o de:
+a) Ajudar os preparadores das demonstrações financeiras na aplica-
+ção das Normas Contabilísticas e de Relato Financeiro (NCRF) e no tratamento de tópicos que ainda tenham de constituir assunto de uma 
+dessas Normas;
+b) Ajudar a formar opinião sobre a aderência das demonstrações 
+financeiras às NCRF;
+c) Ajudar os utentes na interpretação da informação contida nas de-
+monstrações financeiras preparadas; e
+d) Proporcionar aos que estejam interessados no trabalho da CNC 
+informação acerca da sua abordagem à formulação das NCRF.
+3 — Esta Estrutura Conceptual não é uma NCRF e por isso não define 
+normas para qualquer mensuração particular ou tema de divulgação.
+4 — A CNC reconhece que em alguns casos pode haver um conflito 
+entre esta Estrutura Conceptual e uma qualquer NCRF. Nos casos em que haja um conflito, os requisitos da NCRF prevalecem em relação à 
+Estrutura Conceptual.
+Âmbito
+5 — Esta Estrutura Conceptual trata:
+a) Do objetivo das demonstrações financeiras;
+b) Das características qualitativas que determinam a utilidade da 
+informação contida nas demonstrações financeiras;
+c) Da definição, reconhecimento e mensuração dos elementos a partir 
+dos quais se constroem as demonstrações financeiras; e
+d) Dos conceitos de capital e de manutenção de capital.
+6 — Esta Estrutura Conceptual respeita às demonstrações financeiras 
+de finalidades gerais (daqui por diante referidas como “demonstrações 
+financeiras”) incluindo as demonstrações financeiras consolidadas. Tais 
+demonstrações financeiras são preparadas e apresentadas pelo menos 
+anualmente e dirigem -se às necessidades comuns de informação de 
+um vasto leque de utentes. Alguns destes utentes podem exigir, e têm 
+o poder de obter, informação para além da contida nas demonstrações 
+financeiras. Muitos utentes, porém, têm de depender das demonstrações 
+financeiras como a sua principal fonte de informação financeira e, por 
+isso, tais demonstrações financeiras devem ser preparadas e apresentadas 
+com vista às suas necessidades. Os relatórios financeiros de finalidades especiais, por exemplo, prospetos e cálculos preparados para efeitos de 
+tributação, estão fora do âmbito desta Estrutura Conceptual. Contudo, a 
+Estrutura Conceptual pode ser aplicada na preparação de tais relatórios para finalidades especiais quando os seus requisitos o permitam.20736  Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+7 — Esta Estrutura Conceptual aplica -se às demonstrações finan-
+ceiras de todas as entidades comerciais, industriais e de negócios que 
+relatam, sejam do setor público ou do privado. Uma entidade que relata é uma entidade relativamente à qual existem utentes que confiam nas demonstrações financeiras como a sua principal fonte de informação financeira acerca da entidade.
+Conjunto completo de demonstrações financeiras
+8 — As demonstrações financeiras fazem parte do processo do relato 
+financeiro. Um conjunto completo de demonstrações financeiras inclui 
+normalmente um balanço, uma demonstração dos resultados, uma de-
+monstração das alterações na posição financeira e uma demonstração de 
+fluxos de caixa, bem como as notas e outras demonstrações e material explicativo que constituam parte integrante das demonstrações finan-
+ceiras. Elas podem também incluir mapas suplementares e informação 
+baseada em tais demonstrações ou derivada delas, e que se espera que 
+seja lida juntamente com elas. Tais mapas e informações suplementares 
+podem tratar, por exemplo, de informação financeira de segmentos in-
+dustriais e geográficos e de divulgações acerca dos efeitos das variações 
+de preços. As demonstrações financeiras não incluem, porém, elementos 
+preparados pelo órgão de gestão, tais como relatórios, exposições, debate 
+e análise e elementos similares que possam ser incluídos num relatório financeiro ou anual.
+Utentes e as suas necessidades de informação
+9 — Nos utentes das demonstrações financeiras incluem -se inves-
+tidores atuais e potenciais, empregados, mutuantes, fornecedores e 
+outros credores comerciais, clientes, Governo e seus departamentos e 
+o público. Eles utilizam as demonstrações financeiras a fim de satisfa-zerem algumas das suas diferentes necessidades de informação. Estas 
+necessidades incluem o seguinte:
+a) Investidores — Os fornecedores de capital de risco e os seus con-
+sultores estão ligados ao risco inerente aos, e ao retorno proporcionado 
+pelos, seus investimentos. Necessitam de informação para os ajudar 
+a determinar se devem comprar, deter ou vender. Os acionistas estão 
+também interessados em informação que lhes facilite determinar a 
+capacidade da entidade pagar dividendos.
+b) Empregados — Os empregados e os seus grupos representativos 
+estão interessados na informação acerca da estabilidade e da lucratividade 
+dos seus empregadores. Estão também interessados na informação que 
+os habilite a avaliar a capacidade da entidade proporcionar remuneração, 
+benefícios de reforma e oportunidades de emprego.
+c) Mutuantes — Os mutuantes estão interessados em informação que 
+lhes permita determinar se os seus empréstimos, e os juros que a eles 
+respeitam, serão pagos quando vencidos.
+d) Fornecedores e outros credores comerciais — Os fornecedores e 
+outros credores estão interessados em informação que lhes permita de-
+terminar se as quantias que lhes são devidas serão pagas no vencimento. 
+Os credores comerciais estão provavelmente interessados numa entidade 
+durante um período mais curto que os mutuantes a menos que estejam 
+dependentes da continuação da entidade como um cliente importante.
+e) Clientes — Os clientes têm interesse em informação acerca da 
+continuação de uma entidade, especialmente quando com ela têm en-
+volvimentos a prazo, ou dela estão dependentes.
+f) Governo e seus departamentos — O Governo e os seus departamen-
+tos estão interessados na alocação de recursos e, por isso, nas atividades 
+das entidades. Também exigem informação a fim de regularem as ativi-
+dades das entidades, determinar as políticas de tributação e como base 
+para estatísticas do rendimento nacional e outras semelhantes.
+g) Público — As entidades afetam o público de diversos modos. Por 
+exemplo, podem dar uma contribuição substancial à economia local 
+de muitas maneiras incluindo o número de pessoas que empregam e 
+patrocinar comércio dos fornecedores locais. As demonstrações finan-
+ceiras podem ajudar o público ao proporcionar informação acerca das 
+tendências e desenvolvimentos recentes na prosperidade da entidade e 
+leque das suas atividades.
+10 — Se bem que nem todas as necessidades de informação destes 
+utentes possam ser supridas pelas demonstrações financeiras, há neces-
+sidades que são comuns a todos os utentes.
+11 — O órgão de gestão duma entidade tem a responsabilidade primá-
+ria pela preparação e apresentação das suas demonstrações financeiras. O órgão de gestão está também interessado na informação contida nas 
+demonstrações financeiras mesmo que tenha acesso a informação adicio-
+nal de gestão e financeira que o ajude a assumir as suas responsabilidades 
+de planeamento, de tomada de decisões e de controlo. O órgão de gestão 
+tem a capacidade de determinar a forma e conteúdo de tal informação 
+adicional para satisfazer as suas próprias necessidades. Porém, o relato 
+de tal informação está para além do âmbito desta Estrutura Conceptual. Contudo, as demonstrações financeiras publicadas são baseadas na 
+informação usada pelo órgão de gestão acerca da posição financeira, 
+desempenho e alterações na posição financeira da entidade.
+Objetivo das demonstrações financeiras
+12 — O objetivo das demonstrações financeiras é o de proporcionar 
+informação acerca da posição financeira, do desempenho e das alterações 
+na posição financeira de uma entidade que seja útil a um vasto leque de 
+utentes na tomada de decisões económicas.
+13 — As demonstrações financeiras preparadas com esta finalidade 
+vão de encontro às necessidades comuns da maior parte dos utentes. 
+Contudo, as demonstrações financeiras não proporcionam toda a in-
+formação de que os utentes possam necessitar para tomarem decisões económicas uma vez que elas, em grande medida, retratam os efeitos financeiros de acontecimentos passados e não proporcionam necessa-riamente informação não financeira.
+14 — Os utentes das demonstrações financeiras que desejem avaliar 
+o zelo ou a responsabilidade do órgão de gestão pelos recursos que lhe 
+foram confiados fazem -no a fim de que possam tomar decisões eco-
+nómicas; estas decisões podem incluir, por exemplo, deter ou vender o seu investimento na entidade ou reconduzir ou substituir o órgão de gestão.
+Posição financeira, desempenho e alterações na posição financeira
+15 — As decisões económicas que sejam tomadas pelos utentes das 
+demonstrações financeiras requerem uma avaliação da capacidade da 
+entidade para gerar caixa e equivalentes de caixa e da tempestividade e 
+certeza da sua geração. Esta capacidade determina em última instância, por exemplo, a capacidade de uma entidade pagar aos seus empregados 
+e fornecedores, satisfazer pagamentos de juros, reembolsar empréstimos 
+e fazer distribuições aos seus proprietários. Os utentes ficam mais habili-
+tados para avaliar esta capacidade de gerar caixa e equivalentes de caixa 
+se lhes for proporcionada informação que foque a posição financeira, o desempenho e as alterações na posição financeira de uma entidade.
+16 — A posição financeira de uma entidade é afetada pelos recursos 
+económicos que ela controla, pela sua estrutura financeira, pela sua 
+liquidez e solvência, e pela sua capacidade de se adaptar às alterações no 
+ambiente em que opera. A informação acerca dos recursos económicos 
+controlados pela entidade e a sua capacidade no passado para modificar 
+estes recursos é útil na predição da capacidade da entidade para gerar no 
+futuro caixa e equivalentes de caixa. A informação acerca da estrutura 
+financeira é útil na predição de futuras necessidades de empréstimos e 
+de como os lucros futuros e fluxos de caixa serão distribuídos entre os que têm interesses na entidade; é também útil ao predizer que sucesso a entidade provavelmente terá em conseguir fundos adicionais. A infor-mação acerca da liquidez e solvência é útil na predição da capacidade da entidade para satisfazer os seus compromissos financeiros à medida 
+que se vencerem. A liquidez refere -se à disponibilidade de caixa no 
+futuro próximo depois de ter em conta os compromissos financeiros 
+durante este período. A solvência refere -se à disponibilidade de caixa 
+durante prazo mais longo para satisfazer os compromissos financeiros à medida que se vençam.
+17 — A informação acerca do desempenho de uma entidade, em par-
+ticular a sua lucratividade, é necessária a fim de determinar as alterações 
+potenciais nos recursos económicos que seja provável que ela controle 
+no futuro. A informação acerca da variabilidade do desempenho é, a 
+este respeito, importante. A informação acerca do desempenho é útil 
+na predição da capacidade da entidade gerar fluxos de caixa a partir 
+dos seus recursos básicos existentes. É também útil na formação de 
+juízos de valor acerca da eficácia com que a entidade pode empregar recursos adicionais.
+18 — A informação respeitante às alterações na posição financeira de 
+uma entidade é útil a fim de avaliar as suas atividades de investimento, de financiamento e operacionais durante o período de relato. Esta in-formação é útil ao proporcionar ao utente uma base para determinar a 
+capacidade de uma entidade para gerar caixa e equivalentes de caixa e as 
+necessidades da entidade para utilizar esses fluxos de caixa. Ao construir 
+uma demonstração de alterações na posição financeira, os fundos podem 
+ser definidos de várias maneiras, tais como todos os recursos financeiros, 
+capital circulante, ativos líquidos ou caixa. Esta Estrutura Conceptual não assume nenhuma definição específica de fundos.
+19 — A informação acerca da posição financeira é principalmente 
+proporcionada num balanço. A informação acerca do desempenho é prin-
+cipalmente dada numa demonstração de resultados. A informação acerca 
+das alterações na posição financeira é proporcionada nas demonstrações 
+financeiras por meio de uma demonstração separada.
+20 — As partes componentes das demonstrações financeiras 
+interrelacionam -se porque refletem aspetos diferentes das mesmas 
+transações ou outros acontecimentos. Se bem que cada demonstração Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20737
+proporcione informação distinta das outras, é provável que nenhuma 
+só por si sirva um propósito único ou proporcione toda a informação 
+que satisfaça as necessidades particulares dos utentes. Por exemplo, 
+uma demonstração de resultados proporciona uma imagem incompleta 
+do desempenho a menos que seja usada juntamente com o balanço e a demonstração das alterações da posição financeira.
+Notas às demonstrações financeiras
+21 — As demonstrações financeiras também contêm notas e quadros 
+suplementares e outras informações. Por exemplo, elas podem conter 
+informação adicional que seja relevante para as necessidades dos utentes 
+acerca dos itens do balanço e da demonstração dos resultados. Podem 
+incluir divulgações acerca dos riscos e incertezas que afetem a entidade e 
+quaisquer recursos e obrigações não reconhecidos no balanço (tais como 
+recursos minerais). A informação acerca dos segmentos geográficos e 
+industriais e os efeitos na entidade das variações de preços é também muitas vezes proporcionada na forma de informação suplementar.
+Pressupostos subjacentes
+Regime de acréscimo
+22 — A fim de satisfazerem os seus objetivos, as demonstrações 
+financeiras são preparadas de acordo com o regime contabilístico do 
+acréscimo. Através deste regime, os efeitos das transações e de outros acontecimentos são reconhecidos quando eles ocorram (e não quando caixa ou equivalentes de caixa sejam recebidos ou pagos) sendo regis-
+tados contabilisticamente e relatados nas demonstrações financeiras 
+dos períodos com os quais se relacionem. As demonstrações financeiras 
+preparadas de acordo com o regime de acréscimo informam os utentes 
+não somente das transações passadas envolvendo o pagamento e o 
+recebimento de caixa mas também das obrigações de pagamento no 
+futuro e de recursos que representem caixa a ser recebida no futuro. 
+Deste modo, proporciona -se informação acerca das transações passadas 
+e outros acontecimentos que seja mais útil aos utentes na tomada de 
+decisões económicas.
+Continuidade
+23 — As demonstrações financeiras são normalmente preparadas no 
+pressuposto de que uma entidade é uma entidade em continuidade e de que continuará a operar no futuro previsível. Daqui que seja assumido 
+que a entidade não tem nem a intenção nem a necessidade de liquidar 
+ou de reduzir drasticamente o nível das suas operações; se existir tal intenção ou necessidade, as demonstrações financeiras podem ter que 
+ser preparadas segundo um regime diferente e, se assim for, o regime 
+usado deve ser divulgado.
+Características qualitativas das demonstrações financeiras
+24 — As características qualitativas são os atributos que tornam a 
+informação proporcionada nas demonstrações financeiras útil aos utentes. 
+As quatro principais características qualitativas são a compreensibilidade, 
+a relevância, a fiabilidade e a comparabilidade.
+Compreensibilidade
+25 — Uma qualidade essencial da informação proporcionada nas 
+demonstrações financeiras é a de que ela seja rapidamente compreen-
+sível pelos utentes. Para este fim, presume -se que os utentes tenham um 
+razoável conhecimento das atividades empresariais e económicas e da 
+contabilidade e vontade de estudar a informação com razoável diligência. 
+Porém, a informação acerca de matérias complexas, a incluir nas demons-
+trações financeiras dada a sua relevância para a tomada de decisões dos 
+utentes, não deve ser excluída meramente com o fundamento de que ela 
+possa ser demasiado difícil para a compreensão de certos utentes.
+Relevância
+26 — Para ser útil, a informação tem de ser relevante para a tomada 
+de decisões dos utentes. A informação tem a qualidade da relevância 
+quando influencia as decisões económicas dos utentes ao ajudá -los a 
+avaliar os acontecimentos passados, presentes ou futuros ou confirmar, ou corrigir, as suas avaliações passadas.
+27 — As funções preditiva e confirmatória da informação estão in-
+terrelacionadas. Por exemplo, a informação acerca do nível corrente e da estrutura da detenção de ativos tem valor para os utentes, quando 
+estes se esforçam por predizer a capacidade da entidade para tirar van-
+tagem das oportunidades e a capacidade de reagir a situações adversas. 
+A mesma informação desempenha um papel confirmatório a respeito de 
+predições passadas, acerca, por exemplo, do caminho em que a entidade 
+seria estruturada ou do resultado de operações planeadas.28 — A informação acerca da posição financeira e do desempenho 
+passado é frequentemente usada como a base para predizer a posição financeira e o desempenho futuros e outros assuntos em que os utentes estejam diretamente interessados, tais como pagamento de dividendos e de salários, movimentos de preços de títulos e a capacidade da en-
+tidade de satisfazer os seus compromissos à medida que se vençam. 
+Para ter valor preditivo, a informação não necessita de estar na forma de uma previsão explícita. A capacidade de fazer predições a partir das 
+demonstrações financeiras é porém melhorada pela maneira como é 
+apresentada a informação sobre as transações e acontecimentos passa-dos. Por exemplo, o valor preditivo da demonstração dos resultados é 
+aumentado se os itens dos rendimentos ou de gastos não usuais, anormais 
+e não frequentes forem separadamente divulgados.
+Materialidade
+29 — A relevância da informação é afetada pela sua natureza e ma-
+terialidade. Nalguns casos, a natureza da informação é por si mesma 
+suficiente para determinar a sua relevância. Por exemplo, o relato de um 
+novo segmento pode afetar a avaliação dos riscos e oportunidades que se deparam à entidade independentemente da materialidade dos resul-
+tados conseguidos pelo novo segmento no período de relato. Noutros 
+casos, quer a natureza quer a materialidade são importantes, como por 
+exemplo, as quantias de inventários detidas em cada uma das principais 
+categorias que sejam apropriadas para o negócio.
+30 — A informação é material se a sua omissão ou inexatidão in-
+fluenciarem as decisões económicas dos utentes tomadas com base nas 
+demonstrações financeiras. A materialidade depende da dimensão do 
+item ou do erro julgado nas circunstâncias particulares da sua omissão 
+ou distorção. Por conseguinte, a materialidade proporciona um patamar 
+ou ponto de corte, não sendo uma característica qualitativa primária que 
+a informação tenha de ter para ser útil.
+Fiabilidade
+31 — Para que seja útil, a informação também deve ser fiável. A in-
+formação tem a qualidade da fiabilidade quando estiver isenta de er-
+ros materiais e de preconceitos, e os utentes dela possam depender ao 
+representar fidedignamente o que ela pretende representar ou pode 
+razoavelmente esperar -se que represente.
+32 — A informação pode ser relevante mas tão pouco fiável por natu-
+reza ou representação que o seu reconhecimento pode ser potencialmente 
+enganador. Por exemplo, se a validade e quantia de uma reclamação 
+por danos sob ação legal estiverem em disputa, pode ser inapropriado para a entidade reconhecer no balanço a quantia inteira da reclamação, 
+embora possa ser apropriado divulgar a quantia e circunstâncias da 
+reclamação.
+Representação fidedigna
+33 — Para ser fiável, a informação deve representar fidedignamente as 
+transações e outros acontecimentos que ela pretende representar ou possa 
+razoavelmente esperar -se que represente. Assim, por exemplo, o balanço 
+deve representar fidedignamente as transações e outros acontecimentos 
+de que resultem ativos, passivos e capital próprio da entidade na data do 
+relato que satisfaçam os critérios de reconhecimento.
+34 — A maior parte da informação financeira está sujeita a algum risco 
+de não chegar a ser a representação fidedigna daquilo que ela pretende 
+retratar. Isto não é devido a preconceito, mas antes a dificuldades ineren-
+tes seja na identificação das transações e outros acontecimentos a serem 
+mensurados seja na concepção e aplicação de técnicas de mensuração 
+e apresentação que possam comunicar mensagens que correspondam 
+a essas transações e acontecimentos. Em certos casos, a mensuração 
+dos efeitos financeiros dos itens poderá ser tão incerta que as entidades 
+geralmente não os reconhecerão nas demonstrações financeiras; por 
+exemplo, se bem que a maior parte das entidades gerem internamente 
+trespasse (goodwill)  no decorrer do tempo, é geralmente difícil identificar 
+ou mensurar com fiabilidade esse trespasse (goodwill) . Noutros casos, 
+porém, pode ser relevante reconhecer os itens e divulgar o risco de erro 
+que rodeia o seu reconhecimento e a sua mensuração.
+Substância sobre a forma
+35 — Se a informação deve representar fidedignamente as transações 
+e outros acontecimentos que tenha por fim representar, é necessário 
+que eles sejam contabilizados e apresentados de acordo com a sua 
+substância e realidade económica e não meramente com a sua forma 
+legal. A substância das transações ou de outros acontecimentos nem 
+sempre é consistente com a que é mostrada pela sua forma legal ou 
+idealizada. Por exemplo, uma entidade pode alienar um ativo a uma 
+terceira entidade de tal maneira que a documentação tenha por fim passar 
+a propriedade legal a essa entidade; contudo, podem existir acordos que 20738  Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+assegurem que a entidade continua a fruir os benefícios económicos 
+incorporados no ativo. Em tais circunstâncias, o relato de uma venda 
+não representaria fidedignamente a transação celebrada (se na verdade houve uma transação).
+Neutralidade
+36 — Para que seja fiável, a informação contida nas demonstrações 
+financeiras tem de ser neutra, isto é, livre de preconceitos. As demonstra-
+ções financeiras não são neutras se, por via da seleção ou da apresentação 
+da informação, elas influenciarem a tomada de uma decisão ou um juízo 
+de valor a fim de atingir um resultado ou um efeito predeterminado.
+Prudência
+37 — Os preparadores das demonstrações financeiras têm, porém, de 
+lutar com as incertezas que inevitavelmente rodeiam muitos aconteci-
+mentos e circunstâncias, tais como a cobrabilidade duvidosa de dívidas a 
+receber, a vida útil provável de instalações e equipamentos e o número de 
+reclamações de garantia que possam ocorrer. Tais incertezas são reconhe-
+cidas através da divulgação da sua natureza e extensão e pela aplicação 
+de prudência na preparação das demonstrações financeiras. A prudência é a inclusão de um grau de precaução no exercício dos juízos necessários ao fazer as estimativas necessárias em condições de incerteza, de forma que os ativos ou os rendimentos não sejam sobreavaliados e os passivos ou os gastos não sejam subavaliados. Porém, o exercício da prudência 
+não permite, por exemplo, a criação de reservas ocultas ou provisões 
+excessivas, a subavaliação deliberada de ativos ou de rendimentos, ou a deliberada sobreavaliação de passivos ou de gastos, porque as demons-trações financeiras não seriam neutras e, por isso, não teriam a qualidade de fiabilidade.
+Plenitude
+38 — Para que seja fiável, a informação nas demonstrações financeiras 
+deve ser completa dentro dos limites de materialidade e de custo. Uma 
+omissão pode fazer com que a informação seja falsa ou enganadora e 
+por conseguinte não fiável e deficiente em termos da sua relevância.
+Comparabilidade
+39 — Os utentes têm de ser capazes de comparar as demonstrações 
+financeiras de uma entidade ao longo do tempo a fim de identificar 
+tendências na sua posição financeira e no seu desempenho. Os utentes 
+têm também de ser capazes de comparar as demonstrações financeiras de diferentes entidades a fim de avaliar de forma relativa a sua posição 
+financeira, o seu desempenho e as alterações na posição financeira. 
+Daqui que a mensuração e exposição dos efeitos financeiros de transa-ções e outros acontecimentos semelhantes devam ser levados a efeito de maneira consistente em toda a entidade e ao longo do tempo nessa entidade e de maneira consistente para diferentes entidades.
+40 — Uma implicação importante da característica qualitativa da 
+comparabilidade é a de que os utentes sejam informados das políticas contabilísticas usadas na preparação das demonstrações financeiras, de 
+quaisquer alterações nessas políticas e dos efeitos de tais alterações. 
+Os utentes necessitam de ser capazes de identificar diferenças entre 
+as políticas contabilísticas para transações e outros acontecimentos 
+semelhantes usados pela mesma entidade de período para período e 
+entre diferentes entidades. A conformidade com as NCRF, incluindo a 
+divulgação das políticas contabilísticas usadas pela entidade, ajuda a 
+conseguir comparabilidade.
+41 — A necessidade de comparabilidade não deve ser confundida 
+com a mera uniformidade e não deve ser permitido que se torne um 
+impedimento à introdução de normas contabilísticas melhoradas. Não é apropriado que uma entidade continue a contabilizar da mesma ma-
+neira uma transação ou outro acontecimento se a política adotada não 
+estiver de acordo com as características qualitativas da relevância e da 
+fiabilidade. É também inapropriado que uma entidade deixe as suas 
+políticas contabilísticas inalteradas quando existam alternativas mais 
+relevantes e fiáveis.
+42 — Porque os utentes desejam comparar a posição financeira, o 
+desempenho e as alterações na posição financeira de uma entidade ao 
+longo do tempo, é importante que as demonstrações financeiras mostrem 
+a informação correspondente dos períodos precedentes.
+Constrangimentos à informação relevante e fiável
+Tempestividade
+43 — Se houver demora indevida no relato da informação ela pode 
+perder a sua relevância. O órgão de gestão pode necessitar de balancear os méritos relativos do relato tempestivo com o fornecimento de informação 
+fiável. Para proporcionar informação numa base tempestiva pode muitas 
+vezes ser necessário relatar antes de serem conhecidos todos os aspetos 
+de uma transação ou outro acontecimento, diminuindo por conseguinte a fiabilidade. Ao contrário, se o relato for demorado até que todos os aspetos sejam conhecidos, a informação pode ser altamente fiável mas de pouca utilidade para os utentes que tenham tido entretanto de tomar decisões. Para conseguir a ponderação entre relevância e fiabilidade, a consideração dominante é a de como melhor satisfazer as necessidades dos utentes nas tomadas de decisões económicas.
+Balanceamento entre benefício e custo
+44 — A ponderação entre benefício e custo é mais um constrangimento 
+influente do que uma característica qualitativa. Os benefícios derivados 
+da informação devem exceder o custo de a proporcionar. A avaliação 
+dos benefícios e custos é, contudo, substancialmente um processo de ajuizamento. Para além disso, os custos não recaem necessariamente 
+sobre os utentes que fruem os benefícios. Os benefícios podem também 
+ser usufruídos pelos utentes que não sejam aqueles para quem a informa-
+ção é preparada; por exemplo, o fornecimento de informação adicional a mutuantes pode reduzir os custos dos empréstimos obtidos por uma entidade. Por estas razões é difícil aplicar um teste custo-benefício a 
+qualquer caso particular. Não obstante, os normalizadores em particular, 
+assim como os preparadores e utentes das demonstrações financeiras, devem estar conscientes deste constrangimento.
+Balanceamento entre características qualitativas
+45 — Na prática é muitas vezes necessário um balanceamento, ou um 
+compromisso, entre características qualitativas. Geralmente a aspiração 
+é conseguir um balanceamento apropriado entre as características a fim 
+de ir ao encontro dos objetivos das demonstrações financeiras. A impor-
+tância relativa das características em casos diferentes é uma questão de 
+juízo de valor profissional.
+Imagem verdadeira e apropriada/apresentação apropriada
+46 — As demonstrações financeiras são frequentemente descritas 
+como mostrando uma imagem verdadeira e apropriada de, ou como 
+apresentando apropriadamente, a posição financeira, o desempenho e 
+as alterações na posição financeira de uma entidade. Se bem que esta 
+Estrutura Conceptual não trate diretamente tais conceitos, a aplicação das principais características qualitativas e das normas contabilísticas 
+apropriadas resulta normalmente em demonstrações financeiras que 
+transmitem o que é geralmente entendido como uma imagem verdadeira 
+e apropriada de, ou como apresentando razoavelmente, tal informação.
+Elementos das demonstrações financeiras
+47 — As demonstrações financeiras retratam os efeitos financeiros 
+das transações e de outros acontecimentos ao agrupá -los em grandes 
+classes de acordo com as suas características económicas. Estas grandes 
+classes são constituídas pelos elementos das demonstrações financeiras. 
+Os elementos diretamente relacionados com a mensuração da posição financeira no balanço são os ativos, os passivos e os capitais próprios. Os elementos diretamente relacionados com a mensuração do desem-
+penho na demonstração dos resultados são os rendimentos e os gastos. 
+A demonstração de alterações na posição financeira reflete geralmente elementos da demonstração dos resultados e as alterações de elementos 
+do balanço; concordantemente, esta Estrutura Conceptual não identifica 
+nenhuns elementos que sejam exclusivos daquela demonstração.
+48 — A apresentação destes elementos no balanço e na demonstração 
+dos resultados envolve um processo de subclassificação. Os ativos e 
+passivos podem ser classificados pela sua natureza ou função nas ativi-dades da entidade a fim de mostrar a informação da maneira mais útil 
+aos utentes para fins de tomada de decisões económicas.
+Posição financeira
+49 — Os elementos diretamente relacionados com a mensuração da 
+posição financeira são os ativos, os passivos e o capital próprio. São 
+definidos como segue:
+a) Ativo é um recurso controlado pela entidade como resultado de 
+acontecimentos passados e do qual se espera que fluam para a entidade benefícios económicos futuros;
+b) Passivo é uma obrigação presente da entidade proveniente de 
+acontecimentos passados, da liquidação da qual se espera que resulte 
+um exfluxo de recursos da entidade incorporando benefícios econó-
+micos; e
+c) Capital próprio é o interesse residual nos ativos da entidade depois 
+de deduzir todos os seus passivos.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20739
+50 — As definições de ativo e de passivo identificam as suas carac-
+terísticas essenciais mas não tentam especificar os critérios que neces-
+sitam de ser satisfeitos antes de serem reconhecidos no balanço. Por 
+conseguinte, as definições abarcam itens que não são reconhecidos como 
+ativos ou como passivos no balanço porque não satisfazem os critérios de reconhecimento debatidos nos parágrafos 80 a 96. Particularmente, a expectativa de que benefícios económicos futuros fluirão para ou de uma entidade tem de ser suficientemente certa para ir de encontro ao critério de probabilidade do parágrafo 81 antes de um ativo ou passivo ser reconhecido.
+51 — Ao avaliar se um item satisfaz a definição de ativo, passivo ou 
+capital próprio, é preciso dar atenção à sua subjacente substância e rea-lidade económica e não meramente à sua forma legal. Por conseguinte, por exemplo, no caso das locações financeiras, a substância e realidade económicas são as de que o locatário adquire os benefícios económicos do uso do ativo locado para a maior parte da sua vida útil em troca de 
+registar uma obrigação de pagar por esse direito uma quantia aproximada 
+ao respetivo justo valor do ativo e respetivo encargo financeiro. Daqui que, a locação financeira dê origem a itens que satisfazem a definição 
+de ativo e passivo e são reconhecidos como tais no balanço do locatário.
+Ativos
+52 — Os benefícios económicos futuros incorporados num ativo são 
+o potencial de contribuir, direta ou indiretamente, para o fluxo de caixa e 
+equivalentes de caixa para a entidade. O potencial pode ser um potencial 
+produtivo que faça parte das atividades operacionais da entidade. Pode 
+também tomar a forma de convertibilidade em caixa ou equivalentes de 
+caixa ou a capacidade de reduzir os exfluxos de caixa, tais como quando 
+um processo alternativo de fabricação baixe os custos de produção.
+53 — Uma entidade emprega geralmente os seus ativos para produzir 
+bens ou serviços capazes de satisfazer os desejos ou as necessidades de 
+clientes; pelo facto de estes bens e serviços poderem satisfazer esses 
+desejos ou necessidades, os clientes estão preparados para pagá -los, 
+contribuindo assim para o fluxo de caixa da entidade. O próprio dinheiro 
+presta um serviço à entidade por causa da sua predominância sobre os outros recursos.
+54 — Os benefícios económicos futuros incorporados num ativo 
+podem fluir para a entidade de diferentes maneiras. Por exemplo, um ativo pode ser:
+a) Usado isoladamente ou em combinação com outros ativos na pro-
+dução de bens ou serviços para serem vendidos pela entidade;
+b) Trocado por outros ativos;
+c) Usado para liquidar um passivo; ou
+d) Distribuído aos proprietários da entidade.
+55 — Muitos ativos, por exemplo, ativos fixos tangíveis, têm uma 
+forma física. Porém, a forma física não é essencial à existência de um ativo; daqui que as patentes e os direitos de autor, por exemplo, sejam ativos se se espera que deles fluam benefícios económicos futuros para a entidade e se eles forem controlados pela entidade.
+56 — Muitos ativos, por exemplo, as dívidas a receber e propriedades, 
+estão associados a direitos legais, incluindo o direito de propriedade. Ao determinar a existência de um ativo, o direito de propriedade não 
+é essencial; por conseguinte, por exemplo, a propriedade detida sob 
+locação é um ativo se a entidade controlar os benefícios que espera que 
+fluam da propriedade. Se bem que a capacidade de uma entidade de 
+controlar benefícios seja geralmente a consequência de direitos legais, um item pode no entanto satisfazer a definição de ativo mesmo quando 
+não haja controlo legal. Por exemplo, o “know -how” obtido das ativida-
+des de desenvolvimento pode satisfazer a definição de ativo quando, ao 
+conservar secreto esse “know -how”, uma entidade controle os benefícios 
+que espera que dele fluam.
+57 — Os ativos de uma entidade resultam de transações passadas ou 
+de outros acontecimentos passados. As entidades normalmente obtêm 
+ativos pela sua compra ou produção, mas outras transações ou aconte-
+cimentos podem gerar ativos; incluem -se como exemplos a propriedade 
+recebida do Governo por uma entidade como parte de um programa 
+para encorajar o crescimento económico numa área e a descoberta de 
+depósitos minerais. As transações ou acontecimentos que se espera que 
+venham a ocorrer no futuro não dão por si próprios origem a ativos; daqui 
+que, por exemplo, uma intenção de comprar inventários não satisfaz à definição de ativos.
+58 — Há uma íntima associação entre dispêndios em que se incorrem 
+e ativos que se geram mas ambos não coincidem necessariamente. Daqui 
+que, quando uma entidade incorre em dispêndios, isto possa proporcio-nar prova de que benefícios económicos futuros foram procurados mas não é prova concludente de que um item que satisfaça a definição de ativo tenha sido obtido. Semelhantemente a ausência de um dispêndio relacionado não evita que um item satisfaça a definição de ativo e, por conseguinte, se torne um candidato ao reconhecimento no balanço; por 
+exemplo, itens que tenham sido doados à entidade podem satisfazer a definição de ativo.
+Passivos
+59 — Uma característica essencial de um passivo é a de que a entidade 
+tenha uma obrigação presente. Uma obrigação é um dever ou responsa-
+bilidade para agir ou executar de certa maneira. As obrigações podem ser 
+legalmente impostas como consequência de um contrato vinculativo ou 
+de requisito estatutário. Este é geralmente o caso, por exemplo, de quan-
+tias a pagar por bens e serviços recebidos. As obrigações também surgem, 
+porém, das práticas normais dos negócios, costumes e de um desejo de 
+manter boas relações negociais ou de agir de maneira equilibrada. Se, por exemplo, uma entidade decidir como questão de política retificar 
+deficiências nos seus produtos mesmo quando estas se tornem evidentes 
+após o período de garantia ter expirado, são passivos as quantias que se espera que sejam gastas respeitantes a bens já vendidos.
+60 — Deve distinguir -se entre uma obrigação presente e um com-
+promisso futuro. Por exemplo, uma decisão do órgão de gestão de uma 
+entidade para adquirir ativos no futuro não dá, por si própria, origem a 
+uma obrigação presente. Normalmente uma obrigação surge somente 
+quando o ativo é entregue ou a entidade entra num acordo irrevogável para adquirir o ativo. No último caso, a natureza irrevogável do acordo 
+significa que as consequências económicas da falha de honrar o com-
+promisso, por exemplo, por causa da existência de uma penalidade 
+substancial, deixa a entidade com pouca ou nenhuma margem para 
+evitar o exfluxo de recursos para uma outra parte.
+61 — A liquidação de uma obrigação presente envolve geralmente que 
+a entidade ceda recursos incorporando benefícios económicos a fim de 
+satisfazer a reivindicação da outra parte. A liquidação de uma obrigação 
+presente pode ocorrer de várias maneiras, por exemplo, por:
+a) Pagamento a dinheiro;
+b) Transferência de outros ativos;
+c) Prestação de serviços;
+d) Substituição dessa obrigação por outra; ou
+e) Conversão da obrigação em capital próprio.
+Uma obrigação pode também ser extinta por outros meios, tais como 
+um credor abdicar ou perder os seus direitos.
+62 — Os passivos resultam de operações passadas ou de outros acon-
+tecimentos passados. Assim, por exemplo, a aquisição de bens e o uso 
+de serviços dão origem a dívidas comerciais a pagar (a menos que pagos 
+adiantadamente ou no ato da entrega) e o recebimento de um empréstimo 
+bancário resulta numa obrigação de pagar o empréstimo. Uma entidade pode também reconhecer como passivos os descontos futuros baseados nas compras anuais feitas por clientes; neste caso, a venda de bens no 
+passado é a operação que dá origem ao passivo.
+63 — Alguns passivos só podem ser mensurados usando um grau 
+substancial de estimativa, designando -se estes passivos como provisões. 
+Quando uma provisão envolva uma obrigação presente e satisfaça a 
+definição do parágrafo 49(b), ela é um passivo mesmo que a respetiva 
+quantia tenha de ser estimada. Como exemplos indicam -se as provisões 
+para pagamentos a serem feitos relativamente a garantias existentes e 
+provisões para cobrir as obrigações de pensões de reforma.
+Capital próprio
+64 — Se bem que o capital próprio seja definido no parágrafo 49(c) 
+como um valor residual, ele pode ser subclassificado no balanço. Por 
+exemplo, numa sociedade, os fundos contribuídos pelos acionistas, 
+os resultados transitados, as reservas que representem apropriações 
+de resultados transitados e as reservas que representem ajustamentos 
+de manutenção do capital podem ser mostradas separadamente. Tais 
+classificações podem ser relevantes para as necessidades de tomada de decisões dos utentes das demonstrações financeiras quando indiquem restrições legais ou outras sobre a capacidade da entidade distribuir ou, 
+de outra maneira, aplicar o seu capital próprio. Podem também refletir 
+o facto de detentores de capital numa entidade terem direitos diferentes em relação ao recebimento de dividendos ou ao reembolso de capital 
+próprio contribuído.
+65 — A criação de reservas é algumas vezes exigida pelos estatutos 
+ou por outra legislação a fim de dar à entidade e aos seus credores 
+uma medida adicional de proteção dos efeitos de perdas. Podem ser 
+estabelecidas outras reservas se a legislação fiscal nacional conceder isenções de, ou redução em, passivos fiscais quando sejam feitas trans-
+ferências para tais reservas. A existência e dimensão destas reservas 
+legais, estatutárias e fiscais é informação que pode ser relevante para as necessidades de tomada de decisão dos utentes. As transferências para 
+tais reservas são apropriações de resultados transitados, não sendo, por 
+conseguinte, gastos.20740  Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+66 — A quantia pela qual o capital próprio é mostrado no balanço 
+está dependente da mensuração dos ativos e dos passivos. Normal-
+mente, a quantia agregada do capital próprio somente por coincidência 
+corresponde ao valor de mercado agregado das ações da entidade ou à soma que poderia ser obtida pela alienação quer dos ativos líquidos 
+numa base fragmentária quer da entidade como um todo segundo o 
+pressuposto da continuidade.
+67 — As atividades comerciais, industriais e de negócios, são muitas 
+vezes levadas a efeito por meio de entidades tais como entidades em 
+nome individual, parcerias, empreendimentos conjuntos e variados 
+tipos de entidades estatais de negócios. A estrutura legal e reguladora 
+para tais entidades é muitas vezes diferente da aplicável às socieda-
+des. Por exemplo, podem existir algumas restrições na distribuição aos proprietários ou a outros beneficiários de quantias incluídas no capital 
+próprio. Contudo, a definição de capital próprio e os outros aspetos 
+desta Estrutura Conceptual que tratam do capital próprio são apropriados 
+para tais entidades.
+Desempenho
+68 — O resultado é frequentemente usado como uma medida de 
+desempenho ou como a base para outras mensurações, tais como o 
+retorno do investimento ou os resultados por ação. Os elementos dire-
+tamente relacionados com a mensuração do resultado são rendimentos 
+e gastos. O reconhecimento e mensuração dos rendimentos e gastos, 
+e consequentemente do resultado, depende em parte dos conceitos de 
+capital e de manutenção do capital usados pela entidade na preparação 
+das suas demonstrações financeiras. Estes conceitos são tratados nos 
+parágrafos 100 a 108.
+69 — Os elementos de rendimentos e de gastos são definidos como 
+se segue:
+a) Rendimentos são aumentos nos benefícios económicos durante o 
+período contabilístico na forma de influxos ou aumentos de ativos ou 
+diminuições de passivos que resultem em aumentos no capital próprio, 
+que não sejam os relacionados com as contribuições dos participantes no capital próprio; e
+b) Gastos são diminuições nos benefícios económicos durante o pe-
+ríodo contabilístico na forma de exfluxos ou deperecimentos de ativos 
+ou na incorrência de passivos que resultem em diminuições do capital 
+próprio, que não sejam as relacionadas com distribuições aos partici-pantes no capital próprio.
+70 — As definições de rendimentos e de gastos identificam as suas 
+características essenciais mas não tentam especificar os critérios que 
+necessitarão de ser satisfeitos antes de serem reconhecidos na demons-
+tração dos resultados. Os critérios para o reconhecimento de rendimentos 
+e de gastos são tratados nos parágrafos 80 a 96.
+71 — Os rendimentos e os gastos são apresentados na demonstração 
+dos resultados de formas diversificadas, a fim de proporcionar infor-
+mação que seja relevante para a tomada de decisões económicas. Esta 
+diversificação é feita na base de que a origem de um item é relevante na avaliação da capacidade da entidade gerar caixa ou equivalentes de caixa no futuro.
+Rendimentos
+72 — A definição de rendimentos engloba quer réditos quer ganhos. 
+Os réditos provêm do decurso das atividades correntes (ou ordinárias) 
+de uma entidade sendo referidos por uma variedade de nomes diferentes 
+incluindo vendas, honorários, juros, dividendos, royalties  e rendas.
+73 — Os ganhos representam outros itens que satisfaçam a definição 
+de rendimentos e podem, ou não, provir do decurso das atividades cor-
+rentes (ou ordinárias) de uma entidade. Os ganhos representam aumentos 
+em benefícios económicos e como tal não são de natureza diferente 
+do rédito. Daqui que não são vistos como constituindo um elemento 
+separado nesta Estrutura Conceptual.
+74 — Os ganhos, incluem, por exemplo, os que provêm da alienação 
+de ativos não correntes. A definição de rendimentos também inclui ga-
+nhos não realizados; por exemplo, os que provenham da revalorização de títulos negociáveis e os que resultem de aumentos na quantia escri-turada de ativos a longo prazo. Quando os ganhos sejam reconhecidos 
+na demonstração dos resultados, eles são geralmente apresentados em 
+separado porque o seu conhecimento é útil para o propósito de tomar 
+decisões económicas. Os ganhos são muitas vezes relatados líquidos 
+de gastos relacionados.
+75 — Várias espécies de ativos podem ser recebidos ou aumentados 
+através dos rendimentos; exemplos incluem o dinheiro, dívidas a rece-
+ber e bens e serviços recebidos por troca de bens e serviços fornecidos. Os rendimentos podem também resultar da liquidação de passivos. Por exemplo, uma entidade pode fornecer bens e serviços a um mutuante em liquidação de uma obrigação para reembolsar um empréstimo por 
+liquidar.Gastos
+76 — A definição de gastos engloba perdas assim como aqueles gastos 
+que resultem do decurso das atividades correntes (ou ordinárias) da 
+entidade. Os gastos que resultem do decurso das atividades ordinárias 
+da entidade incluem, por exemplo, o custo das vendas, os salários e as depreciações. Tomam geralmente a forma de um exfluxo ou depereci-mento de ativos tais como dinheiro e seus equivalentes, inventários e ativos fixos tangíveis.
+77 — As perdas representam outros itens que satisfaçam a definição 
+de gastos e podem, ou não, surgir no decurso das atividades ordinárias da entidade. As perdas representam diminuições em benefícios econó-micos e como tal não são na sua natureza diferentes de outros gastos. 
+Daqui que não sejam vistas como um elemento separado nesta Estrutura 
+Conceptual.
+78 — As perdas incluem, por exemplo, as que resultam de desas-
+tres como os incêndios e as inundações bem como as que provêm da 
+alienação de ativos não correntes. A definição de gastos também inclui 
+perdas não realizadas como, por exemplo, as provenientes dos efeitos do aumento da taxa de câmbio de uma moeda estrangeira respeitante a empréstimos obtidos de uma entidade nessa moeda. Quando as perdas 
+forem reconhecidas na demonstração dos resultados, elas são geralmente 
+mostradas separadamente porque o conhecimento das mesmas é útil para 
+finalidades de tomar decisões económicas. As perdas são muitas vezes relatadas líquidas de rendimentos relacionados.
+Ajustamentos de manutenção do capital
+79 — A revalorização ou reexpressão de ativos e passivos dá origem a 
+aumentos ou diminuições de capital próprio. Se bem que estes aumentos 
+ou diminuições satisfaçam a definição de rendimentos e de gastos, eles 
+não são incluídos na demonstração dos resultados segundo certos con-
+ceitos de manutenção do capital. Em vez disso, estes itens são incluídos 
+no capital próprio como ajustamentos de manutenção do capital ou 
+excedentes de revalorização. Estes conceitos de manutenção do capital são tratados nos parágrafos 100 a 108 desta Estrutura Conceptual.
+Reconhecimento dos elementos das demonstrações
+financeiras
+80 — Reconhecimento é o processo de incorporar no balanço e na 
+demonstração dos resultados um item que satisfaça a definição de um 
+elemento e satisfaça os critérios de reconhecimento estabelecidos no 
+parágrafo 81. Isso envolve a descrição do item por palavras e por uma quantia monetária e a inclusão dessa quantia nos totais do balanço ou 
+da demonstração dos resultados. Os itens que satisfaçam os critérios de 
+reconhecimento devem ser reconhecidos no balanço ou na demonstração 
+dos resultados. A falha do reconhecimento de tais itens não é retificada 
+pela divulgação das políticas contabilísticas usadas nem por notas ou material explicativo.
+81 — Um item que satisfaça a definição de uma classe deve ser 
+reconhecido se:
+a) For provável que qualquer benefício económico futuro associado 
+com o item flua para ou da entidade; e
+b) O item tiver um custo ou um valor que possa ser mensurado com 
+fiabilidade.
+82 — Ao avaliar se um item satisfaz estes critérios e, por isso, se qua-
+lifica para reconhecimento nas demonstrações financeiras, é necessário 
+ter em atenção as condições de materialidade tratadas nos parágrafos 29 e 
+30. A inter relação entre os elementos significa que um item que satisfaça 
+a definição e os critérios de reconhecimento de um dado elemento, por exemplo, um ativo, requer automaticamente o reconhecimento de um outro elemento, por exemplo, um rendimento ou um passivo.
+Probabilidade de benefícios económicos futuros
+83 — O conceito de probabilidade é usado nos critérios de reconheci-
+mento para referir o grau de incerteza em que os benefícios económicos 
+futuros associados ao item fluirão para, ou de, a entidade. O conceito 
+está em harmonia com a incerteza que caracteriza o ambiente em que 
+uma entidade opera. As avaliações do grau de incerteza ligadas ao 
+fluxo de benefícios económicos futuros são feitas com base nas provas disponíveis aquando da preparação das demonstrações financeiras. Por 
+exemplo, quando for provável que uma dívida a receber devida por uma 
+entidade venha a ser paga, é justificável então, na ausência de provas em contrário, reconhecer a dívida a receber como um ativo. Para uma grande população de dívidas a receber, porém, é considerado provável 
+algum grau de não pagamento; daqui que seja reconhecido um gasto que 
+represente a redução esperada de benefícios económicos.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20741
+Fiabilidade da mensuração
+84 — O segundo critério para o reconhecimento de um item é que este 
+possua um custo ou um valor que possa ser mensurado com fiabilidade 
+como referido nos parágrafos 31 a 38 desta Estrutura Conceptual. Em 
+muitos casos, o custo ou o valor precisam de ser estimados; o uso de 
+estimativas razoáveis é uma parte essencial da preparação das demons-
+trações financeiras e não destrói a sua fiabilidade. Quando, porém, 
+uma estimativa razoável não possa ser feita o item não é reconhecido 
+no balanço ou na demonstração dos resultados. Por exemplo, os pro-
+ventos esperados de uma ação judicial podem estar de acordo com as 
+definições quer de ativo quer de rendimento assim como do critério 
+de probabilidade para reconhecimento; porém, se não for possível 
+que a reivindicação seja mensurada com fiabilidade, ela não deve ser 
+reconhecida como ativo ou como rendimento; a existência da reivin-
+dicação, porém, será divulgada nas notas anexas, material explicativo 
+ou mapas suplementares.
+85 — Um item que, num dado momento, falhe em satisfazer os cri-
+térios de reconhecimento do parágrafo 81 pode qualificar -se para reco-
+nhecimento numa data posterior como resultado de circunstâncias ou 
+acontecimentos subsequentes.
+86 — Um item que possua as características essenciais de um ele-
+mento mas falhe em satisfazer os critérios de reconhecimento pode, no 
+entanto, exigir divulgação nas notas, material explicativo ou em mapas 
+suplementares. Isto é apropriado quando o conhecimento do item seja 
+considerado relevante pelos utentes das demonstrações financeiras para 
+a avaliação da posição financeira, desempenho e das alterações na 
+posição financeira de uma entidade pelos utentes das demonstrações 
+financeiras.
+Reconhecimento de ativos
+87 — Um ativo é reconhecido no balanço quando for provável que os 
+benefícios económicos futuros fluam para a entidade e o ativo tenha um 
+custo ou um valor que possa ser mensurado com fiabilidade.
+88 — Um ativo não é reconhecido no balanço quando, relativamente 
+ao dispêndio incorrido, seja considerado improvável que benefícios 
+económicos fluirão para a entidade para além do período contabilístico 
+corrente. Em vez disso, tal transação resulta no reconhecimento de um 
+gasto na demonstração dos resultados. Este tratamento não implica que 
+a intenção do órgão de gestão, ao incorrer no dispêndio, fosse outra que 
+não a de gerar benefícios económicos futuros para a entidade, ou que 
+a gestão dos negócios fosse mal orientada. A única implicação é a de 
+que o grau de certeza de que os benefícios económicos fluirão para a 
+entidade para além do período contabilístico corrente é insuficiente para 
+justificar o reconhecimento de um ativo.
+Reconhecimento de passivos
+89 — Um passivo é reconhecido no balanço quando for provável que 
+um exfluxo de recursos incorporando benefícios económicos resulte da 
+liquidação de uma obrigação presente e que a quantia pela qual a liquida-
+ção tenha lugar possa ser mensurada com fiabilidade. Na prática, as obri-
+gações ao abrigo de contratos que estejam proporcional e igualmente não 
+executados (por exemplo passivos por inventários encomendados mas 
+ainda não recebidos) não são geralmente reconhecidos como passivos 
+nas demonstrações financeiras. Porém, tais obrigações podem satisfazer 
+a definição de passivos e, desde que os critérios de reconhecimento se-
+jam satisfeitos nas circunstâncias particulares, podem qualificar -se para 
+reconhecimento. Em tais circunstâncias, o reconhecimento de passivos implica o reconhecimento dos ativos ou gastos relacionados.
+Reconhecimento de rendimentos
+90 — Um rendimento é reconhecido na demonstração dos resultados 
+quando tenha surgido um aumento de benefícios económicos futuros 
+relacionados com um aumento num ativo ou com uma diminuição de um 
+passivo e que possa ser quantificado com fiabilidade. Isto significa, com 
+efeito, que o reconhecimento dos rendimentos ocorre simultaneamente 
+com o reconhecimento de aumentos em ativos ou com diminuições em 
+passivos (por exemplo, o aumento líquido em ativos provenientes de uma 
+venda de bens ou de serviços ou a diminuição em passivos provenientes 
+do perdão de uma dívida a pagar).
+91 — Os procedimentos geralmente adotados na prática para o re-
+conhecimento de um rendimento, por exemplo, o requisito de que o 
+rédito deve ser gerado, são aplicações dos critérios de reconhecimento 
+nesta Estrutura Conceptual. Tais procedimentos dirigem -se geralmente 
+à restrição do reconhecimento como rendimentos àqueles itens que 
+possam ser mensurados com fiabilidade e que tenham um grau suficiente 
+de certeza.Reconhecimento de gastos
+92 — Os gastos são reconhecidos na demonstração dos resultados 
+quando tenha surgido uma diminuição dos benefícios económicos futuros 
+relacionados com uma diminuição num ativo ou com um aumento de 
+um passivo e que possam ser mensurados com fiabilidade. Isto significa, 
+com efeito, que o reconhecimento de gastos ocorre simultaneamente com 
+o reconhecimento de um aumento de passivos ou de uma diminuição 
+de ativos (por exemplo, o acréscimo de direitos dos empregados ou a 
+depreciação de equipamento).
+93 — Os gastos são reconhecidos na demonstração dos resultados 
+com base numa associação direta entre os gastos incorridos e a obtenção 
+de rendimentos específicos. Este processo, geralmente referido como 
+o balanceamento de gastos com réditos, envolve o reconhecimento 
+simultâneo ou combinado de réditos e de gastos que resultem direta e 
+conjuntamente das mesmas transações ou de outros acontecimentos; 
+por exemplo, os vários componentes de gastos constituindo o custo 
+dos produtos vendidos são reconhecidos ao mesmo tempo que o rendi-
+mento derivado da venda dos produtos. Porém, a aplicação do conceito 
+de balanceamento segundo esta Estrutura Conceptual não permite o 
+reconhecimento de itens no balanço que não satisfaçam a definição de ativos ou passivos.
+94 — Quando se espere que surjam benefícios económicos durante 
+vários períodos contabilísticos e a associação com rendimentos só possa 
+ser determinada de uma forma geral ou indiretamente, os gastos são 
+reconhecidos na demonstração dos resultados na base de procedimentos 
+de imputação sistemáticos e racionais. Isto é muitas vezes necessário ao se reconhecerem os gastos associados com o consumo de ativos tais 
+como os ativos fixos tangíveis, o trespasse (goodwill), as patentes e as 
+marcas; em tais casos, o gasto é referido como depreciação ou amor-tização. Estes procedimentos de imputação destinam -se a reconhecer 
+gastos nos períodos contabilísticos em que os benefícios económicos 
+associados com estes itens se consumam ou se extingam.
+95 — Um gasto é imediatamente reconhecido na demonstração dos 
+resultados quando o dispêndio não produza benefícios económicos 
+futuros ou quando, e somente se, os benefícios económicos futuros não 
+se qualifiquem, ou cessem de qualificar -se, para reconhecimento no 
+balanço como um ativo.
+96 — Um gasto é também reconhecido na demonstração dos resulta-
+dos nos casos em que seja incorrido um passivo sem o reconhecimento 
+de um ativo, o que sucede quando surge um passivo por garantia de 
+um produto.
+Mensuração dos elementos das demonstrações financeiras
+97 — Mensuração é o processo de determinar as quantias monetárias 
+pelas quais os elementos das demonstrações financeiras devam ser 
+reconhecidos e inscritos no balanço e na demonstração dos resultados. 
+Isto envolve a seleção da base particular de mensuração.
+98 — São utilizadas diferentes bases de mensuração em graus dife-
+rentes e em variadas combinações nas demonstrações financeiras. Elas incluem as seguintes:
+a) Custo histórico. Os ativos são registados pela quantia de caixa, ou 
+equivalentes de caixa paga ou pelo justo valor da retribuição dada para os adquirir no momento da sua aquisição. Os passivos são registados 
+pela quantia dos proventos recebidos em troca da obrigação, ou em 
+algumas circunstâncias (por exemplo, impostos sobre o rendimento), pelas quantias de caixa, ou de equivalentes de caixa, que se espera que 
+venham a ser pagas para satisfazer o passivo no decurso normal dos 
+negócios.
+b) Custo corrente. Os ativos são registados pela quantia de caixa ou 
+de equivalentes de caixa que teria de ser paga se o mesmo ou um ativo equivalente fosse correntemente adquirido. Os passivos são registados 
+pela quantia não descontada de caixa, ou de equivalentes de caixa, que 
+seria necessária para liquidar correntemente a obrigação.
+c) Valor realizável (de liquidação). Os ativos são registados pela 
+quantia de caixa, ou equivalentes de caixa, que possa ser correntemente 
+obtida ao vender o ativo numa alienação ordenada. Os passivos são 
+escriturados pelos seus valores de liquidação; isto é, as quantias não 
+descontadas de caixa ou equivalentes de caixa que se espera que sejam 
+pagas para satisfazer os passivos no decurso normal dos negócios.
+d) Valor presente. Os ativos são escriturados pelo valor presente 
+descontado dos futuros influxos líquidos de caixa que se espera que o 
+item gere no decurso normal dos negócios. Os passivos são escriturados 
+pelo valor presente descontado dos futuros exfluxos líquidos de caixa 
+que se espera que sejam necessários para liquidar os passivos no decurso 
+normal dos negócios.
+e) Justo valor. Quantia pela qual um ativo poderia ser trocado ou um 
+passivo liquidado, entre partes conhecedoras e dispostas a isso, numa transação em que não exista relacionamento entre elas.20742  Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+99 — A base de mensuração geralmente adotada pelas entidades ao 
+preparar as suas demonstrações financeiras é o custo histórico. Este é geralmente combinado com outras bases de mensuração. Por exemplo, 
+os inventários são geralmente escriturados pelo mais baixo entre o custo 
+e o valor realizável líquido, os títulos negociáveis podem ser escriturados 
+pelo seu valor de mercado e os passivos por pensões de reforma são escriturados pelo seu valor presente.
+Conceitos de capital e manutenção de capital
+Conceitos de capital
+100 — Geralmente as entidades adotam um conceito financeiro de 
+capital na preparação das suas demonstrações financeiras. No conceito financeiro de capital, tal como dinheiro investido ou poder de compra investido, o capital é sinónimo de ativos líquidos ou de capital próprio da entidade. No conceito físico de capital, tal como a capacidade ope-
+racional, o capital é visto como a capacidade produtiva da entidade 
+baseada, por exemplo, em unidades de produção diária.
+101 — A seleção por uma entidade do conceito apropriado de capital 
+deve basear -se nas necessidades dos utentes das suas demonstrações 
+financeiras. Por conseguinte, um conceito financeiro de capital deve ser 
+adotado se os utentes das demonstrações financeiras estiverem princi-palmente interessados na manutenção do capital nominal investido ou 
+no poder de compra do capital investido.
+Se, porém, a principal preocupação dos utentes for a capacidade 
+operacional da entidade, deve ser usado um conceito físico de capital. O 
+conceito escolhido indica o objetivo a ser atingido na determinação do 
+lucro, mesmo que possam existir algumas dificuldades de mensuração para tornar o conceito operacional.
+Conceitos de manutenção do capital e a determinação do lucro
+102 — Os conceitos de capital no parágrafo 100 dão origem aos 
+seguintes conceitos de manutenção do capital:
+a) Manutenção do capital financeiro. Por este conceito um lucro só 
+é obtido se a quantia financeira (ou dinheiro) dos ativos líquidos no 
+final do período exceder a quantia financeira (ou dinheiro) dos ativos 
+líquidos do início do período, depois de excluir quaisquer distribuições 
+aos, e contribuições dos, proprietários durante o período. A manutenção 
+do capital financeiro pode ser mensurada quer em unidades monetárias nominais quer em unidades de poder de compra constante.
+b) Manutenção do capital físico. Por este conceito um lucro só é 
+obtido se a capacidade física produtiva (ou capacidade operacional) da 
+entidade (ou os recursos ou os fundos necessários para conseguir essa capacidade) no final do período exceder a capacidade física produtiva no início do período, depois de excluir quaisquer distribuições aos, e contribuições dos, proprietários durante o período.
+103 — O conceito de manutenção do capital está ligado à forma 
+como uma entidade define o capital que procura manter. Proporciona a ligação entre os conceitos de capital e os conceitos de lucro porque 
+proporciona o ponto de referência pelo qual o lucro é mensurado; é 
+um pré requisito para distinguir entre o retorno sobre o capital da en-tidade e o retorno do seu capital; só os influxos de ativos em excesso das quantias necessárias para manter o capital podem ser vistos como lucro e por conseguinte como um retorno sobre o capital. Daqui que o lucro seja a quantia residual que permanece após os gastos (incluindo os ajustamentos da manutenção do capital, quando apropriados) terem 
+sido deduzidos dos rendimentos. Se os gastos excederem os rendimentos 
+a quantia residual é um prejuízo.
+104 — O conceito de manutenção do capital físico requer a adoção 
+da base de mensuração pelo custo corrente. O conceito de manutenção 
+do capital financeiro, porém, não requer o uso de uma base particular de 
+mensuração. A seleção da base segundo este conceito está dependente do 
+tipo de capital financeiro que a entidade está a procurar manter.
+105 — A diferença principal entre os dois conceitos de manutenção 
+do capital é o tratamento dos efeitos das alterações dos preços nos ativos 
+e passivos da entidade. Em termos gerais, uma entidade tem mantido o seu capital se tiver tanto capital no final do período como tinha no início do mesmo.
+106 — Pelo conceito de manutenção do capital financeiro quando o 
+capital seja definido em termos de unidades monetárias nominais, o lucro 
+representa o aumento do capital monetário nominal durante o período. Por conseguinte, os aumentos dos preços dos ativos detidos durante o período, convencionalmente referidos como ganhos de detenção, são, 
+conceptualmente, lucros. Podem, porém, não ser reconhecidos como tal 
+até que os ativos sejam alienados numa transação de troca. Quando o 
+conceito de manutenção do capital financeiro seja definido em termos de 
+unidades de poder de compra constante, o lucro representa o aumento de poder de compra investido durante o período. Por conseguinte, apenas 
+aquela parte do aumento nos preços dos ativos que exceda o aumento no 
+nível geral de preços é vista como lucro. O resto do aumento é tratado 
+como ajustamento da manutenção do capital e, daqui, como parte do capital próprio.
+107 — Pelo conceito de manutenção do capital físico quando o capital 
+seja definido em termos da capacidade produtiva física, o lucro representa 
+o aumento nesse capital durante o período. Todas as alterações de preços 
+que afetem os ativos e passivos da entidade são vistas como alterações na mensuração da capacidade física produtiva da entidade; daqui que 
+sejam tratadas como ajustamentos da manutenção do capital, que fazem 
+parte do capital próprio, e não como lucro.
+108 — A seleção das bases de mensuração e do conceito de manuten-
+ção do capital determina o modelo contabilístico usado na preparação das 
+demonstrações financeiras. Modelos contabilísticos diferentes exibem 
+diferentes graus de relevância e de fiabilidade e, como noutras áreas, tem 
+de procurar -se um balanceamento entre relevância e fiabilidade.
+20 de julho de 2015. — O Secretário -Geral do Ministério das Finan-
+ças, Rogério Manuel Aroso Peixoto Rodrigues .
+208811612 
+ Aviso n.º 8255/2015
+Pelo Despacho n.º 261/2015 -XIX do Senhor Secretário de Estado dos 
+Assuntos Fiscais, de 16 de julho de 2015, foi homologada a seguinte 
+Norma Contabilística para Microentidades do Sistema de Normalização 
+Contabilística, aprovado pelo Decreto -Lei n.º 158/2009, de 13 de julho, 
+alterado pelo Decreto -Lei n.º 98/2015, de 2 de junho:
+Norma Contabilística para Microentidades
+1 — Objetivo
+1.1 — Esta Norma Contabilística tem como objetivo estabelecer 
+os aspetos de reconhecimento e mensuração, tidos como os requisitos 
+contabilísticos aplicáveis às microentidades tal como são definidas 
+pelo n.º 1 do artigo 9.º do Decreto -Lei n.º 158/2009, de 13 de julho, na 
+redação dada pelo Decreto -Lei n.º 98/2015, de 2 de junho.
+2 — Âmbito e conceitos
+2.1 — Esta Norma deve ser aplicada pelas entidades que cumpram os 
+requisitos para serem classificadas como microentidades, desde que não 
+optem pela aplicação da Norma Contabilística e de Relato Financeiro 
+para Pequenas Entidades (NCRF -PE) ou das Normas Contabilísticas e de Relato Financeiro (NCRF).
+2.2 — Esta Norma acolhe os conceitos, definições e procedimentos 
+contabilísticos de aceitação generalizada em Portugal, tal como enun-ciados no Sistema de Normalização Contabilística (SNC), tendo como base de referência a correspondente Estrutura Conceptual. Os termos e expressões utilizados nesta norma correspondem aos constantes das NCRF, cuja compilação em glossário é disponibilizada no sitio internet da Comissão de Normalização Contabilística, exceto se de outra forma 
+for especificamente estabelecido.
+3 — Considerações gerais sobre reconhecimento
+3.1 — Como referido no ponto 1.1, a presente norma tem como obje-
+tivo estabelecer os aspetos de reconhecimento e mensuração aplicáveis às 
+microentidades. Dada a estrutura da norma, considerou -se útil a inclusão 
+na mesma de um conjunto de disposições relativas a reconhecimento 
+que nela são recorrentemente utilizadas.
+3.2 — Reconhecimento é o processo de incorporar no balanço e na 
+demonstração dos resultados um item que satisfaça a definição de um elemento e satisfaça os critérios de reconhecimento descritos na pre-sente norma. A falha do reconhecimento de tais itens não é retificada pela divulgação das políticas contabilísticas usadas nem por notas ou material explicativo.
+3.3 — Um ativo é reconhecido no balanço quando for provável que 
+os benefícios económicos futuros fluam para a entidade e o ativo tenha um custo ou um valor que possa ser mensurado com fiabilidade.
+3.4 — Um passivo é reconhecido no balanço quando for provável 
+que um exfluxo de recursos incorporando benefícios económicos resulte 
+da liquidação de uma obrigação presente e que a quantia pela qual a liquidação tenha lugar possa ser mensurada com fiabilidade.
+3.5 — Um rendimento é reconhecido na demonstração dos resultados 
+quando tenha surgido um aumento de benefícios económicos futuros 
+relacionados com um aumento num ativo ou com uma diminuição de um 
+passivo e que possa ser quantificado com fiabilidade. Isto significa, com 
+efeito, que o reconhecimento dos rendimentos ocorre simultaneamente 

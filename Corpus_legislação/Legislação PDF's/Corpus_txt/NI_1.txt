@@ -1,0 +1,218 @@
+Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20859
+Subsídios atribuídos por entidades públicas
+20.12 — Um subsídio atribuído por entidades públicas que seja não 
+condicional e que se relacione com um ativo biológico deve ser reconhe-
+cido como rendimento quando, e somente quando, o subsídio atribuído 
+por entidades públicas se torne recebível.
+20.13 — Se um subsídio atribuído por entidades públicas relacionado 
+com um ativo biológico for condicional, incluindo quando um subsídio atribuído por entidades públicas exige que a entidade beneficiária não tenha uma atividade agrícola específica, a entidade beneficiária deve 
+reconhecer o subsídio como rendimento quando, e somente quando, 
+sejam satisfeitas as condições ligadas à atribuição do subsídio.
+21 — Contratos de construção
+21.1 — Este capítulo respeita ao tratamento contabilístico de réditos 
+e gastos associados a contratos de construção nas demonstrações finan-ceiras das entidades contratadas.
+21.2 — Um contrato de construção é um contrato especificamente 
+negociado para a construção de um ativo ou de uma combinação de 
+ativos que estejam intimamente inter -relacionados ou interdependentes 
+em termos da sua conceção, tecnologia e função ou do seu propósito 
+ou uso final.
+21.3 — Os contratos de construção incluem os contratos para a presta-
+ção de serviços que estejam diretamente relacionados com a construção 
+do ativo e os contratos para a destruição ou restauro de ativos e o restauro 
+do ambiente após a demolição dos ativos.
+Rédito do contrato
+21.4 — O rédito do contrato deve compreender:
+a) A quantia inicial de rédito acordada no contrato; e
+b) Variações no trabalho, reclamações e pagamentos de incentivos 
+do contrato, até ao ponto que seja provável que resultem em rédito e estejam em condições de serem fiavelmente mensurados.
+21.5 — O rédito do contrato é mensurado pelo justo valor da retri-
+buição recebida ou a receber.
+Gastos do contrato
+21.6 — Os gastos do contrato devem compreender:
+a) Os gastos que se relacionem diretamente com o contrato específico, 
+reduzidos por qualquer rendimento inerente que não esteja incluído no 
+rédito do contrato;
+b) Os gastos que sejam atribuíveis à atividade do contrato em geral 
+e possam ser imputados ao contrato; e
+c) Outros gastos que sejam especificamente debitáveis ao cliente nos 
+termos do contrato.
+21.7 — Os gastos que não possam ser atribuídos à atividade do con-
+trato ou que não lhe possam ser imputados são excluídos dos gastos de 
+um contrato de construção.
+Reconhecimento do rédito e dos gastos do contrato
+21.8 — O rédito do contrato e os gastos do contrato associados ao 
+contrato de construção, quando o seu desfecho puder ser fiavelmente 
+estimado, devem ser reconhecidos como rédito e gastos, respetivamente, 
+segundo o método da percentagem de acabamento à data do balanço. 
+Uma perda esperada no contrato de construção, quando for provável que 
+os gastos totais excedam o rédito total do contrato, deve ser reconhecida 
+imediatamente como um gasto.
+21.9 — De acordo com o método da percentagem de acabamento, o 
+rédito contratual é balanceado com os gastos contratuais incorridos ao atingir a fase de acabamento, resultando no relato de rédito, gastos e lucros que possam ser atribuíveis à proporção do trabalho incluído.
+21.10 — A fase de acabamento de um contrato pode ser determinada 
+de várias maneiras, pelo que, dependendo da natureza do contrato, os métodos podem incluir:
+a) A proporção em que os gastos do contrato incorridos no trabalho 
+executado até à data estejam para os gastos estimados totais do contrato;
+b) Levantamento do trabalho executado; e
+c) Conclusão de uma proporção física do trabalho contratado.
+21.11 — Quando o desfecho de um contrato de construção não possa 
+ser estimado fiavelmente:
+a) O rédito somente deve ser reconhecido até ao ponto em que seja 
+provável que os gastos do contrato incorridos sejam recuperáveis; e
+b) Os gastos do contrato devem ser reconhecidos como um gasto do 
+período em que sejam incorridos.21.12 — Os gastos do contrato cuja recuperação não seja provável 
+são reconhecidos imediatamente como um gasto.
+22 — Data de Eficácia
+22.1 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+22.2 — Aquando da utilização desta Norma no período iniciado em 
+ou após 1 de janeiro de 2016, as entidades deverão proceder à sua 
+aplicação prospetiva e divulgar no Anexo as quantias que não sejam 
+comparáveis.
+22.3 — Esta Norma substitui a NCRF -PE — Norma Contabilística 
+e de Relato Financeiro para Pequenas Entidades, constante do Aviso 
+n.º 15654/2009, publicado no DR, 2.ª série, n.º 173, de 7 de setembro de 2009.
+20 de julho de 2015. — O Secretário -Geral do Ministério das Finanças, 
+Rogério Manuel Aroso Peixoto Rodrigues .
+208811604 
+ Aviso n.º 8258/2015
+Pelo Despacho n.º 259/2015 -XIX do Senhor Secretário de Estado dos 
+Assuntos Fiscais, de 16 de julho de 2015, foram homologadas as seguin-
+tes Normas Interpretativas do Sistema de Normalização Contabilística, 
+aprovado pelo Decreto -Lei n.º 158/2009, de 13 de julho, alterado pelo Decreto -Lei n.º 98/2015, de 2 de junho:
+Norma Interpretativa 1
+Consolidação — Entidades de Finalidades Especiais
+Questão
+1 — Uma entidade pode ser criada para cumprir um objetivo restrito 
+e bem definido (por exemplo, efetuar atividades de locação, de pes-
+quisa e desenvolvimento ou uma titularização de ativos financeiros). 
+Tal entidade de finalidade especial (EFE) pode tomar a forma de uma 
+sociedade, uma parceria ou um trust. As EFE são muitas vezes criadas 
+com acordos jurídicos que impõem limites estritos e por vezes perma-
+nentes aos poderes de tomada de decisão do seu órgão de gestão ou 
+trustee  sobre as operações da EFE. Frequentemente, estas cláusulas 
+especificam que a política que guia as atividades contínuas da EFE não 
+podem ser modificadas, a não ser pelo seu criador ou patrocinador (isto 
+é, funcionam no chamado “ autopilot ”).
+2 — O patrocinador (ou a entidade a favor de quem a EFE foi consti-
+tuída) frequentemente transfere ativos para a EFE, obtém o direito de usar 
+ativos detidos pela EFE ou executa serviços para a EFE, embora outras 
+partes (fornecedores de capital) possam proporcionar o financiamento da 
+EFE. Uma entidade que efetue transações com uma EFE (frequentemente 
+o criador ou o patrocinador) pode em substância controlar a EFE.
+3 — Um interesse de benefícios numa EFE pode, por exemplo, tomar a 
+forma de um instrumento de dívida, de um instrumento de capital próprio, 
+de um direito de participação, de um interesse residual ou de uma loca-
+ção. Alguns interesses de benefícios podem simplesmente proporcionar 
+ao detentor uma taxa de retorno fixada ou declarada, enquanto outros 
+dão ao detentor direitos ou o acesso a outros benefícios económicos 
+futuros das atividades da EFE. Na maioria dos casos, o criador ou o 
+patrocinador (ou a entidade a favor de quem a EFE foi criada) retém um 
+interesse de benefícios significativo nas atividades da EFE, mesmo que 
+possa possuir pouco ou nenhum do capital próprio da EFE.
+4 — A NCRF 15 — Investimentos em Subsidiárias e Consolidação 
+exige a consolidação de entidades que sejam controladas pela entidade 
+que relata. Porém, a Norma não proporciona orientação específica sobre 
+a consolidação de EFE.
+5 — A questão que se coloca é em que circunstâncias uma entidade 
+deve consolidar uma EFE.
+6 — Esta Norma Interpretativa não se aplica a planos de benefícios 
+pós -emprego ou planos de remuneração em capital próprio.
+7 — Uma transferência de ativos de uma entidade para uma EFE pode 
+qualificar -se como uma venda por essa entidade. Mesmo se a transferên-
+cia se qualificar como uma venda, as disposições da NCRF 15 e desta 
+Norma Interpretativa podem significar que a entidade deve consolidar 
+a EFE. Esta Norma Interpretativa não trata das circunstâncias em que se deve aplicar o tratamento de venda à entidade ou da eliminação das consequências de tal venda após a consolidação.
+Entendimento
+8 — Uma EFE deve ser consolidada quando a substância do relacio-
+namento entre uma entidade e a EFE indiciar que a EFE é controlada por essa entidade.20860  Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+9 — No contexto de uma EFE, o controlo pode surgir por via da 
+predeterminação das atividades da EFE (operando em” autopilot ”) ou 
+de outra forma. O decreto -lei que aprovou o Sistema de Normalização 
+Contabilística (SNC) indica várias circunstâncias que resultam em con-
+trolo mesmo em casos em que uma entidade possua metade ou menos do 
+poder de voto de outra entidade. De forma similar, pode existir controlo 
+mesmo em casos em que uma entidade possui pouco ou nenhum do 
+capital próprio da EFE. A aplicação do conceito de controlo exige, em cada caso, julgamento no contexto de todos os fatores relevantes.
+10 — Além das situações descritas no decreto -lei que aprovou o SNC, 
+as circunstâncias seguintes, por exemplo, podem indiciar um relacio-
+namento em que uma entidade controla uma EFE e consequentemente deve consolidar a EFE (dá -se orientação adicional no apêndice a esta Norma Interpretativa):
+a) Em substância, as atividades da EFE estão a ser conduzidas em 
+nome da entidade de acordo com as suas necessidades específicas de negócio de forma que a entidade obtenha benefícios do funcionamento da EFE;
+b) Em substância, a entidade tem os poderes de tomada de decisão 
+para obter a maioria dos benefícios das atividades da EFE ou, ao esta-
+belecer um mecanismo de” autopilot ”, a entidade delegou estes poderes 
+de tomada de decisão;
+c) Em substância, a entidade tem direitos para obter a maioria dos 
+benefícios da EFE e pode, por conseguinte, estar exposta a riscos ine-rentes às atividades da EFE; ou
+d) Em substância, a entidade retém a maioria dos riscos residuais 
+ou de propriedade relativos à EFE ou aos seus ativos a fim de obter 
+benefícios das suas atividades.
+Data de eficácia
+11 — Uma entidade deve aplicar esta Norma Interpretativa para os 
+períodos com início em ou após 1 de janeiro de 2016.
+12 — Esta Norma Interpretativa substitui a NI 1 — Consoli-
+dação — Entidades de Finalidades Especiais, constante do Aviso 
+n.º 15653/2009, publicado no DR, 2.ª série, n.º 173, de 7 de setembro de 2009.
+Apêndice Indicadores de controlo sobre uma EFE
+A1 — Os exemplos do parágrafo 10 desta Norma Interpretativa 
+destinam -se a indicar situações que devem ser consideradas ao avaliar 
+um determinado acordo à luz do princípio da substância sobre a forma. A orientação dada nesta Norma Interpretativa e neste apêndice não se 
+destina a ser usada como uma “lista de verificações exaustiva” das 
+condições que têm de ser cumulativamente satisfeitas a fim de exigir a 
+consolidação de uma EFE, sendo apenas exemplificativa.
+A2 — AtividadesAs atividades da EFE estão, em substância, a ser conduzidas a fa-
+vor da entidade que relata, que diretamente ou indiretamente criou a 
+EFE de acordo com as suas necessidades específicas de negócio. São exemplos:
+a) A EFE está especialmente empenhada em proporcionar uma fonte 
+de capital a longo prazo para uma entidade ou na contribuição de fundos 
+para suportar as operações centrais ou principais continuadas de uma 
+entidade; ou
+b) A EFE proporciona o fornecimento de bens ou serviços que é 
+consistente com as operações centrais ou principais continuadas de 
+uma entidade que, sem a existência da EFE, seriam fornecidos pela 
+própria entidade.
+A dependência económica de uma entidade sobre a entidade que relata 
+(tais como relações de fornecedores com um cliente significativo) não 
+conduz, por si mesma, a controlo.
+A3 — Tomada de decisão
+A entidade que relata tem, em substância, poderes de tomada de 
+decisão para controlar ou para obter o controlo da EFE ou dos seus 
+ativos, incluindo determinados poderes de tomada de decisão que apa-
+receram após a constituição da EFE. Tais poderes de tomada de decisão 
+podem ter sido delegados ao estabelecer um mecanismo “ autopilot ”. 
+São exemplos:
+a) Poder de unilateralmente dissolver uma EFE;
+b) Poder de alterar o organigrama ou as comunicações da EFE; ou
+c) Poder de vetar alterações propostas ao organigrama ou a regula-
+mentos da EFE.
+A4 — Benefícios
+A entidade que relata tem, em substância, direito de obter a maioria 
+dos benefícios das atividades da EFE por via dos estatutos, de contrato, 
+de acordo, ou de procuração, ou outro qualquer esquema, acordo ou instrumento. Tais direitos a benefícios na EFE podem ser indicadores 
+de controlo quando sejam especificados a favor de uma entidade que 
+está comprometida em transações com uma EFE e que a entidade existe 
+para ganhar esses benefícios a partir do desempenho financeiro da EFE. 
+São exemplos:
+a) Direitos à maior parte de quaisquer benefícios económicos distri-
+buídos por uma entidade na forma de futuros fluxos de caixa líquidos, ganhos, ativos líquidos, ou outros benefícios económicos; ou
+b) Direitos à maioria dos interesses residuais em distribuições residuais 
+escalonadas ou numa liquidação da EFE.
+A5 — Riscos
+Pode ser obtida uma indicação de controlo pela avaliação dos riscos de 
+cada parceiro que entre em transações com uma EFE. Frequentemente, a 
+entidade que relata garante um retorno ou proteção de crédito direta ou 
+indiretamente por via da EFE a investidores externos que proporcionam 
+substancialmente todo o capital da EFE. Como consequência da garantia, 
+a entidade retém riscos residuais ou de propriedade e os investidores 
+são, em substância, apenas mutuantes porque é limitada a sua exposição 
+a ganhos e perdas. São exemplos:
+a) Os fornecedores de capital não têm um interesse significativo nos 
+ativos líquidos subjacentes da EFE;
+b) Os fornecedores de capital não têm direitos aos futuros benefícios 
+económicos da EFE;
+c) Os fornecedores de capital não estão substantivamente expostos 
+aos riscos inerentes aos ativos líquidos subjacentes ou às operações da EFE; ou
+d) Em substância, os fornecedores de capital recebem principalmente 
+retribuição equivalente ao retorno de um mutuante por meio de um juro 
+de dívida ou de capital próprio.

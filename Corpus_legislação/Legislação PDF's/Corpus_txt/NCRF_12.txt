@@ -1,0 +1,706 @@
+Norma Contabilística e de Relato Financeiro 12
+Imparidade de Ativos
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro é 
+o de prescrever os procedimentos que uma entidade deve aplicar para assegurar que os seus ativos sejam escriturados por não mais do que 
+a sua quantia recuperável. Um ativo é escriturado por mais do que a 
+sua quantia recuperável se a sua quantia escriturada exceder a quantia 
+a ser recuperada através do uso ou venda do ativo. Se este for o caso, o ativo é descrito como estando com imparidade e a Norma exige que 
+a entidade reconheça uma perda por imparidade. A Norma também 
+especifica as circunstâncias em que uma entidade deve reverter uma 
+perda por imparidade.
+Âmbito
+2 — Esta Norma deve ser aplicada na contabilização da imparidade 
+de todos os ativos, que não sejam:
+a) Inventários (ver a NCRF 18 — Inventários);Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20785
+b) Ativos provenientes de contratos de construção (ver a NCRF 19 — 
+Contratos de Construção);
+c) Ativos por impostos diferidos (ver a NCRF 25 — Impostos sobre 
+o Rendimento);
+d) Ativos por benefícios de empregados (ver a NCRF 28 — Benefícios 
+dos Empregados);
+e) Ativos financeiros que estejam no âmbito da NCRF 27 — Instru-
+mentos Financeiros;
+f) Propriedades de investimento que sejam mensuradas pelo justo 
+valor (ver a NCRF 11 — Propriedades de Investimento);
+g) Ativos biológicos relacionados com a atividade agrícola que se-
+jam mensurados pelo justo valor menos os custos de alienação (ver a 
+NCRF 17 — Agricultura); ou
+h) Ativos não correntes (ou grupos para alienação) classificados como 
+detidos para venda de acordo com a NCRF 8 — Ativos não Correntes 
+Detidos para Venda e Unidades Operacionais Descontinuadas.
+3 — Esta Norma aplica -se a ativos que sejam escriturados pela quan-
+tia revalorizada (isto é, justo valor) de acordo com outras Normas, tais 
+como o modelo de revalorização da NCRF 7 — Ativos Fixos Tangíveis. 
+Identificar se um ativo revalorizado pode estar com imparidade depende 
+dos fundamentos usados para determinar o justo valor:
+a) Se o justo valor do ativo for o seu valor de mercado, a única dife-
+rença entre o justo valor do ativo e o seu justo valor menos os custos de alienação são os custos diretos incrementais para alienar o ativo:
+i) Se os custos com a alienação forem negligenciáveis, a quantia 
+recuperável do ativo revalorizado aproxima -se necessariamente da sua 
+quantia revalorizada (isto é, justo valor) ou é superior à mesma. Neste 
+caso, após os requisitos de revalorização terem sido aplicados, é im-
+provável que o ativo revalorizado esteja com imparidade e a quantia recuperável não necessita de ser estimada;
+ii) Se os custos com a alienação não foram negligenciáveis, o justo 
+valor menos os custos de alienação do ativo revalorizado é necessaria-
+mente inferior ao seu justo valor. Por isso, o ativo revalorizado estará com 
+imparidade se o seu valor de uso for inferior à sua quantia revalorizada (isto é justo valor). Neste caso, após os requisitos de valorização terem sido aplicados, uma entidade aplica esta Norma para determinar se o 
+ativo pode estar com imparidade;
+b) Se o justo valor do ativo for determinado numa base que não seja 
+o seu valor de mercado, a sua quantia revalorizada (isto é, justo valor) 
+pode ser superior ou inferior à sua quantia recuperável. Deste modo, após 
+os requisitos de revalorização terem sido aplicados, uma entidade aplica 
+esta Norma para determinar se o ativo pode estar com imparidade.
+Definições
+4 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Ativos “ corporate ”: são ativos, exceto goodwill,  que contribuam para 
+os fluxos de caixa futuros de várias unidades geradoras de caixa.
+Custos de alienação: são custos incrementais diretamente atribuíveis 
+à alienação de um ativo, grupo para alienação ou unidade geradora de 
+caixa, excluindo gastos de financiamento e gastos de impostos sobre 
+o rendimento.
+Depreciação (Amortização): é a imputação sistemática da quantia 
+depreciável (amortizável) de um ativo durante a sua vida útil.
+Justo valor menos os custos de alienação: é a quantia a obter da venda 
+de um ativo ou unidade geradora de caixa numa transação entre partes 
+conhecedoras e dispostas a isso, sem qualquer relacionamento entre 
+elas, menos os custos de alienação.
+Mercado ativo: é um mercado no qual se verifiquem todas as con-
+dições seguintes:
+a) Os itens negociados no mercado são homogéneos;
+b) Podem ser encontrados em qualquer momento compradores e 
+vendedores dispostos a comprar e vender; e
+c) Os preços estão disponíveis ao público.
+Perda por imparidade: é o excedente da quantia escriturada de um 
+ativo, ou de uma unidade geradora de caixa, em relação à sua quantia 
+recuperável.
+Quantia depreciável: é o custo de um ativo ou outra quantia substituta 
+do custo, menos o seu valor residual.
+Quantia escriturada: é a quantia pela qual um ativo é reconhecido no 
+balanço, após a dedução de qualquer depreciação/amortização acumulada 
+e de perdas por imparidade acumuladas inerentes.
+Quantia recuperável: é a quantia mais alta entre o justo valor de um 
+ativo, ou unidade geradora de caixa, menos os custos de alienação e o 
+seu valor de uso.Segmento operacional: é uma componente de uma entidade:
+a) Que desenvolve atividades de negócio de que pode obter réditos 
+e incorrer em gastos (incluindo réditos e gastos relacionados com tran-
+sações com outros componentes da mesma entidade);
+b) Cujos resultados operacionais são regularmente revistos pelo prin-
+cipal responsável pela tomada de decisões operacionais da entidade 
+para efeitos da tomada de decisões sobre a imputação de recursos ao 
+segmento e da avaliação do seu desempenho; e
+c) Relativamente à qual esteja disponível informação financeira distinta.
+Unidade geradora de caixa: é o mais pequeno grupo identificável 
+de ativos que seja gerador de influxos de caixa e que seja em larga 
+medida independente dos influxos de caixa de outros ativos ou grupo 
+de ativos.
+Valor de uso: é o valor presente dos fluxos de caixa futuros estimados, 
+que se espere surjam do uso continuado de um ativo ou unidade geradora 
+de caixa e da sua alienação no fim da sua vida útil.
+Vida útil: é
+a) O período durante o qual uma entidade espera que um ativo esteja 
+disponível para uso; ou
+b) O número de unidades de produção ou similares que uma entidade 
+espera obter do ativo.
+Identificação de um ativo que possa estar com imparidade
+5 — Uma entidade deve avaliar em cada data de relato se há qual-
+quer indicação de que um ativo possa estar com imparidade. Se existir 
+qualquer indicação, a entidade deve estimar a quantia recuperável do 
+ativo.
+6 — Independentemente de existir ou não qualquer indicação de impa-
+ridade, uma entidade deve também testar anualmente a imparidade de um 
+ativo intangível ainda não disponível para uso comparando a sua quantia 
+escriturada com a sua quantia recuperável. Este teste de imparidade pode 
+ser efetuado em qualquer momento durante o período anual, desde que 
+seja efetuado no mesmo momento de cada ano. Ativos intangíveis dife-
+rentes podem ser testados quanto a imparidade em momentos diferentes. 
+Contudo, se um desses ativos intangíveis for inicialmente reconhecido 
+durante o período anual corrente, esse ativo deve ser testado quanto a 
+imparidade antes do final do período corrente.
+7 — Ao avaliar se existe qualquer indicação de que um ativo possa 
+estar com imparidade, uma entidade deve considerar, como mínimo, as 
+seguintes indicações:
+Fontes externas de informação:
+a) Durante o período, o valor de mercado de um ativo diminuiu signi-
+ficativamente mais do que seria esperado como resultado da passagem 
+do tempo ou do uso normal.
+b) Ocorreram, durante o período, ou irão ocorrer no futuro próximo, 
+alterações significativas com um efeito adverso na entidade, relativas 
+ao ambiente tecnológico, de mercado, económico ou legal em que a 
+entidade opera ou no mercado ao qual o ativo está dedicado.
+c) As taxas de juro de mercado ou outras taxas de mercado de retorno 
+de investimentos aumentaram durante o período, e esses aumentos 
+provavelmente afetarão a taxa de desconto usada no cálculo do valor 
+de uso de um ativo e diminuirão materialmente a quantia recuperável 
+do ativo.
+d) A quantia escriturada dos ativos líquidos da entidade é superior à 
+sua capitalização de mercado.
+Fontes internas de informação:
+e) Está disponível evidência de obsolescência ou dano físico de um 
+ativo.
+f) Alterações significativas com um efeito adverso na entidade ocor-
+reram durante o período, ou espera -se que ocorram num futuro próximo, 
+até ao ponto em que, ou na forma em que, um ativo seja usado ou se 
+espera que seja usado. Estas alterações incluem um ativo que se tornou 
+ocioso, planos para descontinuar ou reestruturar a unidade operacional 
+a que o ativo pertence e planos para alienar um ativo antes da data 
+anteriormente esperada.
+g) Existe evidência nos relatórios internos que indica que o desempe-
+nho económico de um ativo é, ou será, pior do que o esperado.
+Dividendo de uma subsidiária, entidade conjuntamente controlada 
+ou associada:
+h) Para um investimento numa subsidiária, entidade conjuntamente 
+controlada ou associada, o investidor reconhece um dividendo do in-vestimento se estão disponíveis provas de que:
+i) A quantia escriturada do investimento constante das demonstra-
+ções financeiras individuais excede as quantias escrituradas dos ativos 20786 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+líquidos da subsidiária constantes das demonstrações financeiras con-
+solidadas, incluindo o goodwill  associado; ou
+ii) O dividendo excede o resultado integral da subsidiária, entidade 
+conjuntamente controlada ou associada no período em que o dividendo 
+é declarado.
+8 — Se houver uma indicação de que um ativo possa estar com im-
+paridade, isto pode indicar que a vida útil remanescente, o método de 
+depreciação (amortização) ou o valor residual do ativo precisa de ser 
+revisto e ajustado de acordo com a Norma aplicável ao ativo, mesmo 
+que não seja reconhecida qualquer perda por imparidade relativa a 
+esse ativo.
+Mensuração da quantia recuperável
+9 — Esta Norma define quantia recuperável como a quantia mais alta 
+entre o justo valor de um ativo, ou de uma unidade geradora de caixa, 
+menos os custos de alienação e o seu valor de uso.
+Justo valor menos custos de alienação
+10 — A melhor evidência do justo valor menos os custos de alienação 
+de um ativo é um preço num acordo de venda vinculativo numa transação 
+entre partes sem qualquer relacionamento entre elas, ajustado para custos 
+incrementais que seriam diretamente atribuíveis à alienação do ativo.
+11 — Se não houver qualquer acordo de venda vinculativo mas um 
+ativo for negociado num mercado ativo, o justo valor menos os custos 
+de alienação é o preço de mercado do ativo menos os custos com a 
+alienação. O preço de mercado apropriado é geralmente o preço corrente 
+de oferta de compra. Quando os preços de oferta de compra não estive-
+rem disponíveis, o preço da transação mais recente pode proporcionar 
+uma base a partir da qual se estime o justo valor menos os custos de alienação, desde que não tenha havido uma alteração significativa nas 
+circunstâncias económicas entre a data da transação e a data em que a 
+estimativa seja feita.
+12 — Se não houver acordo de venda vinculativo ou mercado ativo 
+para um ativo, o justo valor menos os custos de alienação é baseado na 
+melhor informação disponível para refletir a quantia que uma entidade 
+poderá obter, à data do balanço, da alienação do ativo numa transação 
+entre partes conhecedoras e dispostas a isso sem qualquer relacionamento 
+entre elas, após dedução dos custos com a alienação. Ao determinar esta 
+quantia, uma entidade considera o desfecho de transações recentes de 
+ativos semelhantes feitas no mesmo setor. O justo valor menos os custos 
+de alienação não reflete uma venda forçada, a não ser que a gerência 
+seja compelida a vender imediatamente.
+13 — Os custos com a alienação, que não tenham sido os reconhe-
+cidos como passivos, são deduzidos ao determinar o justo valor menos 
+os custos de alienação. Exemplos de tais custos são os custos legais, 
+imposto de selo e impostos sobre transações semelhantes, custos de 
+remoção do ativo e custos incrementais diretos para colocar um ativo 
+em condições para a sua venda. Porém, os benefícios de cessação de 
+emprego (tal como definidos na NCRF 28 — Benefícios de Emprega-
+dos) e custos associados à redução ou reorganização de uma empresa 
+a seguir à alienação de um ativo não são custos incrementais diretos de alienar o ativo.
+14 — Por vezes, a alienação de um ativo exige que o comprador as-
+suma um passivo e apenas existe um único justo valor menos os custos 
+de alienação tanto para o ativo como para o passivo. O parágrafo 38 
+explica como tratar tais casos.
+Valor de uso
+15 — Os seguintes elementos devem ser refletidos no cálculo do 
+valor de uso de um ativo:
+a) Uma estimativa dos fluxos de caixa futuros que a entidade espera 
+obter do ativo;
+b) Expectativas acerca das possíveis variações na quantia ou na tem-
+pestividade desses fluxos de caixa futuros;
+c) O valor temporal do dinheiro, representado pela taxa corrente de 
+juro sem risco de mercado;
+d) O preço de suportar a incerteza inerente ao ativo; e
+e) Outros fatores, tais como a falta de liquidez, que os participantes 
+do mercado refletissem na determinação dos fluxos de caixa futuros que 
+a entidade espera obter do ativo.
+Bases para estimativas de fluxos de caixa futuros
+16 — Ao mensurar o valor de uso, uma entidade deve:
+a) Basear as projeções de fluxos de caixa em pressupostos razoáveis 
+e suportáveis que representem a melhor estimativa de condições eco-nómicas que existirão durante a vida útil remanescente do ativo. Deve 
+ser dada maior ponderação a evidências externas;
+b) Basear as projeções de fluxos de caixa nos orçamentos/previ-
+sões financeiros mais recentes aprovados pela gerência, mas excluindo 
+quaisquer influxos ou exfluxos de caixa futuros estimados que se espera 
+venham a resultar de reestruturações futuras ou de aumentos ou melhorias 
+no desempenho do ativo. As projeções baseadas nestes orçamentos/pre-
+visões devem abranger um período máximo de cinco anos, a menos que 
+um período mais longo possa ser justificado.
+c) Estimar projeções de fluxos de caixa para além do período abran-
+gido pelos orçamentos/previsões mais recentes extrapolando as projeções 
+baseadas nos orçamentos/previsões pelo uso de uma taxa de crescimento 
+estável ou decrescente para os anos subsequentes, a menos que uma taxa 
+crescente possa ser justificada.
+Composição das estimativas de fluxos de caixa futuros
+17 — As estimativas de fluxos de caixa futuros devem incluir:
+a) Projeções de influxos de caixa derivados do uso continuado do ativo;
+b) Projeções de exfluxos de caixa que sejam necessariamente in-
+corridos para gerar os influxos de caixa derivados do uso continuado 
+do ativo (incluindo exfluxos de caixa para preparar o ativo para uso) e possam ser diretamente atribuídos, ou imputados numa base razoável e consistente, ao ativo; e
+c) Fluxos de caixa líquidos, se os houver, a receber (ou a pagar) pela 
+alienação do ativo no fim da sua vida útil.
+18 — Os futuros fluxos de caixa devem ser estimados para o ativo 
+na condição corrente. Estimativas de futuros fluxos de caixa não devem 
+incluir futuros influxos ou exfluxos de caixa que se esperem como 
+resultado de:
+a) Uma reestruturação futura com a qual uma entidade ainda não 
+esteja comprometida; ou
+b) Aumentos ou melhorias no desempenho do ativo.
+19 — Quando uma entidade ficar comprometida com uma reestrutura-
+ção, é provável que alguns ativos sejam afetados por essa reestruturação. 
+Logo que a entidade esteja comprometida com a reestruturação:
+a) As suas estimativas de influxos e exfluxos de caixa futuros para 
+a finalidade de determinar o valor de uso refletirão as poupanças de 
+custos e outros benefícios da reestruturação (baseadas nos mais recen-
+tes orçamentos/previsões financeiros que tenham sido aprovados pelo órgão de gestão); e
+b) As suas estimativas de exfluxos de caixa futuros para a reestrutura-
+ção serão incluídas numa provisão para reestruturação de acordo com a 
+NCRF 21 — Provisões, Passivos Contingentes e Ativos Contingentes.
+20 — Até que uma entidade incorra em exfluxos de caixa que aumen-
+tem ou melhorem o desempenho do ativo, as estimativas de fluxos de 
+caixa futuros não incluem os influxos de caixa futuros estimados que se 
+espera que resultem do aumento de benefícios económicos associados ao exfluxo de caixa.
+21 — As estimativas de fluxos de caixa futuros não devem incluir:
+a) Influxos ou exfluxos de caixa provenientes de atividades de fi-
+nanciamento; ou
+b) Recebimentos ou pagamentos de impostos sobre o rendimento.
+22 — A estimativa de fluxos de caixa líquidos a receber (ou a pagar) 
+pela alienação de um ativo no fim da sua vida útil deve ser a quantia que 
+uma entidade espera obter da alienação do ativo numa transação entre 
+partes conhecedoras e dispostas a isso sem qualquer relacionamento entre 
+elas, após dedução dos custos estimados com a alienação.
+Fluxos de caixa futuros de moeda estrangeira
+23 — Os fluxos de caixa futuros são estimados na moeda em que serão 
+gerados e depois descontados usando uma taxa de desconto apropriada 
+para essa moeda. Uma entidade transpõe o valor presente usando a taxa de câmbio à vista na data do cálculo do valor de uso.
+Taxa de desconto
+24 — A(s) taxa(s) de desconto deve(m) ser a(s) taxa(s) antes de im-
+postos que reflita(m) as avaliações correntes de mercado sobre:
+a) O valor temporal do dinheiro; e
+b) Os riscos específicos para o ativo em relação aos quais as estima-
+tivas de fluxos de caixa futuros não tenham sido ajustadas.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20787
+25 — Uma taxa que reflita as avaliações correntes de mercado do valor 
+temporal do dinheiro e dos riscos específicos para o ativo é o retorno 
+que os investidores exigiriam se fossem eles a escolher um investimento 
+que gerasse fluxos de caixa de quantias, tempestividade e perfil de risco 
+equivalentes às que a entidade espera obter do ativo. Esta taxa é estimada 
+a partir da taxa implícita nas transações correntes de mercado para ativos 
+semelhantes ou a partir do custo médio ponderado do capital de uma 
+entidade cotada em bolsa que tenha um único ativo (ou uma carteira 
+de ativos) semelhante em termos de potencial de serviço e de riscos 
+para o ativo em causa. Contudo, a(s) taxa(s) de desconto usada(s) para mensurar o valor de uso de um ativo não deve(m) refletir os riscos em relação aos quais as estimativas de fluxos de caixa futuros tenham sido ajustadas. De outro modo, o efeito de alguns pressupostos será tido em consideração duas vezes.
+26 — Quando uma taxa de um ativo específico não estiver diretamente 
+disponível no mercado, uma entidade usa substitutos para estimar a 
+taxa de desconto.
+Reconhecimento e mensuração de uma perda
+por imparidade
+27 — Se, e apenas se, a quantia recuperável de um ativo for menor 
+do que a sua quantia escriturada, a quantia escriturada do ativo deve 
+ser reduzida para a sua quantia recuperável. Esta redução é uma perda 
+por imparidade.
+28 — Uma perda por imparidade deve ser imediatamente reconhe-
+cida nos resultados, a não ser que o ativo seja escriturado pela quantia 
+revalorizada de acordo com uma outra Norma (por exemplo, de acordo 
+com o modelo de revalorização da NCRF 7). Qualquer perda por im-
+paridade de um ativo revalorizado deve ser tratada como decréscimo 
+de revalorização de acordo com essa outra Norma.
+29 — Quando a quantia estimada de uma perda por imparidade for 
+maior do que a quantia escriturada do ativo com o qual se relaciona, uma 
+entidade deve reconhecer um passivo, se, e apenas se, tal for exigido por outra Norma.
+30 — Após o reconhecimento de uma perda por imparidade, a depre-
+ciação (amortização) do ativo deve ser ajustado nos períodos futuros para imputar a quantia escriturada revista do ativo, menos o seu valor 
+residual (se o houver) numa base sistemática, durante a sua vida útil 
+remanescente.
+31 — Se uma perda por imparidade for reconhecida, quaisquer ativos 
+ou passivos por impostos diferidos relacionados serão determinados de 
+acordo com a NCRF 25 — Impostos sobre o Rendimento, ao comparar a quantia escriturada revista do ativo com a sua base fiscal.
+Unidades geradoras de caixa e goodwill
+Identificação da unidade geradora de caixa a que pertence um ativo
+32 — Se houver qualquer indicação de que um ativo possa estar com 
+imparidade, a quantia recuperável do ativo individual deve ser estimada. 
+Se não for possível estimar a quantia recuperável do ativo individual, 
+uma entidade deve determinar a quantia recuperável da unidade geradora 
+de caixa à qual o ativo pertence.
+33 — A quantia recuperável de um ativo individual não pode ser 
+determinada se:
+a) O valor de uso do ativo não puder ser estimado como estando 
+próximo do seu justo valor menos os custos de alienação (por exemplo, 
+quando os fluxos de caixa futuros provenientes do uso continuado do ativo não puderem ser estimados como sendo insignificantes); e
+b) O ativo não gerar influxos de caixa que sejam em larga medida 
+independentes dos de outros ativos.
+Em tais casos, o valor de uso e, por isso, a quantia recuperável, só 
+podem ser determinados para a unidade geradora de caixa do ativo
+Exemplo
+Uma entidade mineira possui uma linha férrea privada para suportar as 
+suas atividades mineiras. A linha férrea privada só pode ser vendida pelo 
+valor da sucata e não gera influxos de caixa que sejam em larga medida 
+independentes dos influxos de caixa de outros ativos da mina.
+Não é possível estimar a quantia recuperável da linha férrea privada 
+porque o seu valor de uso não pode ser determinado e é provavelmente diferente do valor de sucata. Por isso, a entidade estima a quantia re-cuperável da unidade geradora de caixa à qual a linha férrea privada pertence, isto é, à mina como um todo.
+34 — Tal como definido no parágrafo 4, a unidade geradora de caixa 
+de um ativo é o grupo mais pequeno de ativos que inclui o ativo e que gera influxos de caixa que sejam em larga medida independentes dos influxos de caixa de outros ativos ou grupos de ativos. A identificação 
+da unidade geradora de caixa de um ativo envolve juízo de valor. Se a 
+quantia recuperável não puder ser determinada para um ativo individual, 
+uma entidade identifica o menor agregado de ativos que geram influxos 
+de caixa em larga medida independentes.
+Exemplo
+Uma empresa de autocarros presta serviços sob contrato com um 
+município que exige serviço mínimo em cada uma das cinco carreiras 
+separadas. Os ativos afetos a cada carreira e os fluxos de caixa de cada 
+carreira podem ser identificados separadamente. Uma das carreiras opera 
+com perdas significativas.
+Dado que a entidade não tem a opção de encerrar qualquer carreira 
+de autocarros, o nível mais baixo dos influxos de caixa identificáveis 
+que sejam em larga medida independentes dos influxos de caixa prove-
+nientes de outros ativos, ou grupos de ativos, são os que correspondem aos influxos de caixa gerados pelas cinco carreiras conjuntamente. A 
+unidade geradora de caixa, para cada carreira, é a empresa de autocarros 
+no seu todo.
+35 — Se existir um mercado ativo para o output produzido por um 
+ativo ou grupos de ativos, esse ativo ou grupo de ativos deve ser iden-tificado como uma unidade geradora de caixa, mesmo se uma parte ou 
+todo o output for usado internamente. Se os influxos de caixa gerados por 
+qualquer ativo ou unidade geradora de caixa forem afetados pelo preço de 
+transferência interno, uma entidade deve usar a melhor estimativa relativa 
+ao(s) futuro(s) preço(s) que possa(m) ser alcançado(s) em transações em 
+que não exista relacionamento entre as partes ao estimar:
+a) Os influxos de caixa futuros usados para determinar o valor de uso 
+do ativo ou da unidade geradora de caixa; e
+b) Os exfluxos de caixa futuros usados para determinar o valor de uso 
+de quaisquer outros ativos ou unidades geradoras de caixa que sejam 
+afetados pelo preço de transferência interno.
+36 — As unidades geradoras de caixa devem ser identificadas con-
+sistentemente de período para período relativamente ao mesmo ativo ou 
+tipo de ativos, a menos que se justifique uma alteração.
+Quantia recuperável e quantia escriturada de uma unidade
+geradora de caixa
+37 — A quantia escriturada de uma unidade geradora de caixa deve 
+ser determinada numa base consistente com a forma como a quantia 
+recuperável da unidade geradora de caixa é determinada.
+38 — Pode ser necessário considerar alguns passivos reconhecidos 
+para determinar a quantia recuperável de uma unidade geradora de caixa. 
+Isto pode ocorrer se a alienação de uma unidade geradora de caixa exigir 
+que o comprador assuma o passivo. Neste caso, o justo valor menos os custos de alienação (ou o fluxo de caixa estimado com base na última alienação) da unidade geradora de caixa é o preço de venda estimado 
+para os ativos da unidade geradora de caixa juntamente com o passivo 
+menos os custos com a alienação. Para executar uma comparação com 
+sentido entre a quantia escriturada da unidade geradora de caixa e a 
+sua quantia recuperável, a quantia escriturada do passivo é deduzida 
+ao determinar tanto o valor de uso da unidade geradora de caixa como a sua quantia escriturada.
+Exemplo
+Uma empresa explora uma mina num país onde a legislação exige que 
+o proprietário restaure o local quando concluir a sua exploração da mina. 
+O custo da restauração inclui a reposição da camada de terra que teve 
+de ser removida antes do começo da exploração mineira. Uma provisão 
+para os custos de reposição da camada de terra foi reconhecida logo 
+que a camada foi removida. A quantia proporcionada foi reconhecida como parte do custo da mina e tem sido depreciada durante a vida útil 
+da mina. A quantia escriturada da provisão para os custos de restauração 
+corresponde a 500 UM.
+A entidade está a testar a imparidade da mina. A unidade geradora 
+de caixa da mina é a mina na sua totalidade. A entidade recebeu várias 
+ofertas de compra da mina a um preço aproximado de 800 UM.
+Este preço reflete o facto de que o comprador assumirá a obrigação 
+de restaurar a camada de terra. Os custos de alienação da mina são 
+insignificantes. O valor de uso da mina é aproximadamente 1.200 UM, 
+excluindo os custos de restauração. A quantia escriturada da mina é 
+1.000 UM.
+O justo valor da unidade geradora de caixa é 800 UM. Esta quantia 
+considera os custos de restauração que já foram providenciados. Como 
+consequência, o valor de uso da unidade geradora de caixa é determinado 
+após consideração dos custos de restauração e é estimado em 700 UM (1.200 UM menos 500 UM). A quantia escriturada da unidade geradora é 500 UM, que é a quantia escriturada da mina (1.000 UM) menos a 20788 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+quantia escriturada da provisão para custos de restauração (500 UM). 
+Portanto, a quantia recuperável da unidade geradora de caixa excede a sua quantia escriturada.
+Goodwill
+Imputação de goodwill  a unidades geradoras de caixa
+39 — Para efeitos de testar a imparidade, o goodwill  adquirido numa 
+concentração de atividades empresariais deve, a partir da data de aqui-
+sição, ser imputado a cada uma das unidades geradoras de caixa, ou 
+grupo de unidades geradoras de caixa, do adquirente, que se espera que beneficiem das sinergias da concentração de atividades empresariais, 
+independentemente de outros ativos ou passivos da adquirida serem 
+atribuídos a essas unidades ou grupos de unidades. Cada unidade ou 
+grupo de unidades ao qual o goodwill  seja assim imputado:
+a) Deve representar o nível mais baixo no seio da entidade ao qual o 
+goodwill  é monitorizado para finalidades de gestão interna; e
+b) Não deve ser maior do que um segmento operacional.
+40 — Se a imputação inicial do goodwill  adquirido numa concentração 
+de atividades empresariais não puder ser concluída antes do final do 
+período anual em que tiver sido efetuada a concentração de atividades 
+empresariais, essa imputação inicial deve ser concluída antes do final 
+do primeiro período anual com início após a data da aquisição.
+41 — Se o goodwill  tiver sido imputado a uma unidade geradora 
+de caixa e a entidade alienar uma unidade operacional dessa unidade 
+geradora de caixa, o goodwill  associado à unidade operacional alienada 
+deve ser:
+a) Incluído na quantia escriturada da unidade operacional aquando da 
+determinação de ganhos ou perdas no momento da alienação; e
+b) Mensurado na base dos valores relativos de uma unidade operacio-
+nal alienada e da porção da unidade geradora de caixa retida, a não ser 
+que a entidade possa demonstrar que algum outro método reflita melhor 
+ogoodwill  associado à unidade operacional alienada.
+Exemplo
+Uma entidade vende por 100 UM uma unidade operacional que fazia 
+parte de uma unidade geradora de caixa a que foi imputado goodwill .
+Ogoodwill  imputado à unidade não pode ser identificado ou associado 
+a um grupo de ativos a um nível inferior ao dessa unidade, exceto ar-
+bitrariamente. A quantia recuperável da porção da unidade geradora de 
+caixa retida é de 300 UM.
+Porque o goodwill  imputado à unidade geradora de caixa não pode ser 
+identificado ou associado a um grupo de ativos de forma não arbitrária 
+a um nível inferior ao dessa unidade, o goodwill  associado à unidade 
+operacional alienada é mensurado na base dos valores relativos da 
+unidade geradora de caixa alienada e da porção da unidade geradora 
+de caixa retida. Assim, 25 % do goodwill  imputado à unidade geradora 
+de caixa é incluído na quantia escriturada da unidade operacional que é vendida.
+42 — Se uma entidade reorganizar a sua estrutura de relato de forma 
+que altera a composição de uma ou mais unidades geradoras de caixa às 
+quais tenha sido imputado goodwill , o goodwill  deve ser reimputado às 
+unidades afetadas. Esta nova imputação deve ser efetuada usando uma 
+abordagem pelo valor relativo semelhante à utilizada quando uma enti-
+dade aliena uma unidade operacional no seio de uma unidade geradora 
+de caixa, a não ser que a entidade possa demonstrar que outro método reflete melhor o goodwill  associado às unidades reorganizadas. A nova 
+imputação deve ser efetuada com base na quantia escriturada do goodwill
+líquida de amortizações acumuladas e imparidade.
+Exemplo
+O goodwill  tinha sido anteriormente imputado à unidade geradora 
+de caixa A. O goodwill  imputado a A não pode ser identificado ou as-
+sociado a um grupo de ativos inferior ao de A, exceto arbitrariamente. 
+A vai ser dividida e integrada em três outras unidades geradoras de 
+caixa B, C e D.
+Dado que o goodwill  imputado a A não pode ser identificado ou 
+associado a um grupo de ativos de uma forma não arbitrária a um nível 
+inferior ao de A, ele é reimputado às unidades B, C e D na base dos 
+valores relativos das três porções de A antes de essas porções de A serem 
+integradas em B, C e D.
+Testar a imparidade de unidades geradoras de caixa com  goodwill
+43 — Quando o goodwill  se relaciona com uma unidade geradora 
+de caixa mas não tenha sido imputado a essa unidade, a unidade deve 
+ser testada quanto a imparidade, sempre que exista uma indicação de que essa unidade possa estar com imparidade, comparando a quantia 
+escriturada da unidade, excluindo qualquer goodwill , com a sua quantia 
+recuperável. Qualquer perda por imparidade deve ser reconhecida de 
+acordo com o parágrafo 50.
+44 — Uma unidade geradora de caixa à qual tenha sido imputado 
+goodwill deve ser testada quanto a imparidade sempre que exista uma 
+indicação de que essa unidade possa estar com imparidade, comparando 
+a quantia escriturada da unidade, incluindo o goodwill , com a quantia 
+recuperável da unidade. Se a quantia recuperável da unidade exceder a 
+quantia escriturada da unidade, a unidade e o goodwill  imputado a essa 
+unidade devem ser considerados como não estando com imparidade. Se 
+a quantia escriturada da unidade exceder a quantidade recuperável da 
+unidade, a entidade deve reconhecer a perda por imparidade de acordo com o parágrafo 50.
+Interesses que não controlam
+45 — De acordo com a NCRF 14 — Concentrações de Atividades 
+Empresariais, o goodwill  reconhecido numa concentração de atividades 
+empresariais representa o goodwill adquirido por uma empresa mãe com 
+base no interesse de propriedade da empresa mãe, em vez da quantia do 
+goodwill controlada pela empresa mãe como resultado da concentração 
+de atividades empresariais. Assim, o goodwill  atribuível a um interesse 
+que não controla não é reconhecido nas demonstrações financeiras con-
+solidadas da empresa mãe. Em conformidade, se existir um interesse que 
+não controla numa unidade geradora de caixa à qual tenha sido imputado 
+goodwill , a quantia dessa unidade compreende:
+a) Tanto o interesse da empresa mãe como o interesse que não controla 
+nos ativos líquidos da unidade; e
+b) O interesse da empresa mãe no goodwill .
+Contudo, parte da quantia recuperável da unidade geradora de caixa 
+determinada de acordo com esta Norma é atribuível ao interesse que 
+não controla no goodwill .
+46 — Dado que o goodwill  é reconhecido apenas na medida do inte-
+resse de propriedade da empresa mãe, qualquer perda por imparidade 
+relacionada com o goodwill  é repartida entre a parte atribuível à empresa 
+mãe e a parte atribuível ao interesse que não controla, apenas com a 
+primeira a ser reconhecida como perda de goodwill  por imparidade.
+Tempestividade dos testes de imparidade
+47 — Unidades geradoras de caixa diferentes podem ser testadas 
+quanto a imparidade em momentos diferentes.
+48 — Se os ativos que constituem a unidade geradora de caixa a que 
+tenha sido imputado  goodwill  forem testados quanto a imparidade ao 
+mesmo tempo que a unidade que contém o goodwill , eles devem ser 
+testados quanto a imparidade antes da unidade que contém o goodwill .
+Do mesmo modo, se as unidades geradoras de caixa que constituem 
+um grupo de unidades geradoras de caixa a que tenha sido imputado 
+goodwill  forem testadas quanto a imparidade ao mesmo tempo que 
+o grupo de unidades que contém o goodwill , as unidades individuais 
+devem ser testadas quanto a imparidade antes do grupo de unidades 
+que contém o goodwill .
+Ativos “ corporate ”
+49 — Ao testar a imparidade de uma unidade geradora de caixa, uma 
+entidade deve identificar todos os ativos “ corporate ” que se relacionem 
+com a unidade geradora de caixa em análise. Se uma parte da quantia 
+escriturada de um ativo “ corporate ”:
+a) Puder ser imputada numa base razoável e consistente a essa unidade, 
+a entidade deve comparar a quantia escriturada da unidade, incluindo a 
+parte da quantia escriturada do ativo “ corporate ” imputada à unidade, 
+com a sua quantia recuperável. Qualquer perda por imparidade deve ser 
+reconhecida de acordo com o parágrafo 50;
+b) Não puder ser imputada numa base razoável e consistente a essa 
+unidade, a entidade deve:
+i) Comparar a quantia escriturada da unidade, excluindo o ativo “ cor-
+porate ”, com a sua quantia recuperável e reconhecer qualquer perda por 
+imparidade de acordo com o parágrafo 50;
+ii) Identificar o mais pequeno grupo de unidades geradoras de caixa 
+que inclua a unidade geradora de caixa em questão e a que uma parte da quantia escriturada do ativo “ corporate ” possa ser imputada numa 
+base razoável e consistente; e
+iii) Comparar a quantia escriturada desse grupo de unidades geradoras 
+de caixa, incluindo a parte da quantia escriturada do ativo “ corporate ”
+imputada a esse grupo de unidades, com a quantia recuperável do grupo 
+de unidades. Qualquer perda por imparidade deve ser reconhecida de 
+acordo com o parágrafo 50.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20789
+Perda por imparidade de uma unidade geradora de caixa
+50 — Uma perda por imparidade deve ser reconhecida para uma 
+unidade geradora de caixa (o grupo mais pequeno de unidades geradoras 
+de caixa ao qual tenha sido imputado goodwill  ou um ativo “ corporate ”)
+se, e apenas se, a quantia recuperável da unidade (grupo de unidades) for 
+inferior à quantia escriturada da unidade (grupos de unidades). A perda 
+por imparidade deve ser imputada para reduzir a quantia escriturada dos 
+ativos da unidade (grupo de unidades) pela ordem que se segue:
+a) Primeiro, para reduzir a quantia escriturada de qualquer goodwill
+imputado à unidade geradora de caixa (grupo de unidades); e
+b) Depois, aos outros ativos da unidade (grupos de unidades), numa 
+base pro rata  relativamente à quantia escriturada de cada ativo da uni-
+dade (grupo de unidades).
+Estas reduções nas quantias escrituradas devem ser tratadas como 
+perdas por imparidade nos ativos individuais e reconhecidas de acordo com o parágrafo 28.
+51 — Ao imputar uma perda por imparidade de acordo com o pará-
+grafo 50, uma entidade não deve reduzir a quantia escriturada de um 
+ativo abaixo do mais alto de entre:
+a) O seu justo valor menos os custos de alienação (caso seja deter-
+minável);
+b) O seu valor de uso (caso seja determinável);e
+c) Zero.
+A quantia da perda por imparidade que de outra forma teria sido 
+imputada ao ativo deve ser imputada numa base pro rata  aos outros 
+ativos da unidade (grupo de unidades).
+52 — Se a quantia recuperável de um ativo individual não puder ser 
+determinada (ver parágrafo 33):
+a) É reconhecida uma perda por imparidade do ativo se a sua quantia 
+escriturada for maior que o mais alto do seu justo valor menos os custos 
+de alienação e os resultados da imputação descritos nos parágrafos 50 
+e 51; e
+b) Não é reconhecida qualquer perda por imparidade do ativo se a 
+unidade geradora de caixa relacionada não estiver com imparidade. Isto 
+aplica -se mesmo se o justo valor menos os custos de alienação do ativo 
+for inferior à sua quantia escriturada.
+Exemplo
+Uma máquina sofreu danos físicos mas ainda está a trabalhar, se bem 
+que não tão bem como antes de ficar danificada. O justo valor da má-
+quina menos os custos de alienação é inferior à sua quantia escriturada. 
+A máquina não gera influxos de caixa independentes. O mais pequeno 
+grupo de ativos identificável que inclua a máquina e que crie influxos de 
+caixa que sejam em larga medida independentes dos influxos de caixa de 
+outros ativos é a linha de produção à qual pertence a máquina. A quantia 
+recuperável da linha de produção mostra que a linha de produção tomada 
+no seu todo não está com imparidade.
+Pressuposto 1: orçamentos/previsões aprovados pelo órgão de ges-
+tão não refletem qualquer compromisso da mesma para substituir a 
+máquina.
+A quantia recuperável desta máquina sozinha não pode ser estimada 
+porque o valor de uso da máquina:
+a) Pode diferir do seu justo valor menos os custos de alienação; e
+b) Somente pode ser determinada para a unidade geradora de caixa 
+a que a máquina pertence (linha de produção).
+A linha de produção não está com imparidade. Portanto, não é reco-
+nhecida qualquer perda por imparidade em relação à máquina. Contudo, 
+a entidade pode necessitar de reavaliar o período de depreciação ou o 
+método de depreciação da máquina. Talvez um período de depreciação 
+mais curto ou um método de depreciação mais rápido seja exigido para 
+refletir a vida útil remanescente esperada da máquina ou o modelo em 
+que se espera que os benefícios económicos sejam consumidos pela 
+unidade.
+Pressuposto 2: orçamentos/previsões aprovados pelo órgão de gestão 
+refletem um compromisso da mesma para substituir a máquina e vendê -la 
+no futuro próximo. Estima -se que os fluxos de caixa provenientes do uso 
+continuado da máquina até à sua alienação sejam insignificantes.
+O valor de uso da máquina pode ser estimado como estando próximo 
+do seu justo valor menos os custos de alienação. Por isso, a quantia re-
+cuperável da máquina pode ser determinada e não é atribuída qualquer 
+consideração à unidade geradora de caixa a que pertence a máquina 
+(isto é, a linha de produção). Dado que o justo valor menos os custos de alienação a máquina é inferior à sua quantia escriturada, é reconhecida 
+uma perda por imparidade na máquina.53 — Após os requisitos dos parágrafos 50 e 51 terem sido aplicados, 
+deve ser reconhecido um passivo para qualquer quantia remanescente 
+de uma perda por imparidade de uma unidade geradora de caixa se, e apenas se, isso for exigido por outra Norma.
+Reverter uma perda por imparidade
+54 — Uma entidade deve avaliar à data de cada relato se há qualquer 
+indicação de que uma perda por imparidade reconhecida em períodos 
+anteriores relativamente a um ativo, que não o goodwill , possa já não 
+existir ou possa ter diminuído. Se tal indicação existir, uma entidade 
+deve estimar a quantia recuperável desse ativo.
+55 — Ao avaliar se existe qualquer indicação de que uma perda por 
+imparidade reconhecida em períodos anteriores relativamente a um ativo, 
+que não o goodwill , possa já não existir ou possa ter diminuído, uma 
+entidade deve considerar, no mínimo, as seguintes indicações:
+Fontes externas de informação
+a) O valor de mercado do ativo tenha aumentado significativamente 
+durante o período;
+b) Tenham ocorrido durante o período, ou irão ocorrer no futuro 
+próximo, alterações significativas com um efeito favorável na entidade, 
+referentes ao ambiente tecnológico, de mercado, económico ou legal em 
+que a entidade opera ou no mercado a que se destina o ativo;
+c) As taxas de juro do mercado ou outras taxas de mercado de retorno 
+de investimentos tenham diminuído durante o período, e essas diminui-
+ções poderão afetar a taxa de desconto usada ao calcular o valor de uso 
+do ativo e aumentar materialmente a sua quantia recuperável.
+Fontes internas de informação
+d) Alterações significativas com um efeito favorável na entidade 
+ocorreram durante o período, ou espera -se que ocorram num futuro 
+próximo, até ao ponto em que, ou na forma em que, o ativo seja usado 
+ou se espera que seja usado. Estas alterações incluem os custos incorridos 
+durante o período para melhorar ou aumentar o desempenho do ativo ou 
+reestruturar a unidade operacional à qual o ativo pertence;
+e) Exista evidência proveniente de relatórios internos que indique 
+que o desempenho económico do ativo é, ou será, melhor do que o 
+esperado.
+56 — Uma perda por imparidade de um ativo, que não o goodwill ,
+reconhecida em períodos anteriores deve ser revertida se, e apenas se, 
+houver uma alteração nas estimativas usadas para determinar a quantia recuperável do ativo desde que a última perda por imparidade foi reco-nhecida. Se for este o caso, a quantia escriturada do ativo deve, exceto como descrito no parágrafo 57, ser aumentada até à sua quantia recupe-
+rável. Este aumento é uma reversão de uma perda por imparidade.
+Reverter uma perda por imparidade de um ativo individual
+57 — Um aumento da quantia escriturada de um ativo, que não o 
+goodwill , atribuível a uma reversão de uma perda por imparidade não 
+deve exceder a quantia escriturada que teria sido determinada (líquida de 
+amortização ou depreciação) se nenhuma perda por imparidade tivesse 
+sido reconhecida no ativo em anos anteriores.
+58 — Uma reversão de uma perda por imparidade de um ativo, que 
+não o goodwill , deve ser reconhecida imediatamente nos resultados, a 
+não ser que o ativo esteja escriturado pela quantia revalorizada segundo 
+uma outra Norma (por exemplo, o modelo de revalorização da NCRF 7). 
+Qualquer reversão de uma perda por imparidade de um ativo revalori-
+zado deve ser tratada como um acréscimo de revalorização de acordo com essa outra Norma.
+59 — Após ser reconhecida uma reversão de uma perda por impari-
+dade, a depreciação (amortização) do ativo deve ser ajustada em períodos 
+futuros para imputar a quantia escriturada revista do ativo, menos o seu valor residual (se o houver), numa base sistemática durante a sua vida útil remanescente.
+Reverter uma perda por imparidade de uma unidade
+geradora de caixa
+60 — Uma reversão de uma perda por imparidade de uma unidade 
+geradora de caixa deve ser imputada aos ativos da unidade, exceto para o 
+goodwill , numa base pro rata  em relação às quantias escrituradas desses 
+ativos. Estes aumentos nas quantias escrituradas devem ser tratados como 
+reversão de perdas por imparidade de ativos individuais e reconhecidos 
+de acordo com o parágrafo 58.
+61 — Ao imputar uma reversão de uma perda por imparidade de uma 
+unidade geradora de caixa de acordo com o parágrafo 60, a quantia 
+escriturada de um ativo não deve ser aumentada acima do mais baixo 
+de entre:
+a) A sua quantia recuperável (se determinável); e20790 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+b) A quantia escriturada que teria sido determinada (líquida de amor-
+tização ou depreciação) se nenhuma perda por imparidade tivesse reco-
+nhecida no ativo em períodos anteriores.
+A quantia da reversão da perda por imparidade que de outra forma 
+teria sido imputada ao ativo deve ser imputada numa base pro rata  em 
+relação aos outros ativos da unidade (grupo de unidades), exceto para ogoodwill .
+Reverter uma perda por imparidade de goodwill
+62 — Uma perda por imparidade reconhecida para o goodwill  não 
+deve ser revertida num período posterior.
+Data de eficácia
+63 — Uma entidade deve aplicar esta Norma a partir do primeiro 
+período que se inicie em ou após 1 de janeiro de 2016.
+64 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam 
+comparáveis.
+65 — Esta Norma substitui a NCRF 12 — Imparidade de Ativos, 
+constante do Aviso n.º 15655/2009, publicado no Diário da República,
+2.ª série, n.º 173, de 7 de setembro de 2009.

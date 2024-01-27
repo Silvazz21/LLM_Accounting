@@ -1,0 +1,416 @@
+Norma Contabilística e de Relato Financeiro 9
+Locações
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro é 
+o de prescrever, para locatários e locadores, as políticas contabilísticas 
+apropriadas a aplicar em relação a locações financeiras e operacionais.
+Âmbito
+2 — Esta Norma aplica -se a acordos que transfiram o direito de usar 
+ativos mesmo que possam ser prestados serviços substanciais pelo lo-cador em conexão com o funcionamento ou manutenção de tais ativos, 
+devendo ser, igualmente, aplicada na contabilização de todas as locações 
+que não sejam:
+a) Acordos de locação para explorar ou usar minérios, petróleo, gás 
+natural e recursos similares não regeneráveis; e
+b) Acordos de licenciamentos para itens tais como fitas cinemato-
+gráficas, registos de vídeo, peças de teatro, manuscritos, patentes e 
+direitos de autor.
+3 — A Norma não se aplica a acordos que sejam contratos de serviços 
+que não transfiram o direito de usar ativos de uma parte contratante para 
+a outra, não devendo ser aplicada, igualmente, na mensuração de:
+a) Propriedade detida por locatários que seja contabilizada como 
+propriedade de investimento (ver NCRF 11 — Propriedades de Inves-
+timento);
+b) Propriedade de investimento proporcionada pelos locadores se-
+gundo locações operacionais (ver NCRF 11);
+c) Ativos biológicos detidos por locatários segundo locações finan-
+ceiras (ver NCRF 17 — Agricultura); ou
+d) Ativos biológicos proporcionados por locadores segundo locações 
+operacionais (ver NCRF 17).
+Definições
+4 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Início do prazo da locação: é a data a partir da qual o locatário passa 
+a poder exercer o seu direito de usar o ativo locado. É a data do reco-
+nhecimento inicial da locação (isto é, o reconhecimento dos ativos, 
+passivos, rendimentos ou gastos resultantes da locação, conforme for 
+apropriado).
+Custos diretos iniciais: são custos incrementais que são diretamente 
+atribuíveis à negociação e aceitação de uma locação, exceto os custos 
+incorridos pelos locadores fabricantes ou negociantes.
+Início da locação: é a mais antiga de entre a data do acordo de loca-
+ção e a de um compromisso assumido pelas partes quanto às principais disposições da locação. Nesta data:
+a) Uma locação é classificada como uma locação financeira ou uma 
+locação operacional; e
+b) No caso de uma locação financeira, são determinadas as quantias 
+a reconhecer no início do prazo da locação.
+Investimento bruto na locação: é o agregado de:
+a) Os pagamentos mínimos da locação a receber pelo locador segundo 
+uma locação financeira; e
+b) Qualquer valor residual não garantido que acresça ao locador.
+Investimento líquido na locação: é o investimento bruto na locação 
+descontado à taxa de juro implícita na locação.
+Justo valor: é a quantia pela qual um ativo pode ser trocado ou um 
+passivo liquidado, entre partes conhecedoras e dispostas a isso, numa 
+transação em que não exista relacionamento entre elas.
+Locação: é um acordo pelo qual o locador transmite ao locatário, em 
+troca de um pagamento ou série de pagamentos, o direito de usar um ativo por um período de tempo acordado.
+Locação financeira: é uma locação que transfere substancialmente 
+todos os riscos e vantagens inerentes à posse de um ativo. O título de propriedade pode ou não ser eventualmente transferido.
+Locação não cancelável: é uma locação que somente pode ser can-
+celável:
+a) Após a ocorrência de alguma contingência remota;
+b) Com a permissão do locador;
+c) Se o locatário celebrar uma nova locação para o mesmo ativo ou 
+para um ativo equivalente com o mesmo locador; ou20776 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+d) Após o pagamento pelo locatário de uma quantia adicional tal 
+que, no início da locação, a continuação da mesma seja razoavelmente 
+certa.
+Locação operacional: é uma locação que não seja uma locação fi-
+nanceira.
+Pagamentos mínimos da locação: são os pagamentos durante o prazo 
+da locação que o locatário vai fazer, ou que lhe possam ser exigidos, 
+excluindo a renda contingente, custos relativos a serviços e impostos a 
+serem pagos pelo, e reembolsados ao, locador, juntamente com:
+a) No caso do locatário, quaisquer quantias garantidas pelo locatário 
+ou por uma parte relacionada com o locatário; ou
+b) No caso do locador, qualquer valor residual garantido ao locador:
+i) Pelo locatário;
+ii) Por uma parte relacionada com o locatário; ou
+iii) Por um terceiro não relacionado com o locador, que seja finan-
+ceiramente capaz de satisfazer tal garantia.
+Contudo, se o locatário tiver a opção de comprar o ativo por um preço 
+que se espera que seja suficientemente mais baixo do que o justo valor 
+na data em que a opção se torne exercível para que, no início da locação, 
+seja razoavelmente certo que ela será exercida, os pagamentos mínimos 
+da locação compreendem os pagamentos mínimos a pagar durante o 
+prazo da locação até à data esperada do exercício desta opção de compra 
+e o pagamento necessário para a exercer.
+Prazo da locação: é o período não cancelável pelo qual o locatário 
+contratou locar o ativo juntamente com quaisquer termos adicionais pelos 
+quais o locatário tem a opção de continuar a locar o ativo, com ou sem 
+pagamento adicional, quando no início da locação for razoavelmente 
+certo que o locatário irá exercer a opção.
+Renda contingente: é a parte dos pagamentos da locação que não está 
+fixada em quantia mas antes baseada na futura quantia de um fator que 
+se altera sem ser pela passagem do tempo (por exemplo, percentagem 
+de futuras vendas, quantidade de futuro uso, futuros índices de preços, futuras taxas de juro do mercado).
+Rendimento financeiro não obtido: é a diferença entre:
+a) O investimento bruto na locação; e
+b) O investimento líquido na locação.
+Taxa de juro implícita na locação: é a taxa de desconto que, no início 
+da locação, faz com que o valor presente agregado de:
+a) Os pagamentos mínimos da locação; e
+b) O valor residual não garantido seja igual à soma:
+c) Do justo valor do ativo locado; e
+d) De quaisquer custos diretos iniciais do locador.
+Taxa de juro incremental de financiamento do locatário: é a taxa de 
+juro que o locatário teria que pagar numa locação semelhante ou, se 
+isso não for determinável, a taxa que, no início da locação, o locatário 
+incorreria ao pedir emprestados por um prazo semelhante, e com uma 
+segurança semelhante, os fundos necessários para comprar o ativo.
+Valor residual garantido: é
+a) No caso do locatário, a parte do valor residual que seja garantida 
+pelo locatário ou por uma parte relacionada com o locatário (sendo a 
+quantia da garantia a quantia máxima que possa, em qualquer caso, 
+tornar -se pagável); e
+b) No caso do locador, a parte do valor residual que seja garantida 
+pelo locatário ou por um terceiro não relacionado com o locador que 
+seja financeiramente capaz de satisfazer as obrigações cobertas pela 
+garantia.
+Valor residual não garantido: é a parte do valor residual do ativo 
+locado, cuja realização pelo locador não esteja assegurada ou esteja 
+unicamente garantida por uma parte relacionada com o locador.
+Vida económica: é
+a) O período durante o qual se espera que um ativo seja economica-
+mente utilizável por um ou mais utentes; ou
+b) O número de unidades de produção, ou similares, que se espera 
+que seja obtido a partir do ativo por um ou mais utentes.
+Vida útil: é
+a) O período durante o qual uma entidade espera que um ativo esteja 
+disponível para uso; ou
+b) O número de unidades de produção ou similares que uma entidade 
+espera obter do ativo.Aquele período é contado a partir do início do prazo da locação e não 
+está condicionado pela duração do contrato.
+5 — Um acordo ou compromisso de locação pode incluir uma dis-
+posição para ajustar os pagamentos da locação devido a alterações na construção ou no custo de aquisição da propriedade locada ou devido 
+a alterações numa outra mensuração do custo ou valor, tal como níveis 
+de preço gerais, ou nos custos de financiamento da locação por parte 
+do locador, durante o período entre o início da locação e o início do 
+prazo de locação. Se assim for, para a finalidade desta Norma, o efeito de tais alterações deve ser considerado como tendo ocorrido no início da locação.
+6 — A definição de uma locação inclui contratos para o aluguer de 
+um ativo que contenha uma cláusula que dê àquele que toma de aluguer, 
+uma opção para adquirir o direito ao ativo após o cumprimento das 
+condições acordadas.
+Classificação de locações
+7 — A classificação de locações adotada nesta Norma baseia -se na 
+extensão até à qual os riscos e vantagens inerentes à posse de um ativo 
+locado permanecem no locador ou no locatário. Os riscos incluem as 
+possibilidades de perdas devidas a inatividade, obsolescência tecnológica 
+e variações no retorno devidas a alterações nas condições económicas. As 
+vantagens podem ser representadas pela expectativa de funcionamento lucrativo durante a vida económica do ativo e de ganhos derivados de aumentos de valor ou de realização de um valor residual.
+8 — Uma locação é classificada como locação financeira se ela 
+transferir substancialmente todos os riscos e vantagens inerentes à pro-priedade. Uma locação é classificada como locação operacional se ela não transferir substancialmente todos os riscos e vantagens inerentes à propriedade.
+9 — Uma vez que a transação entre um locador e um locatário se 
+baseia num acordo de locação comum a ambas as partes, é apropriado 
+usar definições consistentes. A aplicação destas definições às diferentes 
+circunstâncias dos dois participantes pode algumas vezes fazer com que 
+a mesma locação seja classificada de maneira diferente pelo locador e pelo locatário.
+10 — A classificação de uma locação como financeira ou operacional 
+depende da substância da transação e não da forma do contrato. Exemplos 
+de situações que podem normalmente conduzir a que uma locação seja classificada como uma locação financeira são:
+a) A locação transfere a propriedade do ativo para o locatário no fim 
+do prazo da locação;
+b) O locatário tem a opção de comprar o ativo por um preço que se 
+espera que seja suficientemente mais baixo do que o justo valor à data em que a opção se torne exercível tal que, no início da locação, seja razoavelmente certo que a opção será exercida;
+c) O prazo da locação abrange a maior parte da vida económica do 
+ativo ainda que o título de propriedade não seja transferido;
+d) No início da locação o valor presente dos pagamentos mínimos 
+da locação ascende a pelo menos, substancialmente, todo o justo valor do ativo locado; e
+e) Os ativos locados são de uma tal natureza especializada que apenas 
+o locatário os pode usar sem que sejam feitas grandes modificações.
+11 — Os indicadores de situações que individualmente ou em com-
+binação podem também conduzir a que uma locação seja classificada 
+como financeira são:
+a) Se o locatário puder cancelar a locação, as perdas do locador 
+associadas ao cancelamento são suportadas pelo locatário;
+b) Os ganhos ou as perdas da flutuação no justo valor do residual 
+serem do locatário (por exemplo sob a forma de um abatimento na renda 
+que iguale a maior parte dos proventos das vendas no fim da locação); e
+c) O locatário tem a capacidade de continuar a locação por um se-
+gundo período com uma renda que seja substancialmente inferior à 
+renda do mercado.
+12 — Os exemplos e indicadores enunciados nos parágrafos 10 e 11 
+nem sempre são conclusivos. Se for claro com base noutras caracte-
+rísticas que a locação não transfere substancialmente todos os riscos 
+e vantagens inerentes à posse, a locação é classificada como locação 
+operacional. Por exemplo, pode ser o caso se a propriedade do ativo se 
+transferir no final da locação mediante um pagamento variável igual 
+ao seu justo valor no momento, ou se existirem rendas contingentes, como resultado das quais o locatário não tem substancialmente todos 
+os riscos e vantagens.
+13 — A classificação é feita no início da locação. Se em qualquer 
+altura o locatário e o locador concordarem em modificar as cláusulas 
+da locação, exceto a renovação da locação, de tal maneira que resultasse Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20777
+numa classificação diferente da locação segundo o critério dos pará-
+grafos 7 a 12, caso as condições alteradas tivessem estado em vigor no 
+início da locação, o acordo revisto é considerado como um novo acordo 
+durante o seu prazo. Contudo, as alterações nas estimativas (por exem-
+plo, alterações nas estimativas da vida económica ou do valor residual da propriedade locada) ou alterações nas circunstâncias (por exemplo, 
+incumprimento pelo locatário), não dão origem a uma nova classificação 
+de uma locação para finalidades de contabilização.
+14 — Quando uma locação inclui tanto o elemento terrenos como 
+o elemento edifícios, uma entidade avalia a classificação de cada ele-mento como uma locação financeira ou operacional separadamente em conformidade com os parágrafos 7 a 13. Ao determinar se o elemento 
+terrenos é uma locação operacional ou financeira, uma consideração 
+importante a ter é que o terreno tem normalmente uma vida económica indefinida.
+15 — Sempre que for necessário para classificar e contabilizar uma 
+locação de terrenos e edifícios, os pagamentos mínimos da locação 
+(incluindo qualquer pagamento global à cabeça) são imputados entre 
+os elementos terrenos e edifícios em proporção aos justos valores rela-tivos dos interesses na detenção de locação no elemento terrenos e no elemento edifícios da locação no início da locação. Se os pagamentos 
+da locação não puderem ser fiavelmente imputados entre estes dois 
+elementos, a totalidade da locação é classificada como locação finan-
+ceira, a não ser que seja claro que ambos os elementos são locações 
+operacionais, caso em que a totalidade da locação é classificada como locação operacional.
+16 — Para uma locação de terrenos e edifícios na qual a quantia que 
+seria inicialmente reconhecida para o elemento terrenos, de acordo 
+com o parágrafo 19, seja imaterial, os terrenos e os edifícios podem ser tratados como uma única unidade para a finalidade da classificação da 
+locação e classificados como locação financeira ou operacional de acordo 
+com os parágrafos 7 a 13. Em tal caso, a vida económica dos edifícios é considerada como a vida económica da totalidade do ativo locado.
+17 — A mensuração separada dos elementos terrenos e edifícios não 
+é exigida quando os interesses do locatário tanto nos terrenos como 
+nos edifícios forem classificados como propriedade de investimento de acordo com a NCRF 11 e for adotado o modelo do justo valor. Apenas são necessários cálculos pormenorizados para esta avaliação se a clas-sificação de um ou ambos os elementos for incerta.
+18 — De acordo com a NCRF 11, é possível a um locatário classificar 
+um interesse de propriedade detido mediante uma locação operacional como propriedade de investimento. Se assim fizer, o interesse da pro-priedade é contabilizado como se fosse uma locação financeira e, além 
+disso, o modelo do justo valor é usado para o reconhecimento do ativo. O 
+locatário deve continuar a contabilizar a locação como locação financeira, 
+mesmo que um evento posterior altere a natureza do interesse de proprie-
+dade do locatário de forma que já não seja classificado como propriedade 
+de investimento. É este o caso se, por exemplo, o locatário:
+a) Ocupar a propriedade, a qual é depois transferida para propriedade 
+ocupada pelo titular por um “custo considerado” que seja igual ao seu 
+justo valor à data da alteração no uso; ou
+b) Conceder uma sublocação que transfira substancialmente todos os 
+riscos e vantagens inerentes à propriedade do interesse para uma parte 
+não relacionada. Uma tal sublocação é contabilizada pelo locatário como 
+locação financeira a um terceiro, embora possa ser contabilizada como 
+locação operacional pelo terceiro.
+Locações nas demonstrações financeiras de locatários
+Locações financeiras
+Reconhecimento inicial
+19 — No início do prazo de locação, os locatários devem reconhecer 
+as locações financeiras como ativos e passivos nos seus balanços por 
+quantias iguais ao justo valor da propriedade locada ou, se inferior, ao 
+valor presente dos pagamentos mínimos da locação, cada um deter-
+minado no início da locação. A taxa de desconto a usar no cálculo do 
+valor presente dos pagamentos mínimos da locação é a taxa de juro 
+implícita na locação, se for praticável determinar essa taxa; se não 
+for, deve ser usada a taxa incremental de financiamento do locatário. Quaisquer custos diretos iniciais do locatário são adicionados à quantia 
+reconhecida como ativo.
+20 — São frequentemente incorridos custos diretos iniciais em ligação 
+com atividades específicas da locação, como na negociação e garan-
+tia de acordos de locação. Os custos identificados diretamente como 
+atribuíveis a atividades executadas pelo locatário para uma locação 
+financeira são incluídos como parte da quantia reconhecida como um 
+ativo sob locação.21 — Não é apropriado que os passivos por ativos locados sejam 
+apresentados nas demonstrações financeiras como uma dedução dos 
+ativos locados. Se para a apresentação de passivos na face do balanço 
+for feita uma distinção entre passivos correntes e não correntes, a mesma 
+distinção deve ser feita para os passivos da locação.
+Mensuração subsequente
+22 — Os pagamentos mínimos da locação devem ser repartidos en-
+tre o encargo financeiro e a redução do passivo pendente. O encargo 
+financeiro deve ser imputado a cada período durante o prazo da locação 
+de forma a produzir uma taxa de juro periódica constante sobre o saldo remanescente do passivo. As rendas contingentes devem ser debitadas como gastos nos períodos em que foram incorridas.
+23 — Uma locação financeira dá origem a um gasto de depreciação 
+relativo ao ativo depreciável assim como a um gasto financeiro em cada 
+período contabilístico. A política de depreciação para os ativos locados depreciáveis deve ser consistente com a dos ativos depreciáveis que se-
+jam possuídos e a depreciação reconhecida deve ser calculada nas bases 
+estabelecidas na NCRF 6 e NCRF 7. Se não houver certeza razoável 
+de que o locatário obtenha a propriedade no fim do prazo da locação, o ativo deve ser totalmente depreciado durante o prazo da locação ou da 
+sua vida útil, o que for mais curto.
+24 — A quantia depreciável de um ativo locado é imputada a cada 
+período contabilístico durante o período do uso esperado numa base 
+sistemática consistente com a política de depreciação que o locatário adote para ativos depreciáveis de que seja proprietário. Se houver cer-teza razoável de que o locatário obterá a propriedade no fim do prazo 
+da locação, o período de uso esperado é a vida útil do ativo; se tal não 
+for possível o ativo é depreciado durante o prazo da locação ou da sua vida útil, dos dois o mais curto.
+25 — A soma do gasto de depreciação do ativo e do gasto financeiro do 
+período raramente corresponde aos pagamentos da locação no período, sendo, por isso, inadequado simplesmente reconhecer os pagamentos da locação como um gasto. Por conseguinte, é improvável que o ativo e 
+o passivo relacionados sejam de quantia igual após o início da locação.
+26 — Para determinar se um ativo locado está em imparidade, uma 
+entidade aplica a NCRF 12 — Imparidade de Ativos.
+Locações operacionais
+Reconhecimento
+27 — Os pagamentos de uma locação operacional devem ser reco-
+nhecidos como um gasto numa base linear durante o prazo da locação 
+salvo se uma outra base sistemática for mais representativa do modelo temporal do benefício do utente.
+Locações nas demonstrações financeiras de locadores
+Locações financeiras
+Reconhecimento inicial
+28 — Os locadores devem reconhecer os ativos detidos sob uma 
+locação financeira nos seus balanços e apresentá -los como uma conta a 
+receber por uma quantia igual ao investimento líquido na locação.
+29 — Substancialmente, numa locação financeira, todos os riscos e 
+vantagens inerentes à propriedade legal são transferidos pelo locador, 
+e por conseguinte os pagamentos da locação a receber são tratados pelo 
+locador como reembolso de capital e rendimento financeiro para reem-
+bolsar e recompensar o locador pelo seu investimento e serviços.
+30 — Os custos diretos iniciais são muitas vezes incorridos por lo-
+cadores e incluem quantias como comissões, honorários legais e custos 
+internos que sejam incrementais e diretamente atribuíveis à negocia-
+ção e aceitação da locação. Excluem gastos gerais como aqueles que são incorridos por uma equipa de vendas e marketing.  Para locações 
+financeiras que não sejam as que envolvem locadores fabricantes ou 
+negociantes, os custos diretos iniciais são incluídos na mensuração 
+inicial da conta a receber de locação financeira e reduzem a quantia 
+de rendimento reconhecida durante o prazo da locação. A taxa de juro 
+implícita na locação é definida de tal forma que os custos diretos iniciais 
+são automaticamente incluídos na conta a receber de locação financeira e 
+não há necessidade de os adicionar separadamente. Os custos incorridos 
+pelos locadores fabricantes ou negociantes em ligação com a negocia-
+ção e aceitação de uma locação estão excluídos da definição de custos diretos iniciais. Como resultado, são excluídos do investimento líquido na locação e são reconhecidos como um gasto quando o lucro da venda for reconhecido, o que para uma locação financeira é normalmente no início do prazo da locação.20778 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+Mensuração subsequente
+31 — O reconhecimento do rendimento financeiro deve ser baseado 
+num modelo que reflita uma taxa de retorno periódica constante sobre o investimento líquido do locador na locação financeira.
+32 — São regularmente revistos os valores residuais estimados não 
+garantidos usados no cálculo do investimento bruto do locador numa locação. Se tiver havido uma redução no valor residual estimado não 
+garantido, é revista a imputação do rendimento durante o prazo da 
+locação e qualquer redução no que respeita a quantias já acrescidas é 
+imediatamente reconhecida.
+33 — Um ativo envolvido numa locação financeira que esteja clas-
+sificado como detido para venda (ou incluído num grupo para aliena-
+ção, que esteja classificado como detido para venda) de acordo com 
+a NCRF 8 — Ativos Não Correntes Detidos para Venda e Unidades 
+Operacionais Descontinuadas, deve ser contabilizado de acordo com 
+essa Norma.
+34 — Os locadores fabricantes ou negociantes devem reconhecer 
+lucro ou perda de venda no período, de acordo com a política seguida 
+pela entidade para vendas imediatas. Se forem fixadas taxas de juro 
+artificialmente baixas, o lucro de venda deve ser restrito ao que se 
+aplicaria se uma taxa de juro do mercado fosse debitada. Os custos 
+incorridos pelos locadores fabricantes ou negociantes em ligação com 
+a negociação e aceitação de uma locação devem ser reconhecidos como 
+um gasto quando o lucro da venda for reconhecido.
+35 — O rédito de vendas reconhecido no início do prazo de uma lo-
+cação financeira por um locador fabricante ou negociante é o justo valor 
+do ativo, ou, se mais baixo, o valor presente dos pagamentos mínimos da 
+locação que acresça ao locador, calculado a uma taxa de juro do mercado. 
+O custo de venda reconhecido no início do prazo da locação é o custo, 
+ou a quantia escriturada se diferente, da propriedade locada menos o 
+valor presente do valor residual não garantido. A diferença entre o rédito 
+da venda e o custo da venda é o lucro da venda, que é reconhecido de 
+acordo com a política seguida pela entidade para as vendas.
+36 — Os locadores fabricantes ou negociantes indicam algumas vezes 
+taxas de juro artificialmente baixas a fim de atrair clientes. A utilização de 
+tal taxa resultaria numa parte excessiva do rendimento total da transação 
+ser reconhecida no momento da venda. Se forem fixadas taxas de juro 
+artificialmente baixas, o lucro da venda seria restrito ao que se aplicaria 
+se uma taxa de juro do mercado fosse debitada.
+Locações operacionais
+Reconhecimento
+37 — Os locadores devem apresentar os ativos sujeitos a locações 
+operacionais nos seus balanços de acordo com a natureza do ativo.
+38 — O rendimento proveniente de locações operacionais deve ser 
+reconhecido no rendimento numa base linear durante o prazo da loca-
+ção, salvo se outra base sistemática for mais representativa do modelo 
+temporal em que o benefício do uso do ativo locado seja diminuído por 
+incentivo concedido pelo locador.
+39 — Os custos, incluindo a depreciação, incorridos para se obter o 
+rendimento de locação são reconhecidos como um gasto. O rendimento 
+de locação (excluindo recebimentos de serviços proporcionados tais 
+como seguros e manutenção) é reconhecido numa base linear durante o 
+período da locação mesmo que os recebimentos não o sejam, a menos que 
+uma outra base sistemática seja mais representativa do modelo temporal 
+em que o benefício do uso do ativo locado seja diminuído.
+40 — Os custos diretos iniciais incorridos pelos locadores ao negociar 
+e aceitar uma locação operacional devem ser adicionados à quantia 
+escriturada do ativo locado e reconhecidos como um gasto durante o prazo da locação na mesma base do rendimento da locação.
+41 — A política de depreciação para ativos locados depreciáveis deve 
+ser consistente com a política de depreciação normal do locador para 
+ativos semelhantes, e a depreciação deve ser calculada da acordo com 
+a NCRF 6 e a NCRF 7.
+42 — Para determinar se um ativo locado ficou em imparidade, uma 
+entidade aplica a NCRF 12.
+43 — Um locador fabricante ou negociante não reconhece qualquer 
+lucro de venda ao celebrar uma locação operacional porque esta não é 
+equivalente a uma venda.
+Transações de venda seguida de locação
+Reconhecimento
+44 — Numa transação de venda seguida de locação, o pagamento da 
+locação e o preço de venda são geralmente interdependentes por serem 
+negociados num pacote. O tratamento contabilístico de uma transação 
+de venda seguida de locação depende do tipo de locação envolvido.45 — Se uma transação de venda seguida de locação resultar numa 
+locação financeira, qualquer excesso do provento da venda sobre a 
+quantia escriturada não deve ser imediatamente reconhecido como 
+rendimento pelo vendedor -locatário, mas sim diferido e amortizado 
+durante o prazo da locação.
+46 — Se a venda seguida de locação resultar numa locação finan-
+ceira, a transação é um meio pelo qual o locador proporciona meios 
+financeiros ao locatário, com o ativo como garantia. Por esta razão não 
+é apropriado considerar como rendimento um excesso do produto da 
+venda sobre a quantia escriturada. Tal excesso é diferido e amortizado durante o prazo da locação.
+47 — Se uma transação de venda seguida de locação resultar numa 
+locação operacional, e for claro que a transação é estabelecida pelo justo 
+valor, qualquer lucro ou perda deve ser imediatamente reconhecido.
+48 — Se o preço de venda estiver abaixo do justo valor, qualquer 
+lucro ou perda deve ser imediatamente reconhecido, a menos que a 
+perda esteja compensada por pagamentos futuros da locação abaixo 
+do preço de mercado. Neste caso tal lucro ou perda deve ser diferido e amortizado na proporção dos pagamentos da locação durante o período pelo qual se espera que o ativo seja usado.
+49 — Se o preço de venda estiver acima do justo valor, o excesso 
+sobre o justo valor deve ser diferido e amortizado durante o período 
+pelo qual se espera que o ativo seja usado.
+50 — Se a venda seguida de locação resultar numa locação operacio-
+nal, e os pagamentos da locação e o preço de venda estiverem estabele-
+cidos pelo justo valor, houve com efeito uma operação de venda normal 
+e qualquer lucro ou perda é imediatamente reconhecido.
+51 — Para as locações operacionais, se o justo valor na altura de 
+uma transação de venda seguida de locação for menor do que a quantia 
+escriturada do ativo, deve ser imediatamente reconhecida uma perda 
+igual à diferença entre a quantia escriturada e o justo valor.
+Data de eficácia
+52 — Uma entidade deve aplicar esta Norma a partir do primeiro 
+período que se inicie em ou após 1 de janeiro de 2016.
+53 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam comparáveis.
+54 — Esta Norma substitui a NCRF 9 — Locações, constante do 
+Aviso n.º 15655/2009, publicado no Diário da República, 2.ª série, 
+n.º 173, de 7 de setembro de 2009.

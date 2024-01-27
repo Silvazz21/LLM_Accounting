@@ -1,0 +1,257 @@
+Norma Contabilística e de Relato Financeiro 15
+Investimentos em Subsidiárias e Consolidação
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro 
+é o de prescrever o tratamento para os investimentos em subsidiárias 
+e proporcionar orientação prática quanto aos procedimentos de con-
+solidação.
+Âmbito
+2 — Esta Norma deve ser aplicada na preparação e apresentação de 
+demonstrações financeiras consolidadas de um grupo de entidades sob 
+o controlo de uma empresa -mãe, desde que a empresa -mãe não esteja dispensada de apresentar demonstrações financeiras consolidadas nos 
+termos legalmente previstos. Esta norma estabelece, igualmente, as Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20799
+regras de mensuração dos investimentos financeiros em subsidiárias nas 
+Demonstrações financeiras individuais da empresa -mãe.
+3 — Esta Norma não trata de métodos de contabilização de concen-
+trações de atividades empresariais e dos seus efeitos na consolidação, 
+incluindo goodwill  proveniente de uma concentração de atividades 
+empresariais (ver NCRF 14 — Concentrações de Atividades Empre-
+sariais).
+Definições
+4 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Controlo: é o poder de gerir as políticas financeiras e operacionais de 
+uma entidade ou de uma atividade económica a fim de obter benefícios 
+da mesma.
+Deve presumir -se que existe controlo sobre outra entidade quando 
+a empresa -mãe detém mais de metade dos direitos de voto da outra 
+entidade, a menos que seja possível demonstrar que essa propriedade não constitui controlo. Mesmo que a empresa -mãe não detenha mais de 
+metade dos direitos de voto da outra entidade, ela pode ter o controlo 
+se tiver:
+a) Poder sobre mais de metade dos direitos de voto da outra entidade 
+em virtude de um acordo com outros investidores; ou
+b) Poder para gerir as políticas financeiras e operacionais da outra 
+entidade segundo uma cláusula estatutária ou um acordo; ou
+c) Poder para nomear ou demitir a maioria dos membros do órgão de 
+gestão da outra entidade; ou
+d) Poder de agrupar a maioria de votos nas reuniões do órgão de 
+gestão da outra entidade.
+Demonstrações financeiras consolidadas: são as demonstrações fi-
+nanceiras de um grupo de entidades apresentadas como as de uma única 
+entidade económica.
+Empresa -mãe: é uma entidade que detém uma ou mais subsidiárias.
+Grupo: é constituído por uma empresa -mãe e todas as suas subsidiárias.
+Interesse que não controla: é a parte dos resultados e dos ativos 
+líquidos de uma subsidiária atribuível a interesses de capital próprio 
+que não sejam detidos, direta ou indiretamente através de subsidiárias, pela empresa -mãe.
+Método da equivalência patrimonial é um método de contabilização 
+pelo qual o investimento ou interesse é inicialmente reconhecido pelo custo e posteriormente ajustado em função das alterações verificadas, 
+após a aquisição, na quota -parte do investidor ou do empreendedor nos 
+ativos líquidos da investida ou da entidade conjuntamente controlada. Os resultados do investidor ou empreendedor incluem a parte que lhe corresponda nos resultados da investida ou da entidade conjuntamente 
+controlada.
+Subsidiária: é uma entidade, ainda que não constituída sob a forma 
+de sociedade, que é controlada por uma outra entidade, designada por 
+empresa -mãe.
+5 — Uma empresa -mãe ou a sua subsidiária pode ser um investidor 
+numa associada ou um empreendedor numa entidade conjuntamente 
+controlada. Em tais casos, as demonstrações financeiras consolidadas 
+preparadas e apresentadas de acordo com esta Norma também são pre-
+paradas de modo a cumprir os requisitos da NCRF 13 — Interesses em 
+Empreendimentos Conjuntos e Investimentos em Associadas.
+6 — Para avaliar se uma entidade tem o controlo, é necessário avaliar 
+se a entidade tem potenciais direitos de voto. Estes potenciais direitos de voto existem se uma entidade for proprietária de warrants de ações, 
+opções call de ações, instrumentos de dívida ou de capital próprio que 
+sejam convertíveis em ações ordinárias, ou de outros instrumentos 
+semelhantes que tenham a capacidade, se exercidos ou convertidos, de 
+conceder à entidade o poder de voto ou de reduzir o poder de voto de uma 
+terceira entidade relativamente às políticas financeiras e operacionais 
+da entidade relativamente à qual podem ser exercidos ou convertidos os 
+potenciais direitos de voto. A existência e o efeito de potenciais direitos 
+de voto que sejam correntemente exercíveis ou convertíveis, incluindo 
+potenciais direitos de voto detidos por terceira entidade, são tidos em 
+consideração quando se avaliar se uma entidade tem o poder de gerir 
+as políticas financeiras e operacionais de uma outra entidade. Os poten-
+ciais direitos de voto não são correntemente exercíveis ou convertíveis 
+quando, por exemplo, não puderem ser exercidos ou convertidos até uma 
+data futura ou até à ocorrência de um acontecimento futuro.
+7 — Ao avaliar se os potenciais direitos de voto contribuem para o 
+controlo, a entidade examina todos os factos e circunstâncias (incluindo 
+os termos de exercer os potenciais direitos de voto e quaisquer outros 
+acordos contratuais quer sejam considerados individualmente ou em 
+combinação) que afetem os potenciais direitos de voto, independen-
+temente da intenção do órgão de gestão e da capacidade financeira de 
+exercer ou converter.Apresentação de demonstrações financeiras individuais
+8 — Nas demonstrações financeiras individuais de uma empresa -mãe,
+a mensuração dos investimentos em subsidiárias deve ser efetuada de 
+acordo com o previsto para os investimentos em associadas, nos termos 
+da NCRF 13 — Interesses em Empreendimentos Conjuntos e Investi-
+mentos em Associadas, aplicando -se, ainda, o disposto nos parágrafos 14 
+e 15 da presente norma.
+9 — A mensuração dos interesses em entidades conjuntamente con-
+troladas e dos investimentos em associadas nas demonstrações finan-
+ceiras individuais é efetuada nos termos da NCRF 13 — Interesses em Empreendimentos Conjuntos e Investimentos em Associadas.
+Âmbito das demonstrações financeiras consolidadas
+10 — As demonstrações financeiras consolidadas devem incluir todas 
+as subsidiárias da empresa -mãe (1).
+11 — A obrigatoriedade de elaboração de demonstrações financeiras 
+consolidadas ocorre para a empresa -mãe que detenha o controlo sobre 
+uma ou mais subsidiárias, nos termos definidos legalmente.
+Procedimentos de consolidação
+12 — Ao preparar demonstrações financeiras consolidadas, uma enti-
+dade combina as demonstrações financeiras da empresa -mãe e das suas 
+subsidiárias linha a linha adicionando itens idênticos de ativos, passivos, 
+capital próprio, rendimentos e gastos. A fim de que as demonstrações 
+financeiras consolidadas apresentem informação financeira acerca do 
+grupo como se fosse uma entidade económica única, são dados os 
+seguintes passos:
+a) São eliminadas a quantia escriturada do investimento da empresa-
+-mãe em cada subsidiária e a parte da empresa -mãe no capital próprio de 
+cada subsidiária (ver a NCRF 14 — Concentrações de Atividades Empre-
+sariais, que descreve o tratamento de qualquer goodwill  resultante);
+b) São identificados os interesses que não controlam nos resultados 
+das subsidiárias consolidadas para o período de relato; e
+c) Os interesses que não controlam nos ativos líquidos das subsi-
+diárias consolidadas são identificados separadamente dos interesses 
+de propriedade da empresa -mãe. Os interesses que não controlam nos 
+ativos líquidos consistem:
+i) Na quantia desses interesses que não controlam à data da concen-
+tração original, calculada de acordo com a NCRF 14 — Concentrações 
+de Atividades Empresariais; e
+ii) Na parte minoritária das alterações no capital próprio desde a data 
+da concentração.
+13 — Quando existirem potenciais direitos de voto, as proporções de 
+resultados e alterações no capital próprio imputadas à empresa -mãe e aos 
+interesses que não controlam são determinadas na base dos interesses de 
+propriedade presentes e não refletem o possível exercício ou conversão 
+de potenciais direitos de voto.
+14 — Os saldos, transações, rendimentos e gastos que resultam de 
+operações intragrupo devem ser eliminados por inteiro.
+15 — Os resultados provenientes de transações intragrupo que sejam 
+reconhecidos nos ativos, tais como inventários e ativos fixos tangíveis, 
+são eliminados por inteiro. As perdas intragrupo podem indicar uma 
+imparidade que exija reconhecimento nas demonstrações financeiras 
+consolidadas. A NCRF 25 — Impostos sobre o Rendimento, aplica -se
+às diferenças temporárias que surgem da eliminação dos resultados 
+provenientes de transações intragrupo.
+16 — As demonstrações financeiras da empresa -mãe e das suas sub-
+sidiárias usadas na preparação das demonstrações financeiras conso-
+lidadas devem ser preparadas a partir da mesma data. Quando o final 
+do período de relato da empresa -mãe for diferente do final do período 
+de relato de uma subsidiária, a subsidiária prepara, para finalidades de 
+consolidação, demonstrações financeiras adicionais a partir da mesma 
+data que a das demonstrações financeiras da empresa -mãe a não ser que 
+isso se torne impraticável.
+17 — Quando, de acordo com o parágrafo 16, as demonstrações 
+financeiras de uma subsidiária usadas na preparação de demonstrações 
+financeiras consolidadas forem preparadas a partir de uma data diferente 
+da data das demonstrações financeiras da empresa -mãe, devem ser feitos 
+ajustamentos que tenham em consideração os efeitos de transações ou 
+acontecimentos significativos que ocorram entre essa data e a data das 
+demonstrações financeiras da empresa -mãe. Em qualquer caso, a dife-rença entre o fim do período de relato da subsidiária e o fim do período de relato da empresa -mãe não deve exceder os três meses. A extensão dos períodos de relato e qualquer diferença entre os fins do período de relato devem ser as mesmas de período para período.20800 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+18 — As demonstrações financeiras consolidadas devem ser prepara-
+das usando políticas contabilísticas uniformes para transações e outros 
+acontecimentos idênticos em circunstâncias semelhantes.
+19 — Se um membro do grupo usar políticas contabilísticas que não 
+sejam as adotadas nas demonstrações financeiras consolidadas para 
+transações e acontecimentos idênticos em circunstâncias semelhantes, 
+serão feitos ajustamentos apropriados às suas demonstrações financeiras 
+ao preparar as demonstrações financeiras consolidadas.
+20 — Os rendimentos e os gastos de uma subsidiária são incluídos nas 
+demonstrações financeiras consolidadas a partir da data de aquisição, tal 
+como definido na NCRF 14 — Concentrações de Atividades Empresa-
+riais e até à data em que a empresa -mãe deixar de controlar a subsidiária. 
+Os rendimentos e os gastos da subsidiária devem basear -se nos valores dos ativos adquiridos e passivos e passivos contingentes reconhecidos nas demonstrações financeiras consolidadas da empresa -mãe à data da 
+aquisição. Por exemplo, o gasto por depreciação reconhecido na demons-
+tração dos resultados consolidada após a data de aquisição deve basear -se 
+nos justos valores dos respetivos ativos depreciáveis reconhecidos nas demonstrações financeiras consolidadas à data da aquisição.
+21 — Os interesses que não controlam devem ser apresentados no 
+balanço consolidado dentro do capital próprio, separadamente do capital 
+próprio dos proprietários da empresa -mãe.
+22 — Os resultados são atribuídos aos detentores de capital da 
+empresa -mãe e aos interesses que não controlam.
+23 — Se uma subsidiária tiver ações preferenciais cumulativas em 
+circulação que sejam detidas por interesses que não controlam e clas-
+sificadas como capital próprio, a empresa -mãe calcula a sua parte dos 
+resultados depois de fazer ajustamentos para os dividendos de tais ações, 
+quer os dividendos tenham ou não sido declarados.
+24 — As alterações no interesse de propriedade de uma empresa-
+-mãe numa subsidiária que não resultem numa perda de controlo são 
+contabilizadas como transações de capital próprio (i. e., transações com 
+proprietários na sua qualidade de proprietários).
+25 — Nessas circunstâncias, as quantias escrituradas dos interesses 
+que controlam e de interesses que não controlam devem ser ajustadas 
+para refletir as alterações nos seus interesses relativos na subsidiária. 
+Qualquer diferença entre a quantia pela qual os interesses que não 
+controlam são ajustados e o justo valor da retribuição paga ou recebida 
+deve ser reconhecida diretamente no capital próprio e atribuída aos 
+proprietários da empresa -mãe.
+Perda de controlo
+26 — Uma empresa -mãe pode perder o controlo de uma subsidiária 
+com ou sem alterações nos níveis de propriedade absolutos ou relativos. 
+Isto pode ocorrer, por exemplo, quando uma subsidiária passa a estar 
+sujeita ao controlo de uma entidade pública, tribunal, administrador ou 
+regulador. Pode também ocorrer como resultado de um acordo contratual.
+27 — Uma empresa -mãe pode perder o controlo de uma subsidiária 
+em dois ou mais acordos (transações). Contudo, por vezes as circunstân-
+cias indicam que os acordos múltiplos devem ser contabilizados como 
+uma única transação. Ao determinar se deve contabilizar os acordos 
+como uma única transação, uma empresa -mãe deve considerar todos 
+os termos e condições dos acordos e os seus efeitos económicos. Um ou mais dos seguintes aspetos pode indicar que a empresa -mãe deve 
+contabilizar acordos múltiplos como uma única transação:
+a) São celebrados ao mesmo tempo ou existe uma interdependência 
+entre eles.
+b) Formam uma única transação concebida para alcançar um efeito 
+comercial global.
+c) A ocorrência de um acordo está dependente da ocorrência de pelo 
+menos outro acordo.
+d) Um acordo considerado por si próprio não tem justificação eco-
+nómica, mas é economicamente justificado quando considerado em 
+conjunto com outros acordos. Um exemplo é quando uma alienação de 
+ações tem um preço inferior ao do mercado e é compensada por uma alienação subsequente com um preço superior ao do mercado.
+28 — Se uma empresa -mãe perder o controlo de uma subsidiária, ela:
+a) Desreconhece os ativos (incluindo qualquer goodwill ) e passivos 
+da subsidiária pelas suas quantias escrituradas à data em que perde o 
+controlo;
+b) Desreconhece a quantia escriturada de quaisquer interesses que não 
+controlam na ex -subsidiária à data em que perde o controlo (incluindo 
+quaisquer componentes que tenham sido reconhecidos diretamente em capital próprio atribuível aos mesmos);
+c) Reconhece:
+i) O justo valor da retribuição recebida, se for o caso, com a tran-
+sação, acontecimento ou circunstâncias que resultaram na perda de 
+controlo; eii) A distribuição de ações da subsidiária a proprietários na sua quali-
+dade de proprietários, se a transação que resultou na perda de controlo envolver essa distribuição;
+d) Reconhece qualquer investimento retido na ex -subsidiária pelo seu 
+justo valor à data em que perdeu o controlo;
+e) Reclassifica como resultados, ou transfere diretamente para resul-
+tados transitados, se exigido de acordo com outras NCRF, as quantias identificadas no parágrafo 29; e
+f) Reconhece qualquer diferença resultante como ganho ou perda nos 
+resultados atribuíveis à empresa -mãe.
+29 — Se uma empresa -mãe perder o controlo de uma subsidiária, a 
+empresa -mãe deve contabilizar todas as quantias reconhecidas direta-
+mente em capital próprio em relação com essa subsidiária na mesma base em que seria exigido se essa empresa -mãe tivesse alienado dire-
+tamente os ativos ou passivos relacionados. Portanto, se um ganho ou 
+perda anteriormente reconhecido diretamente em capital próprio fosse 
+reclassificado como resultado do período na alienação dos ativos ou 
+passivos relacionados, a empresa -mãe reclassifica o ganho ou perda do capital próprio como resultado do período (como um ajustamento de 
+reclassificação) quando perder o controlo da subsidiária. Por exemplo, se 
+um excedente de revalorização anteriormente reconhecido diretamente 
+em capital próprio fosse transferido diretamente para os resultados tran-
+sitados na alienação do ativo, a empresa -mãe transfere o excedente de revalorização diretamente para os resultados transitados quando perder 
+o controlo da subsidiária.
+Data de eficácia
+30 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+31 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam 
+comparáveis.
+32 — Esta Norma substitui a NCRF — 15 Investimentos em 
+Subsidiárias e Consolidação, constante do Aviso n.º 15655/2009, publi-
+cado no Diário da República,  2.ª série, n.º 173, de 7 de setembro de 2009.
+(1) Se, no momento da aquisição, uma subsidiária satisfizer os cri-
+térios para ser classificada como unidade operacional descontinuada 
+(subsidiária adquirida exclusivamente com vista à revenda) ela deve ser 
+contabilizada em conformidade com a NCRF 8 Ativos Não Correntes 
+Detidos para Venda e Unidades Operacionais Descontinuadas

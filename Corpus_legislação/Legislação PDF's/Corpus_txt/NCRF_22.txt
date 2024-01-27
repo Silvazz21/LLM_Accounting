@@ -1,0 +1,210 @@
+Norma Contabilística e de Relato Financeiro 22
+Subsídios e Outros Apoios das Entidades Públicas
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro 
+é o de prescrever os procedimentos que uma entidade deve aplicar na 
+contabilização de subsídios e de outros apoios das entidades públicas.
+Âmbito
+2 — Esta Norma deve ser aplicada na contabilização de subsídios e 
+de outras formas de apoio das entidades públicas.
+3 — Esta Norma não trata:
+a) Os problemas especiais que surgem da contabilização dos subsí-
+dios das entidades públicas em demonstrações financeiras que reflitam os efeitos das alterações de preços ou na informação suplementar de natureza semelhante;
+b) O apoio das entidades públicas que seja proporcionado a uma 
+entidade na forma de benefícios que ficam disponíveis ao determi-nar o resultado tributável ou que sejam determinados ou limitados na 
+base de passivos por impostos sobre o rendimento (tais como isenções 
+temporárias do imposto sobre o rendimento, créditos de impostos por investimentos, permissão de depreciações aceleradas e taxas reduzidas 
+de impostos sobre o rendimento);
+c) A participação das entidades públicas na propriedade (capital) da 
+entidade; e
+d) Os subsídios das entidades públicas cobertos pela NCRF 17 — 
+Agricultura.
+Definições
+4 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Apoio das entidades públicas: é a ação concebida pelas entidades 
+públicas para proporcionar benefícios económicos específicos a uma 
+entidade ou a uma categoria de entidades que a eles se propõem se-
+gundo certos critérios. O apoio das entidades públicas, para os fins desta 
+Norma, não inclui os benefícios, única e indiretamente, proporcionados 
+através de ações que afetem as condições comerciais gerais, tais como 
+o fornecimento de infraestruturas em áreas de desenvolvimento ou a 
+imposição de restrições comerciais sobre concorrentes.
+Entidades públicas: refere -se às diferentes entidades públicas e a 
+organismos semelhantes sejam eles locais, nacionais ou internacionais.
+Justo valor: é a quantia pela qual um ativo pode ser trocado ou um 
+passivo liquidado, entre partes conhecedoras e dispostas a isso, numa transação em que não exista relacionamento entre elas.
+Subsídios das entidades públicas: são auxílios das entidades públicas 
+na forma de transferência de recursos para uma entidade em troca do 
+cumprimento passado ou futuro de certas condições relacionadas com 
+as atividades operacionais da entidade. Excluem as formas de apoio 
+das entidades públicas às quais não possa razoavelmente ser -lhes dado 
+um valor e transações com as entidades públicas que não se possam 
+distinguir das transações comerciais normais da entidade.
+Subsídios não reembolsáveis: são apoios das entidades públicas em 
+que existe um acordo individualizado da sua concessão a favor da 
+entidade, se tenham cumprido as condições estabelecidas para a sua 
+concessão e não existam dúvidas de que os subsídios serão recebidos.
+Subsídios relacionados com ativos: são subsídios das entidades pú-
+blicas cuja condição primordial é a de que a entidade que a eles se 
+propõe deve comprar, construir ou por qualquer forma adquirir ativos 
+a longo prazo. Podem também estar ligadas a condições subsidiárias 
+restringindo o tipo ou a localização dos ativos ou dos períodos durante 
+os quais devem ser adquiridos ou detidos.
+Subsídios relacionados com rendimentos: são subsídios das entidades 
+públicas que não sejam os que estão relacionados com ativos.
+5 — O apoio das entidades públicas assume muitas formas variando 
+quer na natureza da assistência dada, quer nas condições que estão ge-
+ralmente ligadas a ele. O propósito dos apoios pode ser o de encorajar 
+uma entidade a seguir um certo rumo que normalmente não teria tomado 
+se o apoio não fosse proporcionado.
+6 — A aceitação de apoio das entidades públicas por uma entidade 
+pode ser significativa para a preparação das demonstrações financeiras 
+por duas razões. Primeira, porque se os recursos tiverem sido transferi-
+dos, deve ser encontrado um método apropriado de contabilização para a 
+transferência. Segunda, porque é desejável dar uma indicação da extensão 
+pela qual a entidade beneficiou de tal apoio durante o período de relato. 
+Isto facilita as comparações das demonstrações financeiras da entidade 
+com as de períodos anteriores e com as de outras entidades.
+7 — Os subsídios das entidades públicas são algumas vezes deno-
+minados por outros nomes, como por exemplo, dotações, subvenções 
+ou prémios.
+Subsídios das entidades públicas
+8 — Os subsídios das entidades públicas, incluindo subsídios não 
+monetários pelo justo valor, só devem ser reconhecidos após existir 
+segurança de que:
+a) A entidade cumprirá as condições a eles associadas; e
+b) Os subsídios serão recebidos.
+9 — Um subsídio das entidades públicas não é reconhecido, até que 
+haja segurança razoável de que a entidade cumprirá as condições a ele associadas, e que o subsídio será recebido. O recebimento de um subsí-dio não proporciona, ele próprio, prova conclusiva de que as condições associadas ao subsídio tenham sido ou serão cumpridas.
+10 — A maneira pela qual um subsídio é recebido não afeta o método 
+contabilístico a ser adotado com respeito ao subsídio. Por conseguinte, um subsídio é contabilizado da mesma maneira quer ele seja recebido em dinheiro quer como redução de um passivo para com uma entidade pública.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20817
+11 — Uma vez que o subsídio das entidades públicas seja reconhe-
+cido, qualquer contingência relacionada será tratada de acordo com a 
+NCRF 21 — Provisões, Passivos Contingentes e Ativos Contingentes.
+12 — Os subsídios das entidades públicas não reembolsáveis relacio-
+nados com ativos fixos tangíveis e intangíveis devem ser inicialmente 
+reconhecidos nos Capitais Próprios e, subsequentemente:
+a) Quanto aos que respeitam a ativos fixos tangíveis depreciáveis 
+e intangíveis amortizáveis, imputados numa base sistemática como 
+rendimentos durante os períodos necessários para balanceá -los com os 
+gastos relacionados que se pretende que eles compensem;
+b) Quanto aos que respeitem a ativos fixos tangíveis não depreciá-
+veis, mantidos nos Capitais Próprios, exceto se a respetiva quantia for necessária para compensar qualquer perda por imparidade.
+13 — Os subsídios das entidades públicas reembolsáveis são conta-
+bilizados como passivos. No caso de estes subsídios adquirirem a con-
+dição de não reembolsáveis, deverão passar a ter o tratamento referido no parágrafo 12.
+14 — É fundamental que os subsídios das entidades públicas sejam 
+reconhecidos na demonstração dos resultados numa base sistemática e 
+racional durante os períodos contabilísticos necessários para balanceá-
+-los com os gastos relacionados. O reconhecimento nos rendimentos 
+dos subsídios das entidades públicas na base de recebimentos não está 
+de acordo com o pressuposto do acréscimo e tal só será aceitável se não 
+existir outra base para imputar os subsídios.
+15 — Na maior parte dos casos, os períodos durante os quais uma 
+entidade reconhece os gastos relacionados com um subsídio das entidades 
+públicas são prontamente determináveis e, por conseguinte, os subsídios 
+associados ao reconhecimento de gastos específicos são reconhecidos 
+como rendimento no mesmo período do gasto relacionado. Semelhante-
+mente, os subsídios relacionados com ativos depreciáveis são geralmente 
+reconhecidos como rendimento durante os períodos e na proporção em que a depreciação desses ativos é reconhecida.
+16 — Os subsídios relacionados com ativos não depreciáveis podem 
+também requerer o cumprimento de certas obrigações e serão então 
+reconhecidos como rendimento durante os períodos que suportam o 
+custo de satisfazer as obrigações. Como exemplo, temos que um subsídio 
+atribuído pela transferência de um terreno pode ser condicionado pela 
+construção de um edifício no local, podendo ser apropriado reconhecê -lo 
+como rendimento durante a vida útil do edifício.
+17 — Os subsídios são algumas vezes recebidos como um pacote de 
+ajudas financeiras ou fiscais a que estão associadas um certo número 
+de condições. Em tais casos, é necessário cuidado na identificação das 
+condições que dão origem aos gastos que determinam os períodos durante 
+os quais o subsídio será obtido. Pode ser apropriado imputar parte de um 
+subsídio numa determinada base e a outra parte numa base diferente.
+18 — Um subsídio das entidades públicas que se torne recebível como 
+compensação por gastos já incorridos ou para dar suporte financeiro 
+imediato à entidade sem qualquer futuro gasto relacionado deve ser 
+reconhecido como rendimento do período em que se tornar recebível.
+19 — Em algumas circunstâncias, um subsídio das entidades pú-
+blicas pode ser concedido para dar suporte financeiro imediato a uma entidade e não como um incentivo para levar a cabo dispêndios espe-
+cíficos. Tais subsídios podem ser limitados a uma entidade individual 
+e podem não estar disponíveis para toda uma classe de beneficiários. Estas circunstâncias podem garantir o reconhecimento de um subsídio 
+como rendimento no período em que a entidade se qualificar para o 
+receber, com a divulgação necessária para assegurar que o seu efeito seja claramente compreendido.
+20 — Um subsídio das entidades públicas pode tornar -se recebível 
+por uma entidade como compensação por gastos incorridos num período 
+anterior. Um tal subsídio é reconhecido como rendimento do período em que se tornar recebível, com a divulgação necessária para assegurar que o seu efeito seja claramente compreendido.
+21 — O benefício de um empréstimo de uma entidade pública com 
+uma taxa de juro inferior à do mercado é tratado como um subsídio 
+de entidade pública. O empréstimo deve ser reconhecido e aferido em 
+conformidade com a NCRF 27 — Instrumentos Financeiros. O benefí-cio da taxa de juro inferior à do mercado deve ser determinado como a 
+diferença entre a quantia escriturada inicial do empréstimo determinada 
+em conformidade com a NCRF 27 e a quantia recebida. O benefício é contabilizado em conformidade com a presente Norma. A entidade 
+deve ter em conta as condições e obrigações que foram, ou devem ser, 
+satisfeitas ao identificar os gastos que o benefício do empréstimo visa compensar.
+Subsídios das entidades públicas não monetários
+22 — Um subsídio das entidades públicas pode tomar a forma de 
+transferência de um ativo não monetário, tal como terrenos ou outros recursos, para uso da entidade. Nestas circunstâncias é usual avaliar o 
+justo valor do ativo não monetário e contabilizar quer o subsídio quer 
+o ativo por esse justo valor. Caso este não possa ser determinado com 
+fiabilidade, tanto o ativo como o subsídio serão de registar por uma 
+quantia nominal.
+Apresentação de subsídios relacionados com ativos
+23 — Os subsídios das entidades públicas não reembolsáveis relacio-
+nados com ativos fixos tangíveis e intangíveis, incluindo os subsídios 
+não monetários, devem ser apresentados no balanço como componente 
+do capital próprio, e imputados como rendimentos do período numa 
+base sistemática e racional durante a vida útil do ativo.
+24 — A compra de ativos e o recebimento dos subsídios relacionados 
+pode causar movimentos importantes no fluxo de caixa de uma entidade. 
+Por esta razão, e a fim de mostrar o investimento bruto em ativos, tais movimentos devem ser divulgados como itens separados na demons-
+tração de fluxos de caixa.
+Apresentação de subsídios relacionados com rendimentos
+25 — Os subsídios que são concedidos para assegurar uma rentabili-
+dade mínima ou compensar deficits  de exploração de um dado período 
+imputam -se como rendimentos desse período, salvo se se destinarem a financiar deficits  de exploração de períodos futuros, caso em que se 
+imputam aos referidos períodos. Estes subsídios devem ser apresentados 
+separadamente como tal na demonstração dos resultados.
+Reembolso de subsídios das entidades públicas
+26 — Um subsídio das entidades públicas que se torne reembolsável 
+deve ser contabilizado como uma revisão de uma estimativa contabilís-
+tica (ver NCRF 4 — Políticas Contabilísticas, Alterações nas Estimativas 
+Contabilísticas e Erros). O reembolso de um subsídio relacionado com 
+rendimentos ou relacionado com ativos deve ser aplicado em primeiro 
+lugar em contrapartida de qualquer crédito diferido não amortizado re-
+gistado com respeito ao subsídio. Na medida em que o reembolso exceda 
+tal crédito diferido, ou quando não exista crédito diferido, o reembolso deve ser reconhecido imediatamente como um gasto.
+Outros apoios das entidades públicas
+27 — Certas formas de apoio das entidades públicas que não possam 
+ter um valor razoavelmente atribuído são excluídas da definição de apoio 
+das entidades públicas dada no parágrafo 4, assim como as transações 
+com entidades públicas que não possam ser distinguidas das operações 
+comerciais normais da entidade.
+28 — São exemplos de apoio que não podem ter, de uma maneira 
+razoável, valor atribuído os conselhos técnicos e de comercialização 
+gratuitos e a concessão de garantias. Um exemplo de apoio que não pode 
+ser distinguido das operações comerciais normais da entidade é o da 
+política de aquisições das entidades públicas, as quais sejam responsáveis 
+por parte das vendas da entidade. A existência do benefício pode ser 
+indiscutível mas qualquer tentativa de segregar as atividades comerciais 
+das do apoio das entidades públicas pode muito bem ser arbitrária.
+29 — A relevância do benefício nos exemplos atrás descritos pode ser 
+tal que a divulgação da natureza, extensão e duração do apoio seja ne-
+cessária a fim de que as demonstrações financeiras não sejam enganosas.
+30 — Para efeitos da presente Norma, o apoio das entidades públicas 
+não inclui o fornecimento de infraestruturas através da melhoria da rede 
+de transportes e de comunicações gerais e o fornecimento de meios 
+mais adequados tais como irrigação ou rede de águas que fiquem dis-poníveis numa base contínua e indeterminada para o benefício de toda uma comunidade local.
+Data de eficácia
+31 — Uma entidade deve aplicar esta Norma para os períodos com 
+início em ou após 1 de janeiro de 2016.
+32 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam 
+comparáveis.
+33 — Esta Norma substitui a NCRF 22 — Contabilização dos Sub-
+sídios das entidades públicas e Divulgação de Apoios das entidades 
+públicas, constante do Aviso n.º 15655/2009, publicado no Diário da 
+República,  2.ª série, n.º 173, de 7 de setembro de 2009.

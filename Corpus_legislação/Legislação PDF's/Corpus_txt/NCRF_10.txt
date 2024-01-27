@@ -1,0 +1,194 @@
+Norma Contabilística e de Relato Financeiro 10
+Custos de Empréstimos Obtidos
+Objetivo
+1 — O objetivo desta Norma Contabilística e de Relato Financeiro é o 
+de prescrever o tratamento dos custos de empréstimos obtidos que sejam 
+diretamente atribuíveis à aquisição, construção ou produção de um ativo 
+que se qualifica. Esta Norma exige que estes custos sejam imediatamente 
+considerados como parte do custo do ativo que se qualifica. Outros custos 
+de empréstimos obtidos são reconhecidos como gasto.
+Âmbito
+2 — Esta Norma deve ser aplicada na contabilização dos custos de 
+empréstimos obtidos.
+3 — Esta Norma não trata do custo real ou imputado do capital pró-
+prio, incluindo o capital preferencial não classificado como passivo.
+4 — Uma entidade não tem a obrigação de aplicar a Norma a custos 
+de empréstimos obtidos que sejam diretamente atribuíveis à aquisição, construção ou produção de:
+a) Um ativo que se qualifica mensurado pelo justo valor, por exemplo, 
+um ativo biológico; ou
+b) Inventários que sejam fabricados, ou de outro modo produzidos, 
+em grandes quantidades de uma forma repetitiva.
+Definições
+5 — Os termos que se seguem são usados nesta Norma com os sig-
+nificados especificados:
+Ativo que se qualifica: é um ativo que leva necessariamente um pe-
+ríodo substancial de tempo para ficar pronto para o seu uso pretendido ou para venda.Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015  20779
+Custos de empréstimos obtidos: são os custos de juros e outros in-
+corridos por uma entidade relativos aos pedidos de empréstimos de 
+fundos.
+6 — Os custos de empréstimos obtidos incluem:
+a) Gastos com juros calculados com base na utilização do método do 
+juro efetivo, tal como descrito na NCRF 27 — Instrumentos Financeiros;
+b) Encargos financeiros relativos a locações financeiras reconhecidas 
+de acordo com a NCRF 9 — Locações; e
+c) Diferenças de câmbio provenientes de empréstimos obtidos em 
+moeda estrangeira até ao ponto em que sejam vistos como um ajusta-
+mento do custo dos juros.
+7 — Dependendo das circunstâncias, qualquer dos seguintes elemen-
+tos podem constituir ativos que se qualificam:
+a) Inventários;
+b) Instalações industriais;
+c) Instalações de geração de energia;
+d) Ativos intangíveis;
+e) Propriedades de investimento.
+Os ativos financeiros, e os inventários que sejam fabricados, ou de 
+outro modo produzidos, durante um curto período de tempo não são 
+ativos que se qualificam. Os ativos que estejam prontos para o seu uso 
+pretendido ou para a sua venda quando adquiridos não são ativos que 
+se qualificam.
+Reconhecimento
+8 — Uma entidade deve capitalizar os custos de empréstimos obtidos 
+que sejam diretamente atribuíveis à aquisição, construção ou produção 
+de um ativo que se qualifica como parte do custo desse ativo. Uma 
+entidade deve reconhecer outros custos de empréstimos obtidos como 
+um gasto no período em que sejam incorridos.
+9 — Os custos de empréstimos obtidos que sejam diretamente atribu-
+íveis à aquisição, construção ou produção de um ativo que se qualifica 
+são capitalizados como parte do custo desse ativo, na medida em que 
+seja provável que deles resultarão benefícios económicos futuros para 
+a entidade e tais custos possam ser fiavelmente mensurados.
+Custos de empréstimos obtidos elegíveis para capitalização
+10 — Os custos de empréstimos obtidos que sejam diretamente atri-
+buíveis à aquisição, construção ou produção de um ativo que se qualifica 
+são os custos de empréstimos obtidos que teriam sido evitados se o 
+dispêndio no ativo que se qualifica não tivesse sido feito. Quando uma 
+entidade contrai empréstimos especificamente com o fim de obter um 
+particular ativo que se qualifica, os custos dos empréstimos obtidos que 
+estejam relacionados diretamente com esse ativo que se qualifica podem 
+ser prontamente identificados.
+11 — Pode ser difícil identificar um relacionamento direto entre 
+certos empréstimos obtidos e um ativo que se qualifica e determinar os 
+empréstimos obtidos que poderiam de outra maneira ser evitados. Tal 
+dificuldade ocorre, por exemplo, quando a atividade financeira de uma 
+entidade seja centralmente coordenada. Também surgem dificuldades 
+quando um grupo usa uma variedade de instrumentos de dívida para pedir 
+fundos emprestados a taxas de juro variáveis e empresta esses fundos 
+em bases variadas a outras entidades no grupo. Outras complicações 
+surgem através do uso de empréstimos estabelecidos em ou ligados a 
+moedas estrangeiras, quando o grupo opera em economias altamente 
+inflacionárias, e de flutuações em taxas de câmbio. Como consequência, 
+a determinação da quantia dos custos de empréstimos obtidos que sejam 
+diretamente atribuíveis à aquisição de um ativo que se qualifica é difícil 
+sendo de exigir o exercício de bom senso.
+12 — Até ao ponto em que sejam pedidos fundos emprestados espe-
+cificamente com o fim de obter um ativo que se qualifica, a quantia dos 
+custos de empréstimos obtidos elegível para capitalização nesse ativo 
+deve ser determinada como os custos reais dos empréstimos obtidos 
+incorridos nesse empréstimo durante o período menos qualquer rendi-
+mento de investimento temporário desses empréstimos.
+13 — Os acordos de financiamento de um ativo que se qualifica podem 
+fazer com que uma entidade obtenha fundos pedidos de empréstimo e 
+incorra em custos de empréstimos associados antes de alguns ou todos os 
+fundos serem usados para dispêndios no ativo que se qualifica. Em tais circunstâncias, os fundos são muitas vezes temporariamente investidos 
+aguardando o seu dispêndio no ativo que se qualifica. Ao determinar a 
+quantia dos custos de empréstimos obtidos elegíveis para capitalização 
+durante um período, qualquer rendimento do investimento gerado de tais 
+fundos é deduzido dos custos incorridos nos empréstimos obtidos.14 — Na medida em que os fundos sejam pedidos de uma forma 
+geral e usados com o fim de obter um ativo que se qualifica, a quantia 
+de custos de empréstimos obtidos elegíveis para capitalização deve ser 
+determinada pela aplicação de uma taxa de capitalização aos dispêndios 
+respeitantes a esse ativo. A taxa de capitalização deve ser a média pon-derada dos custos de empréstimos obtidos aplicável aos empréstimos 
+contraídos pela entidade que estejam em circulação no período, que 
+não sejam empréstimos contraídos especificamente com o fim de obter um ativo que se qualifica. A quantia dos custos de empréstimos obtidos 
+capitalizados durante um período não deve exceder a quantia dos custos 
+de empréstimos obtidos incorridos durante o período.
+15 — Em algumas circunstâncias, é apropriado incluir todos os em-
+préstimos obtidos da empresa -mãe e das suas subsidiárias quando seja 
+calculada uma média ponderada dos custos dos empréstimos obtidos. 
+Noutras circunstâncias, é apropriado para cada subsidiária usar uma 
+média ponderada dos custos dos empréstimos obtidos aplicável aos seus 
+próprios empréstimos obtidos.
+Excesso da quantia escriturada do ativo que se qualifica
+sobre a quantia recuperável
+16 — Quando a quantia escriturada ou o custo final esperado do 
+ativo que se qualifica exceda a sua quantia recuperável ou o seu valor 
+realizável líquido, a quantia escriturada é reduzida ou anulada de acordo 
+com as exigências de outras Normas. Em certas circunstâncias, a quantia 
+da redução ou do abate é revertida de acordo com essas outras Normas.
+Início da capitalização
+17 — A capitalização dos custos de empréstimos obtidos como parte 
+do custo de um ativo que se qualifica deve começar quando:
+a) Os dispêndios com o ativo estejam a ser incorridos;
+b) Os custos de empréstimos obtidos estejam a ser incorridos; e
+c) As atividades que sejam necessárias para preparar o ativo para o 
+seu uso pretendido ou venda estejam em curso.
+18 — Os dispêndios de um ativo que se qualifica incluem somente os 
+dispêndios que tenham resultado em pagamentos de caixa, transferên-cia de outros ativos ou a assunção de passivos que incorram em juros. 
+Os dispêndios são reduzidos por quaisquer pagamentos progressivos 
+recebidos. A quantia escriturada média do ativo durante um período, 
+incluindo os custos de empréstimos obtidos previamente capitalizados 
+é normalmente uma aproximação razoável dos dispêndios aos quais a 
+taxa de capitalização é aplicada nesse período.
+19 — As atividades necessárias para preparar o ativo para o seu uso 
+pretendido ou para a sua venda englobam mais do que a construção física 
+do ativo. Elas englobam o trabalho técnico e administrativo anterior ao começo da construção física tais como as atividades associadas com a 
+obtenção de licenças antes do começo da construção física. Porém, tais atividades excluem a detenção de um ativo quando nenhuma produção 
+ou ação que altere a condição do ativo esteja a ter lugar. Por exemplo, os 
+custos de empréstimos obtidos incorridos enquanto um projeto esteja em 
+fase de desenvolvimento são capitalizados durante o período em que as 
+atividades relacionadas com o desenvolvimento estejam a decorrer. No 
+entanto, os custos de empréstimos obtidos incorridos enquanto terrenos 
+adquiridos para fins de construção sejam detidos sem qualquer atividade 
+associada de desenvolvimento, não são elegíveis para capitalização.
+Suspensão da capitalização
+20 — A capitalização dos custos dos empréstimos obtidos deve ser 
+suspensa durante períodos extensos em que o desenvolvimento das 
+atividades a que se refere o parágrafo 17( c) seja interrompido.
+21 — Os custos de empréstimos obtidos podem ser incorridos durante 
+um período extenso em que sejam interrompidas as atividades necessárias 
+para preparar um ativo para o seu uso pretendido ou para a sua venda. 
+Tais custos são custos de detenção de ativos parcialmente concluídos e 
+não são elegíveis para capitalização. Porém, a capitalização dos custos 
+de empréstimos obtidos não é normalmente suspensa durante um período 
+quando esteja sendo levado a efeito trabalho técnico e administrativo 
+substancial. A capitalização dos custos de empréstimos obtidos também 
+não é suspensa quando uma demora temporária seja uma parte necessária 
+do processo de tornar um ativo pronto para o seu uso pretendido ou para 
+a sua venda. Por exemplo, a capitalização continua durante o período 
+necessário alargado para que alguns inventários atinjam a maturação ou 
+o período alargado durante o qual os níveis altos das águas atrasam a 
+construção de uma ponte, se tais níveis de água altos são usuais durante 
+o período da construção na região geográfica envolvida.20780 Diário da República, 2.ª série — N.º 146 — 29 de julho de 2015 
+Cessação da capitalização
+22 — A capitalização dos custos dos empréstimos obtidos deve cessar 
+quando substancialmente todas as atividades necessárias para preparar 
+o ativo elegível para o seu uso pretendido ou para a sua venda estejam concluídas.
+23 — Um ativo está normalmente pronto para o seu uso pretendido ou 
+para a sua venda quando a construção física do ativo estiver concluída 
+mesmo se o trabalho administrativo de rotina puder ainda continuar. 
+Se modificações menores, tais como a decoração de uma propriedade conforme as especificações do comprador ou do utente, sejam tudo o que está por completar, isto indica que todas as atividades estão subs-
+tancialmente concluídas.
+24 — Quando a construção de um ativo que se qualifica for concluída 
+por partes e cada parte estiver em condições de ser usada enquanto a 
+construção continua noutras partes, a capitalização dos custos de em-préstimos obtidos deve cessar quando todas as atividades necessárias 
+para preparar essa parte para o seu pretendido uso ou venda estejam 
+concluídas.
+25 — Um parque empresarial compreendendo vários edifícios em que 
+cada um deles pode ser usado individualmente é um exemplo de um ativo 
+que se qualifica relativamente ao qual cada parte está em condições de 
+ser usada embora a construção continue noutras partes. Um exemplo de 
+um ativo que se qualifica que necessita de estar concluído antes de que 
+cada parte possa ser usada é uma instalação industrial que envolve vários 
+processos que sejam executados em sequência em diferentes partes da 
+fábrica dentro do mesmo local, tal como uma laminagem de aço.
+Data de eficácia
+26 — Uma entidade deve aplicar esta Norma a partir do primeiro 
+período que se inicie em ou após 1 de janeiro de 2016.
+27 — No período que se inicie em ou após 1 de janeiro de 2016, 
+aquando da utilização desta Norma, as entidades deverão proceder 
+à aplicação prospetiva a que se referem os parágrafos 22 e 24 da 
+NCRF 4 — Políticas Contabilísticas — Alterações nas Estimativas 
+Contabilísticas e Erros, e divulgar no Anexo as quantias que não sejam comparáveis.
+28 — Esta Norma substitui a NCRF 10 — Custos de Empréstimos 
+Obtidos, constante do Aviso n.º 15655/2009, publicado no Diário da 
+República, 2.ª série, n.º 173, de 7 de setembro de 2009.
